@@ -1,0 +1,1271 @@
+[
+    [
+        {
+            "Ateco": "02.00.00",
+            "Azienda": "3V SIGMA SPA",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.00.00",
+            "Azienda": "ROHM AND HAAS ITALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.00.00",
+            "Azienda": "GCP ITALIANA S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.00.00",
+            "Azienda": "CEEVER SRL",
+            "Città": "Settala",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.00.00",
+            "Azienda": "HERAEUS SPA",
+            "Città": "Cavenago di Brianza",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "MONTANA VALLE DEL SENIO SOCIETA' COOPERATIVA",
+            "Città": "Casola Valsenio",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "AGRICOLA MORELLI SOCIETA' COOPERATIVA AGRICOLA IN L.C.A",
+            "Città": "Lucca",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "MONTAGNA VERDE - SOCIETA' COOPERATIVA AGRICOLA A RESPONSABIL",
+            "Città": "Licciana Nardi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "NEW SERVICE S.R.L. - CON UNICO SOCIO",
+            "Città": "Colle di Val d'Elsa",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "A.L.F.A. SERVIZI S.R.L.",
+            "Città": "Gualdo Cattaneo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "02.00.00",
+            "Azienda": "BIOSINT - SOCIETA' PER AZIONI",
+            "Città": "Pomezia",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "C \u0026 C COSTRUZIONI S.R.L.",
+            "Città": "Sant'Angelo dei Lombardi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "MORELLO S.R.L.",
+            "Città": "Caprarica di Lecce",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "S.T.C. SAFONTE TRASPORTI S.R.L.",
+            "Città": "",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "02.00.00",
+            "Azienda": "DITTA ORAZIO GUGLIANDOLO DI ORAZIO GUGLIANDOLO \u0026 C SRL",
+            "Città": "Messina",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "02.00.00",
+            "Azienda": "REASOL S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "ALUFFI SRL",
+            "Città": "Pocenia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "TODESCO FOREST \u0026 SNOW SERVICE S.R.L. IN BREVE TODESCO FOREST",
+            "Città": "Pedavena",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "'I PINI SOCIETA' COOPERTATIVA AGRICOLA' ABBR. IN 'I PINI SOC",
+            "Città": "Ponsacco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "RINNOVA ENERGIA SOCIETA' AGRICOLA A R.L.",
+            "Città": "Sospiro",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "LES MAGICIENS DU BOIS S.R.L.",
+            "Città": "Brusson",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Aosta"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SARDEGNA VERDE S.R.L.",
+            "Città": "Allai",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "SOCIETA' COOPERATIVA '9 MAGGIO' A.R.L.",
+            "Città": "Narbolia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "GRUPPO MACES COSTRUZIONI GENERALI - S.R.L.",
+            "Città": "Curinga",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "CO.L.A.FOR - CONSORZIO LAVORI AGRO-FORESTALI - SOCIETA' AGRI",
+            "Città": "Villalago",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "L'Aquila"
+        }
+    ],
+    [
+        {
+            "Ateco": "02.30.00",
+            "Azienda": "LAVRA SUGHERI S.R.L.",
+            "Città": "Olbia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "CONSORZIO FORESTALE ALTA VALTELLINA",
+            "Città": "Bormio",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "CENTRAL SUGHERO SRL",
+            "Città": "Nuoro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "G.E.A. TRATTAMENTI ENDOTERAPICI S.R.L.",
+            "Città": "Sona",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "AMBIENTE \u0026 TERRITORIO SOC.COOP.",
+            "Città": "Osimo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "MAF ECOLOGIA SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "STUDIO VERDE S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "WP TRENTO SRL",
+            "Città": "Trento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "ENDOFRUIT SRL",
+            "Città": "Bussolengo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "C.O.F.A.P. SOC.COOP.A R.L.",
+            "Città": "Langhirano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "GREEN LEAF S.R.L. SOCIETA' AGRICOLA",
+            "Città": "Pagani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "JOB SERVICES - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "NASSETA SERVIZI COOPERATIVI SOC.COOP.AGRICOLA",
+            "Città": "Ventasso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "XILOIMPRESE SRLS",
+            "Città": "Vicenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "SEDICIALBERI S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "SOCIETA' COOPERATIVA GREEN CONSULTING",
+            "Città": "Veroli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "ELBALAND FONTE MURATA S.R.L.",
+            "Città": "Portoferraio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "02.40.00",
+            "Azienda": "AZIENDA AGRICOLA DEL LAPO SRL",
+            "Città": "Ispra",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "SORGENIA BIOMASSE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "GREEN TECH S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "FOREST AGRI DAL BOSCO SRL",
+            "Città": "Ledro",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "CASILEGNAMI SRL",
+            "Città": "Offanengo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "GURNDIN LOGGING EXTREME S.R.L.",
+            "Città": "Cavalese",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "CORADAI S.R.L.",
+            "Città": "Valdaone",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "GAMMA LEGNAMI S.R.L.",
+            "Città": "Offanengo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Cremona"
+        }
+    ],
+    [
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "HOLZ KLADE S.R.L.",
+            "Città": "Udine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "COOPERATIVA THUNDER A R.L.",
+            "Città": "Torino",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "SAVANT LEGNAMI SRL",
+            "Città": "Balangero",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "AGOSTINI SRL",
+            "Città": "Trento",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "CIGLIANI PRIMO S.R.L.",
+            "Città": "Paluzza",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "MANNO LEGNAMI SRL",
+            "Città": "Siena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "GI.FA. S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "SOCIETA' COOPERATIVA AGRICOLA FORESTALE MENAUS",
+            "Città": "Cercivento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "C.L. LEGNAMI SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICAT",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "BURTET PAOLO S.R.L.",
+            "Città": "Valdobbiadene",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "DANTA LEGNAMI E BIOMASSE SRL",
+            "Città": "Verzegnis",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "NALCA - SOCIETA' AGRICOLA - S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "SANTA CROCE LEGNAMI S.R.L.",
+            "Città": "Canistro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "FRATELLI BIANCHINI S.R.L.",
+            "Città": "Forcola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "COOPERATIVA WOODENERGY ITALIA SOC COOP",
+            "Città": "Foggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "LR BOSCHIVA S.R.L.S. UNIPERSONALE",
+            "Città": "Caronia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "COOP.VA AGR. FORESTALE PRATIGNANA",
+            "Città": "Fanano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "F.LLI PICCINI BIANCHESSI S.R.L.",
+            "Città": "Offanengo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "GENERALI LEGNAMI SRL",
+            "Città": "Grosseto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "EUROLEGNAMI CASIRANI S.R.L.",
+            "Città": "Offanengo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "MURELLI LEGNAMI S.R.L. UNIPERSONALE",
+            "Città": "Lodi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "FANTON BOSCHIVA SRL",
+            "Città": "Cavalese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "IMPRESA BOSCHIVA ZANIN VALENTINO S.R.L.",
+            "Città": "Capriana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "FASVALT S.R.L.",
+            "Città": "Sondalo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "LA TELEFERICA SOCIETA' COOPERATIVA A R.L.",
+            "Città": "Talamona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sondrio"
+        }
+    ],
+    [
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "LEGNAMI ROSSI SRL",
+            "Città": "Asiago",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "RALUCA DU BOIS SRLS A SOCIO UNICO",
+            "Città": "Quistello",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "BALDACCI ETTORE E FIGLIO SRL",
+            "Città": "Vinci",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "CONSORZIO BOSCHI CARNICI - AZIENDA SPECIALE CONSORZIALE",
+            "Città": "Tolmezzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "TRONCHETTO RESEARCH SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "LA VOLPE E IL MIRTILLO SOC.COOP.AGRICOLA DI COMUNITA'",
+            "Città": "Ormea",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "PANTI PAOLA SRLS",
+            "Città": "Monticiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "COL GENTILE WOOD \u0026 SERVICES S.R.L. SEMPLIFICATA",
+            "Città": "Socchieve",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "LEGNAMI E BIOMASSE CIGLIANI S.R.L.S.",
+            "Città": "Paluzza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "CALANNI E CIANCIO LEGNA S.R.L.",
+            "Città": "Maniace",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "TOSTI LEGNAMI SRL",
+            "Città": "Cittaducale",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rieti"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "SOCIETA' AGRICOLA STELLA ALPINA S.R.L.",
+            "Città": "Vercelli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vercelli"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "LA BOSCHIVA S.R.L.",
+            "Città": "Bagnoregio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "DA.PA SRL",
+            "Città": "Viterbo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "ENALT SOCIETA' AGRICOLA A R.L.",
+            "Città": "Cosenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "AGRICOLA FORESTALE FENIGLI SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "CARNEVALI BRUNO SRL",
+            "Città": "Grottaferrata",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "LIFE GREEN ENERGY S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "SINANI SRL",
+            "Città": "Piobbico",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "EUROSERVIZI DUEQUATTORDICI SRL",
+            "Città": "Ceprano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "EN.MG SOCIETA'AGRICOLA A RESPONSABILITA' LIMITATA",
+            "Città": "Latina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "MHILLI SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Arezzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "CONSORZIO ARTIGIANO IMPRESE BOSCHIVE DEL FRIULI VENEZIA GIUL",
+            "Città": "Tolmezzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "BIFUEL SRL",
+            "Città": "Todi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "NEW FARM LABS SOCIETA' AGRICOLA A RESPONSABILITA' LIMITATA S",
+            "Città": "Terni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Terni"
+        }
+    ],
+    [
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "G.V. IERACE SRL SOCIETA' AGRICOLA",
+            "Città": "Catanzaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "SAF SOCIETA' AGRICOLA E FORESTALE S.R.L.",
+            "Città": "Prato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "CONSORZIO PRODUTTORI BIOMASSE",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "02.20.00",
+            "Azienda": "SOCIETA' AGRICOLA IL MONTE S.S.",
+            "Città": "Monticiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "PROMETHEUS ENERGIA SRL",
+            "Città": "Rivoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SOCIETA' AGRICOLA MOMBRACCO ENERGY S.R.L.",
+            "Città": "Envie",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SANFELICE S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SIDER FOREST \u0026 LEGNAMI S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "ALPENWALD S.R.L.",
+            "Città": "Trento",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "COOPERATIVA LAVORATORI AGRICOLO - FORESTALI FORLIVESE AMBIEN",
+            "Città": "Galeata",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "LA FORESTA SOCIETA' COOPERATIVA",
+            "Città": "Susa",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "CAPPONI GIARDINI S.R.L. SOCIETA' AGRICOLA",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "COOPERATIVA AGRICOLA FORESTALE LA PINETA SOC.COOP.VA",
+            "Città": "Montese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SILVA SOC. COOP.",
+            "Città": "Giaveno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "AUDDINO MARCELLO S.R.L.",
+            "Città": "Polistena",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "D'AMICO MARIO \u0026 FIGLI SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "GLULAM SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "I BRIGANTI DI CERRETO SOCIETA' COOPERATIVA DI COMUNITA'",
+            "Città": "Ventasso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "CONSORZIO FORESTALE DEL TICINO",
+            "Città": "Cuggiono",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "WP BIOMASSE SRL",
+            "Città": "Agordo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SUN GARDEN S.R.L. SOCIETA' AGRICOLA",
+            "Città": "Correggio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SOCIETA' AGRICOLA VERDELANDIA S.R.L.",
+            "Città": "Casalromano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "AZIENDA AGRICOLA ECO SRL",
+            "Città": "Collegno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SU PEBIANU SOCIETA COOPERATIVE AGRICOLA FORESTALE A R.L.",
+            "Città": "Pattada",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "MIA LAND S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "FOREST SRL SOCIETA' AGRICOLA",
+            "Città": "Albosaggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "AGRINOVA SOCIETA' COOPERATIVA AGRICOLA",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SOCIETA' AGRICOLA FORESTALE SERAFINO DAMASCHI S.R.L.",
+            "Città": "Perugia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "MONTEFO SOCIETA' AGRICOLA S.R.L.",
+            "Città": "Pontremoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SANAI S.R.L. - SOCIETA' AGRICO LA",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "NUOR - SUBER SRLS",
+            "Città": "Montefiascone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "BIOPUGLIA SOCIETA' AGRICOLA S.R.L.",
+            "Città": "Lecce",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "3 EMME S.R.L.",
+            "Città": "Monfalcone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "QUATTROPIU' SRL SOCIETA' AGRICOLA",
+            "Città": "Vasanello",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "GASROM S.R.L. SOCIETA' AGRICOLA",
+            "Città": "Pederobba",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "CHIPSERVICE S.R.L.",
+            "Città": "Cassola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "ESAROLEGNAMI S.R.L.S.",
+            "Città": "Cosenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "LA MATRECINA SOC.COOP.A R.L.",
+            "Città": "Genga",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "NEMORA SOCIETA' COOPERATIVA AGRICOLA",
+            "Città": "Castelbuono",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SOCIETA' AGRICOLA SEIVA S.R.L.",
+            "Città": "Sarnico",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "COOP. VALLE SCURA PER LO SVIL. AGRO-SILVO-PASTORALE SCRL",
+            "Città": "Langhirano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SERVIZI AGRICOLI E BOSCHIVI SRL",
+            "Città": "Laterza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "ECO MAK SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Collazzone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "FLORA ALPI COOP - SOCIETA' COOPERATIVA A RESPONSABILITA' LIM",
+            "Città": "Clauzetto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "C.Z. SRL",
+            "Città": "Belgioioso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "GEREMY FOREST S.R.L. AGRICOLA",
+            "Città": "Verbania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "MASO SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SOCIETA' AGRICOLA BOSCOVIVO A R.L.",
+            "Città": "Valdilana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "ARBOVERDE SOCIETA' COOPERATIVA AGRICOLA FORESTALE A R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "PEDEMONTANA LEGNAMI SRL",
+            "Città": "Chiuppano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        }
+    ],
+    [
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SAF SERVIZI AGRO-FORESTALI",
+            "Città": "Livorno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "CAINO 13 SOCIETA' AGRICOLA S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "PADENTI SOCIETA' COOPERATIVA",
+            "Città": "Seulo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "LA GIUMMARA SOCIETA' COOPERATIVA ABBREVIATO LA GIUMMARA S.C.",
+            "Città": "Alcamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "PROJECT COMPANY SOC.COOPERATIVA",
+            "Città": "Alcamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "VERDE VIVO SOCIETA' AGRICOLA COOPERATIVA",
+            "Città": "Baunei",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "CONSORZIO COOP. SARDEGNA E NAT URA SOC. COOP. AGRICOLA",
+            "Città": "Morgongiori",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "EUROVERT S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "IL NOCCIOLO SOCIETA' AGRICOLA SRL",
+            "Città": "Alessandria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SOCIETA' AGRICOLA AMBIENTE INNOVAZIONE ENERGIA S.R.L.",
+            "Città": "Rovigo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "S.Q.H. S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "AZIENDA AGROFORESTALE COLLI DEL SOLE S.R.L.",
+            "Città": "Jesi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SOCIETA' AGRICOLA MEDIA VALLE SRL",
+            "Città": "Marliana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SOCIETA' AGRICOLA AGRIRENOVO S.R.L.",
+            "Città": "Mantova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SOCIETA' AGRICOLA FORESTALE AGRIFORTOR SRL",
+            "Città": "Norcia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SOCIETA' AGRICOLA LAMA SRL",
+            "Città": "Barga",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "LA BERGAMINA SOCIETA' AGRICOLA SRL",
+            "Città": "Novara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "LA ROSA SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMIT",
+            "Città": "Panni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SOCIETA' AGRICOLA TAGLIENTE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SOCIETA' AGRICOLA VALLATE VERDI A R.L.",
+            "Città": "Udine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "COMPAGNIA VERDE SOCIETA' COOPERATIVA SOCIALE AGRICOLA E FORE",
+            "Città": "Cossogno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "MONTEDOMINI SRL SOCIETA' AGRICOLA",
+            "Città": "Dicomano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "SOC.AGRO-FORESTALE POGGIO CONCEZIONE SOCIETA' AGRICOLA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "TADDI' COOPERATIVA SOCIALE AGRICOLA",
+            "Città": "Seui",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "CODRA MEDITERRANEA S.R.L.",
+            "Città": "Pignola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Potenza"
+        }
+    ],
+    [
+        {
+            "Ateco": "02.10.00",
+            "Azienda": "TREES FOR CHILDREN S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "02.30.00",
+            "Azienda": "SOCIETA' AGRICOLA RAFI SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Terni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "02.30.00",
+            "Azienda": "BASE LAVORO - SOCIETA' COOPERATIVA",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "02.30.00",
+            "Azienda": "DI EMME SRLS",
+            "Città": "Sora",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        }
+    ]
+]

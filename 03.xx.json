@@ -1,0 +1,2063 @@
+[
+    [
+        {
+            "Ateco": "03.12.00",
+            "Azienda": "COOPERATIVA PESCATORI E ACQUICULTORI DEL GOLFO DI SOLCIO",
+            "Città": "Lesa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "03.22.00",
+            "Azienda": "ORGANIZZAZIONE DI PRODUTTORI ASTRO - ASSOCIAZIONE TROTICOLTO",
+            "Città": "Lavis",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "CONSORZIO DELLE COOPERATIVE PESCATORI DEL POLESINE - ORGANIZ",
+            "Città": "Porto Tolle",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA PESCATORI DI PILA - ORGANIZZAZIONE DI PRODUTTORI",
+            "Città": "Porto Tolle",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA PILAMARE ORGANIZZAZIONE DI PRODUTTORI SOCIETA' C",
+            "Città": "Porto Tolle",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SOCIETA' COOPERATIVA ROSOLINA",
+            "Città": "Rosolina",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "03.22.00",
+            "Azienda": "PIT PRODUTTORI ITTICI TREVIGIANI SOCIETA' AGRICOLA CONSORTIL",
+            "Città": "Treviso",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "FARO SOCIETA'COOPERATIVA",
+            "Città": "Cavallino-Treporti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ORGANIZZAZIONE DI PRODUTTORI DELLA PESCA DI FASOLARI DELL'AL",
+            "Città": "Chioggia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "VONGOLA DOK SOCIETA' COOPERATIVA",
+            "Città": "Chioggia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SAN MARCO ASSOCIAZIONE PRODUTTORI PESCA SOC. COOPERATIVA",
+            "Città": "Chioggia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "MARE VIVO SOC. COOPERATIVA",
+            "Città": "Torre di Mosto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SAN PIETRO SCARL",
+            "Città": "Comacchio",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA ADRIATICA GORINO - SOC. COOP. A R.L.",
+            "Città": "Goro",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOP.VA CASA DEL PESCATORE SOC .C",
+            "Città": "Cesenatico",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOP.A.M. COOPERATIVA PRODUTTORI ACQUACULTORI MAREMMANI SOCI",
+            "Città": "Capalbio",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ITTIMA - SOCIETA' AGRICOLA ITTICA MAREMMANA A R.L. IN LIQUID",
+            "Città": "Orbetello",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA PESCATORI LA PESCHERECCIA - SOCIETA' COOPERATIVA",
+            "Città": "Orbetello",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ORBETELLO PESCA LAGUNARE SOCIETA' AGRICOLA A R.L.",
+            "Città": "Orbetello",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ACLI PESCA SOCIETA' COOPERATIVA",
+            "Città": "Campo nell'Elba",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA PESCATORI AZIMUT",
+            "Città": "Livorno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COSTA OVEST SOCIETA' COOPERATIVA",
+            "Città": "Livorno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "AGROITTICA TOSCANA SOCIETA' AGRICOLA S.R.L.",
+            "Città": "Piombino",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA PICCOLA PESCA 'F. BALDELLI' SCARL",
+            "Città": "Gabicce Mare",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "03.12.00",
+            "Azienda": "COOPERATIVA PESCATORI DEL TRASIMENO SOCIETA' COOPERATIVA",
+            "Città": "Magione",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Perugia"
+        }
+    ],
+    [
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "AZZURRA-SOC.COOP.VA RESP.LIM",
+            "Città": "Comacchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "S.MARIA SOCIETA' COOPERATIVA",
+            "Città": "Mesola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "GIACOBBE SOCIETA' COOPERATIVA DI LAVORO",
+            "Città": "Bacoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "ALTAMAREA",
+            "Città": "Cesenatico",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "BELLA VITA VILLAGE SOCIETA' AGRICOLA A RESPONSABILITA LIMITA",
+            "Città": "Genazzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "NUOVA LAUDAMAR S.R.L.",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "CLODIA MAIOR SOCIETA' COOPERATIVA",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "MARCOOP SOCIETA' COOPERATIVA IN SIGLA MARCOOP S.C.",
+            "Città": "Pesaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "MI.MAR.SOCIETA' COOPERATIVA A RESPONSABILITA' LIMITATA",
+            "Città": "Monfalcone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "LA FOCE SOCIETA' COOPERATIVA",
+            "Città": "Mesola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SOC. COOP. ELISEA A R.L.",
+            "Città": "Bacoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "EUROFISH MITILI SOCIETA' COOPERATIVA",
+            "Città": "Acerra",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "COOPERATIVA ITTICA DEL DELTA SOCIETA' COOPERATIVA",
+            "Città": "Rosolina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "PICCOLA SOCIEATA' COOPERATIVA LA MISENO MITILI ARL",
+            "Città": "Bacoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SILE SOCIETA' COOPERATIVA IN FORMA ABBREVIATA SILE S.C.",
+            "Città": "Cavallino-Treporti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SOCIETA' COOPERATIVA ACQUAVIVA",
+            "Città": "Comacchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "INFOTECH SRLS",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "MAIORCA SOCIETA' COOPERATIVA",
+            "Città": "Rosolina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "AQUATEC SOCIETA' AGRICOLA S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "MINABA FARM SOCIETA' COOPERATIVA A RESPONSABILITA' LIMITATA",
+            "Città": "Manfredonia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "G. \u0026 G. MITILI S.R.L. - SOCIETA' AGRICOLA",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "ADRIATICA OFF-SHORE S.R.L.",
+            "Città": "Giulianova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SA.MA. SOC.COOP. A RL",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "COOP. VENE DI BELLOCCHIO SOCIETA' COOPERATIVA",
+            "Città": "Comacchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "COOP. RENO SOCIETA' COOPERATIVA",
+            "Città": "Comacchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        }
+    ],
+    [
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SEA \u0026 FISCH - SOCIETA' COOPERATIVA",
+            "Città": "Manfredonia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SOCIETA' AGRICOLA SMART MUSSEL S.R.L.",
+            "Città": "Jesolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SOC.' COOP. DI PESCATORI LA CASTRENSE",
+            "Città": "Castro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SAN PIETRO SOCIETA' COOPERATIVA",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "VARANO ACQUACOLTURA SOCIETA' AGRICOLA S.R.L.",
+            "Città": "Ischitella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "AL.MAR. SOCIETA' COOPERATIVA",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SOC.COOP.S.ANNA A R L",
+            "Città": "Bacoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "AMICA - SOCIETA' COOPERATIVA",
+            "Città": "Comacchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "NOVA MITIL SRL",
+            "Città": "Martinsicuro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "EUROMITILI SOC COOPERATIVA",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "MITILGAETA SOCIETA' COOPERATIVA",
+            "Città": "Gaeta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "COOPERATIVA A RESPONSABILITA' LIMITATA LAGHETTO DELLA GELATA",
+            "Città": "Soriso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "STELLA MARINA SOCIETA' COOPERATIVA",
+            "Città": "Comacchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "VALLE CA' PASTA SOCIETA' AGRICOLA SRL",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "'CAPITAN NEMO SOCIETA' AGRICOLA S.R.L.'",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "03.22.00",
+            "Azienda": "ACIPENSER S.R.L., IN SIGLA APE S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "03.22.00",
+            "Azienda": "ITTICA FIUME S.R.L.",
+            "Città": "Zoppola",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "03.20.00",
+            "Azienda": "ITTICA LAGO FUSARO S.R.L.",
+            "Città": "Bacoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "03.20.00",
+            "Azienda": "SOCIETA' AGRICOLA COGHE SRL",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "03.22.00",
+            "Azienda": "BARILLI E BIAGI S.R.L.",
+            "Città": "Argelato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "03.20.00",
+            "Azienda": "DEGO MITILI SOC. COOP. A.R.L.",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "03.22.00",
+            "Azienda": "LA GERETTA SOCIETA' AGRICOLA A R.L.",
+            "Città": "Eupilio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "03.22.00",
+            "Azienda": "SOCIETA' AGRICOLA ONDA AZZURRA S.R.L.",
+            "Città": "Goito",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "03.22.00",
+            "Azienda": "AZIENDA VALLICOLA DEL LAGO DI PAOLA SRL",
+            "Città": "Sabaudia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "03.22.00",
+            "Azienda": "SOCIETA' AGRICOLA S.G. DISCUSCOLTURA SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "03.22.00",
+            "Azienda": "I GIARDINI DELL'ACQUA S.R.L. SOCIETA' AGRICOLA",
+            "Città": "Ventasso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "03.22.00",
+            "Azienda": "PISCICOLTURA VALSASSINESE - SOCIETA AGRICOLA S.R.L.",
+            "Città": "Como",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "03.22.00",
+            "Azienda": "SILVER LIVENZA SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "03.20.00",
+            "Azienda": "PONZA FISH S.R.L.",
+            "Città": "Gaeta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "03.20.00",
+            "Azienda": "P680 SOC.AGRICOLA A R.L.",
+            "Città": "Brembate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "03.22.00",
+            "Azienda": "MAGILA SRL SOCIETA' AGRICOLA",
+            "Città": "Biassono",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "03.22.00",
+            "Azienda": "SOCIETA' AGRICOLA VALLE CHIARA S.R.L.",
+            "Città": "Grado",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "03.22.00",
+            "Azienda": "LAGMAR - SOCIETA' COOPERATIVA A RESPONSABILITA' LIMITATA",
+            "Città": "Termoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "03.12.00",
+            "Azienda": "ARMATORI E PESCATORI SOCIETA' COOPERATIVA",
+            "Città": "Ortona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "03.12.00",
+            "Azienda": "COOP.VA PESCATORI MARTANA A RL",
+            "Città": "Marta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "03.12.00",
+            "Azienda": "ROMAGNA RELAX SRL",
+            "Città": "Pesaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "03.12.00",
+            "Azienda": "SOCIETA' COOPERATIVA PESCATORI RINASCENTE",
+            "Città": "Marta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "03.12.00",
+            "Azienda": "SOCIETA' COOPERATIVA PESCATORI DEL LAGO DI VARESE",
+            "Città": "Varese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "03.00.00",
+            "Azienda": "SOCIETA' COOPERATIV PESCATORI MARISOL",
+            "Città": "Capoterra",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "03.10.00",
+            "Azienda": "CONSORZIO DI GESTIONE E VALORIZZAZIONE DEI MOLLUSCHI BIVALVI",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.10.00",
+            "Azienda": "SOCIETA' COOPERATIVA LA TORRE",
+            "Città": "Terralba",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        }
+    ],
+    [
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ITALFISH SRL",
+            "Città": "Martinsicuro",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "DE.MO. PESCA DI PASQUALE DELLA MONICA \u0026 C. - S.A.S.",
+            "Città": "Cetara",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "PESCANOVELLA SOCIETA' DI ARMAMENTO SNC",
+            "Città": "Salerno",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "03.00.00",
+            "Azienda": "SOCIETA' COOPERATIVA TRA LAVORATORI DELLA PESCA",
+            "Città": "Mola di Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERMOLA SOCIETA' COOPERATIVA A RESPONSABILITA' LIMITATA",
+            "Città": "Mola di Bari",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SOCIETA' COOPERATIVA FRA PESCATORI 'PASQUALE CONENNA' A R.L.",
+            "Città": "Mola di Bari",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA PICCOLA PESCA MADONNA DELLA MADIA",
+            "Città": "Monopoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "URIA ORGANIZZAZIONE DI PRODUTTORI MARICOLTORI SOCIETA'COOPER",
+            "Città": "Cagnano Varano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "NUOVA MAR JONIO SOC. COOP",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "AZZURRA PESCA S.R.L. UNIPERSONALE",
+            "Città": "Gela",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "M.C.V.PESCA S.R.L.",
+            "Città": "Mazara del Vallo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA MEDITERRANEA PESCA - SOCIETA' COOPERATIVA",
+            "Città": "Trapani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA PESCATORI TORTOLI",
+            "Città": "",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "NUOVO CONSORZIO COOPERATIVE PONTIS - SOCIETA' COOPERATIVA",
+            "Città": "Cabras",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "03.12.00",
+            "Azienda": "COOPERATIVA PESCATORI E MOLLUSCHICOLTORI s.c.r.l.",
+            "Città": "Cabras",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA DI PESCA LA POSIDONIA SOCIETA' COOPERATIVA A RES",
+            "Città": "Castelsardo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "MARICOLTORI DI OLBIA SOCIETA' CONSORTILE A RESPONSABILITA' L!!S.C.A.R.L.",
+            "Città": "Olbia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "CONSORZIO PESCATORI GOLFO DELL'ASINARA SOC. COOP.",
+            "Città": "Porto Torres",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "LCA COOP FRA PESCATORI RAMPIN RANIERI SOC COOP",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "GHEZZO GIOVANNI DI GHEZZO MARCO \u0026 C. S.A.S",
+            "Città": "Venezia",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA TRA I LAVORATORI DELLA PICCOLA PESCA DI PELLESTR",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SOCIETA' COOPERATIVA SAN MARCO - PESCATORI DI BURANO",
+            "Città": "Venezia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "CARLOFORTE TONNARE SRL",
+            "Città": "Carloforte",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SOCIETA' AGRICOLA CIVITA ITTICA S.R.L.",
+            "Città": "Verona",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "AGATINO MARE S.R.L.",
+            "Città": "Siracusa",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Siracusa"
+        }
+    ],
+    [
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA PESCATORI CLODIENSE - ORGANIZZAZIONE TRA PRODUTT",
+            "Città": "Chioggia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.22.00",
+            "Azienda": "CONSORZIO DI TUTELA DELLE TROTE DEL TRENTINO I.G.P.",
+            "Città": "Lavis",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "RIVA MARE SOCIETA' COOPERATIVA",
+            "Città": "Padova",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "''ORGANIZZAZIONE DI PRODUTTORI VONGOLE COSTA DEL TERAMANO SO",
+            "Città": "Martinsicuro",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "RUTA PESCA S.R.L.S.",
+            "Città": "Vittoria",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ASSOCIAZIONE PRODUTTORI TONNIERI DEL TIRRENO SOCIETA' COOPER",
+            "Città": "Salerno",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ALEMAX GT S.R.L.",
+            "Città": "Cabras",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "PESCATORI DEL TIRSO SOCIETA COOPERATIVA A.R.L.",
+            "Città": "Cabras",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SOCIETA' COOPERATIVA PESCATORI SANT'ANDREA",
+            "Città": "Arborea",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SOCIETA' COOPERATIVA PESCATORI NETTUNO",
+            "Città": "Bosa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "GORO \u0026 BOSCO SOCIETA'COOPERATIVA",
+            "Città": "Mesola",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "TECNOPESCA - SOCIETA' COOPERATIVA",
+            "Città": "Comacchio",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "REAMAR SOC. COOP. A R. L.",
+            "Città": "Mesola",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "PAPILLON SOCIETA' COOPERATIVA",
+            "Città": "Comacchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "TONNARE SULCITANE S.R.L.",
+            "Città": "Portoscuso",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "I DUE FRATELLI SOCIETA' COOPERATIVA",
+            "Città": "Sant'Antioco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ORGANIZZAZIONE PRODUTTORI PESCA STELLA MARIS SOC. COOP",
+            "Città": "Taranto",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "BRITALIA SOCIETA' COOPERATIVA",
+            "Città": "Taranto",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "F.LLI D'ANDRIA - SOCIETA' COOPERATIVA",
+            "Città": "Taranto",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "03.20.00",
+            "Azienda": "ITTICA CALDOLI SOCIETA' AGRICOLA A RESPONSABILITA' LIMITATA",
+            "Città": "Lesina",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "ACQUACOLTURA PALMA D'ORO SRL",
+            "Città": "Stintino",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SOCIETA' COOPERATIVA PESCATORI IMPERIA",
+            "Città": "Imperia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "CONSORZIO DELTA NORD SOC.COOP.",
+            "Città": "Rosolina",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SOCIETA' AGRICOLA COOPERATIVA ONDEMAR",
+            "Città": "Rosolina",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ALBARELLA SOCIETA' COOPERATIVA",
+            "Città": "Rosolina",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Rovigo"
+        }
+    ],
+    [
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "COOPERATIVA PESCATORI LEVANTE S.C. A R.L.",
+            "Città": "Rosolina",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SOCIETA' COOPERATIVA SAN DOMENICO A R.L.",
+            "Città": "Crotone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Crotone"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "PESCATORI BELLAVISTA SOCIETA' COOPERATIVA",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "CALA GOLORITZE' - SOCIETA' COOPERATIVA",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "PICCOLA E MEDIA PESCA LA ROMAGNOLA SOC.COOP.",
+            "Città": "Ravenna",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "BARI PESCA S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ZENNARO CORRADO SRL",
+            "Città": "Chioggia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SOCIETA' COOPERATIVA ARMATORI JONICA",
+            "Città": "Gallipoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA PESCATORI BOCCADASSE - SOCIETA' COOPERATIVA A MU",
+            "Città": "Genova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "FINMARE S.R.L.",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "C.P.N. COMMERCIO PESCA NOVELLAME S.R.L.",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ADRIAFISH S.R.L.",
+            "Città": "Salerno",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ADRIATIC FISHERY SOCIETA' COOPERATIVA",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "NUOVO CONISUB SOC. COOP. CONS. A R.L.",
+            "Città": "Ravenna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "F.A.O. 37.1 SOCIETA' COOPERATIVA DI PESCATORI",
+            "Città": "Livorno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SPINADIN PESCA SOCIETA' COOPERATIVA",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SAGITTARIO S.R.L.",
+            "Città": "Marsala",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "'JONIO PESCA SOCIETA' COOPERATIVA'",
+            "Città": "Siracusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "VENERE SOCIETA' COOPERATIVA",
+            "Città": "Piombino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "MAREBLU' S.R.L.",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "DI TOLLO PESCA SRL",
+            "Città": "Vasto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "G.\u0026C. SRL",
+            "Città": "Licata",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "V.P.C. S.R.L.",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "LEMBO PESCA SOCIETA' COOPERATIVA",
+            "Città": "Agropoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "GENOPESCA SRL",
+            "Città": "Marsala",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        }
+    ],
+    [
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "CO.L.M.I.SECONDA - SOCIETA' COOPERATIVA AGRICOLA",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "FARAGLIONI SOCIETA' COOPERATIVA",
+            "Città": "Selargius",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SCIABICA SOCIETA' COOPERATIVA",
+            "Città": "Rosolina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "PAPETTI PESCA S.R.L.",
+            "Città": "Grottammare",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "NAVAL PESCA SRL",
+            "Città": "Martinsicuro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "MADREMAR S.R.L.",
+            "Città": "Termoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "IL VESUVIO SOCIETA' COOPERATIVA",
+            "Città": "Civitavecchia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ABRUZZO PESCA SRL",
+            "Città": "Vasto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SOCIETA' COOPERATIVA GIOVANI CAPITANI",
+            "Città": "Vittoria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "MOLO SANITA' SOCIETA' COOPERATIVA",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA PESCATORI SAN GIUSEPPE A R.L.",
+            "Città": "Teulada",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ALBA CHIARA SOCIETA' COOPERATIVA",
+            "Città": "Siracusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "NICESOLO SOCIETA' COOPERATIVA",
+            "Città": "Caorle",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "PANAREA CHARTER LINE SOC.COOP.",
+            "Città": "Milazzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "PESCATORI PORTOFINO - SOCIETA' COOPERATIVA A R.L. - S.C.R.L.",
+            "Città": "Portofino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "NEW INTERNATIONAL FISH SRL UNIPERSONALE",
+            "Città": "Acireale",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "GROWING S.A.S. DI GIANNI MATTEO E C.",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "LA PESCHERECCIA SOCIETA' COOPERATIVA",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "LEONARDO PESCA SRL",
+            "Città": "Comacchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "GABBIANO AZZURRO SOCIETA' A RESPONSABILITA' LIMITATA O IN FO",
+            "Città": "Petrosino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ROMANO \u0026 CAMPLONE PESCA S.R.L.",
+            "Città": "Pescara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA ITTITURISMO SAN MICHELE S.C.",
+            "Città": "Rapallo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "L'ARAGOSTA ROSSA SOCIETA' COOPERATIVA",
+            "Città": "Calasetta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "PESCATORI MARINA SOCIETA' COOPERATIVA",
+            "Città": "Patti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "MARE D'OGLIASTRA SOCIETA' COOPERATIVA",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        }
+    ],
+    [
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "MARE PESCA SRL",
+            "Città": "Fossacesia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "LA TRAMONTANA- SOC. COOP",
+            "Città": "Trapani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "MARIASTELLA SRLS",
+            "Città": "Termoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SOCIETA COOPERATIVA CALA BIANCA",
+            "Città": "Camerota",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "MARIA GIADA SOCIETA' COOPERATIVA",
+            "Città": "Sant'Antioco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "CONSORZIO PER LA GESTIONE DELLA PESCA DEI MOLLUSCHI BIVALVI",
+            "Città": "Caorle",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "GLAUCOPESCA SOCIETA' COOPERATIVA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "POLINI MARE SRL",
+            "Città": "Cesenatico",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SOCIETA'' ARMATORIALE GAETANO FERLITO SRL",
+            "Città": "Acireale",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "GIMA S.R.L.",
+            "Città": "Fermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Fermo"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SOCIETA' COOPERATIVA SAN FRANCESCO",
+            "Città": "Guglionesi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "MITILPESCA SRL",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "RINASCITA PESCATORI RESORT - SOCIETA' COOPERATIVA",
+            "Città": "Teulada",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "MEDITERRANEA JONICA SOCIET? COOPERATIVA",
+            "Città": "Acireale",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "MUJA SOCIETA' COOPERATIVA",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "IL PESCE PAZZO SOCIETA' COOPERATIVA",
+            "Città": "Varazze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ZEUS PESCA SOCIETA' COOPERATIVA",
+            "Città": "Patti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "MINERVA S.R.L.",
+            "Città": "Rosolina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA SANTA GILLA ESCHE A R.L.",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "LA LAMPARA SOC. COOP.",
+            "Città": "Teulada",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "LA CONCHIGLIA SOCIETA' COOPERATIVA",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "FRUTTI DI MARE SOC.COOPERATIVA",
+            "Città": "Comacchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "PESCATORI COSTA VERDE SOCIETA' COOPERATIVA",
+            "Città": "Arbus",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SOCIETA' COOPERATIVA PER L'INDUSTRIA DELLA PESCA 'GIOVANNI P",
+            "Città": "Scilla",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "OSTRICALASETTA S.R.L.",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        }
+    ],
+    [
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "TORNOLA MITILI SOCIETA' COOPERATIVA",
+            "Città": "Termoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "F.LLI DELLA COSTA PICC.SOC.COOP. A RESP.LIMITATA",
+            "Città": "Bordighera",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA PESCATORI AMICI TRIESTE SOCIETA'COOPERATIVA",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA MARE SOCIETA' COOPERATIVA",
+            "Città": "Albenga",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "LA BECCACCIA SOCIETA' COOPERATIVA",
+            "Città": "Termoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SA MURA SOCIETA' COOPERATIVA",
+            "Città": "Decimomannu",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "PESCATORI L'AMMIRAGLIO - SOCIETA' COOPERATIVA",
+            "Città": "Terralba",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SAMPEY - MARE BLU SOC. COOPERATIVA",
+            "Città": "Villasimius",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SOLARO PESCA SOCIETA' COOPERATIVA",
+            "Città": "Savona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SIMONA S.R.L.",
+            "Città": "Trapani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "LA PERLA NERA SOCIETA' COOPERATIVA",
+            "Città": "Cabras",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "LA BUSSOLA DEL SALENTO SOCIETA' COOPERATIVA PESCATORI",
+            "Città": "Lecce",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "COOPERATIVA PESCATORI GIULIANI S.C.R.L.",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "NETTUNO SOCIETA' COOPERATIVA",
+            "Città": "Caronia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "PESCATORI IN CITTA' S.C.AR.L .",
+            "Città": "Manfredonia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SOCIETA' COOPERATIVA SANT'ANTONIO CARLOFORTE",
+            "Città": "Carloforte",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ISOLA ANTICA SOCIETA' COOPERATIVA",
+            "Città": "Sant'Antioco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "TECHNOTEAM SOCIETA' COOPERATIVA",
+            "Città": "Ortona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "PICCOLA PESCA BORA SOCIETA' COOPERATIVA",
+            "Città": "Montesilvano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "PESCA 2000 PICCOLA SOCIETA' COOPERATIVA A R.L.",
+            "Città": "Ischitella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "ELSEMY S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "IL PICCOLO PESCATORE - LINO DIANA SOCIETA COOPERATIVA SOCIAL",
+            "Città": "Teulada",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "MARE DI SICILIA SOCIETA' COOPERATIVA",
+            "Città": "Pachino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "LA NUOVA C.A.P.A. SOCIETA' COOPERATIVA, IN FORMA ABBREVIATA",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SOCIETA' COOPERATIVA NEREIDE",
+            "Città": "Policoro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Matera"
+        }
+    ],
+    [
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "PESCATORI SAN FORTUNATO DI CAMOGLI - SOC. COOP. A R. L.",
+            "Città": "Camogli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "MARPESCA S.R.L.",
+            "Città": "Termoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "LA LAMPUGA SOCIETA' COOPERATIVA",
+            "Città": "Teulada",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SAN ROCCO SOC.COOP. A R.L.",
+            "Città": "Amantea",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "CONSORZIO LAGUNARE PESCATORI DI ISCHITELLA",
+            "Città": "Ischitella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "LA PASSERA SOC. COOP. A R.L.",
+            "Città": "Rosolina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "SOCIETA' COOPERATIVA PESCATORI NETTUNO",
+            "Città": "Teulada",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "03.11.00",
+            "Azienda": "NETTUNO PRIMO S.R.L.S.",
+            "Città": "Reitano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "ARGENTARIO36 S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "MITILFLEGREA SOCIATA' COOPERATIVA",
+            "Città": "Bacoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "PUGLIA MARINE SERVICE SOCIETA' COOPERATIVA A RESPONSABILITA'",
+            "Città": "Manfredonia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "MITIL SAN BARTOLO S.R.L. SOCIETA' AGRICOLA",
+            "Città": "Cattolica",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "EMISSARY ITALIA S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "ORGANIZZAZIONE DI PRODUTTORI MYTILUS CAMPANIAE",
+            "Città": "Bacoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "COOP.PESCATORI LAGHESE SOC.COOP.A.R.L.",
+            "Città": "Lagosanto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "P.M.P. MARE SOC. COOP. A RL",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "INTREPIDO SOCIETA' COOPERATIVA",
+            "Città": "Comacchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "COOP. ALESSANDRO SIMONI A R.L.",
+            "Città": "Comacchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "MURAZZO SOCIETA' SEMPLICE AGRICOLA",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SICILITTICA SOC. AGRICOLA A R.L.",
+            "Città": "Licata",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "I DUE MARI SCARL",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "QUATTRO B.SOC.COOP. A.R.L.",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "THETIS ACQUACOLTURA SRL SOCIETA' AGRICOLA",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "CONSORZIO MOLLUSCHICOLTORI VENETI - ORGANIZZAZIONE",
+            "Città": "Rosolina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "CIVITACOZZA - SOCIETA' COOPERATIVA",
+            "Città": "Rimini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        }
+    ],
+    [
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SAIR S.R.L.",
+            "Città": "Jesolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "FARFALLA SOCIETA' COOPERATIVA A R.L.",
+            "Città": "Comacchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "MARE IMPIANTI S.R.L.",
+            "Città": "Foggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "IL FARO SOCIETA' COOPERATIVA DI PESCA A R.L.",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "NAVIGARE SOCIETA' COOPERATIVA",
+            "Città": "Comacchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "GEOMAR SOCIETA' COOPERATIVA",
+            "Città": "Ravenna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "MITILIOLBIA SOCIETA' COOPERATIVA",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SOCIETA' AGRICOLA ALGHITALY",
+            "Città": "Sommacampagna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "LA MAREA SOCIETA' COOPERATIVA",
+            "Città": "Bacoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "ARCOBALENO SOCIETA' COOPERATIVA",
+            "Città": "Comacchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "ACQUACOLTURA JONICA SOCIETA COOPERATIVA AGRICOLA",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SOC. COOP. MERLINO A R.L.",
+            "Città": "Fermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Fermo"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "LEVANTE - SOCIETA' COOPERATIVA A R.L. A MUTUALITA' PREVALENT",
+            "Città": "Termoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "VI.S.MA. - PESCATORI PICCOLA PESCA - SOCIETA' COOPERATIVA",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "IMARR - SOCIETA' COOPERATIVA AGRICOLA",
+            "Città": "Rimini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SOCIETA' AGRICOLA BIO DELTA S.R.L.",
+            "Città": "Codigoro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "CORAL'S GARDEN SRLS",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "MARICOLTURA SAN VITO SOCIETA' COOPERATIVA",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "LA FENICE SOC.COOP.A.R.L.",
+            "Città": "Mesola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "CONSORZIO PRODUTTORI MOLLUSCHI DEL MOLISE",
+            "Città": "Termoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "ALBERONI MITILI SOCIETA' COOPERATIVA - A.M.S.C. s.c.r.l.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SOCIETA' COOPERATIVA POSEIDONE",
+            "Città": "Rosolina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "DRAGOJESOLO SOCIETA' AGRICOLA S.R.L.",
+            "Città": "Treviso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "ITTIOMAR SOCIETA' COOPERATIVA",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "03.21.00",
+            "Azienda": "SOCIETA' AGRICOLA BLUE VALLEY - S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        }
+    ]
+]
