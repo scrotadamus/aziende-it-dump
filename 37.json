@@ -1,0 +1,3982 @@
+[
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MARAZZATO SOLUZIONI AMBIENTALI S.R.L. A SOCIO UNICO",
+            "Città": "Pollein",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Aosta"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "INDUSTRIA SERVIZI ECOLOGICI SOCIETA' PER AZIONI SIGLABILE IS",
+            "Città": "Saint-Marcel",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Aosta"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CORDAR S.P.A. BIELLA SERVIZI",
+            "Città": "Biella",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CANELLA SERVIZI SRL",
+            "Città": "Cossato",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EDILSERVICE S.R.L.",
+            "Città": "Vicoforte",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SPURGO JET SRL",
+            "Città": "Beinasco",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGICA PIEMONTESE SRL",
+            "Città": "Rivalta di Torino",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "L'IGIENICA S.R.L.",
+            "Città": "Orbassano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BLUECO S.R.L.",
+            "Città": "Trofarello",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "IDRABLU S.P.A.",
+            "Città": "Domodossola",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CO.R.D.A.R. VALSESIA S.P.A.",
+            "Città": "Serravalle Sesia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Vercelli"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SERVIZI AMBIENTALI S.P.A.",
+            "Città": "Borghetto Santo Spirito",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CONSORZIO PER LA DEPURAZIONE DELLE ACQUE DI SCARICO DEL SAVO",
+            "Città": "Savona",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SPURGHI LOCHIS S.R.L.",
+            "Città": "Foresto Sparso",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SPURGHI FRATELLI TERZI SRL",
+            "Città": "Grassobbio",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "REALIZZAZIONE E GESTIONE SERVIZI PUBBLICI LOCALI S.P.A., PER",
+            "Città": "Mozzanica",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TEXEL SRL",
+            "Città": "Seriate",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BORGO SPURGHI S.R.L.",
+            "Città": "Castenedolo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ASPIRECO SRL",
+            "Città": "Gavardo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TOMASONI SPURGHI SRL",
+            "Città": "Gussago",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LARIANA DEPUR S.P.A.",
+            "Città": "Como",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "G. FUMAGALLI - LA VARESINA SPURGHI S.A.S. DI FUMAGALLI TIZIA",
+            "Città": "Lurate Caccivio",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SO.GE.IM.E. SRL",
+            "Città": "Rovellasca",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "REDAELLI PIERGIORGIO SPA",
+            "Città": "Molteno",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SPURGHI SILVA DOMENICO S.R.L.",
+            "Città": "Lodi",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lodi"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECO-ELITE SRL",
+            "Città": "Gualtieri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AMBROSI S.R.L.",
+            "Città": "Nanto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DEA S.R.L. DEPURAZIONE ECOLOGIA E AMBIENTE",
+            "Città": "Massafra",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CESCON SERVIZI S.R.L.",
+            "Città": "Preganziol",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GRUPPO GA.VI. S.R.L.",
+            "Città": "Pietrasanta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOSPURGO EXPRESS SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Tavullia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BIOMAR S.R.L.",
+            "Città": "Bisceglie",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SATO SERVICE S.R.L.",
+            "Città": "Buccinasco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CAPUZZO NICOLA SRL",
+            "Città": "Pontelongo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PEPE SRL",
+            "Città": "Sant'Arcangelo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LOMBARDIA SPURGHI S.R.L.",
+            "Città": "Legnano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AGOSTINELLI AUTOSPURGHI SRL",
+            "Città": "Mondolfo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GREGGIO POZZI NERI SRL",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "NUOVA ECOLOGICA B.C. S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SOLUZIONE SPURGHI SRL UNIPERSONALE",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MARROCCHINI SRL",
+            "Città": "Cerveteri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "S.I.A. SRL",
+            "Città": "Pesaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SPURGO SERVICE SERVIZI AMBIENTALI SRL",
+            "Città": "Udine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TORQUATI SERVIZI SRLU",
+            "Città": "Monteprandone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SOGARI SPURGHI S.R.L. DI SOGARI EMANUELE SOCIETA' UNIPERSONA",
+            "Città": "Cavezzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VAMA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "INTERSERVICE SRL",
+            "Città": "Tolentino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CMS SERVIZI S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ALDO MASTELLONE E C. S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VALDAGNO SERVIZI S.R.L.",
+            "Città": "Valdagno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PULIFOX S.R.L.",
+            "Città": "Fano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LARIO SPURGHI S.R.L.",
+            "Città": "Colico",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGIA COLANGELO S.R.L.",
+            "Città": "Benevento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Benevento"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VACCARINI S.R.L.",
+            "Città": "Giulianova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PAPILLON S.R.L.",
+            "Città": "Poppi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "RIMOLA S.R.L.",
+            "Città": "Vigevano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA MONDIAL SPURGO S.R.L.",
+            "Città": "Acireale",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECO CIBELE SRL",
+            "Città": "Bibbiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FILIPPONI BENITO S.R.L.",
+            "Città": "Fano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOSPURGO GIORGI S.R.L.",
+            "Città": "Pomezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOSPURGO FALCONI SRL",
+            "Città": "Grosseto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOMULTISERVICE S.R.L.",
+            "Città": "Castegnero",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DAMASCO ACQUE SRL",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PACHECO ECOLOGIA SRL",
+            "Città": "Follonica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MIETTO GAETANO ESPURGHI SRL",
+            "Città": "Saonara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CREMASCA SPURGHI S.R.L.",
+            "Città": "Crema",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MAI TECH SRL",
+            "Città": "Caldogno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TITANO MARE S.R.L.",
+            "Città": "Porcari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VISALLI S.R.L.",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EDIL VELOX SPURGHI DI VITIELLO VINCENZO \u0026 C. S.A.S.",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FRIULSPURGHI SRL",
+            "Città": "Pordenone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "HYDROEDIL SERVICE - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SPURGHI BALDI SRL",
+            "Città": "Treviolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "A.B.C. 11 S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOPISTOIA S.R.L.",
+            "Città": "Pistoia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pistoia"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SPURGO ALBA SRL",
+            "Città": "Chieti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BRENNERO GALLERIACQUE - SOCIETA' CONSORTILE A RESPONSABILITA",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CA.RI. SRL",
+            "Città": "Benevento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Benevento"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SERVIZI IDRICI INTEGRATI SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Manduria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOVERDE S.R.L.",
+            "Città": "Vicenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LUNI SPURGHI SRLS",
+            "Città": "Massa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DINO SPURGHI SRL",
+            "Città": "Lugo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SOCIETA' COOPERATIVA AURORA",
+            "Città": "Foggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "D.E.D. DELLA VOLPE E BARBATO S.R.L.",
+            "Città": "Carinaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGIA RIZZI PASQUALE SRL SOCIETA' CON SOCIO UNICO",
+            "Città": "Bitonto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOGEST S.R.L.",
+            "Città": "Corigliano-Rossano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CONSORZIO VALMONTONE",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "S.S.A. SOLUZIONI E SERVIZI PER L'AMBIENTE SRL",
+            "Città": "Alatri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AFIS AUTOSPURGHI S.R.L.",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TRITONE SRL",
+            "Città": "Leporano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EUROSPURGHI SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Velletri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGIA APUZZO S.R.L.",
+            "Città": "Poggiomarino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PRATOSPURGO S.R.L.",
+            "Città": "Prato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AD SOLUTION S.R.L.S.",
+            "Città": "Molfetta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "INNOVA AGB - SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICAT",
+            "Città": "Aprilia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TECNO SPURGHI S.R.L.",
+            "Città": "Monterotondo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOSPURGNI NORD EST SRLS",
+            "Città": "Verona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DARP CONSULTING SRL SEMPLIFICATA",
+            "Città": "Trapani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DEPURAZIONI BENACENSI S.C.R.L",
+            "Città": "Peschiera del Garda",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GEA DEPURAZIONI INDUSTRIALI S.R.L.",
+            "Città": "Castel Guelfo di Bologna",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Bologna"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TRATTAMENTI ECOLOGICI DORIA S.R.L.",
+            "Città": "Briona",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PUBLICENTRO FIRENZE SOCIETA' CONSORTILE A R. L.",
+            "Città": "Massa e Cozzile",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CONSORZIO TRATTAMENTO EFFLUENTI POLO CHIMICO SPINETTA",
+            "Città": "Alessandria",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CRISTAL SPURGO S.R.L.",
+            "Città": "Prato",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DECA S.R.L.",
+            "Città": "Lamezia Terme",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LO SPURGO SPA",
+            "Città": "Firenze",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOSPURGHI LOMBARDA S.R.L.",
+            "Città": "Trezzano sul Naviglio",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BIODEPUR S.R.L.",
+            "Città": "Cascina",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LEONI AMBIENTE S.R.L.",
+            "Città": "Porto Torres",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DEPURAZIONE TRENTINA OCCIDENTALE SOC. CONSORTILE",
+            "Città": "Trento",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PURIFY S.R.L.",
+            "Città": "Narni",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOTECH SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Vado Ligure",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BERSELLINI FRANCO \u0026 C. S.R.L.",
+            "Città": "Roccabianca",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "R.I.S. RISOLVE S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "S.E.B. SERVIZI ECOLOGICI DEL BREMBO SRL",
+            "Città": "Pontirolo Nuovo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "S.A.M. SERVIZI AMBIENTALI MILANESI S.R.L.",
+            "Città": "Novate Milanese",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SPURGHI SANTACROCESI S.R.L.",
+            "Città": "Santa Croce sull'Arno",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DURGONI PEPPINO E FIGLI S.R.L.",
+            "Città": "Prato",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LAVASPURGO BOCCHI S.R.L.",
+            "Città": "San Felice sul Panaro",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GLOBAL SERVICES S.R.L.",
+            "Città": "Arosio",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SERVIZIO ECOLOGICO MERIDIONALE DEI F.LLI RIZZI S.R.L.",
+            "Città": "Bitonto",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOALBA S.R.L.",
+            "Città": "Albanella",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TECNOECO ECOLOGIA S.R.L.",
+            "Città": "Civita Castellana",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ESA ECO SERVIZI S.R.L.",
+            "Città": "Borgosesia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Vercelli"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "S.A.GE.I. S.R.L.",
+            "Città": "Roccadaspide",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Salerno"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CEASA ITALIA S.R.L. PIU' BREVEMENTE 'CEASA SRL'",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PERUCH S.R.L.",
+            "Città": "Vittorio Veneto",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOSPURGO SAVIGNI S.R.L.",
+            "Città": "Castelfranco Emilia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VICE SERVIZI S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MULTISERVICE ASI SRL",
+            "Città": "Benevento",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Benevento"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ASPEL S.R.L.",
+            "Città": "Mantova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TADDEI ROBERTO S.R.L.",
+            "Città": "Cerreto Guidi",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOTEK SRL",
+            "Città": "Melito di Porto Salvo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "IMPRESA BOVERO SRL",
+            "Città": "Vado Ligure",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ENERGICA SPURGHI SRL",
+            "Città": "Grumolo delle Abbadesse",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ALISPURGO S.R.L.",
+            "Città": "",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ABA SPURGHI ECOLOGIA S.R.L.",
+            "Città": "Bitonto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "REATINA AUTOSPURGHI S.R.L.",
+            "Città": "Rieti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rieti"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MIDURI S.R.L.",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA SPECIALE DI CARAMMA S.R.L.",
+            "Città": "Aci Sant'Antonio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SINNICA SPURGO S.R.L.",
+            "Città": "Potenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GIPE S.R.L.",
+            "Città": "Cosenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MORO ECOLOGIA S.R.L.",
+            "Città": "Terracina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PALMA AUTOSPURGHI - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Trapani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GARRAMONE SRL ECO - TEAM",
+            "Città": "Potenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SPINA AMBIENTE S.R.L.",
+            "Città": "Aci Catena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECO TECNO SERVICE S.R.L.",
+            "Città": "Ariccia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GEO AMBIENTE S.R.L.",
+            "Città": "Castel Volturno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TEC.AMB. TECNOLOGIA AMBIENTE SRL",
+            "Città": "Scalea",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA VELOCE ESPURGHI S.R.L.",
+            "Città": "Somma Vesuviana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECO SERVICE AMBIENTE S.R.L.",
+            "Città": "Monte Porzio Catone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOSPURGHI JET SRL SEMPLIFICATA",
+            "Città": "Alba Adriatica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "S.E.T. SERVIZI ECOLOGIA E TRASPORTI SRL",
+            "Città": "Torremaggiore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "JONICA SPURGHI SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Guardavalle",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLSYSTEM S.R.L.",
+            "Città": "San Giovanni la Punta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA LAMPO ESPURGHI S.R.L.",
+            "Città": "Bellona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOSPURGO VALCESANO S.R.L.",
+            "Città": "Pergola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CASALBONI AMBIENTE S.R.L.",
+            "Città": "Bertinoro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "L.A.R.C.A. S.R.L.",
+            "Città": "Sant'Eusanio del Sangro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EDIL CONDOTTE E SERVIZI S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SINERGEST S.R.L.",
+            "Città": "Rotonda",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "IMPIANTI DEPURAZIONE ACQUE S.R.L.",
+            "Città": "San Lorenzo del Vallo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "A.A.A.A. AUTOESPURGO ADOLFO FORTINO S.R.L.",
+            "Città": "Cosenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "F.M.T. SPURGHI SRLS",
+            "Città": "Modena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "QUAGGIO SPURGHI SRL",
+            "Città": "Brugine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MEOLA ECOSERVIZI SNC DI MEOLA EMILIO \u0026 C.",
+            "Città": "Carpi",
+            "Fatturato": "",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SERVIZI DI DEPURAZIONE SNC DI MASTELLA MASSIMO",
+            "Città": "San Bonifacio",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PETRELLI ROBERTO",
+            "Città": "Castenaso",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOMAR DI CARMELO MARINO \u0026 C. S.N.C.",
+            "Città": "Nusco",
+            "Fatturato": "",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "I.D.S. DI SEMINARA STEFANIA",
+            "Città": "San Pietro a Maida",
+            "Fatturato": "",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BOSCARATO MASSIMO",
+            "Città": "Santa Lucia di Piave",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "RIVOSPURGHI S.R.L.S.",
+            "Città": "San Benedetto del Tronto",
+            "Fatturato": "",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PARINI SPURGHI E GIARDINAGGIO S.N.C. DI OMAR EL GREADY E GAI",
+            "Città": "Sedriano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SICURACQUE DI PIETROFORTE VITTORIO",
+            "Città": "Cerveteri",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MIGLIORINI AUTOSPURGHI S.A.S. DI MIGLIORINI DAVIDE E C.",
+            "Città": "Arona",
+            "Fatturato": "",
+            "Provincia": "Novara"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "POLONIO DAVIDE",
+            "Città": "Arre",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SICILSPURGHI S.N.C. DI CARAVELLO GIUSEPPE E CARAVELLO MARIA",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EURO ALPE SRL",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "IDROSPURGHI PLAINO GIANNI S.N.C. DI PLAINO ALESSANDRO \u0026 C.",
+            "Città": "Latisana",
+            "Fatturato": "",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TECNOSPURGHI SOCIETA' IN NOME COLLETTIVO DI LA BARBERA GIUSE",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LANZILOTTA DONATO",
+            "Città": "Castellana Grotte",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PRONTO INTERVENTO S.E.A. DI SOLDINI RINA \u0026 C. S.A.S.",
+            "Città": "Porto Sant'Elpidio",
+            "Fatturato": "",
+            "Provincia": "Fermo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGICA SPURGHI DI BONADEI GIUSEPPE",
+            "Città": "Rovetta",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ZAGO SPURGHI DI ZAGO GIANLUCA",
+            "Città": "Martellago",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MALAGUTI AUTOSPURGHI SNC DI MALAGUTI ALESSANDRO E MALAGUTI A",
+            "Città": "Crevalcore",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GHEOS ECOLOGIA S.A.S. DI ESPOSITO ALESSANDRO E C.",
+            "Città": "Prato",
+            "Fatturato": "",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AGOSTINO VINCENZO",
+            "Città": "Marina di Gioiosa Ionica",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ARA ESPURGO S.N.C DI MASSELLUCCI ALDO \u0026 C.",
+            "Città": "Prato",
+            "Fatturato": "",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA SUPREMA SERVIZI DI GENNARO GIOVANNA",
+            "Città": "Siracusa",
+            "Fatturato": "",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECO.MAD.S.A.S. DI DI NUZZO VINCENZO",
+            "Città": "Maddaloni",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "D.E.S.A. DI TARANTINO DAVIDE",
+            "Città": "Monteroni di Lecce",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FORLINI S.A.S. DI FORLINI BERNARDINO, SIMONE \u0026 C.",
+            "Città": "San Benedetto del Tronto",
+            "Fatturato": "",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BRILL MARSICA SAS DI PIACENTE CRISTIANO",
+            "Città": "Avezzano",
+            "Fatturato": "",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "WC SERVICES DI GHIRARDI NICOLA",
+            "Città": "Dueville",
+            "Fatturato": "",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BONFANTI SERVIZI AMBIENTALI S.R.L.",
+            "Città": "Nibionno",
+            "Fatturato": "",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "POLETTI FRANCO",
+            "Città": "Bagnacavallo",
+            "Fatturato": "",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VORALDI S.R.L.",
+            "Città": "Marcianise",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GUERRA GABRIELE",
+            "Città": "Pennabilli",
+            "Fatturato": "",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGIA DI STEFANO DI MASI",
+            "Città": "Castellana Grotte",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CREMA SPURGHI SAS DI BRESCIANI ALBERTO E C.",
+            "Città": "Salvirola",
+            "Fatturato": "",
+            "Provincia": "Cremona"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "A.B. SERVICE SRL UNIPERSONALE",
+            "Città": "Olbia",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LE.DE. SOCIETA' ARMATORIALE SPA",
+            "Città": "Taranto",
+            "Fatturato": "",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CENTRO SPURGHI DI GIANCONTIERI LORENZO",
+            "Città": "Castelvetrano",
+            "Fatturato": "",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "OK SPURGHI DI GUMARI CARLO",
+            "Città": "Rosignano Marittimo",
+            "Fatturato": "",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CARONE DOMENICO",
+            "Città": "Bari",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VACONDIO PARIDE \u0026 C. S.A.S.",
+            "Città": "Gualtieri",
+            "Fatturato": "",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DITTA TRANNE DONATO",
+            "Città": "Specchia",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA VIGEVANESE SPURGHI S.R.L.",
+            "Città": "Vigevano",
+            "Fatturato": "",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "F.LLI DEMICHELI CARLO E LUIGI S.N.C. DI DEMICHELI MAURIZIO M",
+            "Città": "Novi Ligure",
+            "Fatturato": "",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGIA 2000 S.A.S. DI BARTOLACCI MARCO \u0026 C.",
+            "Città": "Treia",
+            "Fatturato": "",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MONTECORVINO ESPURGHI DI MAGAZZENO ARMANDO",
+            "Città": "Montecorvino Rovella",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA CASSANESE DI CAMPARMO' GEROLAMO",
+            "Città": "Cassano Magnago",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VALENTE MARTINO",
+            "Città": "Tezze sul Brenta",
+            "Fatturato": "",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TAJANA SERVICE SRL",
+            "Città": "Como",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DATOLA SPURGHI DI DATOLA GIUSEPPE",
+            "Città": "Piazza Armerina",
+            "Fatturato": "",
+            "Provincia": "Enna"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AMBROSI NICOLA",
+            "Città": "Cinto Euganeo",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SERVICE - ESPURGHI S.N.C. DI OLIVATO WILLIAM \u0026 C.",
+            "Città": "Chioggia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LUCIANI REGINALDO S.A.S.DI MASSIMILIANO LUCIANI E C.",
+            "Città": "San Vittore Olona",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VALVERDE SPURGHI DI ANTONELLI LUCIANO \u0026 C. SNC",
+            "Città": "Botticino",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LEONE EMANUELE SAS DI LEONE VINCENZO E LEONE MICHELE",
+            "Città": "Olbia",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BORTOLON F.LLI AUTOSPURGHI DI BORTOLON VALENTINA",
+            "Città": "Torri di Quartesolo",
+            "Fatturato": "",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MANTOVANI ANDREA",
+            "Città": "Corbola",
+            "Fatturato": "",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "KROELL RICHARD",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CALENZANO SPURGHI DI DANI MICHELE",
+            "Città": "Calenzano",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PO.DE.MARF. DI MARCINNO' GIOVANNI \u0026 C. S.A.S.",
+            "Città": "Imperia",
+            "Fatturato": "",
+            "Provincia": "Imperia"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOSERVIZI LA MODERNA SPURGO S.A.S. DI DURGONI FRANCO MARIO",
+            "Città": "Prato",
+            "Fatturato": "",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "QUAGGIO EVELLINO",
+            "Città": "Brugine",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BOCCACCI GIANFRANCO",
+            "Città": "Jesi",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SPURGO EXPRESS DI BRACCI GILBERTO",
+            "Città": "Rimini",
+            "Fatturato": "",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOSYSTEM 2000 GIANDOMENICO DI GUAZZO FEDERICO \u0026 C. S.A.S.",
+            "Città": "Melazzo",
+            "Fatturato": "",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CACCIATORI MARIO \u0026 MIRKO S.N.C.",
+            "Città": "Verona",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA BIOLOGICA SERVICE DI CIRELLI DANIELE",
+            "Città": "San Possidonio",
+            "Fatturato": "",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA ROMANO ESPURGHI DI NICOTRA DAVIDE",
+            "Città": "Catania",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GREEN SERVICE DI MANCINI FABIO",
+            "Città": "Fabro",
+            "Fatturato": "",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TAFFARELLO DANIELE E ANDREA S.N.C.",
+            "Città": "Carbonera",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "COSTANZA PAOLO SNC",
+            "Città": "Villanova d'Asti",
+            "Fatturato": "",
+            "Provincia": "Asti"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DANEV DRAGOTIN",
+            "Città": "Trieste",
+            "Fatturato": "",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SERVIZI ECOLOGICI VALSUSA SNC DEI F.LLI VIGHETTI E DI AMBROS",
+            "Città": "Bruzolo",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ZANIER GIANCARLO",
+            "Città": "Villorba",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BATTISTON SAS DI BATTISTON ENRICO \u0026 C.",
+            "Città": "Fossalta di Portogruaro",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CAPOFERRI NAZZARENO E C. S.A.S.",
+            "Città": "San Benedetto del Tronto",
+            "Fatturato": "",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BUSCEMA SERVIZI AMBIENTALI S.R.L.",
+            "Città": "Modica",
+            "Fatturato": "",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ALFA IMPIANTI SERVICE S.A.S.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGY MARZI DI MARZI MARCO \u0026 C. SNC",
+            "Città": "Bastia Umbra",
+            "Fatturato": "",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOSPURGHI FURLAN DI FURLAN DANIEL",
+            "Città": "San Canzian d'Isonzo",
+            "Fatturato": "",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "IDROSPURGO S.R.L.",
+            "Città": "Lecce",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VINOVO SPURGHI DI GELLI SIMONE",
+            "Città": "Vinovo",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOSPURGO DI TESTA GIOVANNI",
+            "Città": "Acireale",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DINAMICA SPURGO DI SPINA ANTONINO",
+            "Città": "Letojanni",
+            "Fatturato": "",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CITY SERVICE SPURGHI SOCIETA' COOPERATIVA A R.L.",
+            "Città": "Fermo",
+            "Fatturato": "",
+            "Provincia": "Fermo"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOSERVIZI S.N.C. DI SOLIANI FABRIZIO \u0026 C.",
+            "Città": "Langhirano",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "F.LLI DE CHIARA DI DE CHIARA DOMENICO - S.N.C.",
+            "Città": "Fisciano",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DAVIDE NURISSO",
+            "Città": "Borgone Susa",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FRASCA' SERVIZI DI FRASCA' SERGIO \u0026 C. S.A.S",
+            "Città": "Badolato",
+            "Fatturato": "",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AVIANO SPURGHI DI ZELE FLORIN IOAN",
+            "Città": "Aviano",
+            "Fatturato": "",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOSPURGHI DI ALESSANDRO LEDDA",
+            "Città": "Castiadas",
+            "Fatturato": "",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BELLUCCO LUCA",
+            "Città": "Polesella",
+            "Fatturato": "",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SERVIZI ECOLOGICI DI FERRETTI V. \u0026 C. SNC",
+            "Città": "Silvi",
+            "Fatturato": "",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GRUPPO DOMINA DI ILLUMINATI GIADA",
+            "Città": "Porto San Giorgio",
+            "Fatturato": "",
+            "Provincia": "Fermo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "B \u0026 G VILLANI SNC",
+            "Città": "Nocera Inferiore",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SUD ECO SERVIZI DI MAGGIO FRANCESCO",
+            "Città": "Bitonto",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PRONTO INTERVENTI SIDA DI BUTERA FRANCESCO",
+            "Città": "Lamezia Terme",
+            "Fatturato": "",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TECNOSPURGHI DI TURINI ROBERTO",
+            "Città": "Ciserano",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FEA S.R.L.S.",
+            "Città": "Frascineto",
+            "Fatturato": "",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FOCONETTI MAURO",
+            "Città": "Campogalliano",
+            "Fatturato": "",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "Z SPURGHI SRL",
+            "Città": "Imola",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PELOSI MASSIMO",
+            "Città": "Casoria",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VERGARA DOMENICO",
+            "Città": "Cesa",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "KANALTEC GMBH",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ROMAMBIENTE S. N. C. DI RAFFAELE \u0026 VINCENZO ROMA",
+            "Città": "Carovigno",
+            "Fatturato": "",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ORTIZ ANTONIO ADOLFO CLAUD",
+            "Città": "Arezzo",
+            "Fatturato": "",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GENIVOLTA SERGIO ANDREA",
+            "Città": "Solbiate Olona",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TEODORI SPURGHI SAS DI BONETTI MARCO \u0026 C.",
+            "Città": "Melzo",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MELEGNANO SPURGHI S.A.S. DI EMANUELE GALVAGNO \u0026 C.",
+            "Città": "Colturano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LABIANCA MICHELE",
+            "Città": "Grosseto",
+            "Fatturato": "",
+            "Provincia": "Grosseto"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "G.L.M. S.R.L.",
+            "Città": "San Martino dall'Argine",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOBLU S.R.L. A SOCIO UNICO",
+            "Città": "Arluno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA SEDRIANESE SPURGHI SRL",
+            "Città": "Bareggio",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DORIA SERVIZI AMBIENTALI SRL SOCIETA' UNIPERSONALE",
+            "Città": "Boffalora sopra Ticino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA RONDINE SRL",
+            "Città": "Buccinasco",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "C. \u0026 D. ECOLOGIC SPURGHI S.R.L.",
+            "Città": "Bresso",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA SPURGHI INZAGO S.R.L.",
+            "Città": "Inzago",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LAMBRO SPURGHI S.R.L.",
+            "Città": "Paderno Dugnano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA NUOVA SPURPOZ S.R.L.",
+            "Città": "Pero",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA GARBENSPURGHI SRL",
+            "Città": "Rho",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AMBROSIANA SPURGHI SPA",
+            "Città": "Segrate",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AXSE SRL",
+            "Città": "Ceriano Laghetto",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "E.D.R. SERVICE S.R.L.",
+            "Città": "Desio",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "NOVA SPURGHI S.A.S. DI MAIOLO ANTONIO \u0026 C.",
+            "Città": "Desio",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "STUCCHI SERVIZI ECOLOGICI SRL",
+            "Città": "Cambiago",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECO CENTER S.P.A.",
+            "Città": "",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AMSA GROUP SRL",
+            "Città": "",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ARA PUSTERTAL AG",
+            "Città": "",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "F.LLI BONORA SRL",
+            "Città": "Arco",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECO SISTEMI S.R.L.",
+            "Città": "San Vito di Cadore",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ROSSI ETTORE LUCIO SRL",
+            "Città": "Adria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "A.D.A.AZIENDA DEPURAZIONE ACQUE S.R.L.",
+            "Città": "Conegliano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOGEO SERVIZI S.R.L.",
+            "Città": "Quinto di Treviso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FRATELLI MASSOLIN S.R.L.",
+            "Città": "Ponzano Veneto",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DEPURACQUE SERVIZI S.R.L.",
+            "Città": "Salzano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Venezia"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "IAIA ORONZO",
+            "Città": "Cellino San Marco",
+            "Fatturato": "",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SFM SPURGHI SRL",
+            "Città": "Corridonia",
+            "Fatturato": "",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EUROSPURGHI DI MONTEVERDI ANDREA",
+            "Città": "Pietrasanta",
+            "Fatturato": "",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CELLATO LUCA ESPURGO SNC",
+            "Città": "Poviglio",
+            "Fatturato": "",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOL NORD DI VALSANIA ANTONIETTA \u0026 C. S.N.C.",
+            "Città": "Moncalieri",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BONACINA SPURGHI DI BONACINA FRANCESCA E C. - S.N.C. IN LIQU",
+            "Città": "Lonate Pozzolo",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VITA MILCO",
+            "Città": "Loro Piceno",
+            "Fatturato": "",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TECNOSPURGHI DI URUCI VASJAR",
+            "Città": "San Giovanni Lupatoto",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EUROSPURGO DI PELLEGRINI NICOLO'",
+            "Città": "Parma",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGIA NAPOLI S.R.L.S.",
+            "Città": "Marina di Gioiosa Ionica",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PRO-PIPE DI CICALINI ALESSANDRO",
+            "Città": "Rosignano Marittimo",
+            "Fatturato": "",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "NUOVA ARCO EXPRESS POZZI NERI VERONA S.A.S.DI ZAGLIA ANDREA",
+            "Città": "Verona",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "RIZZI ECO GROUP DI COZZELLA PASQUALE \u0026 GIUSEPPE S.N.C.",
+            "Città": "Trepuzzi",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SPURGO JET S.N.C. DI VIVONA VITO E C.",
+            "Città": "Alcamo",
+            "Fatturato": "",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOSPURGHI CESENA DI IRIMIA MARIN",
+            "Città": "Cesena",
+            "Fatturato": "",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ESPURGO AGS SRL",
+            "Città": "Guastalla",
+            "Fatturato": "",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AGRELLI GIUSEPPE",
+            "Città": "Trecchina",
+            "Fatturato": "",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GOLLO SPURGHI DI GOLLO LUIGI VITTORIO E C. SAS",
+            "Città": "Cremolino",
+            "Fatturato": "",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA NUOVA SPURGO JET 2001 DI DE ANGELIS IVO",
+            "Città": "San Benedetto del Tronto",
+            "Fatturato": "",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GUERZONI PAOLO",
+            "Città": "Formigine",
+            "Fatturato": "",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SALSO SPURGHI DI GATTI ANDREA",
+            "Città": "Salsomaggiore Terme",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MASSIMO ZAGLIA S.A.S. DI ZAGLIA MASSIMO \u0026 C.",
+            "Città": "Verona",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ISCHIA ECOLOGIA SNC",
+            "Città": "Ischia",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "L'ESPURGO DI ARGENTO GIUSEPPE",
+            "Città": "Recale",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FILIPPI F.LLI S.N.C. SPURGHI POZZI NERI",
+            "Città": "Isola della Scala",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "IDEAL JET SNC DI PREZIOSO ANTONIETTA \u0026 C.",
+            "Città": "Sesto San Giovanni",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MORANI DANIELE, DOMENICO E RENATO S.N.C.",
+            "Città": "Casina",
+            "Fatturato": "",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GIANNARELLI LUCIANO DI GIANNARELLI FEDERIGO, GIANLUCA E FRAN",
+            "Città": "Pietrasanta",
+            "Fatturato": "",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PAPASIDERO SALVATORE",
+            "Città": "Melicucco",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GIUSTO UGO DI ABRAMO E GRAZIANO GIUSTO S.N.C.",
+            "Città": "Marnate",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "COVI DI BARDI GUIDO ENRICO",
+            "Città": "San Casciano in Val di Pesa",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PARPINELLI FABIO",
+            "Città": "Pordenone",
+            "Fatturato": "",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CHEMITECNO SUD DI ARIGO'MARCO",
+            "Città": "Messina",
+            "Fatturato": "",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECO SERVIZI AMBIENTALI DI MONOPOLI ANTONIO",
+            "Città": "San Ferdinando di Puglia",
+            "Fatturato": "",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "NUOVA AUTOSPURGHI TESINI S.A.S. DI LOSS NICCOLO' \u0026 C.",
+            "Città": "Valsamoggia",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOMAT AMBIENTE S.R.L.",
+            "Città": "Taranto",
+            "Fatturato": "",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CAMILLIERI GIUSEPPINA",
+            "Città": "Ragusa",
+            "Fatturato": "",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SERVIZI CHINI RENATO \u0026 C. SNC",
+            "Città": "Predaia",
+            "Fatturato": "",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "S.N.C. IMMORLANO VINCENZO E C.",
+            "Città": "Squinzano",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "A.S.I.E. DI IACOPO GORI",
+            "Città": "Sestri Levante",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EUSEBI LUIGI",
+            "Città": "San Benedetto del Tronto",
+            "Fatturato": "",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CROCETTI ANGELO",
+            "Città": "Bellante",
+            "Fatturato": "",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "B.R.M. DI ROSSINI GAETANO SNC",
+            "Città": "Senago",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOSPURGO S.A.S DI CARLI DANIELE \u0026 C.",
+            "Città": "Prato",
+            "Fatturato": "",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PULITECNO DI LANZA LORENZO",
+            "Città": "Sava",
+            "Fatturato": "",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "B.S. ESPURGHI S.A.S. DI BALBO IVANO \u0026 C.",
+            "Città": "Montegrotto Terme",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "S.ECO. - SERVIZI ECOLOGICI S.R.L.",
+            "Città": "Verona",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CARPISPURGO SRL",
+            "Città": "Carpi",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GEMINA S.R.L.",
+            "Città": "Patrica",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CARRARESPURGHI SRL",
+            "Città": "Due Carrare",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Padova"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PEDEMONTANA SPURGHI S.R.L.",
+            "Città": "Fiorano Modenese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CM ECOSERVIZI S.R.L.",
+            "Città": "Lamezia Terme",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EMILIANA SPURGHI S.R.L.",
+            "Città": "Fiorano Modenese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FRATELLI STRADIOTTO SPURGHI SRL",
+            "Città": "Riese Pio X",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LONOCE AMBIENTE S.R.L.",
+            "Città": "San Marzano di San Giuseppe",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EURO SPURGHI GROUP SRL DI FAMIGLIA VACCA MARCO",
+            "Città": "Bitonto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DEPURA SRL",
+            "Città": "San Giovanni al Natisone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SICA S.R.L.",
+            "Città": "San Giorgio del Sannio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Benevento"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOTEC GESTIONE ACQUE S.R.L.",
+            "Città": "Uta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SARDA SPURGO S.R.L.",
+            "Città": "Usellus",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGIA BERNARSO SRL",
+            "Città": "San Nicola la Strada",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MASSIMO ROSAN SRL",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "NICOLAI SRL",
+            "Città": "Civitanova Marche",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EURODEPUR 2000 S.R.L.",
+            "Città": "Campobasso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CAPPELLETTI SERVIZI AMBIENTALI S.R.L.",
+            "Città": "Vimercate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "COCCINELLA ECOSPURGHI S.R.L.",
+            "Città": "Cerano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "B \u0026 B ESPURGHI SRL",
+            "Città": "Cento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "THEMA IMPIANTI SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Sellia Marina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGIA VERZILLI SRL",
+            "Città": "Tarquinia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOSPURGHI COSTA S.R.L.",
+            "Città": "Camisano Vicentino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CO.G.ECO. S.R.L.",
+            "Città": "Fonte Nuova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOSYSTEM S.R.L.",
+            "Città": "Pachino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOGEST S.R.L.",
+            "Città": "Chivasso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "RECO SERVICE S.R.L.",
+            "Città": "Cologno Monzese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EREDI DI BUSETTO G. SRL",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LIMPIA S.R.L.",
+            "Città": "Settimo San Pietro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AZIENDA MANUTENZIONI AMBIENTALI ECOLOGIA - S.R.L.",
+            "Città": "Mentana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FRIULI SERVIZI S.R.L.",
+            "Città": "San Quirino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGIA NOVENTA SRL",
+            "Città": "Noventa Padovana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ESA SUD SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Lago",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGIA 3000 SRL",
+            "Città": "Fonte Nuova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MORCHI MAURA S.R.L.",
+            "Città": "Castelnuovo Magra",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AMBIENTAL S.R.L. A SOCIO UNICO",
+            "Città": "Santa Flavia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PAGANI SERVIZI AMBIENTALI - S.A.S. DI PAGANI LUCA \u0026 C.",
+            "Città": "Turate",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EFFEBI AUTOSPURGHI S.R.L.",
+            "Città": "Montefelcino",
+            "Fatturato": "",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MARTINI ROBERTO",
+            "Città": "Pomponesco",
+            "Fatturato": "",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PICCIONI ALEANDRO",
+            "Città": "Spoleto",
+            "Fatturato": "",
+            "Provincia": "Perugia"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SAVOIA F.LLI AUTOSPURGHI SRL",
+            "Città": "Bardolino",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AREASPURGHI S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AZIENDA GARDESANA SERVIZI S.P.A. IN BREVE A.G.S. S.P.A.",
+            "Città": "Peschiera del Garda",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ACQUE DEL CHIAMPO S.P.A. SOCIETA' BENEFIT",
+            "Città": "Arzignano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AMBIENTE ENERGIA S.R.L.",
+            "Città": "Schio",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "INTEGRA S.R.L. - INGEGNERIA TECNOLOGIA GESTIONE RISORSE AMBI",
+            "Città": "Vicenza",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "COSPER SRL",
+            "Città": "Turriaco",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOESPURGO MOSCHETTA SRL",
+            "Città": "Pordenone",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CONSORZIO DI SVILUPPO ECONOMICO LOCALE DEL PONTE ROSSO - TAG",
+            "Città": "San Vito al Tagliamento",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PERTOT S.R.L. ECOLOGIA/SERVIZI",
+            "Città": "Trieste",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CID S.R.L.",
+            "Città": "Colloredo di Monte Albano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA IGIENICA S.R.L.",
+            "Città": "Udine",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VENTURI BRUNO AUTOTRASPORTI E SPURGHI S.R.L.",
+            "Città": "Anzola dell'Emilia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VENTURI BRUNO SPURGHI E SERVIZI S.R.L.",
+            "Città": "Anzola dell'Emilia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOSPURGHI VENTURI RAFFAELE S.R.L.",
+            "Città": "Castel di Casio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LAZZARINI AUTOSPURGHI S.R.L.",
+            "Città": "Castiglione dei Pepoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "F.LLI GUIDI SNC DI GABRIELE E GIORGIO",
+            "Città": "Ferrara",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FROG S.R.L.",
+            "Città": "Ferrara",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "S.E.F. SERVIZI ECOLOGICI FERRARESI SRL",
+            "Città": "Ferrara",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CASALBONI SPURGHI S.R.L.",
+            "Città": "Cesena",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CESENA SPURGHI DI CASALBONI STEFANO E C. SNC",
+            "Città": "Cesena",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ADRIAJET S.R.L.",
+            "Città": "Cesenatico",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOSPURGO FORLIVESE SRL",
+            "Città": "",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BONAVITA SERVIZI S.R.L.",
+            "Città": "",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FORLI' AMBIENTE SOCIETA' COOPERATIVA",
+            "Città": "",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Forlì-Cesena"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOSPURGO ROMAGNA SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Longiano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DIACCI PRONTO SPURGO DI DIACCI RENATO E C. S.N.C.",
+            "Città": "Carpi",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "IDRAULICA F.LLI SALA S.R.L.",
+            "Città": "Concordia sulla Secchia",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PROGEMA SERVICE S.R.L.",
+            "Città": "Fontanellato",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOSPURGHI BOTTAZZI SRL",
+            "Città": "Piacenza",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FAENZA SPURGHI S.R.L.",
+            "Città": "Faenza",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SPAGGIARI ESPURGHI S.R.L.",
+            "Città": "Correggio",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EUROSPURGHI S.R.L.",
+            "Città": "Sansepolcro",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LISA ECOLOGIA S.R.L.",
+            "Città": "Dicomano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EUROSPURGHI S.R.L.",
+            "Città": "Vinci",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GINESI RAFFAELLO S.R.L.",
+            "Città": "Capannori",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "RO.EN. SERVIZI ECOLOGICI S.R.L.",
+            "Città": "Lucca",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BIAGI NICOLA S.R.L.",
+            "Città": "Pietrasanta",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AQUAPUR MULTISERVIZI S.P.A",
+            "Città": "Porcari",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LOGISTICA JONICA S.R.L.",
+            "Città": "",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Crotone"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LA RAPIDA S.R.L.",
+            "Città": "Viareggio",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECORIS S.R.L.",
+            "Città": "Viareggio",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TOSCANA ECO FANGHI SRL",
+            "Città": "Pomarance",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CONSORZIO CUOIO DEPUR S.P.A.",
+            "Città": "San Miniato",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SPURGO 2001 SRL",
+            "Città": "Poggio a Caiano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECO-SPURGO DI CASPRINI EMANUELE \u0026 C. S.A.S.",
+            "Città": "Poggibonsi",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SEA - SERVIZI ECOLOGICI AMBIENTALI - S.R.L.",
+            "Città": "Camerata Picena",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ITALSPURGO S.R.L.",
+            "Città": "Loreto",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DINAMICA SPURGHI S.R.L A SOCIO UNICO",
+            "Città": "Treia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "POLYMER SERVIZI ECOLOGICI SOCIETA' CONSORTILE A RESPONSABILI",
+            "Città": "Terni",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Terni"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GWA - GIMA WATER \u0026 AIR S.R.L.",
+            "Città": "Anagni",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECO DIESSE SRL",
+            "Città": "Anagni",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GABRIELE GROUP S.R.L.",
+            "Città": "Patrica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EUROSERVIZI 2000 S.R.L.",
+            "Città": "Patrica",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "INITIATIVE 2000 S.E.A. SRL",
+            "Città": "Aprilia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOL FLERO S.R.L.",
+            "Città": "Cisterna di Latina",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SALUBER '04 SRL",
+            "Città": "Cisterna di Latina",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EURO.ECO. SRL",
+            "Città": "Latina",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FAGECO ECOLOGIA SRL",
+            "Città": "Latina",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "A E A SOCIETA' PER AZIONI",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SIBILLA SRL",
+            "Città": "Guidonia Montecelio",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TESTANI GESTIONI S.R.L.",
+            "Città": "Valmontone",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VETERES - S.R.L.",
+            "Città": "Civita Castellana",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ARAP SERVIZI S.R.L.",
+            "Città": "Cepagatti",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TRITELLI S.R.L.",
+            "Città": "Roseto degli Abruzzi",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MDA SRL",
+            "Città": "Isernia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Isernia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGIA ALIPERTI S.R.L. IN SIGLA ECO. ALI. S.R.L.",
+            "Città": "Quadrelle",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGIA EUROAMBIENTE DI UCCIERO LUIGI \u0026 C. SNC",
+            "Città": "Castel Volturno",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "I.C.M. COSTRUZIONI S.R.L. A SOCIO UNICO",
+            "Città": "Quarto",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGIA ESPOSITO SRL",
+            "Città": "Volla",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AMBIENTE SUD SAS DI BERTOLINI MARIO \u0026 C.",
+            "Città": "Salento",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MOSCARIELLO SRL",
+            "Città": "Salerno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LUCANIA SPURGO DI CIMINELLI FELICE E C. S.N.C.",
+            "Città": "Potenza",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ZOCCOLAN - S.R.L.",
+            "Città": "Potenza",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "RIZZI ARCANGELO ECOLOGIA S.R.L.",
+            "Città": "Modugno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bari"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "IDROVELOX DI PETRELLI FRANCO \u0026 FIGLI SRL",
+            "Città": "Carmiano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BASTONE SALVATORE SRL",
+            "Città": "",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLOGICA S.P.A.",
+            "Città": "Taranto",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SANDRO GRECO S.P.A.",
+            "Città": "Catanzaro",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MINIERI KING ELETTRICA SRL",
+            "Città": "Catanzaro",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOTEC S.R.L.",
+            "Città": "Lamezia Terme",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "I.A.M. S.P.A.",
+            "Città": "Reggio di Calabria",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOAMBIENTE S.R.L.",
+            "Città": "Gela",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOSAN ITALIA S.R.L.",
+            "Città": "San Giovanni la Punta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BARCELLONAMBIENTE S.P.A.",
+            "Città": "Barcellona Pozzo di Gotto",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ALTA ALTAVILLA TRATTAMENTO ACQUE S.R.L.",
+            "Città": "Isola delle Femmine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "A. GENOVESE S.R.L.",
+            "Città": "Siracusa",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "I.A.S. INDUSTRIA ACQUA SIRACUSANA S.P.A.",
+            "Città": "Siracusa",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOTECNICA - S.R.L.",
+            "Città": "Mazara del Vallo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PIRISINU LUCA Srl UNIPERSONALE",
+            "Città": "Pula",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "A.P. ECO SERVICES S.R.L.",
+            "Città": "Sestu",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "DOCKS LANTERNA SPA",
+            "Città": "Genova",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "A.O.C. SRL",
+            "Città": "Genova",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "W.T.E. S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "TM. E. SPA - TERMOMECCANICA ECOLOGIA CON SOCIO UNICO",
+            "Città": "La Spezia",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BIRAGHI SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SODAI S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FACCHINI SPURGHI SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "S.A.I. S.R.L. SERVIZI AMBIENTALI INDUSTRIALI",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CANDEO AGOSTINO S.R.L. UNICO SOCIO",
+            "Città": "Rubano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Padova"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "S.I.F.A. SOC. CONSORTILE PER AZIONI",
+            "Città": "Venezia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PULIESP SRL",
+            "Città": "Venezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ALLES - AZIENDA LAVORI LAGUNARI ESCAVO SMALTIMENTI S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ACQUE VERONESI S.C.A R.L.",
+            "Città": "Verona",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MODENA SPURGO S.R.L.",
+            "Città": "Modena",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "G.M. SRL",
+            "Città": "Parma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "T.S.CHITI S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOSPURGO 90 S.P.A.",
+            "Città": "Firenze",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GIGLIO SERVIZI AMBIENTALI E BONIFICHE S.R.L. A SOCIO UNICO",
+            "Città": "Firenze",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "G.I.D.A. SPA",
+            "Città": "Prato",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "OLIMPO 2005 S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "COGEI SRL A SOCIO UNICO",
+            "Città": "Napoli",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PROGEST S.P.A,",
+            "Città": "Gricignano di Aversa",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "IMPRESA PROFETA S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOLSERVIZI APRILIA S.R.L.",
+            "Città": "Aprilia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "EMMERRE S.R.L.",
+            "Città": "Terni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECO SERVICE F.LLI SIMONCELLI S.R.L.",
+            "Città": "Rovereto",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOL SEA SRL",
+            "Città": "Palermo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ALFRA S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CODEMAR S.C. A R. L.",
+            "Città": "Pozzuoli",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ACQUE INDUSTRIALI SRL",
+            "Città": "Pisa",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ITALIA AMBIENTE S.R.L.",
+            "Città": "Poggibonsi",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOGROUP S.R.L.",
+            "Città": "Livorno",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOVALLEE SRL",
+            "Città": "Champdepraz",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Aosta"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CONSORZIO PIACENZA AMBIENTE ENUNCIABILE ANCHE CO.P.AM.",
+            "Città": "Piacenza",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Piacenza"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CONSORZIO C.I.S.A.",
+            "Città": "Serramanna",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AUTOSPURGO 24 S.R.L.",
+            "Città": "Sanluri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CIEM S.R.L.",
+            "Città": "Ventimiglia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "PODESTA' SERVIZI \u0026 ECOLOGIA S.R.L.",
+            "Città": "Pontedassio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BRONI-STRADELLA PUBBLICA S.R.L.",
+            "Città": "Stradella",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "3V GREEN EAGLE SPA",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "CLANIUS S.C. A R.L.",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "IDROTECNICA - S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GARIGLIO DARIO S.R.L.",
+            "Città": "Volpiano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "COVET S.C.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "WATER \u0026 INDUSTRIAL SERVICES COMPANY S.P.A.- SOCIETA' BENEFIT",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "KRATOS SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BERENATO E GARRO S.R.L.",
+            "Città": "Parma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BRESCIA SPURGHI S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AGIDA AZIENDA GESTIONE IMPIANTI DEPURAZIONE DELLE ACQUE DI S",
+            "Città": "Pozzuoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ARTIGIANA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOSERVIZI NOLEGGI S.R.L.",
+            "Città": "Treviso",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "A.RI.C.A. AZIENDE RIUNITE COLLETTORE ACQUE",
+            "Città": "Arzignano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LOMBARDI BENEDETTO SOCIETA' A RESPONSABILITA' LIMITATA IN FO",
+            "Città": "Formia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "AIRONE SERVIZI SRL",
+            "Città": "Palermo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MPL GROUP SRL",
+            "Città": "Monterotondo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ENVIRONMENTAL SOLUTIONS PROVIDER S.R.L. IN BREVE E.S.P. S.R.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MTT AMBIENTE SRL",
+            "Città": "Mapello",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "L'ORIENTALE SICULA S.R.L.",
+            "Città": "Acireale",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ANGIOLO BARDI S.R.L.",
+            "Città": "Scandicci",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Firenze"
+        }
+    ],
+    [
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VISENTIN S.R.L.",
+            "Città": "Cassola",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SANGALLI SPURGHI SRL",
+            "Città": "Monza",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "M. T. SCAVI SRL",
+            "Città": "Torino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "LOMBARDI SRL",
+            "Città": "Sora",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "VALDERA ACQUE S.R.L.",
+            "Città": "Pontedera",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FOSSI ECOSERVICE SRL",
+            "Città": "Signa",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "IDROSPURGHI DELLA PIETRA SRL",
+            "Città": "Tolmezzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "NEW LAND SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Jesi",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ECOTECNOLOGIE MIETTO SRL O ABBREVIATAMENTE ETM SRL",
+            "Città": "Bollate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ENVI.SE.P. S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GRANDE SPURGHI SAS",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SACECCAV S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SM SERVIZI S.R.L.",
+            "Città": "Casteggio",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "IDRAULICA ULISSE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FRANA SPURGHI SRL SERVIZI AMBIENTALI",
+            "Città": "Madone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SPURGHI AND AGRO GREEN SERVICE SRL",
+            "Città": "Castenedolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "MARASCO SRL",
+            "Città": "Civitavecchia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "RAPID JET SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "IDROAMBIENTE SRL",
+            "Città": "Castenaso",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "BE.PA SPURGHI SRL",
+            "Città": "Carpenedolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "GRIMALDI SERVICES S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "R.V. SPURGO SRL",
+            "Città": "Modena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "ITALIANA SPURGHI SRL IN BREVE ITS SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "SITECO SERVIZI S.R.L.",
+            "Città": "Formello",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "37.00.00",
+            "Azienda": "FELLER MARCO S.R.L.",
+            "Città": "Trento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        }
+    ]
+]

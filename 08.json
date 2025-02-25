@@ -1,0 +1,1993 @@
+[
+    [
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "A.L.P.E. SRL",
+            "Città": "Bagnolo Piemonte",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "TOMATIS GIACOMO S.R.L.",
+            "Città": "Caraglio",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "SELGHIS CALCESTRUZZI SPA",
+            "Città": "Villanova Solaro",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "DUAL S.R.L.",
+            "Città": "Collegno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "IMERYS TALC ITALY S.P.A.",
+            "Città": "Porte",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CAVE LITTARDI SRL",
+            "Città": "Imperia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "CAVE MARTINETTO S.R.L.",
+            "Città": "Zuccarello",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "08.00.00",
+            "Azienda": "MARTINELLI ANTONIO S.R.L.",
+            "Città": "Tavernola Bergamasca",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "BETTONI S.P.A.",
+            "Città": "Castegnato",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "GRUPPO GATTI SPA",
+            "Città": "Lograto",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "LA BETONSCAVI S.R.L.",
+            "Città": "Montichiari",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "LA.GE.S. LAVORAZIONE GESSI SPECIALI SPA",
+            "Città": "Pisogne",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "EREDI VENTURA ANDREA S.R.L.",
+            "Città": "Rezzato",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "P.G.S. ASFALTI S.R.L.",
+            "Città": "Torbole Casaglia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "INERTI BARELLA SRL",
+            "Città": "Como",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "COSMOCAL SPA",
+            "Città": "Sant'Angelo Lodigiano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "CROSIGNANI E. \u0026 FIGLI S.R.L.",
+            "Città": "Arluno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "08.00.00",
+            "Azienda": "IMERYS MINERALI CORSICO SRL A SOCIO UNICO",
+            "Città": "Corsico",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "FABIO PREMAZZI DEGLI EREDI PREMAZZI SRL",
+            "Città": "Venegono Inferiore",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "CAVE KRITZINGER S.R.L.",
+            "Città": "",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "NUOVA LP RIZZOL S.R.L.",
+            "Città": "Albiano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "AVISIO PORFIDI S.R.L.",
+            "Città": "Albiano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "INDUSTRIA ITALIANA PORFIDO SRL",
+            "Città": "Albiano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "PORFIDO TRENTINO S.R.L.",
+            "Città": "Albiano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "COOPERATIVA BOTTEGHI CAVE PORFIDO SOCIETA' COOPERATIVA IN LI",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        }
+    ],
+    [
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "ECOCAVE S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "CAVA RIZZARDI SRL UNIPERSONALE",
+            "Città": "Idro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "FRATELLI MONTERMINI SRL",
+            "Città": "Castellarano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "BELVEDERE S.R.L.",
+            "Città": "",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "VILLA SRL",
+            "Città": "Rea",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "S.E.A.R. S.R.L.",
+            "Città": "Castellarano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "SANTARCANGELO FRANTUMAZIONI SRL",
+            "Città": "Roncofreddo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "INERTI COLVERDE S.R.L.S.",
+            "Città": "Como",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "IN.CA. INERTI CALCAREI S.R.L.",
+            "Città": "Colleferro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "BIANCO MONTORFANO SRL",
+            "Città": "Novara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "PLINTO SYSTEM S.R.L.",
+            "Città": "Longarone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "TOSATO SRL",
+            "Città": "Mantova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "ECOSCAVI SRLS",
+            "Città": "Tortona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "INERTI LAZIO SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "IN.FRA.L.G. SRL",
+            "Città": "Roccasecca",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "CERAMICA SANSEPOLCRO SRL",
+            "Città": "Citerna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "G.I.T. GRANDI INERTI TEVERINI S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "BRIANEGHE CAVE SRL DI SANDRINELLI ELVIO \u0026 C.",
+            "Città": "Mori",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "SE.PA. S.R.L.S.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "ITERECO SRL",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "CAVE VILLORESI S.R.L.",
+            "Città": "Nerviano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "M.D.A. SERVIZI S.R.L.",
+            "Città": "Vasto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "T.Y.R. GROUP S.R.L.",
+            "Città": "Monza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "SC TRASPORTI S.R.L.",
+            "Città": "Colleferro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "CAVE VAL PO S.R.L. CON SOCIO UNICO",
+            "Città": "Envie",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        }
+    ],
+    [
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "ECO G.M. S.R.L.",
+            "Città": "Rimini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "ESCAVAZIONI VILLA SRL",
+            "Città": "Montese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "ENCA SRL",
+            "Città": "Nuoro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "CONSORZIO INERTI FRIULANI",
+            "Città": "Udine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "DIMI SRL",
+            "Città": "Pescara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "CRETA SRL",
+            "Città": "Casalgrande",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "AGRICOLA ANTIGA S.R.L.",
+            "Città": "Colleferro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "NUOVA CAVA VARANA SRL",
+            "Città": "Serramazzoni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "IN.CA.CI. INERTI CAVE CINGOLI SRL",
+            "Città": "Chiaravalle",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "ERA 2000 SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+            "Città": "Spilamberto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "DIECIETTARI SRL",
+            "Città": "Povoletto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "LA RAMPA SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Fontanellato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "IL RECUPERO S.R.L.",
+            "Città": "Valdina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "ROCCA SABECO S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "C.A.I. COMMERCIALE ALBETTONESE INERTI SRL",
+            "Città": "Vicenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "2A SCAMOTER S.R.L.",
+            "Città": "Pedrengo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "UCCI S.R.L.",
+            "Città": "Lanciano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "SICA S.R.L.",
+            "Città": "Mantova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "TRE FONTANE SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "VENETA INVESTIMENTI S.R.L.",
+            "Città": "Vicenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "08.93.00",
+            "Azienda": "MEDITERRANEAN SALT COMPANY SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.93.00",
+            "Azienda": "NO.GI.F SRL",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "08.93.00",
+            "Azienda": "V.R. COSTRUZIONI S.R.L.",
+            "Città": "Marsala",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "08.93.00",
+            "Azienda": "ORO DI SICILIA SRL",
+            "Città": "Paceco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "08.93.00",
+            "Azienda": "OLIMPIA RAFFINERIA SALGEMMA S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        }
+    ],
+    [
+        {
+            "Ateco": "08.93.00",
+            "Azienda": "EDILSALE S.R.L.S. UNIPERSONALE",
+            "Città": "Marsala",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "08.93.00",
+            "Azienda": "YANG CAPITAL S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "08.99.00",
+            "Azienda": "LEONARDO SRL",
+            "Città": "Mantova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "08.10.00",
+            "Azienda": "LA CASTELLETTA S.R.L.",
+            "Città": "Jesi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "08.10.00",
+            "Azienda": "LORIGA VITTORIO S.R.L.",
+            "Città": "Ossi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "08.10.00",
+            "Azienda": "RIALDO CAVE SRLU",
+            "Città": "Rosignano Marittimo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        }
+    ],
+    [
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "UNIONPORFIDI S.R.L.",
+            "Città": "Fornace",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "GIRARDI ELIO S.R.L.",
+            "Città": "Fornace",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "08.99.00",
+            "Azienda": "ALLEGRANZI MIKRONEVE S.A.S. DI ALLEGRANZI S.R.L.",
+            "Città": "Cordignano",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "08.92.00",
+            "Azienda": "GREENVIEW SRL",
+            "Città": "Crocetta del Montello",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "VEDELAGO INERTI S.R.L.",
+            "Città": "Mogliano Veneto",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "INERTI CAMALO' SRL",
+            "Città": "Povegliano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "MONTE BIANCO S.R.L.",
+            "Città": "Grezzana",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "08.92.00",
+            "Azienda": "BERMAR 2 S.R.L.",
+            "Città": "Isola della Scala",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "SE.PI. ESCAVAZIONI S.R.L.",
+            "Città": "San Pietro Mussolino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "C.P.S. S.R.L.",
+            "Città": "Caneva",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "08.99.00",
+            "Azienda": "CASENTINO SCAVI SRL",
+            "Città": "Castel Focognano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "ANTICA CAVA BORGOGNONI S.R.L.",
+            "Città": "Bagni di Lucca",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "TONARELLI S.P.A.",
+            "Città": "Borgo a Mozzano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "BOSI PICCHIOTTI COSTRUZIONI S.R.L.",
+            "Città": "Castelnuovo di Garfagnana",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "CAVE PEDOGNA SPA",
+            "Città": "Pescaglia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "VINCENTI SRL",
+            "Città": "Seravezza",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "BETTOGLI MARMI SRL",
+            "Città": "Carrara",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "ITALCAVE SRL",
+            "Città": "Cecina",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "08.93.00",
+            "Azienda": "MANIFATTURA ITALIANA TABACCO S.P.A.",
+            "Città": "Chiaravalle",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "BASALTO LA SPICCA SOCIETA' PER AZIONI",
+            "Città": "Orvieto",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "BARBETTI I.C. S.R.L.",
+            "Città": "Priverno",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "08.91.00",
+            "Azienda": "SO.RI.CO.M. - SOCIETA RICERCHE COLTIVAZIONI MINERARIE - S.R.",
+            "Città": "Bracciano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "ADDARIO CAMILLO GROUP s.r.l.",
+            "Città": "Lettomanoppello",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "08.00.00",
+            "Azienda": "PALUMBO MARMI S.R.L.",
+            "Città": "Tocco da Casauria",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "S.A.M.I.C.A. - SRL",
+            "Città": "Martinsicuro",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Teramo"
+        }
+    ],
+    [
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "GENERALE INDUSTRIE ESTRATTIVE SPA",
+            "Città": "Maddaloni",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "S.E.MA.C. SRL",
+            "Città": "Mariglianella",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "08.93.00",
+            "Azienda": "ATISALE S.P.A.",
+            "Città": "Margherita di Savoia",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "F.LLI DE BELLIS S.R.L.",
+            "Città": "Foggia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "-GEMAT S.R.L.",
+            "Città": "Alessano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "08.91.00",
+            "Azienda": "ZOLFI VENTILATI MANNINO S.P.A.",
+            "Città": "Cianciana",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "ED.CA.MA. S.R.L.",
+            "Città": "Randazzo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "08.00.00",
+            "Azienda": "MEDI. TOUR SRL",
+            "Città": "Carini",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "08.93.00",
+            "Azienda": "RAFFINERIA SALE CUCCHIARA SRL",
+            "Città": "Partinico",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "08.00.00",
+            "Azienda": "TEAMNETWORK SRL",
+            "Città": "Siracusa",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "08.93.00",
+            "Azienda": "SOSALT SPA",
+            "Città": "Trapani",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "SVILUPPO INDUSTRIALE MINIERE SARDE - SVI.MI.SA. S.P.A. *SVI.",
+            "Città": "Ardara",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "IMI FABI SARDEGNA S.R.L.",
+            "Città": "Orani",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "08.91.00",
+            "Azienda": "SOCIETA MINERARIA BARITINA SPA",
+            "Città": "Brescia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.00.00",
+            "Azienda": "EUROPOMICE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "08.00.00",
+            "Azienda": "COMPAGNIA ITALIANA SALI - CIS S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "SIBELCO ITALIA S.P.A. A SOCIO UNICO",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "HABITAT S.R.L.",
+            "Città": "Nervesa della Battaglia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "08.00.00",
+            "Azienda": "TRAVERTINO MORELLI F. \u0026 C. SOCIETA' A RESPONSABILITA' LIMITA",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.00.00",
+            "Azienda": "FONTANA LARGA - S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "MCISPA SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.00.00",
+            "Azienda": "EUROCAVE S.R.L.",
+            "Città": "Portici",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "08.91.00",
+            "Azienda": "SAIM MINIERE DI ZOLFO SRL",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "08.93.00",
+            "Azienda": "ITALKALI SPA",
+            "Città": "Palermo",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "IMERYS PERLITE SARDINIA S.R.L.",
+            "Città": "Cagliari",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Cagliari"
+        }
+    ],
+    [
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "EDILQUATTRO SRL",
+            "Città": "Borgosatollo",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CAVE PIETRA SCORIA S.R.L.",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "RENICE SRL - CAVE MUGGESANE",
+            "Città": "Muggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "VELLO S.R.L.",
+            "Città": "Montebelluna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "08.10.00",
+            "Azienda": "MARMI BERTACCO SRL",
+            "Città": "Paluzza",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "S.E.L.M.I. SRL",
+            "Città": "Borgetto",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "ECOCAVE S.R.L.",
+            "Città": "Ravenna",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "RUGGI S.R.L. SOCIETA' CONTROLLATA",
+            "Città": "Carpineti",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "TRAMBISERA MARMI SRL",
+            "Città": "Seravezza",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CECCONI NATALE CAVE SRL",
+            "Città": "Seravezza",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "DOLOMITE COLOMBO SPA",
+            "Città": "Lecco",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "INERTEK S.R.L.",
+            "Città": "Alessandria",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "CANDIDO ITALY COMPANY SRL",
+            "Città": "Modica",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "MANDOLESI GIUSEPPE \u0026 PIERINO SRL",
+            "Città": "Fermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Fermo"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "F.LLI POSCIO S.R.L.",
+            "Città": "Villadossola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "GRANITI E MARMI DI BAVENO SRL",
+            "Città": "Baveno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CAVA FAVALLE S.R.L.",
+            "Città": "Domodossola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "ROLANDI S.R.L.",
+            "Città": "Domodossola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "BORDIGONI GINA S.R.L.",
+            "Città": "Carrara",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "ESCAVAZIONE ARABESCATO BIANCO - EAB S.R.L.",
+            "Città": "Carrara",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "TONINI CAVE FANTISCRITTI S.R.L.",
+            "Città": "Carrara",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "DE ANGELIS GIOVANNI SRL",
+            "Città": "Massa",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "BERAN SRL",
+            "Città": "Carrara",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "MARMI PREGIATI CARRARA S.R.L.",
+            "Città": "Carrara",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "BENEO ESCAVAZIONI SRL",
+            "Città": "Carrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        }
+    ],
+    [
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "ARTANA MARMI S.R.L.",
+            "Città": "Massa",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "MARMI DUCALE S.R.L.",
+            "Città": "Massa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "CANTONIERA CAVALLARA S.R.L.",
+            "Città": "Fiscaglia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "AROSS SRL",
+            "Città": "Cingoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "DUCALE MARMI S.R.L.",
+            "Città": "Custonaci",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "ITALMINERARIA - S.R.L.",
+            "Città": "Colorina",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "MARMI MAURI S.R.L.",
+            "Città": "Lanzada",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "RICCIARDO S.R.L.",
+            "Città": "Vigevano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "SCAVI SERGIO SGUBIN S.R.L.",
+            "Città": "Cormons",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "08.10.00",
+            "Azienda": "SABBIE E BASALTI DI SARDEGNA S.R.L.",
+            "Città": "Nuoro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "SEM SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.99.09",
+            "Azienda": "ABIOTEC S.R.L.",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "AREA BASALTI SRL",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "BTR TRADING SRL",
+            "Città": "Tivoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "SANTAFIORA - SOCIETA A RESPONSABILITA LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "IMPRESA CALBIT SRL",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CAVE DI BASALTO S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "TONIOLO S.R.L.",
+            "Città": "Vo'",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "IACONCIG S.R.L.",
+            "Città": "Torreano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CMV MARMI S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "BRECCIA AURORA SRL",
+            "Città": "Carpenedolo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "VICENTINI ROMANO SRL",
+            "Città": "Fornace",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "E.L.T. - ESCAVAZIONE E LAVORAZIONE TRAVERTINI SRL",
+            "Città": "Tivoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "SERMATTEI S.R.L.",
+            "Città": "Pietrasanta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CAMPIMAGLIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "AZARA PIETRO EREDI S.R.L.",
+            "Città": "Arzachena",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "LONGOCAVA SRL",
+            "Città": "Lecce",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "SILPA S.R.L. - SOCIETA' INDUSTRIA LAVORATORI PORFIDO",
+            "Città": "Albiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "G.F. ESTRAZIONI SRL",
+            "Città": "Nuvolera",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "MARMI GALLERIA RAVACCIONE - S.R.L.",
+            "Città": "Carrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "ESCAVAZIONE MARMI LORANO II S.R.L.",
+            "Città": "Carrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CALACATA C S.R.L.",
+            "Città": "Carrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CAVA VOLPARI - S.R.L.",
+            "Città": "Alatri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "MUGNANI GIOVANNI E GERMANO SRL",
+            "Città": "Capannori",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "F.T. CAVE SRL",
+            "Città": "Carrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "GE.DO.B. S.R.L.",
+            "Città": "Ponteranica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "FASANI CELESTE SRL",
+            "Città": "Grezzana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "PEGLIO SRL",
+            "Città": "Firenzuola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "TRESBER S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CIMEP TRAVERTINO ROMANO S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "DEIANA GRANITI S.R.L.",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "C.M. SRL",
+            "Città": "Minucciano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "SCARPAPORFIDI S.R.L.",
+            "Città": "Fornace",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "MARCELLINI SRL",
+            "Città": "Viterbo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "MARMI ROSSI S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "VALENTI NICOLO' S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "S.E.A. - SOCIETA' ESCAVAZIONE ARABESCATO S.R.L.",
+            "Città": "Carrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "ECO-CAVE S.R.L.",
+            "Città": "Saluzzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "BONACIA S.R.L.",
+            "Città": "Mineo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "PORFIDI PIANACCI S.R.L.",
+            "Città": "Albiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        }
+    ],
+    [
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "FIONDA MARMI MURGIA PROJECT S.R.L.- UNIPERSONALE",
+            "Città": "Trani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "DANTE CONSERVA MARMI SRL",
+            "Città": "Carrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "M.A.B. MARBLE S.R.L.",
+            "Città": "Massa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "EREDI MARTINELLI DIVISIONE CAVE SRL",
+            "Città": "Rezzato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "SOCIETA' A RESPONSABILITA' LIMITATA INDUSTRIA MARMI - S.A.I.",
+            "Città": "Tolmezzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "IMMOBILIARE MARANGONI S.R.L.",
+            "Città": "Nuvolera",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CAVA SANTA ROSA SRL",
+            "Città": "Vitorchiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CONSORZIO PRODUTTORI PIETRA PIASENTINA SRL",
+            "Città": "Torreano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CAVE MC STONE S.R.L.",
+            "Città": "Luserna San Giovanni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "F.LLI PITARDI SRL",
+            "Città": "Cursi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "QR S.R.L.",
+            "Città": "Botticino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "ROSSI MARMI S.R.L.",
+            "Città": "Torreano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "GRASSI 1880 CAVE SRL",
+            "Città": "Nanto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "LA CAVA DELL'ETNA SRL",
+            "Città": "Belpasso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "LEONESSA MARMI S.R.L.",
+            "Città": "Rezzato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "COOPERATIVE UNITE MARMI VALBELLA - SOCIETA' COOPERATIVA DI L",
+            "Città": "Asiago",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "NARDI ORAZIO S.R.L. - SOCIETA' UNIPERSON",
+            "Città": "Chiampo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "BERICA PIETRE S.R.L.",
+            "Città": "Zovencedo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CAVA VALSORA SRL",
+            "Città": "Massa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "VENKY'S ITALY QUARRIES S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "LEO MARMI SRL",
+            "Città": "Prevalle",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "ARTIGIANMARMI CAMINETTI S.R.L.",
+            "Città": "Acqualagna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CAVE AMBROGI SRL",
+            "Città": "Chiusi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "SAVIO DOMENICO S.R.L.",
+            "Città": "Botticino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CAVE CARLI SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "REALMARMI S.R.L.",
+            "Città": "Andria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "GEMMA S.R.L.",
+            "Città": "Villadossola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "BERTOLA CAVE SRL",
+            "Città": "Sossano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "BOCCA CANALGRANDE SRL",
+            "Città": "Carrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "MARMIFERA TOSCANA MARMO ROSSO PERLATO DELL'AMIATA S.R.L.",
+            "Città": "Grosseto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "SO.GE.CA.B. S.R.L.",
+            "Città": "Torrenova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "FRATELLI VITIELLO DI ALFREDO S.R.L.",
+            "Città": "Boscotrecase",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "GRANITI E BASALTI DI SARDEGNA S.R.L.",
+            "Città": "Nuoro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "VENKY'S ITALY MARMO S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "IMPRESA ARTIGIANA ANTONINI S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "NATURAL STONE SRL",
+            "Città": "Norcia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "SIRA S.R.L.",
+            "Città": "Carrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "GIULIANO CONVERSI E FIGLI - S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CAVE MARMI A.C. SRL",
+            "Città": "Fumane",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "SOCIETA' ESCAVI VENETA S.R.L. CON SIGLA S.E.V. S.R.L.",
+            "Città": "Vicenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "PIAN MARTINO SCARL",
+            "Città": "Foligno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "FERRARI RICCARDO S.R.L.",
+            "Città": "Carrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "N.P.A. NUOVI PREGIATI APUANI S.R.L.",
+            "Città": "Carrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "MA.PRI.CEM. - S.R.L.",
+            "Città": "Piacenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "ESCAVAZIONE CALACATTA BONDIELLI S.R.L.",
+            "Città": "Massa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "CAVA LAVAGNINA S.R.L.",
+            "Città": "Massa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "08.11.00",
+            "Azienda": "MIGLIORINI \u0026 BERTACCHI S.R.L.",
+            "Città": "Seravezza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "REZZOLA SCAVI SRL",
+            "Città": "Brescia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "FIORENTINI INERTI S.R.L.",
+            "Città": "Artena",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "BETONSCAVI S.R.L.",
+            "Città": "Storo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Trento"
+        }
+    ],
+    [
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "NOVATE MINERARIA SRL",
+            "Città": "Como",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "N.C.T. S.R.L. CON UNICO SOCIO",
+            "Città": "Treviglio",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "FERCAV SRL",
+            "Città": "Sestola",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "EDIL. MO. TER. SRL",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "GOFFI DOMENICO SRL AUTOTRASPOR TI ED ESCAVAZIONE SABBIA",
+            "Città": "Gavardo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "CAVA LAPILLO E POZZOLANA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "SOCIETA' CAVE MANTOVANE A R.L.",
+            "Città": "Marmirolo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "LUNA ROSSA SRL",
+            "Città": "Gallarate",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "TRENTIN SRL",
+            "Città": "Conegliano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "S.E.V. - SOCIETA' ESCAVAZIONE VENETA - S.R.L.",
+            "Città": "Mantova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "ESCAVAZIONI INDUSTRIALI BARONI S.R.L.",
+            "Città": "Sassuolo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "I.S.A.C. - IMPRESA SBANCAMENTI APPALTI COSTRUZIONI SOCIETA'",
+            "Città": "Palermo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "MELONI GUIDO SRL",
+            "Città": "Bedizzole",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "LM ESTRAZIONE PIETRA LAVICA SRL",
+            "Città": "Belpasso",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "MISEROTTI S.R.L.",
+            "Città": "Momo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "CO.IN.TRA. SRL",
+            "Città": "Guardiagrele",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "BOSCA S.R.L.",
+            "Città": "Ravenna",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "M.D.F. SCAVI S.R.L.",
+            "Città": "Sabaudia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "SABBIE D'ORO SRL",
+            "Città": "Ragusa",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "SALA S.R.L",
+            "Città": "Altofonte",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "BUFFOLI FRATELLI S.R.L.",
+            "Città": "Vobarno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "S.D.T. SCAVI DEMOLIZIONI TRASPORTI S.R.L.",
+            "Città": "Trecate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "RETECH S.R.L. A SOCIO UNICO",
+            "Città": "Pordenone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "C.G.A. - CONSORZIO GESTIONE ARGILLE SOCIETA' CONSORTILE A RE",
+            "Città": "Schio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "08.12.00",
+            "Azienda": "BRESCIA CAVE-SRL",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        }
+    ]
+]

@@ -1,0 +1,3749 @@
+[
+    [
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "IL CERRO SOCIETA' COOPERATIVA",
+            "Città": "Cerrina Monferrato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIOINDUSTRIA LABORATORIO ITALIANO MEDICINALI S.P.A.",
+            "Città": "Novi Ligure",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "SANITAS LAB. CHIMICO FARMACEUTICO S.R.L.",
+            "Città": "Tortona",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "HUVEPHARMA ITALIA SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Garessio",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "PROCOS S.P.A.",
+            "Città": "Cameri",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DELPHARM NOVARA S.R.L.",
+            "Città": "Cerano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PROGE FARM S.R.L.",
+            "Città": "Novara",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FARMACEUTICI PROCEMSA S.P.A. SOCIETA' BENEFIT O IN FORMA ABB",
+            "Città": "Nichelino",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "AESICA PHARMACEUTICALS S.R.L.",
+            "Città": "Pianezza",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "AGIPS FARMACEUTICI S.R.L.",
+            "Città": "Rapallo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "LABORATORIO FARMACEUTICO C.T. S.R.L.",
+            "Città": "Sanremo",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "'MASTELLI S.R.L.'",
+            "Città": "Sanremo",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "E.S.E. S.R.L.",
+            "Città": "Calizzano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SIGMAR ITALIA S.P.A.",
+            "Città": "",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "S.A.L.F. SPA LABORATORIO FARMA COLOGICO - con socio unico",
+            "Città": "Cenate Sotto",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "FLAMMA SPA",
+            "Città": "Chignolo d'Isola",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "COSMA SPA CON SOCIO UNICO",
+            "Città": "Ciserano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "BIDACHEM SPA",
+            "Città": "Fornovo San Giovanni",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "CICIEFFE",
+            "Città": "Fornovo San Giovanni",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "ERREGIERRE S.P.A.",
+            "Città": "San Paolo d'Argon",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "CORDEN PHARMA BERGAMO S.P.A.",
+            "Città": "Treviglio",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SAKURA ITALIA S.R.L.",
+            "Città": "Lonato del Garda",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "CONSORZIO FORESTALE DUE PARCHI",
+            "Città": "Vione",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "S.A.L.A.R.S. SOCIETA' AZIONARIA LABORATORI ALCALOIDI RIFORNI",
+            "Città": "Como",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LABORATORIO ITALIANO BIOCHIM. FARMACEUTICO LISAPHARMA SPA",
+            "Città": "Erba",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Como"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LARUS PHARMA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "MEDIOLANUM FARMACEUTICI S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "LABORATORI ALCHEMIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.00",
+            "Azienda": "RECORDATI INDUSTRIA CHIMICA E FARMACEUTICA S.P.A. IN BREVE R",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "BRACCO SPA",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "APTALIS PHARMA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "IMS S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "GRUNENTHAL ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "COMAR S.R.L.",
+            "Città": "San Giuliano Milanese",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FERRING S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ERREKAPPA EUROTERAPICI S.P.A. IN FORMA ABBREVIATA, ANCHE SOT",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "GIULIANI S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BOEHRINGER INGELHEIM ITALIA SPA",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SCHARPER SPA",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "INDUSTRIA FARMACEUTICA NOVA ARGENTIA S.R.L.",
+            "Città": "Gorgonzola",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ITALFARMACO S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FALQUI PRODOTTI FARMACEUTICI SRL",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "BECTON DICKINSON ITALIA SPA",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LABORATORIO CHIMICO DECA DR. CAPUANI S.R.L. -",
+            "Città": "Venezia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "GALDERMA ITALIA S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FARMAKA SRL",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LOFARMA SPA",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "PIERRE FABRE PHARMA SRL",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "MEDA PHARMA SPA",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DOMPE' FARMACEUTICI SPA CON SOCIO UNICO",
+            "Città": "Milano",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "BERNETT SRL",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "MIPHARM S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "ROTTAPHARM SPA",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DOC GENERICI S.R.L. O IN FORMA ABBREVIATA DOC S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "SPIN SPA",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SPA SOCIETA PRODOTTI ANTIBIOTICI SPA",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ALCON ITALIA S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "S.R.L. MF. FILTRI",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "RICERFARMA SRL",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FRANCIA FARMACEUTICI SRL A SOCIO UNICO",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "A.M.S.A. ANONIMA MATERIE SINTETICHE E AFFINI SPA CON SOCIO U",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SANOFI S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "BRACCO IMAGING S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "VALEAS S.P.A. INDUSTRIA CHIMICA E FARMACEUTICA SOCIETA' UNIP",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BOEHRINGER INGELHEIM ANIMAL HEALTH ITALIA SPA",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "EPITECH GROUP SPA",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "EG SPA",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "EISAI S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "GPQ S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "KYOWA KIRIN SRL",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "UCB PHARMA S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "OLAB FARMACEUTICA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FARMACEUTICI FORMENTI S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "LUNDBECK PHARMACEUTICALS ITALY S.P.A.",
+            "Città": "Padova",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "MONICO S.P.A.",
+            "Città": "Venezia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Venezia"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "GLAXOSMITHKLINE MANUFACTURING S.P.A.",
+            "Città": "Verona",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "INDUSTRIA ITALIANA INTEGRATORI TREI SPA CON UNICO SOCIO",
+            "Città": "Modena",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "SICEM SAGA - S.P.A.",
+            "Città": "Parma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SAVOMA MEDICINALI S.P.A.",
+            "Città": "Parma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "CHIESI FARMACEUTICI S.P.A.",
+            "Città": "Parma",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "ICE S.P.A. A SOCIO UNICO",
+            "Città": "Reggio nell'Emilia",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "S I M S SOCIETA' ITALIANA MEDICINALI SCANDICCI SRL",
+            "Città": "Firenze",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LABORATORIO TERAPEUTICO*M.R.- S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "A. MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FABBRICA ITALIANA RITROVATI MEDICINALI E AFFINI",
+            "Città": "Firenze",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "A. MENARINI MANUFACTURING LOGISTICS AND SERVICES SRL",
+            "Città": "Firenze",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "TISSUELAB S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SIXTEM LIFE SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Prato",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "MEDIBASE - S.R.L.",
+            "Città": "Prato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ISTITUTO ZOOPROFILATTICO SPERIMENTALE DELL'UMBRIA E DELLE MA",
+            "Città": "Perugia",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "SCHALCON S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BAXTER S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ANGELINI PHARMA ITALIA AZIENDE CHIMICHE RIUNITE ANGELINI FRA",
+            "Città": "Roma",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "MERCK SERONO S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "MSD ITALIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ERGON SUTRAMED S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "ISTITUTO CHIMICO INTERNAZIONALE DR RENDE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "TAKEDA MANUFACTURING ITALIA S.P.A.",
+            "Città": "Cittaducale",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Rieti"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "VISUFARMA - SOCIETA' PER AZIONI, IN FORMA ABBREVIATA VISUFAR",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.00",
+            "Azienda": "TAKEDA ITALIA S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "BIOPHARMA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DAIICHI SANKYO ITALIA SOCIETA' PER AZIONI IN FORMA ABBREVIAT",
+            "Città": "Roma",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.00",
+            "Azienda": "OMIKRON ITALIA SRL",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "POLIFARMA BENESSERE SRL (A SOCIO UNICO)",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "HAL ALLERGY S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SPECIAL PRODUCT'S LINE S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ESSETI FARMACEUTICI S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FARMACEUTICI DAMOR SPA UNIPERSONALE",
+            "Città": "Napoli",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "KERR ITALIA SRL",
+            "Città": "Scafati",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "K24 PHARMACEUTICALS S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "MEDIVIS SRL",
+            "Città": "Tremestieri Etneo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ZOETIS MANUFACTURING ITALIA S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FARMITALIA SRL - SOCIETA' UNIPERSONALE",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FALL.KIMED SRL",
+            "Città": "Biassono",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PFIZER S.R.L.",
+            "Città": "Latina",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ALFASIGMA S.P.A.",
+            "Città": "Bologna",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "VIATRIS PHARMA SRL",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "POLIFARMA S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "KELEMATA S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "NEOPHARMED GENTILI S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "INDUSTRIALE CHIMICA S.R.L.",
+            "Città": "Saronno",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "CURIA ITALY S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ZAMBON ITALIA S.R.L.",
+            "Città": "Bresso",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DELPHARM MILANO SRL",
+            "Città": "Segrate",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "APTUIT (VERONA) SRL",
+            "Città": "Verona",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Verona"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "OFFICINA PROFUMO FARMACEUTICA DI SANTA MARIA NOVELLA S.P.A.",
+            "Città": "Firenze",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "LODICHEM S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "HALEON ITALY MANUFACTURING SRL",
+            "Città": "Aprilia",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ALMUS S.R.L. CON SOCIO UNICO",
+            "Città": "Genova",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PHARMANUTRA SPA",
+            "Città": "Pisa",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SEQIRUS S.R.L.",
+            "Città": "Monteriggioni",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ISTITUTO GENTILI S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LEO PHARMA MANUFACTURING ITALY S.R.L.",
+            "Città": "Segrate",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ADVAXIA S.R.L.",
+            "Città": "Pomezia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "REITHERA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ITALDEVICE S.R.L.",
+            "Città": "Pomezia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "C \u0026 G FARMACEUTICI S.P.A",
+            "Città": "Napoli",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "NEVIA BIOTECH S.R.L.",
+            "Città": "Montella",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ANIKA THERAPEUTICS S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIOMEDICA FOSCAMA INDUSTRIA CHIMICO-FARMACEUTICA S.P.A.",
+            "Città": "Ferentino",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ALK ABELLO' S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "AEFFE FARMACEUTICI SRL",
+            "Città": "Gorgonzola",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DULA'C FARMACEUTICI 1982 S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SOPHOS BIOTECH SRL",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BERTA SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "REVI PHARMA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FARTO S.R.L. - FARMACO BIOCHIMICO TOSCANO",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIOMOL LABORATORIES S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LEADER MEDICA SRL",
+            "Città": "Padova",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PIERPAOLI EXELYAS SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIOMEDICA BUSINESS DIVISION S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ITALIAN DEVICES SOCIETA' A RESPONSABILITA' LIMITATA - IN FOR",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ELYTRA PHARMA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PAVIA FARMACEUTICI S.R.L.",
+            "Città": "Copiano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "WELLPHARMA SRL",
+            "Città": "Iseo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "A. MENARINI NEWTECH SRL",
+            "Città": "Firenze",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "TDC TECHNOLOGY DEDICATED TO CARE SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FREIA FARMACEUTICI SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "MICROFARMA SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Perugia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "CELLTECH S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "OFTALPHARMA S.R.L.",
+            "Città": "Prato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIOITECH SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DERMOGROUP SRL",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SACA UNIT BIO S.R.L.",
+            "Città": "Opera",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIOPLAX ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "CAPIETAL ITALIA SRL",
+            "Città": "Bergamo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SYGNUM SRL",
+            "Città": "Carignano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LOGIDEX S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "IDEKA S.R.L.",
+            "Città": "Camposampiero",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "KURA SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIO-THERAPIC ITALIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "HOMEOSYN ITALIA SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ADRANOX SRL",
+            "Città": "Mantova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LEVANTE S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LABORATORI OMEOPATICI LINDA'S S.R.L.",
+            "Città": "Castenaso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ISTITUTO DI RICERCA MEDICA S.R.L.",
+            "Città": "Verona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PLASMALIFE S.R.L.",
+            "Città": "Monteriggioni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "THOMPSON S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIOCOLTURALAB SRL",
+            "Città": "Muggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "GIOVANARDI FARMACEUTICI S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "INFRABIOS SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIOGEN PHARMA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LEVANPHARMA SRL",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "POSTBIOTICA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SUPER - TEX S.R.L.",
+            "Città": "Sora",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "METIS HEALTHCARE SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIER FARMACEUTICI S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PROMEDICA S.R.L.",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PURYTRA FARMACEUTICI SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "COLLFIX SRL",
+            "Città": "Manerbio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SILMARC PHARMA SRL",
+            "Città": "Capannori",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "CICIGI S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "MASTER PHARMA S.R.L.",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ROSE PHARMA ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SPD SALMOIRAGHI PRODUZIONE DENTARIA S.R.L.",
+            "Città": "Mulazzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SEBOVIT SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LYSATECH S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DUALLIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "CRESCOFARMA SRL",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PLUMESTARS S.R.L.",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "NAT PHARMA SRL",
+            "Città": "Gattico-Veruno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PALATINI SERVIZI SRL",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "NEOGEN S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "EMBRYON LABORATORIES SRL",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIOAKOS FARMA LABORATORI SRL",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ERREDUEFARMA S.R.L.",
+            "Città": "Pomezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SMOX20 SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "UNICHANCEPHARMA SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PHARMA GAM S.R.L.",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "GOLDFARMA SRL UNIPERSONALE",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "OFFICINA SPEZIALE SRL",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "IMMUNEPHARMA S.R.L.",
+            "Città": "Fisciano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "GOONPHARMA SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Pomezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "JERIDI PHARMA SRL",
+            "Città": "Pantigliate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "GENENTA SCIENCE SPA",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FARMIT SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Pomezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "NUTRIPHARMA SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "2LAB SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FERRERI S.R.L.",
+            "Città": "Caserta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FRALL HEALTH S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SERAN FARMA SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PLANBIO COSMETICS SOCIETA' A RESPONSABILITA' LIMITATA (IN SI",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FYOX SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIOGREEN PHARMACEUTICAL S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DEVERGE' - MEDICINA E MEDICALIZZAZIONE SRL IN LIQ.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "BAYER HEALTHCARE MANUFACTURING S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "ECUPHARMA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "ISTITUTO FARMOCHIMICO FITOTERAPICO EPO SRL",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "CHEMO BIOSYNTHESIS S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "ECUPHAR ITALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "EUROAPI ITALY SRL",
+            "Città": "Brindisi",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "DR. RECKEWEG ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "KELISEMA - S.R.L.",
+            "Città": "Tavernerio",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "NIOLIP S.R.L.",
+            "Città": "Pomezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "ENTOMON S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "NEORLAND S.RL.L.",
+            "Città": "Cremona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "NIMA FARMACEUTICI SRL",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "JUNIA PHARMA SRL A SOCIO UNICO",
+            "Città": "Pisa",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "CRISTALFARMA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "COMBE ITALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "PHARMASUISSE LABORATORIES S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "ALLIANCE PHARMA SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "INJECTALIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "UNIFARMED S.R.L.",
+            "Città": "Adrano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "BENEDETTI \u0026 CO BIOSOLUTIONS S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "HMGBIOTECH SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "PELAN - S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "ZAMBON GROUP SPA",
+            "Città": "Bresso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "LA FARMOCHIMICA ITALIANA SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ISTITUTO DE ANGELI S.R.L.",
+            "Città": "Reggello",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Firenze"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "CATALENT ANAGNI S.R.L.",
+            "Città": "Anagni",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DIASORIN ITALIA S.P.A.",
+            "Città": "Saluggia",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Vercelli"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "OPELLA HEALTHCARE ITALY S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "CERICHEM BIOPHARM - S.R.L.",
+            "Città": "Cerignola",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ADVANCED ACCELERATOR APPLICATIONS MOLECULAR IMAGING ITALY S.",
+            "Città": "Pozzilli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Isernia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FARMOL HEALTH CARE SRL",
+            "Città": "Comun Nuovo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "HAEMOPHARM BIOFLUIDS S.R.L.",
+            "Città": "Tovo di Sant'Agata",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "GIOCHEMICA S.R.L.",
+            "Città": "Monteforte d'Alpone",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "VAMFARMA SRL",
+            "Città": "Comazzo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "FERRANIA CHEMICALS S.R.L.",
+            "Città": "Cairo Montenotte",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "NERPHARMA S.R.L.",
+            "Città": "Nerviano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SIRTON PHARMACEUTICALS S.P.A.",
+            "Città": "Villa Guardia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "GENETIC FARMA S.R.L.",
+            "Città": "Castel San Giorgio",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "PIERREL S.P.A.",
+            "Città": "Capua",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DIFARCO S.R.L.",
+            "Città": "Vimercate",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "MITIM SRL",
+            "Città": "Brescia",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "IPSO PHARMA SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Episcopia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PHARMEG S.R.L.",
+            "Città": "Episcopia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "NUREX S.R.L.",
+            "Città": "Sassari",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "P.M.S. PHARMA S.R.L.",
+            "Città": "Montesilvano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "21.20.01",
+            "Azienda": "SPARKLE SRL",
+            "Città": "Montecosaro",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "LOGITER ONE S.R.L.",
+            "Città": "Anzola dell'Emilia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "IUPPA INDUSTRIALE SRL",
+            "Città": "Alice Bel Colle",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "D.FENSTEC S.R.L.",
+            "Città": "Altavilla Vicentina",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "SERGIO FONTANA S.R.L.",
+            "Città": "Canosa di Puglia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "GENTIUM - S.R.L.",
+            "Città": "Villa Guardia",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "CONSORZIO FORESTALE PADANO SOCIETA' AGRICOLA COOP.",
+            "Città": "Casalmaggiore",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "FRESENIUS MEDICAL CARE ITALIA SPA",
+            "Città": "Palazzo Pignano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "SIS-TER S.P.A.",
+            "Città": "Palazzo Pignano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "IBSA FARMACEUTICI ITALIA S.R.L",
+            "Città": "Lodi",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FULTON MEDICINALI SPA CON SOCIO UNICO",
+            "Città": "Arese",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "TECHIM GROUP SRL",
+            "Città": "Arese",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ASTELLAS PHARMA S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "IPSEN SOCIETA' PER AZIONI",
+            "Città": "Assago",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "FAMAR ITALIA",
+            "Città": "Baranzate",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "ZAMBON S.P.A.",
+            "Città": "Bresso",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "TEMMLER ITALIA S.R.L.",
+            "Città": "Carugate",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "FRESENIUS KABI IPSUM S.R.L.",
+            "Città": "Cassina de' Pecchi",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LIFEPHARMA S.P.A.",
+            "Città": "Cinisello Balsamo",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "CHEMI SPA",
+            "Città": "Cinisello Balsamo",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BELTAPHARM S.P.A.",
+            "Città": "Cusano Milanino",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "COSMO S.P.A.",
+            "Città": "Lainate",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "AVARA LISCATE PHARMACEUTICAL SERVICES SPA",
+            "Città": "Liscate",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "BIOLOGICI ITALIA LABORATORIES S.R.L. A SOCIO UNICO",
+            "Città": "Masate",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ESAPHARMA S.P.A.",
+            "Città": "Melzo",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "URIACH ITALY S.R.L.",
+            "Città": "Assago",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "LAMPUGNANI FARMACEUTICI S.P.A.",
+            "Città": "Nerviano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ACTAVIS ITALY SPA A SOCIO UNICO",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "EDMOND PHARMA SRL A SOCIO UNICO",
+            "Città": "Paderno Dugnano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "CAMBREX PROFARMACO MILANO S.R.L.",
+            "Città": "Paullo",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIOMED PHARMA SRL",
+            "Città": "Cairo Montenotte",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "INTEGRALFARMA S.R.L.",
+            "Città": "Canistro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ACZON S.R.L.",
+            "Città": "Monte San Pietro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DERMOPROG S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "INPHASER S.A.S. DI SANTORO BASILIO E C.",
+            "Città": "Peschiera Borromeo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "VERITAS S.R.L.",
+            "Città": "Villa Carcina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "MEBEL S.R.L.",
+            "Città": "Villafranca di Verona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "IFL IDEAS FOR LIFE S.R.L",
+            "Città": "Ostuni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "AURORA S.R.L.",
+            "Città": "Latina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "MARISPHARMA SRL",
+            "Città": "Frosinone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "MITOCHON SRL",
+            "Città": "San Lazzaro di Savena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "TYPEONE S.R.L. O TYPEONE S.R.L. SPIN OFF DELL'UNIVERSITA' DE",
+            "Città": "Lecce",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "AVLAB SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "REVEDIX S.R.L.",
+            "Città": "Quinto Vicentino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "INSECT PHARMA ENTOMOTHERAPY S.R.L.",
+            "Città": "Sesto Fiorentino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "CHEMIO TECNICA SNC DI RONCATO E QUALIZZA",
+            "Città": "San Vito al Torre",
+            "Fatturato": "",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LA.CO.DA. DI DAGOSTIN SILVIA",
+            "Città": "Ziano di Fiemme",
+            "Fatturato": "",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BAXTER ITALY - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "POLYCRYSTALLINE CDMO S.R.L.",
+            "Città": "Mesagne",
+            "Fatturato": "",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "GINETIC PHARMA DI COLALEO MICHELE \u0026 C. SNC",
+            "Città": "Catania",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "HERBARTEM SNC DI GRECO ANTONIO \u0026 BEVILACQUA DANIELE",
+            "Città": "Montecassiano",
+            "Fatturato": "",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "KALLIDENDRIA SAS DI CEGANI IDA E C.",
+            "Città": "Campione d'Italia",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "FARMACIA DI SIRTORI S.A.S. DELLA DR.SSA PAOLA STELLA",
+            "Città": "Sirtori",
+            "Fatturato": "",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIOGENERA S.P.A.",
+            "Città": "Alto Reno Terme",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "COSMOSERBE LAB DI TIELLA TATIANA",
+            "Città": "Rovereto",
+            "Fatturato": "",
+            "Provincia": "Trento"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "EUPRANA S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "AGRICONS RICERCHE DI NICOLI CARLA",
+            "Città": "Piazzola sul Brenta",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "RAMINI S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FALLIMENTO FACE LABORATORI FARMACEUTICI SPA",
+            "Città": "Genova",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ERBORISTERIA FRANCESCANA DI GALEANO ROSARIO",
+            "Città": "Viagrande",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "21.20.00",
+            "Azienda": "SCICLONE PHARMACEUTICALS ITALY S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "HERBA SANATRIX DI E BENEDICTIS PIERA",
+            "Città": "Modugno",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "HERING DI BELLINO M.A. E C. SNC",
+            "Città": "Pozzallo",
+            "Fatturato": "",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIOCI DI CIAIOLO CARLO",
+            "Città": "Airasca",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "PHARMA 30 S.R.L.",
+            "Città": "Rubano",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ITC PRODUCTION S.R.L.",
+            "Città": "Latina",
+            "Fatturato": "",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "A.R.C. DI ALFREDO BOTTONI \u0026 C. S.N.C",
+            "Città": "Portomaggiore",
+            "Fatturato": "",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "AURUM SNC DI GIOVANNI LA MALFA \u0026 C.",
+            "Città": "Rimini",
+            "Fatturato": "",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "OPTIMIST S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PRECISION BIOTHERAPEUTICS SRL IN BREVE PRE BIOT SR",
+            "Città": "Perugia",
+            "Fatturato": "",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FARMAXIAL NUTRACEUTICAL MANUFA CTURING SERVICES S.R.L.",
+            "Città": "Belpasso",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "CRAB SINERGY SRL",
+            "Città": "Costa Volpino",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "TREBIFARMA SRL",
+            "Città": "Genova",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FARMA VALENS S.R.L.",
+            "Città": "Santa Venerina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "REVALMA INC S.R.L. SOCIETA' BENEFIT",
+            "Città": "Casale Monferrato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DYNACREN LABORATORIO FARMACEUTICO DEL DOTTOR A. FRANCIONI E",
+            "Città": "Castelletto sopra Ticino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ESADEA SRL",
+            "Città": "Grottaglie",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DYASET S.R.L.",
+            "Città": "Portomaggiore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LIFELINELAB SRL",
+            "Città": "Guidonia Montecelio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ALLERGOLINE BIOTECH \u0026 RESEARCH S.R.L.",
+            "Città": "Castelfranco Emilia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "REFORM ITALIA S.R.L.",
+            "Città": "Endine Gaiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ISTITUTO ZOOPROFILATTICO SPERIMENTALE DELL'ABRUZZO E DEL MOL",
+            "Città": "Teramo",
+            "Fatturato": "",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIORAMA S.R.L.",
+            "Città": "Rogeno",
+            "Fatturato": "",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PALMESE OFTALMIC SERVICE DI ANDREA PALMESE E C. S.A.S.",
+            "Città": "Pomigliano d'Arco",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ADARE PHARMACEUTICALS SRL",
+            "Città": "Pessano con Bornago",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "OLON S.P.A.",
+            "Città": "Rodano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ISTITUTO LUSO FARMACO D'ITALIA S.P.A.",
+            "Città": "Rozzano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DIA.PRO DIAGNOSTIC BIOPROBES S.R.L.",
+            "Città": "Sesto San Giovanni",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "NUCLEAR LASER MEDICINE SRL",
+            "Città": "Settala",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FARMILA - THEA FARMACEUTICI S.P.A.",
+            "Città": "Settimo Milanese",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ALLERGY THERAPEUTICS ITALIA SRL",
+            "Città": "Settimo Milanese",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SOFAR SPA",
+            "Città": "Trezzano Rosa",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "ACS DOBFAR SPA",
+            "Città": "Tribiano",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "ALFAR S.R.L.",
+            "Città": "Agrate Brianza",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "CEVA SALUTE ANIMALE S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "CORDEN PHARMA SPA",
+            "Città": "Caponago",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "ADIENNE S.R.L.",
+            "Città": "Caponago",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "P. \u0026 C. PRODUCTS SRL",
+            "Città": "Desio",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PATHEON ITALIA S.P.A.",
+            "Città": "Monza",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ALFA OMEGA SRL",
+            "Città": "Monza",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "ROCHE S.P.A.",
+            "Città": "Monza",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "TELEFLEX MEDICAL S.R.L.",
+            "Città": "Varedo",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "FARMABIOS SPA",
+            "Città": "Gropello Cairoli",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "HIKMA ITALIA S.P.A.",
+            "Città": "Pavia",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "GB PHARMA SRL",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SINAPAK S.R.L.",
+            "Città": "Stradella",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "TEOFARMA SRL",
+            "Città": "Valle Salimbene",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIEFFE MEDITAL S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LABORATORIO FARMACOLOGICO MILANESE SRL",
+            "Città": "Caronno Pertusella",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Varese"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DIFA - COOPER SPA",
+            "Città": "Caronno Pertusella",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "PURICELLI AMBIENTE VERDE S.R.L.",
+            "Città": "Jerago con Orago",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "NOVARTIS FARMA SPA",
+            "Città": "Milano",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "PROVINCIA AUTONOMA DI BOLZANO",
+            "Città": "",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "LABOR VILLA STODDARD SRL",
+            "Città": "",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "FEICHTER SRL",
+            "Città": "",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "ARCO PEGASO SOCIETA' COOPERATIVA",
+            "Città": "Arco",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "RIFUGIO DES ALPES DI CROCE EZIO \u0026 C. S.A.S.",
+            "Città": "Campitello di Fassa",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "SUANFARMA ITALIA S.P.A.",
+            "Città": "Rovereto",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "CONSORZIO LAVORO AMBIENTE S.C. IN SIGLA CLA SOC. COOP.",
+            "Città": "Trento",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "E-PHARMA TRENTO S.P.A.",
+            "Città": "Trento",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "NEW MAK S.R.L.",
+            "Città": "Borgo Valbelluna",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "FIDIA FARMACEUTICI S.P.A.",
+            "Città": "Abano Terme",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "AL.CHI.MI.A. S.R.L.",
+            "Città": "",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIOS LINE S.P.A.",
+            "Città": "",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "CHEMICALS LAIF SPA",
+            "Città": "Vigonza",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PANIN S.R.L.",
+            "Città": "Rovigo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PRODECO PHARMA S.R.L.",
+            "Città": "Castelfranco Veneto",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "POLETTO ALDO SRL",
+            "Città": "",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "STUDIO 3 FARMA - S.R.L.",
+            "Città": "Torre di Mosto",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SIGNORINI MEDICALE S.R.L.",
+            "Città": "Albaredo d'Adige",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SPECCHIASOL SRL",
+            "Città": "Bussolengo",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "NUOVA FARMEC SRL",
+            "Città": "Pescantina",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "F.I.S. FABBRICA ITALIANA SINTETICI S.P.A.",
+            "Città": "Montecchio Maggiore",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LABORATORIO CHIMICO FARMACEUTICO A. SELLA S.R.L.",
+            "Città": "Schio",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Vicenza"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ZETA FARMACEUTICI - S.P.A.",
+            "Città": "Vicenza",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "MARCO VITI FARMACEUTICI S.P.A.",
+            "Città": "Vicenza",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "VALCELLINA COOPERATIVA SOCIETA' COOPERATIVA",
+            "Città": "Barcis",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "FRIULCHEM S.P.A.",
+            "Città": "Vivaro",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "EUROSPITAL S.P.A.",
+            "Città": "Trieste",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "VIVABIOCELL S.P.A.",
+            "Città": "Udine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PLASTOD - S.P.A.",
+            "Città": "Calderara di Reno",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FARMACEUTICI-MEDICAZIONE-ARTICOLI CHIRURGICI-FARMAC-ZABBAN S",
+            "Città": "Calderara di Reno",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "AZIENDA TERAPEUTICA ITALIANA A.T.I. SRL",
+            "Città": "Ozzano dell'Emilia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FATRO S.P.A.",
+            "Città": "Ozzano dell'Emilia",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FARMA - DERMA S.R.L.",
+            "Città": "Sala Bolognese",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "C.O.C. FARMACEUTICI S.R.L.",
+            "Città": "Sant'Agata Bolognese",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "CHEMIFARMA SPA CON SOCIO UNICO",
+            "Città": "",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ADM ANIMAL NUTRITION ITALY SRL",
+            "Città": "Carpi",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "ENABLE INNOVATIONS S.R.L.",
+            "Città": "Carpi",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "OPOCRIN S.P.A.",
+            "Città": "Formigine",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "BIOFER S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "G21 S.R.L.",
+            "Città": "San Possidonio",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "LAMP SAN PROSPERO - S.P.A.",
+            "Città": "San Prospero",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "DOPPEL FARMACEUTICI SRL",
+            "Città": "Cortemaggiore",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "MICROCHEM SRL",
+            "Città": "Fiorenzuola d'Arda",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "KEMIN CAVRIAGO SRL UNIPERSONALE",
+            "Città": "Cavriago",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "'ACME DRUGS - S.R.L.'",
+            "Città": "Cavriago",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "AKEMA S.R.L.",
+            "Città": "Coriano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "VALPHARMA INTERNATIONAL S.P.A. CON SOCIO UNICO",
+            "Città": "Pennabilli",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Rimini"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "MALESCI SPA",
+            "Città": "Bagno a Ripoli",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LABORATORIO SODINI SRL",
+            "Città": "Greve in Chianti",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "DITTA LUIGI SALVADORI S.R.L.",
+            "Città": "Lodi",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "L.MOLTENI \u0026 C.DEI F.LLI ALITTI SPA",
+            "Città": "Scandicci",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "MOLTENI DENTAL S.R.L.",
+            "Città": "Scandicci",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ANALLERGO SRL",
+            "Città": "Scarperia e San Piero",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ELI LILLY ITALIA SPA",
+            "Città": "Sesto Fiorentino",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "SOCIETA' AGRICOLA FUORICAMPO SOCIETA' A RESPONSABILITA' LIMI",
+            "Città": "Collesalvetti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "KEDRION S.P.A.",
+            "Città": "Barga",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PIETRASANTA PHARMA SOCIETA' PER AZIONI",
+            "Città": "Capannori",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "TERRA UOMINI E AMBIENTE SRL",
+            "Città": "Coreglia Antelminelli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FARMIGEA SPA",
+            "Città": "Pisa",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "LABORATORI GUIDOTTI S.P.A.",
+            "Città": "Pisa",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "LABORATORI BALDACCI SPA",
+            "Città": "Pisa",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ABIOGEN PHARMA S.P.A.",
+            "Città": "Pisa",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "LEVETTA S.A.S. DI MAFFEI MICHELE \u0026 C.",
+            "Città": "Pistoia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FALORNI S.RL.",
+            "Città": "Sesto Fiorentino",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "AGRICOLA VILLA CERNA \u0026 ROSA SOCIETA' SEMPLICE - SOCIETA' AGR",
+            "Città": "Castellina in Chianti",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "CARNOVALE S.R.L. SOCIETA' AGRICOLA FORESTALE",
+            "Città": "Colle di Val d'Elsa",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "INDUSTRIA FARMACEUTICA GALENICA SENESE SRL",
+            "Città": "Monteroni d'Arbia",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "GEO AMIATA SOCIETA'COOPERATIVA AGRICOLA A R.L.",
+            "Città": "Piancastagnaio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "GLAXOSMITHKLINE VACCINES SRL",
+            "Città": "Siena",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "PHARMAPROGRESS S.R.L.",
+            "Città": "Monsano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FB VISION SPA",
+            "Città": "San Benedetto del Tronto",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "NEURAXPHARM ITALY SPA",
+            "Città": "Ascoli Piceno",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Ascoli Piceno"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PHITOGEN BEAUTY LABS SRL",
+            "Città": "San Benedetto del Tronto",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FARMA GROUP SRL",
+            "Città": "Camerano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ACOM - ADVANCED CENTER ONCOLOGY MC SRL",
+            "Città": "Montecosaro",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "STERLING S.P.A.",
+            "Città": "Corciano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "3 ERRE B S.N.C. DI BUIA MANLIO E C.",
+            "Città": "Baschi",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BIOMEDICA FOSCAMA - INDUSTRIA CHIMICO FARMACEUTICA SOCIETA'",
+            "Città": "Ferentino",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "ISTITUTO BIOCHIMICO ITALIANO G.LORENZINI SPA",
+            "Città": "Aprilia",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "WYETH LEDERLE SRL",
+            "Città": "Latina",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "CATALENT ITALY S.P.A.",
+            "Città": "Aprilia",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ABBVIE S.R.L.",
+            "Città": "Aprilia",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "INTERVET PRODUCTIONS S.R.L. CON UNICO SOCIO",
+            "Città": "Aprilia",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "PFIZER ITALIA SRL",
+            "Città": "Latina",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BSP PHARMACEUTICALS S.P.A.",
+            "Città": "Latina",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ITC FARMA SRL",
+            "Città": "Latina",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "LATINA PHARMA SOCIETA' PER AZIONI",
+            "Città": "Sermoneta",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ROXALL-ARISTEGUI ITALIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "OMISAN FARMACEUTICI S.R.L.",
+            "Città": "Guidonia Montecelio",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FARMACEUTICI CABER SRL",
+            "Città": "Pomezia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "SAVIO PHARMA ITALIA SRL",
+            "Città": "Pomezia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SO.SE.PHARM S.R.L. SOCIETA' DI SERVIZIO PER L'INDUSTRIA FARM",
+            "Città": "Pomezia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "CANTEL MEDICAL (ITALY) S.R.L.",
+            "Città": "Pomezia",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "TUBILUX PHARMA S.P.A.",
+            "Città": "Pomezia",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "IDI FARMACEUTICI S.R.L.",
+            "Città": "Pomezia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ITALCHIMICI SPA",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SAVIO INDUSTRIAL SRL",
+            "Città": "Pomezia",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ESSETI FARMACEUTICI S.R.L.",
+            "Città": "Pomezia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "INDUSTRIA BOSCHIVA M.G. SRL",
+            "Città": "Avezzano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "O.T.I. S.R.L. OFFICINE TERAPIE INNOVATIVE",
+            "Città": "Carsoli",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PHARMAPIU' S.R.L.",
+            "Città": "",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ITALIANA MEDICAZIONE S.R.L.",
+            "Città": "Loreto Aprutino",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LIOFILCHEM S.R.L.",
+            "Città": "Roseto degli Abruzzi",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "21.20.00",
+            "Azienda": "ADVANCED ACCELERATOR APPLICATIONS (ITALY) S.R.L.",
+            "Città": "Pozzilli",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Isernia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "GALSOR S.R.L.",
+            "Città": "Montella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ALTERGON ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ALFA INTES INDUSTRIA TERAPEUTICA SPLENDORE S.R.L.",
+            "Città": "Casoria",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LA.FA.RE. LABORATORIO FARMACEUTICO REGGIANO SRL",
+            "Città": "Ercolano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "NEW FA.DEM. S.R.L.",
+            "Città": "Giugliano in Campania",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "GENETIC S.P.A.",
+            "Città": "Castel San Giorgio",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "FISIOPHARMA SRL UNINOMINALE",
+            "Città": "Palomonte",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "FARMASOL S.R.L.",
+            "Città": "Balvano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "EPIFARMA SRL",
+            "Città": "Episcopia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "21.20.00",
+            "Azienda": "S.M. FARMACEUTICI SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Tito",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "FARMALABOR S.R.L.",
+            "Città": "Canosa di Puglia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "LACHIFARMA S.P.A. LABORATORIO CHIMICO FARMACEUTICO SALENTINO",
+            "Città": "Zollino",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "CAM HOSPITAL S.R.L.",
+            "Città": "Paola",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "HERBAL E ANTIOXIDANT DERIVATIVES - S.R.L. ED IN FORMA ABBREV",
+            "Città": "Bianco",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "SOCIETA' AGRICOLA LA FORESTA S.R.L.",
+            "Città": "Serra San Bruno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Vibo Valentia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "VETEM S.P.A.",
+            "Città": "Porto Empedocle",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "SIFI S.P.A.",
+            "Città": "Aci Sant'Antonio",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "EUROFARM S.P.A.",
+            "Città": "Belpasso",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Catania"
+        }
+    ],
+    [
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "HERING SRL",
+            "Città": "Modica",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "ORTUABIS - SOCIETA' COOPERATIVA",
+            "Città": "Meana Sardo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "TEKNOFARMA S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PALADIN PHARMA SPA CON UNICO SOCIO",
+            "Città": "Torino",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "SOCIETA' COOPERATIVA AGRICOLA E DI FORESTAZIONE - SOCIETA' C",
+            "Città": "Torino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ANTIPIOL S.N.C. DI CESANO FABIO E C.",
+            "Città": "Torino",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ABC FARMACEUTICI S.P.A.",
+            "Città": "Torino",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "BRUSCHETTINI SRL",
+            "Città": "Genova",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "PIAM FARMACEUTICI SOCIETA' PER AZIONI",
+            "Città": "Genova",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "IZO S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "TRUFFINI \u0026 REGGE' FARMACEUTICI SRL",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "INDENA SPA",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "FORMEVET S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "INPHARMA SPA",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "NTC S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "MONTERESEARCH S.R.L.",
+            "Città": "Bollate",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "MEDILIFE SRL",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.20.09",
+            "Azienda": "ASTRA FORMEDIC S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "ACTIVE CONCEPTS S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "SICOR SOCIETA' ITALIANA CORTICOSTEROIDI SRL",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "ICROM SRL",
+            "Città": "Concorezzo",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "STEROID S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "NEWCHEM S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "21.10.00",
+            "Azienda": "ARCHIMICA SPA",
+            "Città": "Lodi",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "21.00.00",
+            "Azienda": "TERHORMON S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        }
+    ]
+]

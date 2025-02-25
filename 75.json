@@ -1,0 +1,2368 @@
+[
+    [
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA TERGESTE S.T.P. A RESPONSABILITA' LIMITA",
+            "Città": "Trieste",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA PRIVATA SAN MARCO S.R.L.",
+            "Città": "Veggiano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA SANT'ANDREA SRL",
+            "Città": "Vercelli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vercelli"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA VEZZONI SOCIETA' A RESPONSABILITA' LIMIT",
+            "Città": "Cremona",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "MEROPS, VETERINARIA E AMBIENTE S.R.L.",
+            "Città": "Oristano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO CITTA' GIARDINO - S.T.P. A R.L.",
+            "Città": "Oristano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "FERRARA VET S.R.L.",
+            "Città": "Ferrara",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA GROSSETO NORD S.R.L.T.P.",
+            "Città": "Grosseto",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "PRONTO SOCCORSO VETERINARIO LAUDENSE S.R.L.",
+            "Città": "Lodi",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO IMPERIESE S.R.L. - CVI",
+            "Città": "Imperia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "P.V.A - POLIAMBULATORIO VETERINARIO ARGENTINA SRL",
+            "Città": "Taggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO MEDICO CHIRURGICO VETERINARIO - SOCIETA A RESPONSABIL",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA BORGHESIANA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA GRAN SASSO SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO TORINESE SRL",
+            "Città": "Torino",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA EUROPA SRL",
+            "Città": "Anzio",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "OSPEDALE VETERINARIO CITTA' DI BERGAMO S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "MYPETCLINIC S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "TREVISO VET SRL",
+            "Città": "Paese",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CITTA' DI CATANIA S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "OSPEDALE VETERINARIO BAIONI",
+            "Città": "Bergamo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CA' ZAMPA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "DELER VET S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ABIVET SOCIETA' BENEFIT A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "A.C.V. TRIGGIANO S.R.L.",
+            "Città": "Triggiano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bari"
+        }
+    ],
+    [
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO S.A.S. DI MULE' VINCENZO",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "DOTT. ABU ASSAD EYAD - MEDICO VETERINARIO",
+            "Città": "Bari",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA PIAVE S.S. IN SIGLA: CLINICA VETERINARIA",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETERINARY HEALTH CENTER - S.T.P. SRL",
+            "Città": "Fabbrico",
+            "Fatturato": "",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA ORISTANO EST S.R.L.",
+            "Città": "Oristano",
+            "Fatturato": "",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA TIMAVO SRL",
+            "Città": "Monfalcone",
+            "Fatturato": "",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA EQUINA BAGNAROLA DEL DOTT.FABIO TORRE E C. SAS",
+            "Città": "Budrio",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "AMBULATORIO VETERIARIO - VETERINARSKA AMBULANTA KRASVET S.T.",
+            "Città": "Trieste",
+            "Fatturato": "",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CVA AMORE S.R.L.",
+            "Città": "Cava de' Tirreni",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CARBONI FRANCO",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA OLTREVET SRL",
+            "Città": "Voghera",
+            "Fatturato": "",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "PET DIAGNOSTICA VETERINARIA DI MASSA GAUDENZIO \u0026 C. SAS",
+            "Città": "Salerno",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CROCE BLU VETERINARIA SRL",
+            "Città": "Alessandria",
+            "Fatturato": "",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA ISOLA PET CARE S.S. - SOCIETA' TRA PROFE",
+            "Città": "Isola della Scala",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CASTELLARANO",
+            "Città": "Castellarano",
+            "Fatturato": "",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "SEGESTAVET SRL",
+            "Città": "Sestri Levante",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA MONTICELLO S.R.L. SOCIETA' TRA PROFESSIO",
+            "Città": "Monticello Brianza",
+            "Fatturato": "",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ANIMA COMPANY S.R.L.",
+            "Città": "Monte San Vito",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ANIMALVET ARETUSEA S.R.L.",
+            "Città": "Siracusa",
+            "Fatturato": "",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA ESTENSE SRL STP",
+            "Città": "Ferrara",
+            "Fatturato": "",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "AMBULATORIO VETERINARIO DOTT.SSA FIORELLA MESSAGGERI E C SAS",
+            "Città": "Borgoricco",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETERINARIA CAFFARELLA DI SASSO E C. SOCIETA' TRA PROFESSION",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINAC S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA AURORA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "LA CORTE SOCIETA' TRA PROFESSIONISTI SRL",
+            "Città": "Poggio Rusco",
+            "Fatturato": "",
+            "Provincia": "Mantova"
+        }
+    ],
+    [
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA ORTONA SRL",
+            "Città": "Ortona",
+            "Fatturato": "",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "GENERAL VET SRL",
+            "Città": "Bari",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "STUDIO VETERINARIO DOTT. CERATTO ROBERTO E DOTT BARAVALLE RA",
+            "Città": "Cuneo",
+            "Fatturato": "",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "GILIOLA SPATTINI \u0026 C. SAS -SOCIETA' TRA PROFESSIONISTI ABBRE",
+            "Città": "Prignano sulla Secchia",
+            "Fatturato": "",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "EQUINE HEALTH CENTER SRL",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO CATANZARO STP - S.R.L.",
+            "Città": "Catanzaro",
+            "Fatturato": "",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CALDERONE CECILIA",
+            "Città": "Guastalla",
+            "Fatturato": "",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ARCAVET S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VET SERVICE S.R.L.",
+            "Città": "Pula",
+            "Fatturato": "",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA SANTA TERESA DELLA DOTT.SSA SABINA FATTO",
+            "Città": "Fano",
+            "Fatturato": "",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "DR LOVET SOCIETA' TRA PROFESSIONISTI A RESPONSABILITA' LIMIT",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "EQUIVET ROMA HOSPITAL SNC",
+            "Città": "Rocca di Papa",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "IST.ZOOPROFILATTICO SP.DEL P.TE LIGURIA V.AOSTA",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ASS.NE PER IL CANILE VILLOTTA",
+            "Città": "Valvasone Arzene",
+            "Fatturato": "",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "SCHIAFFINO GIOVANNI MATTEO",
+            "Città": "Sassari",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "AMBULATORIO VETERINARIO SAN ROCCO DI LIDIA TRIPOLI \u0026 C. SAS",
+            "Città": "Reggello",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CHIRONE SAS",
+            "Città": "Scandicci",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA MINNI VET S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "MENESINI JESSICA",
+            "Città": "Lucca",
+            "Fatturato": "",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "GREEN FARM DI BONIFAZI STEFANO \u0026 C. SAS",
+            "Città": "Castelraimondo",
+            "Fatturato": "",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETPLUS SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA GALAPAGOS SRL",
+            "Città": "Agrate Brianza",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "GIELLE S.A.S. DI LUCA MANCINI \u0026 C.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA ARETUSEA SRL",
+            "Città": "Siracusa",
+            "Fatturato": "",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "BERNARDI ALESSANDRA",
+            "Città": "Bene Vagienna",
+            "Fatturato": "",
+            "Provincia": "Cuneo"
+        }
+    ],
+    [
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CAVECANEM DI BESANA DOTT.SSA VALERIA",
+            "Città": "Vimercate",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "GIUBILA CHIARA",
+            "Città": "Attigliano",
+            "Fatturato": "",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CVDEA SRL",
+            "Città": "Montemarciano",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA PIEVAROLI - S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ARCADIA S.R.L.",
+            "Città": "Catanzaro",
+            "Fatturato": "",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "EQUILIFE S.R.L.",
+            "Città": "Roccasecca",
+            "Fatturato": "",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "GALANTE GIORGIA",
+            "Città": "Vigodarzere",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "RTR VET DELLA DOTT.SSA ROMANA ROMANO S.A.S.",
+            "Città": "Lecce",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "STUDIO VETERINARIO PEPE VERDE SRL STP UNIPERSONALE",
+            "Città": "Tolmezzo",
+            "Fatturato": "",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ZANCHI MANUEL",
+            "Città": "Bolgare",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "DI TOMMASO ROCCO",
+            "Città": "Calvello",
+            "Fatturato": "",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ANIMAL HOUSE SAN PATRIZIO S.A.S. DI NOTARANTONIO ADA \u0026 C.",
+            "Città": "Gioia del Colle",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "LA CITTADINA FONDAZIONE STUDI E RICERCHE VETERINARIE",
+            "Città": "Romanengo",
+            "Fatturato": "",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "A.D. VET SRL SOCIETA' TRA PROFESSIONISTI",
+            "Città": "Monza",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "PLATYPUS LABORATORY SOCIETA' A RESPONSABILITA' LIMITATA SEMP",
+            "Città": "Genova",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETICO S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CITTA' DI MONOPOLI DI PEPE VITO ADALBERT",
+            "Città": "Monopoli",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "BECCAVET STP SRL - SOCIO UNICO",
+            "Città": "Capriate San Gervasio",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "FEAVETS SNC DI ANGELO GIOACCHINO AMATO",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "BOVIVET S.R.L - SOCIETA' TRA PROFESSIONISTI",
+            "Città": "Collecchio",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "RIABILITARIA SRL",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "PITINO ROSARIO",
+            "Città": "Parma",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ANIMAL CENTER SNC DI SOCCINI ANTONIO CHIARINI ENRICA ATTANAS",
+            "Città": "Concesio",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CORSALINI GIAMMARIO",
+            "Città": "Macerata",
+            "Fatturato": "",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "PAN S.R.L.",
+            "Città": "Portici",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        }
+    ],
+    [
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA ETIOPIA S.R.L.",
+            "Città": "Viterbo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CITTA' DI BOLZANO - VETBZ",
+            "Città": "",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA MADONNA DI ROSA SRL",
+            "Città": "San Vito al Tagliamento",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "FIDO E FELIX S.R.L.",
+            "Città": "Frattaminore",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "DESIOVET S.R.L.",
+            "Città": "Cesano Maderno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA SANT'ANGELO S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA PETCARE SRL",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO GENOVESE SRL",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "GESTIONI VETERINARIE S.R.L.",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "AH S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA VALMUSONE STP ARL",
+            "Città": "Osimo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ROMA VET - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "PETLIFE VET SRL",
+            "Città": "Basiglio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CGFVET - CLINICA VETERINARIA CAROTTI GIARDINIERI FRANCELLA",
+            "Città": "Jesi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETSANSILVESTRO S.R.L.",
+            "Città": "Castiglion Fiorentino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "BENACOBLUVET SRL",
+            "Città": "Castiglione delle Stiviere",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "V.E.P. SRL - SOCIETA' TRA PROFESSIONISTI",
+            "Città": "Pove del Grappa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CITTA' DI CASALE MONFERRATO S.R.L. SOCIE",
+            "Città": "Casale Monferrato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA STAZIONE S.R.L.",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA LA FENICE SRL",
+            "Città": "Porcari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "DOCS 4 PETS S.R.L.-S.T.P.",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "S. ALESSANDRO S.R.L.",
+            "Città": "Roncadelle",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA BORGARELLO SRL",
+            "Città": "Moncalieri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CDM - CLINICA VETERINARIA CITTA' DEL MARMO SRL",
+            "Città": "Carrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETSCAN SERVICES S.R.L.",
+            "Città": "San Giovanni la Punta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        }
+    ],
+    [
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETERINARIA PACIFICO SRL",
+            "Città": "Sermoneta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CARVICO S.R.L.",
+            "Città": "Carvico",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA VERONA LAGO S.R.L.",
+            "Città": "Lazise",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "GAMMAVET S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "DIAGNOSTICA VETERINARIA LA LANTERNA SRL",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "PEGASO SRL",
+            "Città": "Paola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ABLAB SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Sarzana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA SAN LEONARDO S.R.L.",
+            "Città": "Salerno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA EQUINA SAN BIAGIO S.R.L.",
+            "Città": "Argenta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        }
+    ],
+    [
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO SERVIZI VETERINARI VALCURONE S.R.L.",
+            "Città": "Missaglia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "PARMA VET S.R.L.",
+            "Città": "Parma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "EMATOS VET LAB S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA NERVIANESE SRL",
+            "Città": "Nerviano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO C.T.O. SRL",
+            "Città": "Vigevano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "NSL PET ITALY S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ARCA GROUP SRL",
+            "Città": "Alpignano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "GPR VET S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CVTDUE S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CTO VETERINARIO S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ANUBI - S.R.L.",
+            "Città": "Moncalieri",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "GENOVA VET S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "NEUROTECNOLOGIE VETERINARIE SRL",
+            "Città": "Legnano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "BIRSA S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ZARCONE S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO SPECIALISTICO VETERINARIO S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VET24SRL SOCIETA' TRA PROFESIONISTI",
+            "Città": "Pinerolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VET MEDICAL S.R.L.",
+            "Città": "",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO EINAUDI SOCIETA' COOPERATIVA TRA",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CITTA' DI MONZA SRL",
+            "Città": "Monza",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA OMNIAVET SOCIETA' DI SERVIZI - SOCIETA'",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ORTOVET STP SRL",
+            "Città": "Parma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "DE.MA.VET. SRL",
+            "Città": "Venezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "BMS VET S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA LAGO MAGGIORE SRL - CVLM",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "MEDIVET ITALIA SRL",
+            "Città": "Saronno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "EMILVETSERVICES PET \u0026 CARE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA PINETA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "OSPEDALE VETERINARIO GIARDINI MARGHERITA S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA SAN CARLO S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "POLIVET S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA SAN GAETANINO STP SRL",
+            "Città": "Ravenna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CASTRONNO S.R.L.",
+            "Città": "Castronno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VEGEZIO S.R.L.",
+            "Città": "Cesena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA EUROPEA SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "OSPEDALE VETERINARIO AMICI DEGLI ANIMALI S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "OSPEDALE VETERINARIO POMEZIA SRL",
+            "Città": "Pomezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VERONA VET SRL",
+            "Città": "Verona",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA S.GIUSEPPE SRL",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA FERRAROTTO S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CENTRO VETERINARIO MONSELICENSE SRL STP",
+            "Città": "Monselice",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA VILLA FRANCESCA SRL",
+            "Città": "Seriate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "OSPEDALE VETERINARIO SAN CONCORDIO S.R.L.",
+            "Città": "Lucca",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA SAN MARTINO S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETSERVICE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "NUOVO OSPEDALE VETERINARIO ARDEATINO SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "PROGETTI VETERINARI PASSERINI S.R.L.",
+            "Città": "Lecco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "AMBULATORIO VETERINARIO SUMMANO SRL STP",
+            "Città": "Santorso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ORTHOPEDICA S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA EUROPA S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Firenze"
+        }
+    ],
+    [
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETERPRO SRL",
+            "Città": "Tortona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CVT TRE SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO SANT'ANNA S.R.L.",
+            "Città": "Sarteano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETERINARIA ENTERPRISE STP S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "FORMIAVET S.R.L.",
+            "Città": "Formia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ESSEVET S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CITTA' DI BARI S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA ZOOLIFE S.R.L.",
+            "Città": "Mezzolombardo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "A.S.T.A. SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "OSPEDALE VETERINARIO HIMERA SOCIETA' A RESPONSABILITA' LIMIT",
+            "Città": "Palermo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "JESIVET SRL",
+            "Città": "Jesi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "BIOLAB 2000 S.R.L.",
+            "Città": "Sona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "SAN LORENZO S.R.L.",
+            "Città": "Treviolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ARS VETERINARIA S.T.P. S.R.L.",
+            "Città": "Sassuolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO DIAGNOSTICO VETERINARIO IRIENSE SRL",
+            "Città": "Voghera",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "SAMBUCO CLINICA VETERINARIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA PORTA VENEZIA STP SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VET RAD FIRENZE SRL",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA VOMEROVET S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CATANIAVET SRL",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA ARENZANO SRL",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VALLERANA S.R.L.",
+            "Città": "Cremona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "OSPEDALE HANIMALIA SOCIETA' A RESPONSABILITA' LIMITATA TRA P",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "LIFE VILLAGE MANZONI SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETAMICO SRL",
+            "Città": "Cuneo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        }
+    ],
+    [
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "IL FALCO SOCIETA' TRA PROFESSIONISTI IN FORMA COOPERATIVA",
+            "Città": "Follonica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "LABORATORIO VETERINARIO DI ANALISI BLUCENTER S.R.L. - ROVIGO",
+            "Città": "Rovigo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "TALINI SRL",
+            "Città": "Pistoia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA DEL SALENTO S.R.L. SOCIETA' TRA PROFESSI",
+            "Città": "Racale",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA APPIA ANTICA SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETERINARIA MALASPINA PET SERVICES S.R.L.",
+            "Città": "Massa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETLIFE S.R.L.S.",
+            "Città": "Cosenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO CHIRURGICO VETERINARIO CAMPANALE STP S.R.L.",
+            "Città": "Andria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO EINAUDI S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA SANTA RITA SRL",
+            "Città": "Vigonza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "G\u0026C PET S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "TRENTOVET SOCIETA' TRA PROFESSIONISTI S.R.L.",
+            "Città": "Trento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ANIMAL FARM S.R.L.",
+            "Città": "Montebelluna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETLABOR S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "SAN ROSSORE VET S.R.L.",
+            "Città": "Pisa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO DI NEUROLOGIA VETERINARIA STP S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ATHENA SERVIZI PER GLI ANIMALI SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "AMBULATORIO VETERINARIO PEZZUTO - PIANO - SOCIETA' TRA PROFE",
+            "Città": "Campobasso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ANIMAL HOSPITAL S.R.L.",
+            "Città": "Velletri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VET. SAN FRANCESCO SRL",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "RRED SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "FILDAVET SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ANIMALSIDE S.R.L.",
+            "Città": "Beinette",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "MINERVA DDL S.T.P. S.R.L.",
+            "Città": "Palestrina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "D.M.O. VET LAB S.R.L.",
+            "Città": "Pernumia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        }
+    ],
+    [
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "LIFEVET CLINICA VETERINARIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "SOCLATE VETERINARIA SRL",
+            "Città": "Carini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "POLIAMBULATORIO VETERINARIO SAN MICHELE S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICAL VET SRLS",
+            "Città": "Siracusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "TREVIVET SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Treviglio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ABRUZZO VETERINARY SERVICE SRLS",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "BIOVET CENTER.S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "MINERVA ANIMAL CENTER SRL",
+            "Città": "Ardea",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "MY VET SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA DEL MOLISE - C.V.M. SOCIETA' A RESPONSAB",
+            "Città": "Campobasso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "NOI VET S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "DIAGNOSTICA VETERINARIA PRATESE TECKIRA SRL UNIPERSONALE IN",
+            "Città": "Prato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "TRIOVET SRL",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO DIAGNOSTICO VETERINARIO TAC LUNI MARE SRL",
+            "Città": "Carrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CITTA' DI PERUGIA STP SRL",
+            "Città": "Perugia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "PLURYLAB SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA IPPOCRATE VALVERDE S.R.L. S.T.P.",
+            "Città": "Valverde",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "OSPEDALE VETERINARIO MARIKA SOCIETA' A RESPONSABILITA' LIMIT",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CENTRALE SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "NOVAVET SOCIETA' TRA PROFESSIONISTI S.R.L.",
+            "Città": "Valmontone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA LAINATE S.R.L.",
+            "Città": "Lainate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "PARMALAB S.R.L.",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "S. ANTONIO VET S.R.L. SOCIETA TRA PROFESSIONISTI",
+            "Città": "Cavallino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO OCULISTICO FONTANE SRL - CVOF",
+            "Città": "Villorba",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "IVET TEAM SRL SEMPLIFICATA",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        }
+    ],
+    [
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ISTITUTO DIAGNOSTICO VETERINARIO S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CASCINETTA SOCIETA' A RESPONSABILITA' LI",
+            "Città": "Saronno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "STUDIO VETERINARIO TIVOLI SRLS",
+            "Città": "Tivoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "NEUROLOGICA SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO POLIDIAGNOSTICO S.R.L.",
+            "Città": "Andria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETERINARIA VIII COLLE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "AMBULATORIO VETERINARIO SAN LORENZO STP SRL",
+            "Città": "Alba",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO ARCHIMEDE SRLS",
+            "Città": "Comiso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "PIG SERVICE SRLS",
+            "Città": "Modena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA SAN GEMINIANO S.R.L.",
+            "Città": "Modena",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CVRS AMBULATORIO VETERINARIO COLLEFERRO SOCIETA' A RESPONSAB",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ANALISI DMQS S.R.L. SOC.UNIPERSONALE",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "AMBULATORIO VETERINARIO 'CENTRO DERMATOLOGICO VETERINARIO TO",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ORNILAB S.R.L.",
+            "Città": "Sora",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "SORBUS S.R.L.",
+            "Città": "Montello",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ARARAT SRL",
+            "Città": "Perugia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETADOM SRL UNIPERSONALE",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "TAC 4 VET S.R.L. CENTRO DIAGNOSTICO VETERINARIO",
+            "Città": "Castronno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "MAVES S.R.L. MEDICAL \u0026 VETERINARY SYNTHESIS",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "GALATEA S.R.L. DI TIZIANA DI GIUSTO E C.",
+            "Città": "Remanzacco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VET HOSPITAL H24 FIRENZE SRL",
+            "Città": "Firenze",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "I-VET S.R.L.",
+            "Città": "Flero",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA VALDINIEVOLE S.R.L.",
+            "Città": "Monsummano Terme",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETERINARIA SAN FRANCESCO S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "FUTURAVET S.R.L.",
+            "Città": "Tolentino",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Macerata"
+        }
+    ],
+    [
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA MODENA SUD S.T.P. SRL",
+            "Città": "Spilamberto",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CITTA' DI VOGHERA SRL",
+            "Città": "Voghera",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "7STAR S.R.L.",
+            "Città": "Verano Brianza",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLIVET S.R.L.",
+            "Città": "Prato",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "DIAGNOSTICA VETERINARIA SOCIETA' S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "OSPEDALE VETERINARIO SAN MICHELE S.R.L.",
+            "Città": "Lodi",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "C.L.S. DUE S.R.L.",
+            "Città": "Savignano sul Rubicone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "EQUINE PRACTICE S.R.L.",
+            "Città": "Campagnano di Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "AMBULATORI VETERINARI MINERVA SOCIETA' TRA PROFESSIONISTI A",
+            "Città": "Pescantina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "OSPEDALE VETERINARIO H24 PINGRY S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ANIMAL CENTER VALSUGANA SRL",
+            "Città": "Borgo Valsugana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "AMBULATORI VETERINARI MODENESI SOCIETA' TRA PROFESSIONISTI A",
+            "Città": "San Cesario sul Panaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CAMAGNA S.R.L.",
+            "Città": "Reggio di Calabria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CASERTANA SOC. COOP",
+            "Città": "San Nicola la Strada",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ADVANCED ANIMAL CARE S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA SAN ROCCO DI CARDAMONE V. - SOCIETA' A R",
+            "Città": "Nocera Superiore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA VET/CTO S.R.L",
+            "Città": "Cetraro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA LEGNONE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETERCLIN SRLS",
+            "Città": "Montefiascone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA SANT'ANNA SRL",
+            "Città": "San Martino Siccomario",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA BEMAVET SRLTP",
+            "Città": "Torre Boldone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETERINARIA EUROPA S.R.L. - SOCIETA' TRA PROFESSIONISTI",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "DARWINLAB S.R.L.",
+            "Città": "Fano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA DUE C S.R.L.",
+            "Città": "Cisterna di Latina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA SAN FRANCESCO SRL",
+            "Città": "San Cesario di Lecce",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        }
+    ],
+    [
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VETGREEN S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "EQUIVET ROMA HOSPITAL S.R.L.",
+            "Città": "Rocca di Papa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA PANDORA SOCIETA' COOPERATIVA",
+            "Città": "Porto San Giorgio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Fermo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "DOCDIC S.R.L.",
+            "Città": "Eboli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "SPORTY DOG S.R.L. START-UP COSTITUITA A NORMA DELL'ART.4 COM",
+            "Città": "Costa Volpino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTROTACVET S.R.L.",
+            "Città": "Bellinzago Novarese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA KONRAD LORENZ S.R.L.",
+            "Città": "Isola del Liri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ANCA S.R.L.S.",
+            "Città": "Siracusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO SABINO S.R.L.",
+            "Città": "Palombara Sabina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "ZAMPE, AMORE E FISIOTERAPIA SRL - SOCIETA' UNIPERSONALE",
+            "Città": "Tavazzano con Villavesco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "SANTA CECILIA VET SRL CON UNICO SOCIO",
+            "Città": "Rapolano Terme",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA LA VETERINARIA SRL",
+            "Città": "Mascalucia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "MEDEC SRL",
+            "Città": "Ragusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA SAN RAPHAEL S.R.L.",
+            "Città": "Castellaneta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA VALLE DEL RENO",
+            "Città": "Vergato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO BONATI CHIOCCA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA CAMPO MARZIO SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO NORMANNO E GROOMING ACADEMY DI MARONO FRA",
+            "Città": "Aversa",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA MODENA SUD SRL",
+            "Città": "Spilamberto",
+            "Fatturato": "",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CENTRO VETERINARIO AL LAMBRO S.R.L.",
+            "Città": "Lesmo",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA VILLA ROSA CARLINI DI DE COMPADRI CRISTI",
+            "Città": "Mantova",
+            "Fatturato": "",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "VANELLI GIULIO",
+            "Città": "Lurate Caccivio",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "BALDIN ALESSANDRO",
+            "Città": "Zubiena",
+            "Fatturato": "",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA ARCADIA STP SRL",
+            "Città": "Bareggio",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "75.00.00",
+            "Azienda": "CLINICA VETERINARIA MAGGIORE DI CAVICCHIOLO DAVIDE",
+            "Città": "Luino",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        }
+    ]
+]

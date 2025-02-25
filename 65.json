@@ -1,0 +1,533 @@
+[
+    [
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "NOBIS COMPAGNIA DI ASSICURAZIO NI SPA !!NOBIS SPA",
+            "Città": "Borgaro Torinese",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "HDI GLOBAL SE",
+            "Città": "Milano",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.20.00",
+            "Azienda": "HELVETIA COMPAGNIA SVIZZERA D'ASSICURAZIONI SA-RAPPRESENTANZ",
+            "Città": "Milano",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.10.00",
+            "Azienda": "VERTI ASSICURAZIONI SPA",
+            "Città": "Cologno Monzese",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.00.00",
+            "Azienda": "TAGLIABUE GIUSEPPE E STEFANO S.N.C.",
+            "Città": "Paderno Dugnano",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "METLIFE EUROPE D.A.C. RAPPRESENTANZA GENERALE PER L'ITALIA",
+            "Città": "Roma",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "ZURICH INSURANCE EUROPE AG",
+            "Città": "Milano",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "VHV ITALIA ASSICURAZIONI S.P.A.",
+            "Città": "Belluno",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "ASSICURATRICE MILANESE S.P.A. - COMPAGNIA DI ASSICURAZIONI",
+            "Città": "San Cesario sul Panaro",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "MULTISERVICE PICCOLA SOCIETA' COOPERATIVA A R.L.",
+            "Città": "Licata",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "UCA ASSICURAZIONE SPESE LEGALI E PERITALI SOCIETA' PER AZION",
+            "Città": "Torino",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "65.00.00",
+            "Azienda": "FONTANA RAVA TOSCANO \u0026 PARTNERS SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "CNP VITA ASSICURA SPA",
+            "Città": "Milano",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "NOBIS VITA S.P.A.",
+            "Città": "Agrate Brianza",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "65.00.00",
+            "Azienda": "BNP PARIBAS CARDIF VITA COMPAGNIA DI ASSICURAZIONE E RIASSIC",
+            "Città": "Milano",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.00.00",
+            "Azienda": "GLOBAL ASSISTANCE - COMPAGNIA DI ASSICURAZIONI E RIASSICURAZ",
+            "Città": "Milano",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "VITTORIA ASSICURAZIONI SPA",
+            "Città": "Milano",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "SARA ASSICURAZIONI SPA !!SARA ASSICURAZI",
+            "Città": "Roma",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "SACE S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "SACE BT S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "GROUPAMA ASSICURAZIONI SPA",
+            "Città": "Roma",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "ARGOGLOBAL ASSICURAZIONI S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "BRUNO SFORNI SPA",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "D.B.A. INTERMEDIAZIONI ASSICURATIVE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "SOCIETA' OPERAIA DI SANT'ALBERTO SOCIETA' COOPERATIVA",
+            "Città": "Ravenna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        }
+    ],
+    [
+        {
+            "Ateco": "65.10.00",
+            "Azienda": "ASSIT S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "65.10.00",
+            "Azienda": "GEFINA BROKER S.R.L.",
+            "Città": "Salerno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "TRUBBIANI BROKERS DI ASSICURAZIONI S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "TRAVELASSIST SRL",
+            "Città": "Rimini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "T.S. SERVIZI SRLS",
+            "Città": "Sinnai",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "CENTRO SERVIZI VAREDO SRL C.S.V. S.R.L.",
+            "Città": "Varedo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "AUTOFACILE ITALIA S.R.L.",
+            "Città": "Maranello",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "65.00.00",
+            "Azienda": "SIRTORI ASSICURAZIONI SAS DI SIRTORI LUCA E C.",
+            "Città": "Cernusco sul Naviglio",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "S2C S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "ATHORA ITALIA S.P.A.",
+            "Città": "Genova",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "65.00.00",
+            "Azienda": "HDI ASSICURAZIONI S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "HELVETIA ITALIA ASSICURAZIONI SPA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.00.00",
+            "Azienda": "BO E FERRAROTTI S.N.C. DI BO SANDRA E FERRAROTTI PIER CESARE",
+            "Città": "Casale Monferrato",
+            "Fatturato": "",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "AMTRUST ASSICURAZIONI SPA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "CRONOS VITA ASSICURAZIONI SPA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "UNICREDIT ALLIANZ VITA S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "BIM VITA SPA",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "TUTELA LEGALE SPA COMPAGNIA DI ASSICURAZIONI",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "SARA VITA SPA SOCIO UNICO",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "65.00.00",
+            "Azienda": "A.M.A. S.A.S. DI ADRIANO MAPELLI \u0026 C.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.00.00",
+            "Azienda": "CHIPPARI MARIO VINCENZO \u0026 BERTOLA PASQUALE SNC",
+            "Città": "Carate Brianza",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "BENE ASSICURAZIONI S.P.A. SOCIETA' BENEFIT",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "BCC VITA SPA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "CISAS S.A.S. DI LORENZO MONESI E C.",
+            "Città": "Seregno",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "65.10.00",
+            "Azienda": "INCONTRA ASSICURAZIONI SPA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "SOCIETA' DI MUTUO SOCCORSO A.S.I. ASSISTENZA SANITARIA INTEG",
+            "Città": "Como",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "ZURICH INVESTMENTS LIFE SPA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "CNP UNICREDIT VITA S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.00.00",
+            "Azienda": "A.S.ASSICURAZIONI DI CALIGARIS ETTORE PRIMO E C.SAS IN LIQ",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "CF Life Compagnia di Assicurazioni Vita S.p.A.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "REVO INSURANCE S.P.A.",
+            "Città": "Verona",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "BANCO BPM ASSICURAZIONI SPA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "GRUPPO IVA AXA ITALIA",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "ALFA S.A.S. DI GHEZZI LEONARDO ALDO \u0026 C.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.00.00",
+            "Azienda": "BORRONI WALTER",
+            "Città": "Legnano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "S.L.P. ASSICURAZIONI S.P.A.",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "65.00.00",
+            "Azienda": "ARGENTIERO MARIA",
+            "Città": "Roseto degli Abruzzi",
+            "Fatturato": "",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "POSTE VITA S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "HELVETIA VITA COMPAGNIA ITALO-SVIZZERA DI ASSICURAZIONI SULL",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "BS DI BARZANO' ROSALBA, LUCA SCHIRRIPA \u0026 C. S.A.S.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.00.00",
+            "Azienda": "MOSSA ASSICURAZIONI SRL",
+            "Città": "Nuoro",
+            "Fatturato": "",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "65.00.00",
+            "Azienda": "PRIMAVERA NICOLA \u0026 C. - S.A.S.",
+            "Città": "Castellana Grotte",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "65.11.00",
+            "Azienda": "GRUPPO IVA ASSICURAZIONI GENERALI",
+            "Città": "Trieste",
+            "Fatturato": "",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "ASSICURAZIONI RISCHI AGRICOLI VMG 1857 S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "65.00.00",
+            "Azienda": "AGENZIA GENERALE -GENERALI ITALIA SPA - DI MAURIZIO SALVATOR",
+            "Città": "Pescara",
+            "Fatturato": "",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "SINTASS SRL",
+            "Città": "Monza",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "65.10.00",
+            "Azienda": "CF ASSICURAZIONI S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "GNV SERVIZI SRL",
+            "Città": "Elmas",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "FARO COMPAGNIA DI ASSICURAZIONI E RIASSICURAZIONI S.P.A. IN",
+            "Città": "Genova",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "65.12.00",
+            "Azienda": "UNICREDIT ALLIANZ ASSICURAZIONI S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        }
+    ]
+]

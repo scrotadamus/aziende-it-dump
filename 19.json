@@ -1,0 +1,1285 @@
+[
+    [
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "TI-GAS S.R.L.",
+            "Città": "Trecate",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "19.20.10",
+            "Azienda": "IPLOM S.P.A A SOCIO UNICO",
+            "Città": "Busalla",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "VISCOL SPA A SOCIO UNICO",
+            "Città": "Ronco Scrivia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "LABRIC S.R.L.",
+            "Città": "Albano Sant'Alessandro",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "RADICI ITALO \u0026 C. S.R.L.",
+            "Città": "Credaro",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "GABOGAS S.P.A.",
+            "Città": "Vobarno",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "19.20.10",
+            "Azienda": "TERGAS KEROS SRL",
+            "Città": "Turate",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "CARTOCCI IMPIANTI S.R.L.",
+            "Città": "Villa Guardia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "DECAL-DEPOSITI COSTIERI CALLIOPE- SPA",
+            "Città": "Soresina",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "SOCIETA' INTERNAZIONALE LUBRIFICANTI S.P.A.",
+            "Città": "Soresina",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "ITELYUM REGENERATION S.P.A.",
+            "Città": "Pieve Fissiraga",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "IES ITALIANA ENERGIA E SERVIZI S.P.A.",
+            "Città": "Mantova",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "ALUCHEM - S.P.A.",
+            "Città": "Cisliano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "LUBRA SPA",
+            "Città": "Cornaredo",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "PROIND S.R.L.",
+            "Città": "Opera",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "ECO ASFALTI SRL",
+            "Città": "Peschiera Borromeo",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "VITALI S.P.A.",
+            "Città": "Peschiera Borromeo",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "SYNECO S.P.A.",
+            "Città": "San Giuliano Milanese",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "SETTALA GAS SRL",
+            "Città": "Settala",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "ILCO INDUSTRIALE SRL",
+            "Città": "Settala",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "BRAVOL S.R.L.",
+            "Città": "Correzzana",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "19.10.09",
+            "Azienda": "TOYO TANSO EUROPE S.P.A.",
+            "Città": "Roncello",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "OIL SERVICE S.R.L.",
+            "Città": "Pavia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "NILS AG",
+            "Città": "",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "BETON ASFALTI - S.R.L.",
+            "Città": "Cis",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Trento"
+        }
+    ],
+    [
+        {
+            "Ateco": "19.20.90",
+            "Azienda": "MOTORSISTEM S.R.L.",
+            "Città": "Carbonera",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "PUBLIGAS SRL",
+            "Città": "Martellago",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "TRIVENGAS S.R.L.",
+            "Città": "Mirano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "PAKELO MOTOR OIL S.P.A.",
+            "Città": "San Bonifacio",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "PUBLIGAS VERONA S.P.A.",
+            "Città": "Villafranca di Verona",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "CONSUTEC GROUP SRL",
+            "Città": "Grisignano di Zocco",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "BERGOIL ITALIANA S.R.L.",
+            "Città": "Vicenza",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "OAK EUROPA S.R.L.",
+            "Città": "Pagnacco",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "PLEIN AIR INTERNATIONAL S.R.L.",
+            "Città": "Mirandola",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "19.20.10",
+            "Azienda": "ALMA PETROLI - S.P.A.",
+            "Città": "Ravenna",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "COSTIERO GAS LIVORNO SPA",
+            "Città": "Livorno",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "COSTIERI D'ALESIO SPA",
+            "Città": "Livorno",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "METANO ITALIA - S.R.L.",
+            "Città": "Pietrasanta",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "I.G.L.O.M. ITALIA S.P.A.",
+            "Città": "Massa",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "IN.CO.BIT. SUD SRL",
+            "Città": "Ancona",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "API RAFFINERIA DI ANCONA SPA",
+            "Città": "Roma",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "GOLDENGAS SPA",
+            "Città": "Senigallia",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "ADRIATICA BITUMI - S.P.A.",
+            "Città": "Ascoli Piceno",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "PAV.I. S.R.L.",
+            "Città": "Foligno",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "19.20.10",
+            "Azienda": "C.I.M.S.A. SUD CHIMICA INDUSTRIALE MERIDIONALE SRL",
+            "Città": "Pomezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "PROGRAM SRL",
+            "Città": "Chieti",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "ALANNO GAS SCARL",
+            "Città": "Alanno",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "CONGLOBIT S.R.L.",
+            "Città": "Teramo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "ALCAGAS SRL",
+            "Città": "Altavilla Irpina",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "19.10.09",
+            "Azienda": "C.A.M. SRL",
+            "Città": "Paolisi",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Benevento"
+        }
+    ],
+    [
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "NOBILGAS S.R.L.",
+            "Città": "Santa Maria a Vico",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "LUMAGAS S.R.L.",
+            "Città": "Boscotrecase",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "DOLERFER S.R.L.",
+            "Città": "Frattaminore",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "SATEGAS S.R.L.",
+            "Città": "Nola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "S.I.RA.L. SPA",
+            "Città": "Nola",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "AARON SRL",
+            "Città": "Nola",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "RILUB S.P.A.",
+            "Città": "Ottaviano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "LINCAR GAS S.R.L.",
+            "Città": "Palma Campania",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "ALBA DE BIASE E C. SAS",
+            "Città": "Pozzuoli",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "DIPOGAS - S.R.L.",
+            "Città": "Albanella",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "DINAGAS SRL",
+            "Città": "Pagani",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "SOCIETA' EDILE PRODUZIONE ASFALTI S.R.L. (SEPA S.R.L.)",
+            "Città": "Salerno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "PETROLCHIMICA SUD SRL",
+            "Città": "San Cipriano Picentino",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "MYTHEN S.P.A.",
+            "Città": "Ferrandina",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "19.10.09",
+            "Azienda": "CORBO SRL",
+            "Città": "Rapone",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "BADIGAS S.R.L.",
+            "Città": "Corato",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "IPEM INDUSTRIA PETROLI MERIDIONALE S.P.A.",
+            "Città": "Brindisi",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "EMMEPIGAS LA LECCESE GAS S.R.L.",
+            "Città": "Lecce",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "BI.CA.MIS. SRL",
+            "Città": "Corigliano-Rossano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "STAR ASPHALT(SERVICE,TECHNOLOGY,APPLICATION AND RESEARCH) SO",
+            "Città": "Saracena",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "MERIDIONALE PETROLI SRL",
+            "Città": "Vibo Valentia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Vibo Valentia"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "BIORAFFINERIA DI GELA SPA",
+            "Città": "Gela",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "SICILIA GAS DI GRASSO CARMELO SAS",
+            "Città": "Belpasso",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "REGALGAS DI GRASSO CONCETTO \u0026 C. S.A.S. !!REGALGAS SAS",
+            "Città": "Assoro",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Enna"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "SACCNE PETROLI S.P.A.",
+            "Città": "Messina",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Messina"
+        }
+    ],
+    [
+        {
+            "Ateco": "19.20.10",
+            "Azienda": "RAFFINERIA DI MILAZZO",
+            "Città": "Milazzo",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "HYBLEAGAS SRL",
+            "Città": "Ragusa",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "CONGLOMERATI PRIOLO CON.PRI SRL",
+            "Città": "Priolo Gargallo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "19.20.10",
+            "Azienda": "ISAB S.R.L.",
+            "Città": "Priolo Gargallo",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "SARDA GAS PETROLI SRL",
+            "Città": "Jerzu",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "FUCHS LUBRIFICANTI SPA",
+            "Città": "Torino",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "MOTUL ITALIA SRL",
+            "Città": "Torino",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "19.10.09",
+            "Azienda": "ITALIANA COKE SRL",
+            "Città": "Genova",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "LIQUIGAS S.P.A",
+            "Città": "Brescia",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "19.00.00",
+            "Azienda": "SYNTHESIS CHIMICA SRL",
+            "Città": "Settala",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.10.09",
+            "Azienda": "MERSEN ITALIA SPA",
+            "Città": "Assago",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "TECNOVO S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "GETOIL S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.10",
+            "Azienda": "TAMOIL ITALIA S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "Q8OILS ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "SIGEMI - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "SAN MARCO PETROLI SOCIETA' PER AZIONI",
+            "Città": "Venezia",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "L'EMILGAS SRL",
+            "Città": "Bologna",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "MONTICELLI S.R.L.",
+            "Città": "Reggio nell'Emilia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "ULTRAGAS TIRRENA S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.10",
+            "Azienda": "ENI SPA",
+            "Città": "Roma",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "FIAMMA 2000 - SOCIETA' PER AZIONI",
+            "Città": "Ardea",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.10",
+            "Azienda": "SOCIETA' A RESPONSABILITA' LIMITATA RAFFINERIA PADANA OLII M",
+            "Città": "Roma",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "UNIVERGAS ITALIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "SANEG OIL ITALY S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "ITALCOST - S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.10",
+            "Azienda": "KUWAIT PETROLEUM ITALIA SPA",
+            "Città": "Roma",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "ULTRAGAS C.M. - SOCIETA' PER AZIONI",
+            "Città": "Roma",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "AXXONOIL SRL",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.10",
+            "Azienda": "IP INDUSTRIAL SPA",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "ENERGAS S.P.A",
+            "Città": "Napoli",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "LAMEZIA GAS S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "ELLEPIGAS SUD S.R.L.",
+            "Città": "Castello di Cisterna",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.10",
+            "Azienda": "RA.M.OIL RAFFINERIA MERIDIONALE OLII LUBRIFICANTI",
+            "Città": "Napoli",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "PETROLCHIMICA PARTENOPEA SRL",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "ROIL PETROLI S.R.L.",
+            "Città": "Pomigliano d'Arco",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "SIPOIL COMPANY SRL",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "GL OIL S.P.A.",
+            "Città": "Napoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "I.SE.CO.L.D. - INDUSTRIA SERVIZI COMMERCIO OLII, LIQUIDI E D",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "IMPIANTI E ASFALTI S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "19.20.10",
+            "Azienda": "ITALIANA PETROLI SPA",
+            "Città": "Roma",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "SONATRACH RAFFINERIA ITALIANA SRL - SOCIO UNICO",
+            "Città": "Milano",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "AGN ENERGIA S.P.A.",
+            "Città": "Volpiano",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "PETRONAS LUBRICANTS ITALY S.P.A.",
+            "Città": "Villastellone",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "19.20.10",
+            "Azienda": "KUWAIT RAFFINAZIONE E CHIMICA S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "COBAT S.R.L.",
+            "Città": "Sansepolcro",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "SICILBITUMI S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "SIBA - SOCIETA' ITALIANA BITUMI E AFFINI S.R.L. IN LIQUIDAZI",
+            "Città": "Novara",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "GREENOIL LUBRIFICANTI SRL",
+            "Città": "Grosseto",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "RESCIA SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "UMBRABITUMI S.R.L.",
+            "Città": "Perugia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "BITUMTEC S.R.L.",
+            "Città": "Volpiano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "ANGEL GAS S.R.L.",
+            "Città": "Bacoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "SICIT BITUMI S.R.L.",
+            "Città": "Este",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "LAPPERSID SRL",
+            "Città": "Bagnacavallo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "SAUND ITALIANA S.R.L.",
+            "Città": "Verdellino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "C.M.M. CENTRALE METANO MARSICA DI MALANDRA GABRIELE SRL",
+            "Città": "Avezzano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "OFFICINA DELL'ASFALTO S.R.L.",
+            "Città": "Limbiate",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "CHSYNGLAR S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "JOHNS MANVILLE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "INDUSTRIA GAS ITALIA SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "L.O.M. PETROLCHIMICI SOC. A R.L.",
+            "Città": "Massa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "VALICO GPL SOCIETA' COOPERATIVA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.10.09",
+            "Azienda": "TECNIGRAFITE SRL",
+            "Città": "Pioltello",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "AREXONS S.P.A.",
+            "Città": "Cernusco sul Naviglio",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "ITALIAN PETROL COMPANY - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Nocera Inferiore",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "SOCIETA' SERVIZI AMBIENTALI MEZZANINO S.R.L.",
+            "Città": "Pieve Fissiraga",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "MISTERGAS SICILIANA S.R.L.",
+            "Città": "Belpasso",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "BITEM S.R.L. UNIPERSONALE",
+            "Città": "Scandicci",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "AVERSANA GAS S.R.L.",
+            "Città": "Teverola",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "TUSCIA GAS SCARL",
+            "Città": "Terni",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "NEW ASPHALT S.R.L.",
+            "Città": "Busto Garolfo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "SGM ENERGY S.R.L. - SOCIETA' BENEFIT",
+            "Città": "Morcone",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Benevento"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "FRAMA GAS SRL",
+            "Città": "Somma Vesuviana",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "MAV CHEMICAL S.R.L.",
+            "Città": "Castelletto sopra Ticino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Novara"
+        }
+    ],
+    [
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "ASFALTI \u0026 BITUMI S.R.L.",
+            "Città": "Scalea",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "SELE BITUMI SRLS",
+            "Città": "Eboli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "FANTASIA PETROLI S.R.L.",
+            "Città": "Gaeta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "ECOBIT ITALIA S.R.L.",
+            "Città": "Ragusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "19.20.90",
+            "Azienda": "PASSERINI SPECIAL PRODUCTS SRL",
+            "Città": "Parona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "ASPHALT RUBBER ITALIA S.R.L.",
+            "Città": "Agliana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "BITUM SELE SRL",
+            "Città": "Eboli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "19.10.09",
+            "Azienda": "PIAZZI TERENZIO",
+            "Città": "Chiaramonte Gulfi",
+            "Fatturato": "",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "MUTO NICOLA FILOMENO",
+            "Città": "Marzano di Nola",
+            "Fatturato": "",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "NEW LUBE TECNOLOGY S.A.S. DI LORENZO DI CROSTA E RAFFAELA DU",
+            "Città": "San Lorenzo Maggiore",
+            "Fatturato": "",
+            "Provincia": "Benevento"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "Premiata Cereria Viola di VIOLA GIUSEPPE",
+            "Città": "Catania",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "EAA - OIL ITALY S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.00",
+            "Azienda": "ZANON BERND",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "19.20.10",
+            "Azienda": "ESE SRL",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "CHEMIC OILS ITALIA DI STRAFILE CESARE \u0026 F.SAS",
+            "Città": "Cerignola",
+            "Fatturato": "",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "ORLUBE LUBRIFICANTI S.R.L",
+            "Città": "Lombardore",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "NUOVA ABIBES S.R.L.",
+            "Città": "Novara",
+            "Fatturato": "",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "MORENICA ASFALTI DI MIANI LAURA",
+            "Città": "Majano",
+            "Fatturato": "",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "P.B.M. - POLIMER BITUMEN MODIFIERS DI LEONARDO BACCARELLI E",
+            "Città": "Todi",
+            "Fatturato": "",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "SCIL GAS S.A.S. DI MISITANO ALDO \u0026 C.",
+            "Città": "Rocca di Neto",
+            "Fatturato": "",
+            "Provincia": "Crotone"
+        },
+        {
+            "Ateco": "19.20.10",
+            "Azienda": "AQUILA SPA A SOCIO UNICO",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "19.20.20",
+            "Azienda": "CHIMICA ITALIANA LUBRIFICANTI DI POLLONI MARCO",
+            "Città": "Quinto di Treviso",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "ITALFIAMMA SRL",
+            "Città": "Campi Salentina",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "ASFALTRONTO S.R.L.",
+            "Città": "Ascoli Piceno",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "THERMO GAS SRL",
+            "Città": "Sant'Anastasia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        }
+    ],
+    [
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "AMICA S.R.L.",
+            "Città": "Venafro",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Isernia"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "GAIA S.R.L.",
+            "Città": "Casalnuovo di Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "19.20.30",
+            "Azienda": "FOLIGNO GAS SRL",
+            "Città": "Foligno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "ABM S.R.L.",
+            "Città": "Montalto di Castro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "C.L.C. S.R.L.",
+            "Città": "Salussola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "19.20.40",
+            "Azienda": "TOTAL COSTRUZIONI SCPA",
+            "Città": "Nocera Superiore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        }
+    ]
+]

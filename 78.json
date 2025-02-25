@@ -1,0 +1,3593 @@
+[
+    [
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "ETS NEXUS SRL",
+            "Città": "Cameri",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "OGGI LAVORO S.P.A. AGENZIA PER IL LAVORO",
+            "Città": "",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "ATEMPO S.P.A.",
+            "Città": "Orbassano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "VITASSISTANCE S.R.L.",
+            "Città": "Venaria Reale",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "AXL S.P.A. - AGENZIA PER IL LAVORO",
+            "Città": "Bonate Sotto",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HUMAN VALUE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TENDA - SOLIDARIETA' E COOPERAZIONE BRESCIA EST - CONSORZIO",
+            "Città": "Brescia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "EVOSOLUTION S.R.L.",
+            "Città": "Mantova",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "QUOJOBIS SPA",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "SAPIENS SPA",
+            "Città": "Mantova",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "Westhouse Italia Srl",
+            "Città": "Assago",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ANDREA POLETTI \u0026 ASSOCIATI S.R.L.",
+            "Città": "Corbetta",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ETJCA FORMAZIONE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "AGENZIA PER IL LAVORO OSMOSI S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "TEMPI MODERNI S.P.A.",
+            "Città": "Conegliano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "JOB ITALIA S.P.A. AGENZIA PER IL LAVORO IN BREVE JOB ITALIA",
+            "Città": "Legnago",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "BICEGO HR SRL",
+            "Città": "Creazzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "I-MODEL SRL",
+            "Città": "Thiene",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "ADHR GROUP - AGENZIA PER IL LAVORO SOCIETA' PER AZIONI",
+            "Città": "Castel Maggiore",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "L'OPEROSA SOCIETA' COOPERATIVA A RESPONSABILITA' LIMITATA",
+            "Città": "Granarolo dell'Emilia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "LA RISORSA UMANA.IT S.R.L.",
+            "Città": "Carpi",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "AREAJOB SPA UNIPERSONALE",
+            "Città": "Bibbiano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "IM.O.FOR. TOSCANA SOCIETA' COOPERATIVA",
+            "Città": "San Giuliano Terme",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "AGENZIAPIU' SPA",
+            "Città": "Fabriano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "SERENITA' SRL",
+            "Città": "Rieti",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Rieti"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "DIL STUDIO S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ALMAGROUP S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MAGNOLIA - SOCIETA' COOPERATIVA",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "KARRIERE S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TALENT TREE CONSULTING SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "BLOOM S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "AENEAS S.R.L.",
+            "Città": "Pordenone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "LA CURA S.R.L.",
+            "Città": "Vimercate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "STERLING EXECUTIVE SEARCH S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "STARFINDER S.R.L.",
+            "Città": "Trento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "APL-LAVORO S.R.L. AGENZIA PER IL LAVORO TRANING \u0026 WORKING -",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "EXXECUTIVE S.R.L.",
+            "Città": "Corbetta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "STUDIOEMME SRL",
+            "Città": "Varese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "INPLACEMENT S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MOLZA \u0026 PARTNERS S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PLACEMENT SRL",
+            "Città": "Rimini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "OKTOPOUS S.R.L.",
+            "Città": "Rescaldina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "H2H ADVISORY S.R.L. SOCIETA' BENEFIT",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "G.M. CONSULTING S.R.L.",
+            "Città": "Piacenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MARZIA PIERI \u0026 ASSOCIATI S.R.L SOCIETA' A SOCIO UNICO",
+            "Città": "Poggibonsi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "S.O.S. FAMIGLIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "START SERVIZI SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "A.L.C.E. SOCIETA' COOPERATIVA A R.L.",
+            "Città": "Vimercate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "EGOVALEO S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "JOB ON BEAUTY SRL",
+            "Città": "Arese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MATCH WORK S.R.L.",
+            "Città": "Rimini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SP SELEZIONE PERSONALE S.R.L., O CON DENOMINAZIONE ABBREVIAT",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "RODGY GUERRERA AND PARTNERS SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "GAJO \u0026 ASSOCIATI S.R.L. - SOCIETA' UNIPERSONALE",
+            "Città": "Treviso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "GRANDA LAVORO SOCIETA' CONSORTILE A RESP",
+            "Città": "Cuneo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "B\u0026S CONSULTING S.R.L.",
+            "Città": "Casteggio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "STUDIO*META E ASSOCIATI S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CULGE SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "OPEN S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "NETLAV S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ATMEN SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MIRROR SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MANSFIELD LEGAL S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MW ANCONA SRL",
+            "Città": "Ancona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MIDEAL SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ENDI SOCIETA' COOPERATIVA",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HR GLOBAL SERVICE SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MEDIA-WORK PERUGIA SRL",
+            "Città": "Corciano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "EMPACTER S.R.L.",
+            "Città": "Bettona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PRAGMA S.R.L.",
+            "Città": "Pordenone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CERUS ITALIA S.R.L.S",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PEOPLE DIRECTIONS SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "WORKGATE ITALIA SRL UNIPERSONALE",
+            "Città": "Ancona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "THREE STAR TRADE SRL",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "REPLACEMENT SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "JOJOLLY S.R.L. SOCIETA' BENEFIT",
+            "Città": "Rozzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HUMAN LAB SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CAREER PATHS S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "AARON KING INTERNATIONAL S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ALEXANDER \u0026 DUKE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SERENA GROUP S.R.L.",
+            "Città": "Gorizia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TALENTY S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "OFFSHORE WORK SRL",
+            "Città": "Massa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PROFILI TOSCANA S.R.L.",
+            "Città": "Pisa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SELECT SRL",
+            "Città": "Belluno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SLV CONSULTING S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "LIVE HR S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "GRUPPO AGILA S.A.S. DI BONAZZA WERNER \u0026 C.",
+            "Città": "Udine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PETER PAN MANAGEMENT \u0026 TRAINING S.R.L.S",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "LEAF ILLUSTRATION AGENCY SRL CON SOCIO UNICO",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "YOU.TA S.R.L.",
+            "Città": "Sassuolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "RUN4JOB SRL",
+            "Città": "Pordenone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "BUSINESS MANAGEMENT S.R.L.",
+            "Città": "Nola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "KADVISORS SRLS",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "BRUGEES S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "FAMIGLIA RIUNITA S.R.L.",
+            "Città": "Saronno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TCONTACT S.R.L.",
+            "Città": "Silea",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "L@BOR S.R.L.",
+            "Città": "Perugia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "JOBSUBITO S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SAN GIUSEPPE ASSISTENZA SRL",
+            "Città": "Legnano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "STUDIO IMPARATO - S.R.L.",
+            "Città": "Latina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "XELON SINERGETICA S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "STUDIO SIGNORETTI SRL",
+            "Città": "Verona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HRC TALENT ACQUISITION - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MESTIERI SICILIA - CONSORZIO DI COOPERATIVE - SOCIETA'",
+            "Città": "Trapani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ANTHEA CONSULTING S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CONSORZIO TECLA SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "STUDIO BONALUME SRL",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "JOB LINK S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ECKSTEIN S.R.L.",
+            "Città": "Novara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ILLI'S HEADHUNTING \u0026 CONSULTING S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "DARKENOAM S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "NET2SOURCE GLOBAL WORKFORCE SOLUTIONS S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "LINKLAB SRL",
+            "Città": "Trento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "STUDIO SELFOHR SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "VIR CONSULENZA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "JC HR CONSULTING S.R.L",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TAKE OFF SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "LET'S WORK S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "WORLDWIDEENGENIAL S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MP10 S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "B ON BOARD SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ASA EXECUTIVE SEARCH SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "FORIS S.R.L.",
+            "Città": "Piombino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "IN2LAW S.R.L. SOCIETA' BENEFIT",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "STUDIO G.R. S.R.L.",
+            "Città": "Modena",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "PHARMA POINT S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "'KILPATRICK S.R.L. '",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "JOB SERVICE S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "KNET HUMAN RESOURCES S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "SPACE WORK S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "THALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "START UP ITALIA SRL",
+            "Città": "Rimini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "EDESIA SRL SOCIETA' DI RICERCA E SELEZIONE PERSONALE",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "IOCAP SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.30.00",
+            "Azienda": "FUTURE MANAGER WORLD S.R.L .",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "'SISTEMI E RISORSE UMANE S.R.L.' IN BREVE 'SIRIUM S.R.L.'",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "78.30.00",
+            "Azienda": "EVENTO INTERNATIONAL STAFF SRL",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "SKILL RISORSE UMANE S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "78.30.00",
+            "Azienda": "CIAS MODA S.R.L.",
+            "Città": "Prato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "COMUNELLO \u0026 ASSOCIATI S.R.L.",
+            "Città": "Treviso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "78.30.00",
+            "Azienda": "WEPLUSNETWORK SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.30.00",
+            "Azienda": "ASKESIS SOCIETA'BENEFIT A RESPONSABILITA' LIMITATA",
+            "Città": "Varese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "DANIELLE S.R.L.",
+            "Città": "Verona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "STARTAP S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "SCIAKY EUROPE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "EXELLERE SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "SIXTEMA S.R.L.",
+            "Città": "Modena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "PROVIDE S.R.L.",
+            "Città": "Medicina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "78.30.00",
+            "Azienda": "BEEF 2020 S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "GLOBAL EXECUTIVE SEARCH S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "CORNO CONSULTING GROUP SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "SANTULIN \u0026 PARTNERS S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "STUDIO LUCIANO MAI S.R.L.",
+            "Città": "Modena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "MAESINA MARKETING SEARCH ITALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.30.00",
+            "Azienda": "U PROJECT SRL",
+            "Città": "Sondrio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "I.C. INTERNATIONAL CONSULTING ITALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "D.G. CONSULTING SRL",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "78.30.00",
+            "Azienda": "L\u0026T HOLDING E SERVICE S.R.L.S.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "LAVORO MIGLIORE - AGENZIA PER IL LAVORO S.P.A. - IN LIQUIDAZ",
+            "Città": "Elmas",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "TEMPUS S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "WORK SOLUTION SRL",
+            "Città": "Caserta",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "NUOVA COMPAGNIA LAVORATORI PORTUALI DI VENEZIA SOCIETA' COOP",
+            "Città": "Venezia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "NETGROUP EMEA SRL",
+            "Città": "Mariglianella",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "'NEW HR GENERATION SOCIETA' A RESPONSABILITA' LIMITATA - AGE",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "ATOA S.R.L.",
+            "Città": "San Giuseppe Vesuviano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "NEXT S.P.A. SOCIETA' BENEFIT",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "NAM S.P.A.",
+            "Città": "Brescia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "IN.HR AGENZIA PER IL LAVORO S.P.A.",
+            "Città": "Potenza",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "ARCOPLAST S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "RECRYTERA SRL",
+            "Città": "Chieti",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "IZIWORK SOCIETA' PER AZIONI",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "OPPORTUNITY JOB S.C.A.R.L.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TECHYON S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "ALP - AGENZIA PER IL LAVORO IN PORTO S.R.L.",
+            "Città": "Livorno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Livorno"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "UNIVERSO SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "FORMULA COACH SRL",
+            "Città": "Argelato",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TIME VISION S.R.L.",
+            "Città": "Castellammare di Stabia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PLURIMPRESA SRL",
+            "Città": "San Giovanni la Punta",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SYNERGOS - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Parma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "UTILIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TALENT4YOU S.R.L. IN SIGLA 'T4Y S.R.L.'",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CORNERSTONE ONDEMAND ITALY SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "I AM S.R.L.",
+            "Città": "Fino Mornasco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CARPE DIEM S.R.L.",
+            "Città": "Caserta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "FRANK RECRUITMENT GROUP S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CESPIM SRL",
+            "Città": "Fiorano Modenese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SOLVER S.R.L.",
+            "Città": "San Bonifacio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "NATIONAL JOB AGENZIA PER IL LAVORO SRL",
+            "Città": "Pisa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MODA RESEARCH S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "OLYMPOS GROUP S.R.L.",
+            "Città": "Brembate di Sopra",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "C.M. CONSULTING S.R.L.",
+            "Città": "Sesto San Giovanni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SELEFOR S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TEX HUNTER SRL",
+            "Città": "Vedano al Lambro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MSC SELECTION \u0026 SOLUTION SRL",
+            "Città": "Ravenna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HERBROOKS CONSULTING S.R.L.",
+            "Città": "Pavia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ATON GROUP S.R.L.",
+            "Città": "Rende",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ALTA BRIANZA S.R.L.",
+            "Città": "Erba",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "EN WORK S.R.L.",
+            "Città": "Scampitella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "FORBANK GRUPPO FORRAD S.R.L.",
+            "Città": "Burago di Molgora",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "DIVENTA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "BORELLI SERVIZI - S.R.L.",
+            "Città": "Fornovo di Taro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SOGES INTERNATIONAL EXECUTIVE SEARCH S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HRSPECIALIST ITALIA SRL SEMPLIFICATA",
+            "Città": "San Benedetto del Tronto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ISG SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "NOUS S.R.L.",
+            "Città": "Noventa Padovana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "BRAVA GENTE SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SERES PARTNERS S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ITALCARE S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "LINK2PEOPLE SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "EGOJOB S.R.L.",
+            "Città": "Marsala",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MGM SRL",
+            "Città": "Tradate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "EUROPE 3000 S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "VER.SOL S.R.L.",
+            "Città": "Cernusco sul Naviglio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "E-RECRUIT S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "TALENTA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "MASTERGROUP SRL",
+            "Città": "Parabiago",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SACHSE GMBH",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "R.L. JOB SERVICE S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CONCORDIA - SOCIETA A RESPONSABILITA LIMITATA",
+            "Città": "Livorno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "INPLACE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "RISORSE SNC DI BARILLI ANTONELLA E C",
+            "Città": "Sassuolo",
+            "Fatturato": "",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SELECT S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "XPERTISE SAS DI ERIC RIGHETTI",
+            "Città": "Monza",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "STAFF \u0026 LINE S.A.S. DI UDOVICH MIRKO E CO.",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ROM - S.A.S. DI CUCCHI GRAZIANO \u0026 C.",
+            "Città": "Fabriano",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "MATILDE SAS DI NICCOLO' GIUNTA",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HUMAVERSE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "WORK IN PROGRESS S.A.S. DI PRIMIERI SIMONA",
+            "Città": "Pistoia",
+            "Fatturato": "",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PEOITALY SRL",
+            "Città": "Civitanova Marche",
+            "Fatturato": "",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CMP CONSULTING DI MARCO VENTURA \u0026 C. S.A.S.",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ADAMI \u0026 ASSOCIATI S.A.S. DI ADAMI CAROLA \u0026 C.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "WADDI SRL",
+            "Città": "Genova",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MANAGER S.R.L.",
+            "Città": "Verona",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "LIVING BUSINESS DI PALMA SABRINA \u0026 C. S.A.S.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "BEST SELECTION S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "STUDIO MARCHI - ING D'IMP SAS DI SAFIT DI SANDRO BORDATO SAS",
+            "Città": "Verona",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PAMA CONSULTING SNC DI NUCERA MARIA E RAMONDA PATRICK",
+            "Città": "Parma",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "BERRA FABIO",
+            "Città": "Schio",
+            "Fatturato": "",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HEVOR SRL",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HOEL CONSULTING S.A.S. DI PIERO BARONI \u0026 C.",
+            "Città": "Bologna",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "RIGI SAS DI DR. LUCIA RITA SINATRA \u0026 C.",
+            "Città": "Parma",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "GS XECUTIVESEARCH S.A.S. DI SUARDI GIANLUCA E C.",
+            "Città": "Cremona",
+            "Fatturato": "",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CERCASI' S.A.S. DI BATTISTI MARCO E C.",
+            "Città": "Trento",
+            "Fatturato": "",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "SOLUZIONE LAVORO TURISMO S.A.S. DI GALEAZZI OSCAR \u0026 C.",
+            "Città": "Jesolo",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "INVERSIONE DI MARCIA A.P.S.",
+            "Città": "Casal di Principe",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MF CONSULTANT S.A.S. DI MARISA FERRARA \u0026 C.",
+            "Città": "Ferrara",
+            "Fatturato": "",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "BETA SERVICE SAS DI BORTOLETTO A. \u0026 C.",
+            "Città": "Padova",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "FONDAZIONE CONSULENTI PER IL LAVORO",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "LADERCHI \u0026 PARTNERS SAS DI SIMONA LADERCHI",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "TATE \u0026 NANNY DI SARA MORELLI",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SUEDTIROL CASTING DI FESTINI BATTIFERRO SILVIA",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "DVG SOLVING DI DANTE GHISI \u0026 C. SNC",
+            "Città": "Mantova",
+            "Fatturato": "",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "BIEMME CONSULTING S.A.S",
+            "Città": "Rubiera",
+            "Fatturato": "",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ABOUT JOB S.A.S. DI ROSSO SABINA \u0026 C.",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "AGENTUR MESSNER GMBH",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "STUDIO A.M. DI AUGUGLIARO P. \u0026 C. SAS",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "INCLUSYON S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SEND ETS",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "TETRADE S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ASSOCIAZIONE WORKING",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "ROCKET JOB SPA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "METODO SAS DI ROSSI ATTILIO \u0026 C.",
+            "Città": "Arenzano",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "DIRECTION SAS DI GABRIELLI FRANCO \u0026 C.",
+            "Città": "Bologna",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TO BE SAS di Belussi Claudia \u0026 C.",
+            "Città": "Treviso",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CALVELLI RSP S.A.S. DI F.CALVELLI E C.",
+            "Città": "Arezzo",
+            "Fatturato": "",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "BUCKLER S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SIMOBART SRL",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "BIOPHARMED S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "L-GEST DI LUCCHINI MARIO PIERO S.A.S.",
+            "Città": "Cremona",
+            "Fatturato": "",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "19TH STREET DI CARLUCCI MARCO",
+            "Città": "Vizzolo Predabissi",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ASSOCIAZIONE LA LINEA DELLA PALMA - ETS",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "EUREKA SERVIZI S.A.S.",
+            "Città": "Cogollo del Cengio",
+            "Fatturato": "",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "SINTHEMA DI MONICA DAVID ED ENRICA FERRARI SNC",
+            "Città": "Biella",
+            "Fatturato": "",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "RECRUITECH S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "IN OPERA SPA",
+            "Città": "Pescara",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "HUMANGEST S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "GESFOR S.R.L.",
+            "Città": "Pozzuoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CONSEA SRL",
+            "Città": "Torino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "DURING SPA",
+            "Città": "Torino",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "SYNERGIE ITALIA - AGENZIA PER IL LAVORO S.P.A.",
+            "Città": "Torino",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "WORK IN PROGRESS SOCIETA' A RESPONSABILITA' LIMITATA IN FORM",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "LAVORO MIO - AGENZIA PER IL LAVORO - S.P.A.",
+            "Città": "Brescia",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "LIFE IN S.P.A.",
+            "Città": "Rodengo Saiano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "KENT SERVICE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "GRAFTON S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "SAMSIC HR ITALIA S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "PROMELEC INTERNATIONAL SRL",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SELEXI S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PROPER S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "KORN FERRY (IT) S.R.L",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MANAGEMENT SEARCH S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MERCURI URVAL S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "EGON ZEHNDER INTERNATIONAL SPA",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "AIMS INTERNATIONAL ITALIA S.R.L. SOCIETA' BENEFIT",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "TEMPOR SPA AGENZIA PER IL LAVORO",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "E-WORK S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MINDOOR SRL",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "ETJCA S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "KEY2PEOPLE EXECUTIVE SEARCH S.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SEL-ACTION SAS DI MARCELLI GIULIO \u0026 C.",
+            "Città": "Romeno",
+            "Fatturato": "",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "SELECTA SAS DI CARLET DORIS \u0026 C.",
+            "Città": "San Vendemiano",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "TARANTO PORT WORKERS AGENCY S.R.L.",
+            "Città": "Taranto",
+            "Fatturato": "",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SELECTA PECCHIONI DI BONICELLI ELENA IN PECCHIONI S.A.S.",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "META RISORSE UMANE SAS DI STEFANIA MANCINI \u0026 C.",
+            "Città": "San Benedetto del Tronto",
+            "Fatturato": "",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "FAVERO PIERANGELO",
+            "Città": "Imbersago",
+            "Fatturato": "",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PERSONE \u0026 CARRIERE SRL",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "DOA CONSULT S.A.S. DEL DR. DINO SALESE \u0026 C. IN BREVE 'DOA CO",
+            "Città": "Pescara",
+            "Fatturato": "",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "78.30.00",
+            "Azienda": "HOLDING MULTISERVICE S.R.L.S.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TNSERVICE SRL",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "RECRUIT S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "DG NET WORK - S.R.L.",
+            "Città": "Salerno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "KEYPARTNERS ITALY SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "JOBROS S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "LOOK4U CONSULTING SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "VALOREUMANO S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "LOVATI\u0026ASSOCIATI SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PROJENIA SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "San Martino Valle Caudina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "PERFORMARE SRL",
+            "Città": "Vicenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "BUSINESS POOL GMBH",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "GRUPPO VOLA S.R.L.",
+            "Città": "Bassano del Grappa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "UP AGENZIA PER IL LAVORO S.P.A.",
+            "Città": "Medicina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "EHR S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ROBERT WALTERS ITALY S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "STUDIO PAVAN SRL",
+            "Città": "Torri di Quartesolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "DIMENSIONE IMPRESA S.R.L.",
+            "Città": "Thiene",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "R.E S.SERVIZI INTEGRATI S.R.L.",
+            "Città": "Piedimonte Matese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ATF STUDIO SOCIETA' COOPERATIVA",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "INGENN S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SMILE - SOCIETA' COOPERATIVA",
+            "Città": "Busto Arsizio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TREND SAS DI SUSANNA SUT \u0026 C.",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "SELEFORM DI GITTI DOTT.SSA CRISTINA \u0026 C. S.A.S.",
+            "Città": "Brescia",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "LAVORINT S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ERIC SALMON \u0026 PARTNERS SRL SOCIETA' BENEFIT",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "RISORSE S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "SPENCER STUART ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "OPENJOBMETIS S.P.A. AGENZIA PER IL LAVORO",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MICHAEL PAGE INTERNATIONAL ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "WORK FORCE ON LINE SPA",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "JOB SELECT SOCIETA' A RESPONSABILITA' LIMITATA (IN FORMA ABB",
+            "Città": "Padova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "EUROINTERIM S.P.A.",
+            "Città": "Padova",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "78.00.00",
+            "Azienda": "DOTTO RESEARCH S.R.L.",
+            "Città": "Verona",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PROFEXA CONSULTING S.R.L",
+            "Città": "Bologna",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ALMALAUREA S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "OASI LAVORO S.P.A.",
+            "Città": "Bologna",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "LAVOROPIU' S.P.A. AGENZIA PER IL LAVORO",
+            "Città": "Bologna",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "TRENKWALDER S.R.L.",
+            "Città": "Modena",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "ARCHIMEDE SOCIETA' PER AZIONI",
+            "Città": "Reggio nell'Emilia",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "FAIRPLACE H.R. CONSULTING S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "IDEA LAVORO AGENZIA PER IL LAVORO SOCIETA' PER AZIONI",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "ALI AGENZIA PER IL LAVORO S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "ALMA S.P.A. - AGENZIA PER IL LAVORO",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "YOUS S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SHL ITALY S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "NUOVE FRONTIERE LAVORO SPA",
+            "Città": "Napoli",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "GENERAZIONE VINCENTE S.P.A.",
+            "Città": "Napoli",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "TEMPORARY S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "VALORI S.P.A.",
+            "Città": "Ariccia",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "NETMI AGENZIA PER IL LAVORO S.P.A.",
+            "Città": "Torino",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "JUST ON BUSINESS SPA - AGENZIA PER IL LAVORO",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "JOB CAMERE SRL",
+            "Città": "Genova",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "CBS LAVORO S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "WINTIME S.P.A. - AGENZIA PER IL LAVORO",
+            "Città": "Napoli",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "RELIZONT SPA",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "DIREZIONE LAVORO GROUP S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "ARKIGEST S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "FAMILY CARE S.R.L. AGENZIA PER IL LAVORO",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "COOPERJOB SPA",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "MISTERTEMP' S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "AL CENTRO S.P.A.",
+            "Città": "Cremona",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "APIS S.R.L.",
+            "Città": "Salerno",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "ONLY JOB S.R.L. - AGENZIA PER IL LAVORO",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "ETICA LAVORO SRL",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "ARTICOLO 1 - AGENZIA PER IL LAVORO SRL",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "LABOR SPA",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "HAYS PROFESSIONAL SERVICES SRL",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "INNOVAZIONE LAVORO S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "BEST ENGAGE SRL",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "SOLUZIONE LAVORO SPA",
+            "Città": "Perugia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "SPECIALISTERNE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "EXIMIE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "JOBBY S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "ASTEN ARCOBALENO S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "LINK HR S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.20.00",
+            "Azienda": "NEW JOB S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "GALLAS GROUP SRL",
+            "Città": "Udine",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PERSEO S.R.L.",
+            "Città": "Caerano di San Marco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "VALTELLINA LAVORO S.R.L. con socio unico",
+            "Città": "Sondrio",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HAYS SRL",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MESTIERI LOMBARDIA - CONSORZIO DI COOPERATIVE SOCIALI - SOCI",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "REVERSE SPA",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "AGENZIA PER LA FORMAZIONE, L'ORIENTAMENTO E IL LAVORO DI MON",
+            "Città": "Monza",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "OLIVER JAMES ASSOCIATES S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "INTERMEDIA SELECTION S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SELTIS HUB S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "AEGIS SRL",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "APL LAVORO NETWORK S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MESTIERI TOSCANA CONSORZIO COOP. SOCIALI",
+            "Città": "Firenze",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HUNTERS GROUP SRL",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HISKILL SRL",
+            "Città": "Bologna",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "IQM SELEZIONE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ALEXANDER MANN SOLUTIONS S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "VIRVELLE S.R.L. - SOCIETA' BENEFIT",
+            "Città": "Salerno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "RADAR CONSULTING ITALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "INTER.MARK S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "AMROP ITALY S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "GLASFORD INTERNATIONAL ITALY SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "LOGICAL JOB S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HORTON INTERNATIONAL ITALY S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SMART JOB S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "VILLA AND PARTNERS EXECUTIVE SEARCH SRL",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ROCHESTER ITALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ARETHUSA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CHABERTON ITALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "VALUE SEARCH S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TEAMWORK CONSULTING \u0026 SERVICES S.R.L. O PIU' BREVEMENTE TCS",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "INFORMATTIVA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "BRUNEL ITALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CORSI \u0026 PARTNERS SRL",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TALENT ACQUISITION PARTNERS S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SELFORM CONSULTING SRL",
+            "Città": "Aversa",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "BAGLIETTO \u0026 PARTNERS SRL",
+            "Città": "Bari",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ARIS AZIONE E RICERCA SOCIALE S.R.L.",
+            "Città": "Trento",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "COVENANT PARTNERS SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ONEXECUTIVE SOCIETA' BENEFIT S.R.L UNIPERSONALE",
+            "Città": "Padova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "POLITICHE ATTIVE LAZIO CDL SOCIETA' A RESPONSABILITA' LIMITA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PEDERSEN AND PARTNERS S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "UNIMPIEGO CONFINDUSTRIA - S.R.L., O IN FORMA ABBREVIATA 'UNI",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TROVOLAVORO SRL",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "A-HEAD SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CO.BO ASSISTANCE SRL",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "STEM-VCR SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "DIREZIONE LAVORO SRL",
+            "Città": "Pomezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "WARD HOWELL ITALY SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TAILOR \u0026 FOX S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "WORK EXPERIENCE SRL ENUNCIABILE ANCHE WE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "OP SOLUTION S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MATCH PEOPLE SRL",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "S.C.R. SELEZIONE E CONSULENZA PER LE RISORSE UMANE S.R.L.",
+            "Città": "Ravenna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "IMPRESA SOCIALE GENERAZIONE LAVORO-SOCIETA' COOPERATIVA SOCI",
+            "Città": "Novoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PEOPLE SRL",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "S.I.A. CONSULTING S.R.L.",
+            "Città": "Udine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "POWER GIOB S.R.L.",
+            "Città": "Brindisi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "EXAR SOCIAL VALUE SOLUTIONS - IMPRESA SOCIALE SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "FRASER YACHTS GROUP S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SOCIALSURF SRL A SOCIO UNICO",
+            "Città": "Ivrea",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "MAHAN SRL",
+            "Città": "Magenta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "AGENZIA SPHERA SRL",
+            "Città": "Udine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "FASTART CONSULTING S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TML SERVICE S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ESSE-M STUDIO SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "JUST WORK SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SE.SVIL. SRL",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SINTEX SELEZIONE PERSONALE SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "EXPERIENCE INTERNATIONAL SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "C \u0026 S CONSULENZA E SELEZIONE - S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PATCHANKA SOC.COOP.SOCIALE",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "GCHCONSULTING SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ARPA CONSULTING S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ASCONS S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "TALENT'S ANGELS SRL",
+            "Città": "Pordenone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SEAZ SRL",
+            "Città": "Bra",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CONSOLUTIO S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "AREA75 S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "FA.SER. SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+            "Città": "Alba",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ONE4JOB SRL",
+            "Città": "Monza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SELETEK SRL",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "VIR HR HUMAN RESOURCES SRL",
+            "Città": "Saronno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CISES SRL",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "EASYHUNTERS S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HIRTOS EXECUTIVE SEARCH S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HUNTING HEADS ITALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "IAMA RISORSE UMANE SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "DRD DIVISIONE RETE DIRETTA SRL",
+            "Città": "Lallio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "KSEARCH SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "STEMA - STUDI \u0026 MANAGEMENT - S.R.L., O IN FORMA ABBREVIATA,",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "LORIGA E ASSOCIATI SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "L.Q.L. HUMAN RESEARCHES SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PSYCHOMETRICS SRL",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HU-TALENT SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "SALES LINE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "F.S.N. FASHION SYSTEM NETWORK SRLS",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        }
+    ],
+    [
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "BUSINESS SOLUTION - CONSULENZA AZIENDALE DAL 1996 S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "CARUSIHR \u0026 CO. S.R.L.",
+            "Città": "Bussolengo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "365 GRADI S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "THE SR GROUP (ITALY) S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "BECOME PARTNER S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "NIEDERDORF ITALIA SRL",
+            "Città": "Verona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "T-KEY WORK EXPERIENCE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ROBERTSON ASSOCIATES SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "IL TALENTO SRL",
+            "Città": "Malo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "STUDIO CENTRO PERSONALE E TRAD UZIONI S.R.L.",
+            "Città": "Vicenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PAIDEIA GROUP SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "FRIISBERG INTERNATIONAL - ITALY S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "PROSPETTIVA LAVORO S.R.L.",
+            "Città": "Biella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "RICERCAMY S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "YOUMAN - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "LGA HUMAN RESOURCE SRL",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "QUADRA RESEARCH S.R.L.",
+            "Città": "Udine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "EITOS S.R.L.",
+            "Città": "Porcia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ACCADEMIA DELLA CASA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ERGON MASTER TEAM NETWORK SRL SOCIETA' BENEFIT A RESPONSABIL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "HEAD SOLUTIONS S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "FAMKARE HR S.R.L.",
+            "Città": "Lecco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "ERREDUE S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "FUTURE MANAGER RECRUITMENT S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "78.10.00",
+            "Azienda": "STANDLER ITALIA SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        }
+    ]
+]

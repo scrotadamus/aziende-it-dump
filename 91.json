@@ -1,0 +1,3542 @@
+[
+    [
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "POMBIA PARK S.R.L.",
+            "Città": "Pombia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "SOCIETA' CONSORTILE GESTIONE TURISTICA DELTA DEL PO A R.L.",
+            "Città": "Comacchio",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "LP DRILLING S.R.L. ENUNCIABILE ANCHE LPD S.R.L.",
+            "Città": "Cortemaggiore",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "FRANK'S INTERNATIONAL S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "RANA DIVING S.P.A.",
+            "Città": "Ravenna",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "HYDRO DRILLING S.R.L.",
+            "Città": "Ravenna",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "HALLIBURTON ITALIANA S.R.L.",
+            "Città": "Ortona",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "SIECO SERVICE SRL",
+            "Città": "Ortona",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "S.M.A.P.E. S.R.L. SOCIETA' MERIDIONALE PER LE APPLICAZIONI P",
+            "Città": "Cappelle sul Tavo",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "ITALFLUID GEOENERGY S.R.L.",
+            "Città": "Montesilvano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "ITALFLUID COSMEP S.R.L. ITALFLUID COSTRUZIONE MANUTENZIONE E",
+            "Città": "Notaresco",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "AARONITE ITALIA S.R.L.",
+            "Città": "Modugno",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ELECTA S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "WORKING SOC. COOP.",
+            "Città": "Bologna",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "PERGEMINE SPA",
+            "Città": "Parma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ORIENTARE S.R.L.",
+            "Città": "Cagliari",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ALES - ARTE LAVORO E SERVIZI S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ZETEMA PROGETTO CULTURA SRL",
+            "Città": "Roma",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "CONSORZIO SISTEMA CULTURALE SARDEGNA - SOCIETA' COOPERATIVA",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "LA COLLINA - SOCIETA' COOPERATIVA SOCIALE ONLUS IMPRESA SOCI",
+            "Città": "Trieste",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "SOCIETA COOPERATIVA CULTURE",
+            "Città": "Venezia",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "GEI GENERAL EUROPEAN INVESTMENTS SRL",
+            "Città": "Sarzana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "PENISOLA DEL SINIS SOCIETA' COOPERATIVA",
+            "Città": "Cabras",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "LA LETTURA SOCIETA' COOPERATIVA",
+            "Città": "Oristano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FORUM TRAIANI SOC. COOP. A R.L.",
+            "Città": "Fordongianus",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "PAVEES SOCIETA' COOPERATIVA",
+            "Città": "Udine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "PATCHWORK S.R.L.",
+            "Città": "Forio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "CLOROFILLA SOCIETA' COOPERATIVA",
+            "Città": "Biella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "THALASSIA SOCIETA' COOPERATIVA",
+            "Città": "Brindisi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "PIERGARDEN S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "NATURA ALPINA S.R.L.",
+            "Città": "Aprica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "GIARDINO ZOOLOGICO CITTA' DI PISTOIA SRL",
+            "Città": "Pistoia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "CLIMAX SOC. COOP. A RL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "SEGES SOCIETA' COOPERATIVA",
+            "Città": "Vernole",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "SERAPIA - SOCIETA' COOPERATIVA",
+            "Città": "Ostuni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "GRIGNOLO MINIERE-GEOLOGIA-RICERCA-TURISMO S.R.L.",
+            "Città": "Galbiate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "DIOMEDEA SOCIETA' COOPERATIVA",
+            "Città": "Villasimius",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "GRUPPO ALPINI ALBATE SOCIETA' COOPERATIVA CIRCOLO COOPERATIV",
+            "Città": "Como",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "SARDINIA NATURE",
+            "Città": "Sassari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "COOPERATIVA ARCHIVISTICA E BIBLIOTECARIA",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "CUCCUREDDUS SOCIETA' COOPERATIVA",
+            "Città": "Villasimius",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "GET SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "'COOPERATIVA SERVIZI CULTURALI NINIVE'",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "DEDALO SOCIETA' COOPERATIVA",
+            "Città": "Pavia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "CONSORZIO BENI CULTURALI ITALIA SOCIETA' COOPERATIVA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "OPERA LABORATORI FIORENTINI SPA",
+            "Città": "Firenze",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "COSTA EDUTAINMENT SPA",
+            "Città": "Riccione",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "CSBNO (CULTURE, SOCIALITA', BIBLIOTECHE, NETWORK OPERATIVO)",
+            "Città": "Novate Milanese",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "LE MACCHINE CELIBI SOCIETA' COOPERATIVA",
+            "Città": "Bologna",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "ZOOM IN PROGRESS S.R.L.",
+            "Città": "Cumiana",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Torino"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "GROTTE DI CASTELLANA S.R.L.",
+            "Città": "Castellana Grotte",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "COOP4ART CONSORZIO DI COOPERATIVE SOCIALI SOCIETA' COOPERATI",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "SIKELIA GESTIONE ARCHIVI S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MASONE S.R.L.",
+            "Città": "Fontanellato",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "BOSCO SACRO DI BOMARZO SRL",
+            "Città": "Bomarzo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "PARCO DELLA SALINA DI CERVIA S.R.L.",
+            "Città": "Cervia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "CONSORZIO MUSEUM MUSEI",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "PARCO ZOO PUNTA VERDE SRL",
+            "Città": "Lignano Sabbiadoro",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "GALLERIA COLONNA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "PARCO SAFARI DELLA PREISTORIA SRL",
+            "Città": "Rivolta d'Adda",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "PASSATO \u0026 FUTURO SRL",
+            "Città": "Gropparello",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FEAV S.R.L. UNIPERSONALE",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "MICROSTORIA SOCIETA' COOPERATIVA A RESPONSABILITA' LIMITATA",
+            "Città": "Rosignano Marittimo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "ZOO D'ABRUZZO SRL",
+            "Città": "Rocca San Giovanni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "ECO SUD-COOPERATIVA PER LA PROTEZIONE E TUTELA DELL'AMBIENTE",
+            "Città": "Rotondella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "DELIZIE REALI S.C. A R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ASSOCIAZIONE OFFICINE CULTURALI IMPRESA SOCIALE ETS",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "LA NUOVA LUNA SOCIETA' COOPERATIVA A.R.L.",
+            "Città": "Lanusei",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "LDB SRL",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ARCHEONOVA SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Villagrande Strisaili",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "L'ARCO DI GIANO COOPERATIVA SOCIALE",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "ACTA PROGETTI SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ARCHEOLOGISTICS S.R.L. IMPRESA SOCIALE",
+            "Città": "Carnago",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "SOCIETA' COOPERATIVA A.R.C.A. - IMPRESA SOCIALE",
+            "Città": "Albissola Marina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "GEST.DOC. SOCIETA' A RESPONSABILITA' LIMITATA SIGLABILE GEST",
+            "Città": "Cuneo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "SYNCHRONOS SOCIETA' COOPERATIVA DI PRODUZIONE E LAVORO",
+            "Città": "Matera",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "S.I.L.T. - COOPERATIVA SARDA INTERPRETI LINGUE E TURISMO - S",
+            "Città": "Alghero",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ARCHEOVEA IMPRESA CULTURALE S.R.L.",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "COOPERATIVA SOCIALE YOBEL",
+            "Città": "Vallo della Lucania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "CAMPI FLEGREI DIVING CENTER S.R.L",
+            "Città": "Pozzuoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "LISE S.R.L.",
+            "Città": "Rovigo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MAVV S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "RIFUGIO PARALOUP IMPRESA SOCIALE SRL",
+            "Città": "Rittana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "FEGOTTO S.R.L.",
+            "Città": "Chiaramonte Gulfi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "AGIRE SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "Ragusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "SOC. COOPERATIVA GHENEA A R.L.",
+            "Città": "Aci Castello",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "CONSORZIO TERRE DI TOSCANA",
+            "Città": "Abbadia San Salvatore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "COOP. TEMPO LIBERO SOCIETA' COOPERATIVA",
+            "Città": "Bagnolo in Piano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MIZAR S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "COOLTOUR GALLURA SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "Santa Teresa Gallura",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE LA TUNO",
+            "Città": "Perosa Argentina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "AZIENDA SPECIALE PARCO DI PORTO CONTE",
+            "Città": "Alghero",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "TERZA CULTURA SOCIETA' COOPERATIVA",
+            "Città": "Sesto Fiorentino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "SOCIETA' COOPERATIVA MEDIATEUR A RESPONSABILITA' LIMITATA S.",
+            "Città": "Cava de' Tirreni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "SA REGGIA - SOCIETA' COOPERATIVA",
+            "Città": "Burgos",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "IANUS S.R.L.",
+            "Città": "Potenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO CIVICO CASTELBUONO",
+            "Città": "Castelbuono",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "S.I.A. SRL",
+            "Città": "Parabita",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FEART - SOCIETA' COOPERATIVA",
+            "Città": "Terlizzi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "COMUNE DI RAVENNA",
+            "Città": "Ravenna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "PARCO-MUSEO S'ABBA FRISCA SOCIETA' COOPERATIVA",
+            "Città": "Dorgali",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "4 CULTURE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Borgia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "IPOGEO DEI CRISTALLINI S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "OFFICINA@M S.C.A R.L.",
+            "Città": "Piandimeleto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "GREENWOOD SOCIETA' COOPERATIVA",
+            "Città": "Dipignano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "QUATTRO VENTI SRL",
+            "Città": "Guarcino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ANTICHE FORNACI SRL IMPRESA SOCIALE",
+            "Città": "Eboli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "NOTABOX S.R.L.",
+            "Città": "Treviso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO S.R.L.",
+            "Città": "San Gimignano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "COOPERATIVA SAGRUS S.C.A R.L.",
+            "Città": "Rosello",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "I MUSEI DEL CIBO DELLA PROVINCIA DI PARMA - SERVIZI S.R.L.",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "E - MEDIA S.P.A.",
+            "Città": "Trecastagni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "SURGENTE SOCIETA' COOPERATIVA DI COMUNITA' IMPRESA SOCIALE",
+            "Città": "Avigliano Umbro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "OASI CERVARA SOCIETA' DI GESTIONE SRL UNIPERSONALE",
+            "Città": "Treviso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "TORRETTA S.R.L - IMPRESA SOCIALE",
+            "Città": "Matera",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "SOCIETA' COOPERATIVA SOCIALE COOPLY",
+            "Città": "Brindisi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "MAGMA SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "Portici",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "ESPERIENZE DI CULTURA METROPOLITANA",
+            "Città": "Settimo Torinese",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "CASTELLI DI BOLZANO",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "FOND. PIETRO GIACOMO RUSCONI,V ILLA GHIGI,PER L'INNOVAZ. URB",
+            "Città": "Bologna",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "FONDAZIONE UGO E OLGA LEVI ONLUS",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "ARCHILOGICA S.N.C. DI CANAPARO GIORGIO, LOMBARD PIER FEDERIC",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "ASSOCIAZIONE RICCARDO CARBONE ONLUS",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "FONDAZIONE FRANCO FOSSATI",
+            "Città": "Monza",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "BIODIVERSITA' S.A.S. DI A. CENERINI \u0026 C.",
+            "Città": "Semproniano",
+            "Fatturato": "",
+            "Provincia": "Grosseto"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "CULTURE DIFFUSE S.R.L. IMPRESA SOCIALE",
+            "Città": "Parma",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "CHOCO-STORY TORINO S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE MUSEO DELLE ANTICHITA' EGIZIE DI TORINO",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "FONDAZIONE ARNOLDO E ALBERTO MONDADORI - ETS",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE NAZIONALE CARLO COLLODI",
+            "Città": "Pescia",
+            "Fatturato": "",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "VENERANDA BIBLIOTECA AMBROSIANA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE TORINO MUSEI",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "NATOUR SRL",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "PINACOTECA DEL LINGOTTO GIOVANNI E MARELLA AGNELLI",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "VENETARCHIVI S.A.S. DI FUSETTI GIAMPAOLO \u0026 C.",
+            "Città": "Treviso",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "OPERA DELLA METROPOLITANA",
+            "Città": "Siena",
+            "Fatturato": "",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE TANCREDI DI BAROLO",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "CUBI CULTURE BIBLIOTECHE IN RETE",
+            "Città": "Melzo",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE ANTICO OSPEDALE SANTA MARIA DELLA SCALA",
+            "Città": "Siena",
+            "Fatturato": "",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO NAZ. DELL'AUTOMOBILE AVVOCATO GIOVANNI AGNELLI",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "FONDAZIONE CULTURALE NIELS STENSEN",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ASSOCIAZIONE LOFFICINA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "FONDAZIONE C.I.V.E.S.",
+            "Città": "Ercolano",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO AGOSTINELLI",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "FONDAZIONE ALGHERO - MUSEI EVENTI TURISMO ARTE",
+            "Città": "Alghero",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE IL GIARDINO DEI TAROCCHI",
+            "Città": "Capalbio",
+            "Fatturato": "",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "PIO MONTE DELLA MISERICORDIA",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "RJMA SRL",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO REGIONALE DELL'EMIGRAZIONE ONLUS",
+            "Città": "Gualdo Tadino",
+            "Fatturato": "",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE MUSEI CIVICI DI VENEZIA",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "COSTA \u0026 DANIELE GARDEN DI DINU CONSTANTIN",
+            "Città": "Coazze",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ASSOCIAZIONE DI VOLONTARIATO ALL ABOUT APPLE ONLUS",
+            "Città": "Genova",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE ACCORSI OMETTO",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ASSOCIAZIONE CULTURALE MUSEO ETTORE FICO",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE CERRATELLI",
+            "Città": "Pisa",
+            "Fatturato": "",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "MONTELLATO MONICA",
+            "Città": "Jesolo",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "DIOCESI DI PADOVA",
+            "Città": "Padova",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "SOCIETA' NAPOLETANA DI STORIA PATRIA ENTE DEL TERZO SETTORE",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE ' MUSEO GLAUCO LOMBARDI '",
+            "Città": "Parma",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "GRUPPO STORICO FOLKLORISTICO IL MELOGRANO - APS",
+            "Città": "Carpineti",
+            "Fatturato": "",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "DOMIA S.R.L.",
+            "Città": "Siracusa",
+            "Fatturato": "",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ENTE REGIONALE PER IL PATRIMONIO CULTURALE DELLA REGIONE AUT",
+            "Città": "Gorizia",
+            "Fatturato": "",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "CRAF - CENTRO DI RICERCA ED ARCHIVIAZIONE DELLA FOTOGRAFIA",
+            "Città": "Spilimbergo",
+            "Fatturato": "",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "FAF TOSCANA - FONDAZIONE ALINARI PER LA FOTOGRAFIA",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE MUSEO ANTONIO LIGABUE",
+            "Città": "Gualtieri",
+            "Fatturato": "",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ASSOCIAZIONE MUSEO DELLA MILLE MIGLIA CITTA' DI BRESCIA",
+            "Città": "Brescia",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "ENTE PARCO NATURALE DEL MONT AVIC",
+            "Città": "Champdepraz",
+            "Fatturato": "",
+            "Provincia": "Aosta"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "UNIONE FIORENTINA",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "ARCHIVIA DI VAROLI ROBERTA",
+            "Città": "Mongrando",
+            "Fatturato": "",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "NUR DI LUIGI MANIAS \u0026 C. S.A.S.",
+            "Città": "Ales",
+            "Fatturato": "",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO NAZIONALE DEL CINEMA - FONDAZIONE MARIA ADRIANA PROLO",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "PALAZZO DUCALE FONDAZIONE PER LA CULTURA",
+            "Città": "Genova",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "COMUNE DI BOLOGNA",
+            "Città": "Bologna",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "PARCO VALCORBA DI DEGLI AGOSTINI NICOLETTA",
+            "Città": "Padova",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "PALAZZO BLU",
+            "Città": "Pisa",
+            "Fatturato": "",
+            "Provincia": "Pisa"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "FONDAZIONE 'CLEMENT FILLIETROZ - ONLUS'",
+            "Città": "Nus",
+            "Fatturato": "",
+            "Provincia": "Aosta"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ASSOCIAZIONE ITALIANA AMICI DEL PRESEPIO E.T.S.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "CHIESA CATTEDRALE BASILICA DI N.S. ASSUNTA",
+            "Città": "Savona",
+            "Fatturato": "",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE M9, MUSEO DEL 900",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "FONDAZIONE FS ITALIANE",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE ADI COLLEZIONE COMPASSO D'ORO",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "FONDAZIONE DEL GRAND TOUR",
+            "Città": "Noto",
+            "Fatturato": "",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MANIFUTURO SOCIETA' A RESPONSABILITA' LIMITATA - IMPRESA SOC",
+            "Città": "Soveria Mannelli",
+            "Fatturato": "",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "MONIMO' S.R.L.",
+            "Città": "Jesolo",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "DIOCESI DI SAN MARINO - MONTEFELTRO",
+            "Città": "Pennabilli",
+            "Fatturato": "",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE GIACOMO PUCCINI",
+            "Città": "Lucca",
+            "Fatturato": "",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE BERGAMO NELLA STORIA ONLUS",
+            "Città": "Bergamo",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ASSOCIAZIONE 'SOTTO IL SEGNO DEL TORO'",
+            "Città": "Argelato",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSE MUSEO DELLE SCIENZE",
+            "Città": "Trento",
+            "Fatturato": "",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ACCADEMIA NAZIONALE DI SAN LUCA",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE PAOLO E CAROLINA ZANI PER L'ARTE E LA C",
+            "Città": "Cellatica",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "OPERE BUFFE DI BATTISTI FRANCESCO \u0026 C. SAS",
+            "Città": "Aosta",
+            "Fatturato": "",
+            "Provincia": "Aosta"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE GAIANI",
+            "Città": "Monza",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE VILLA DEL BALI'",
+            "Città": "Colli al Metauro",
+            "Fatturato": "",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE PER LE ARTI CONTEMPORANEE IN TOSCANA",
+            "Città": "Prato",
+            "Fatturato": "",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "FONDAZIONE FIORONI - MUSEO E BIBLIOTECA PUBBLICA",
+            "Città": "Legnago",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "FONDAZIONE INTERNAZIONALE PADRE MATTEO RICCI ETS",
+            "Città": "Macerata",
+            "Fatturato": "",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ASSOCIAZIONE CULTURALE GENIUS LOCI",
+            "Città": "Matera",
+            "Fatturato": "",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ACCADEMIA DI BELLE ARTI STATALE LIGUSTICA",
+            "Città": "Genova",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "FONDAZIONE CINETECA DI BOLOGNA",
+            "Città": "Bologna",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE ERMENEGILDO ZEGNA",
+            "Città": "Valdilana",
+            "Fatturato": "",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE CAMILLO CAVOUR",
+            "Città": "Santena",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "FONDAZIONE PALAZZO LITTA PER LE ARTI ETS",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MARGO S.R.L.",
+            "Città": "Matera",
+            "Fatturato": "",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE MARCELLO MORANDINI",
+            "Città": "Varese",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE PESCHERIA CENTRO ARTI VISIVE",
+            "Città": "Pesaro",
+            "Fatturato": "",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE PRADA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE BAGATTI VALSECCHI",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "FONDAZIONE REAL SITO CARDITELLO",
+            "Città": "San Tammaro",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE PER LA CULTURA PONTEDERA",
+            "Città": "Pontedera",
+            "Fatturato": "",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "STARTAL-SOCIETA'COOP.SOCIALE IN LIQ.COATTA AMMINIS",
+            "Città": "Alessandria",
+            "Fatturato": "",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "COLLEGIO DEGLI INGEGNERI E ARCHITETTI DI MILANO",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "OPERA DI SANTA MARIA DEL FIORE",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE CANOVA ONLUS",
+            "Città": "Possagno",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "KULTURELLE VEREINIGUNG SUEDTIROL FILM",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "FONDAZIONE ODYSSEA",
+            "Città": "Crotone",
+            "Fatturato": "",
+            "Provincia": "Crotone"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "PARCO FAUNISTICO LA TORBIERA DI FRANCESCO ROCCA \u0026 C. S.A.S.",
+            "Città": "Agrate Conturbia",
+            "Fatturato": "",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO DEL TESSUTO DI PRATO",
+            "Città": "Prato",
+            "Fatturato": "",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ISOLA CATANIA IMPRESA SOCIALE S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE MASSIMO E SONIA CIRULLI",
+            "Città": "San Lazzaro di Savena",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "FONDAZIONE FEDERICO II",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "RETE SAPERE",
+            "Città": "Imola",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "CHINTULA S.N.C. DI MURGIA L. E C.",
+            "Città": "Urzulei",
+            "Fatturato": "",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "VILLA LITTA DI CARINI ELISABETTA E C. SAS",
+            "Città": "Orio Litta",
+            "Fatturato": "",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "FONDAZIONE VULCI",
+            "Città": "Montalto di Castro",
+            "Fatturato": "",
+            "Provincia": "Viterbo"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "VENERANDA FABBRICA DEL DUOMO DI MILANO",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO PERSONE' DI MAZZOTTA MICHELANGELO E DE GIORGI FRANCESC",
+            "Città": "Lecce",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO D'ARTE E SCIENZA DI GOTTFRIED MATTHAES ASSOCIAZIONE ET",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "WWF ITALIA - E.T.S. DENOMINATA ANCHE ASSOCIAZIONE ITALIANA P",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "HERITAGE ASSET MANAGEMENT SOCIETA' BENEFIT A RESPONSABILITA'",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE BISCOZZI   RIMBAUD ENTE DEL TERZO SETTORE",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ABBONAMENTO MUSEI",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ASSOCIAZIONE CULTURALE 'GENESIS CIMINNA'",
+            "Città": "Ciminna",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO STORICO DELLA CAMPANA MARINELLI SNC",
+            "Città": "Agnone",
+            "Fatturato": "",
+            "Provincia": "Isernia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ARCHEOARES DI G.SERONE \u0026 C. SNC",
+            "Città": "Terni",
+            "Fatturato": "",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "BUT'N'BEN S.A.S. DI MASON SHELAG",
+            "Città": "Andria",
+            "Fatturato": "",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO GALILEO ISTITUTO E MUSEO DI STORIA DELLA SCIENZA",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "DIOCESI PATRIARCATO DI VENEZIA",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "FONDAZIONE FEDERICO ZERI",
+            "Città": "Bologna",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "VENEZIA HERITAGE TOWER DI PREVITALI ALESSANDRA",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "M.I.D.A. MUSEI INTEGRATI DELL'AMBIENTE",
+            "Città": "Pertosa",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "ENTE PARCO REGIONALE DELLA MAREMMA",
+            "Città": "Grosseto",
+            "Fatturato": "",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "DUSATTI WARIN ART MULTISERVIZI",
+            "Città": "Rovereto",
+            "Fatturato": "",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE ACCADEMIA CARRARA BG",
+            "Città": "Bergamo",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "KELEMINA MARIO",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "DOC - ARCHIVIAZIONE DOCUMENTALE DI DE VIVO GIUSEPPE \u0026 C. - S",
+            "Città": "Potenza",
+            "Fatturato": "",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "ENTE PARCO NAZIONALE DELLA MAIELLA ENTE CON PERSONALITA' DI",
+            "Città": "Guardiagrele",
+            "Fatturato": "",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "IMAGINACTION S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "CASTELLO ARAGONESE DI NICOLA E ANNA MATTERA \u0026 C. SAS",
+            "Città": "Ischia",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE ASTI MUSEI",
+            "Città": "Asti",
+            "Fatturato": "",
+            "Provincia": "Asti"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ASSOCIAZIONE MUSEO DIFFUSO DELLA RESISTENZA DELLA DEPORTAZIO",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "FONDAZIONE 'IL VITTORIALE DEGLI ITALIANI'",
+            "Città": "Gardone Riviera",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE LUIGI ROVATI",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "PARCO FAUNISTICO CAPPELLER DI CAPPELLER SAMANTHA E DANTE \u0026 C",
+            "Città": "Cartigliano",
+            "Fatturato": "",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEUM WORLD OF ILLUSION SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "COMITATO PROVINCIALE UNPLI TREVISO APS",
+            "Città": "Miane",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "CASTELLO DI CONTIGNACO DI ROMANINI EMANUELE",
+            "Città": "Salsomaggiore Terme",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "PIETRASANTA POLO CULTURALE ENTE DEL TERZO SETTORE",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "AIR MUSEUM S.A.S. DI RICCIARDA AVESANI \u0026 C.",
+            "Città": "Due Carrare",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "FONDAZ.NE PER LA CULTURA CASTELLI ROMANI",
+            "Città": "Genzano di Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE ANTONIO RATTI ONLUS",
+            "Città": "Como",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ASSOCIAZIONE CIVITA",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.00.00",
+            "Azienda": "SOCIETA' ALPINA FRIULANA - SEZIONE DI UDINE DEL CLUB ALPINO",
+            "Città": "Udine",
+            "Fatturato": "",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ASSOCIAZIONE PER IL MUSEO DELLA SETA",
+            "Città": "Como",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE ADRIANO BERNAREGGI",
+            "Città": "Bergamo",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "FONDAZIONE WILLIAM WALTON",
+            "Città": "Forio",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "IMPOSSIBLE MUSEUMS SOCIETA' A RESPONSABILITA' LIMITATA SEMPL",
+            "Città": "Scanzorosciate",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "STUDIO GCG SRL",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "FONDAZIONE ERRI DE LUCA",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "DYNAMICARTMUSEUM SRL",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE MUSEO CIVICO DI ROVERETO",
+            "Città": "Rovereto",
+            "Fatturato": "",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "FONDAZIONE GIAN MARIA ODDI",
+            "Città": "Albenga",
+            "Fatturato": "",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "GENOVA CULTURA S.C. A R.L.",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "DEIDDA VALERIO",
+            "Città": "Sinnai",
+            "Fatturato": "",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FONDAZIONE DONNAREGINA PER LE ARTI CONTEMPORANEE",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "PALEOTUR SOCIETA' COOPERATIVA",
+            "Città": "Ghilarza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "ATHENA SOCIETA COOPERATIVA",
+            "Città": "Cabras",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "COOPERATIVA ARCHEOTUR",
+            "Città": "Sant'Antioco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "COOPERATIVA SOCIALE MILLEPIEDI- ONLUS",
+            "Città": "Sant'Antioco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "SE'MATA SOCIETA' COOPERATIVA",
+            "Città": "Dolianova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "OPEN LAB COMPANY SRL",
+            "Città": "Rieti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rieti"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "CO.ME.S. COOP. MEDIATECHE SARDE",
+            "Città": "Sassari",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "COOPERATIVA OMNIA - SOCIETA' COOPERATIVA",
+            "Città": "Ventimiglia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "LA STORICA TONNARA S.R.L.",
+            "Città": "Alcamo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ARTHEMISIA EXHIBIT - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO CAPPELLA SANSEVERO SRL",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "GUBBIO CULTURA E MULTISERVIZI S.R.L.",
+            "Città": "Gubbio",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "LAVAZZA EVENTI S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO DELLE ILLUSIONI SRL",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "GEBART S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "AMMINISTRAZIONE DORIA PAMPHILJ SRL",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "WMA ITALY SRL",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO DEI BAMBINI SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "PALAZZO DELLA SALUTE S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MEMORIA STORICA SOCIETA' COOPERATIVA BENI CULTURALI - FORMAZ",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "STUDIO D'ARTE SERAFINI S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "'LEONARDO3 SRL' IN FORMA ABBREVIATA 'L3 SRL'",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "SOCIETA' COOPERATIVA ARCHEOLAB",
+            "Città": "Macerata",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "GRUPPO PLEIADI SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "Limena",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "EXHIBITION HUB S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "BRESCIA MUSEI",
+            "Città": "Brescia",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO DEL FALEGNAME TINO SANA-ONLUS",
+            "Città": "Almenno San Bartolomeo",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "FONDAZIONE AQUILEIA",
+            "Città": "Aquileia",
+            "Fatturato": "",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO DELLE ILLUSIONI ROMA - SOCIETA' A RESPONSABILITA' LIMI",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "M9 DISTRICT SRL",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "PARCO ZOO FALCONARA SRL",
+            "Città": "Falconara Marittima",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "VOLANDIA SERVIZI SRL",
+            "Città": "Somma Lombardo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "BIBLIOTECA DEGLI INTRONATI ISTITUZIONE DEL COMUNE DI SIEN",
+            "Città": "Siena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ARCHEOTOUR - SOC. COOP.",
+            "Città": "Paulilatino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "PARCO LE NAVI SOC. COOP.",
+            "Città": "Cattolica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "H2O S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "BUTTERFLY ARC - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Montegrotto Terme",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "EBLA SOCIETA' COOPERATIVA. SERVIZI E SOLUZIONI CULTURALI IN",
+            "Città": "Cesena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "AZIENDA SPECIALE TERRITORIO E CULTURA 'ATC'",
+            "Città": "San Demetrio ne' Vestini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ATON COOPERATIVA SOCIALE",
+            "Città": "Frosinone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ZOE - GESTIONE SERVIZI CULTURALI - SOCIETA' COOPERATIVA",
+            "Città": "La Spezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "CATAJO SERVIZI SRL",
+            "Città": "Battaglia Terme",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "SKI-MINE SRL",
+            "Città": "Tavernole sul Mella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ASSOCIAZIONE ARTE SELLA",
+            "Città": "Borgo Valsugana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ATHENA PROMAKOS S.CONS. A R.L.",
+            "Città": "Trani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "SHORELINE - SOCIETA' COOPERATIVA",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MONTE MEANA SOCIETA' COOPERATIVA",
+            "Città": "Santadi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "DISMA S.A.S. DI ANGELO RIGO \u0026 C.",
+            "Città": "Treviso",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "APRITICIELO",
+            "Città": "Pino Torinese",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "VOLANDIA",
+            "Città": "Varese",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "KAIROS SRL",
+            "Città": "Siracusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "SANT'ORSOLA S.C.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "SOCIETA' COOPERATIVA ECOTOPIA",
+            "Città": "Nuoro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "CONSORZIO I LUOGHI DELL'ARCADIA",
+            "Città": "Agrigento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "INQUISIZIONE S.R.L.",
+            "Città": "Pisa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "TOSCANA D'APPENNINO SOC. COOP.VA",
+            "Città": "Anghiari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "S.ELIA 2003 SOCIETA' COOPERATIVA",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "L'ACQUARIO DI ROMA SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "START SRL",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MONTEPARMASERVIZI SRL A SOCIO UNICO",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "LABORATORIO DELL'IMMAGINARIO SCIENTIFICO - SOCIETA' COOPERAT",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "GEA AMBIENTE E TURISMO SOCIETA' COOPERATIVA",
+            "Città": "Capoterra",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "SCATOLA CULTURA SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "Chiampo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "TURISMO IN MARMILLA SOCIETA' COOPERATIVA",
+            "Città": "Villanovaforru",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "VILLA ABBAS SOCIETA' COOPERATIVA",
+            "Città": "Sardara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "SA DOMU NOSTA SOCIETA COOPERATIVA A R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "S'EREMIGU SOCIETA COOPERATIVA",
+            "Città": "Seui",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "AMBIENTEPARCO IMPRESA SOCIALE SRL ETS",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "EARTH SOCIETA' COOPERATIVA A RESPONSABILITA' LIMITATA",
+            "Città": "Sarzana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "START UNO SOCIETA' COOPERATIVA",
+            "Città": "Fluminimaggiore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "PRIMO COMMA SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "COOPERATIVA SOCAILE MUBA,MUSEO DEI BAMBINI O.N.L.U.S CON SIG",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "IL COCCIO SOCIETA' COOPERATIVA",
+            "Città": "Villanovafranca",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ARTISPLENDORE ITALIA SRL",
+            "Città": "Viterbo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "GENIUS S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "PROGETTO MUSEO S.R.L.",
+            "Città": "Chiusi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "LE MOSTRE IMPOSSIBILI - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MEDIATICA SRL",
+            "Città": "Nicolosi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ITALY SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "GIUNONE SOCIETA' COOPERATIVA",
+            "Città": "Genoni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ASSOCIAZIONE PER LA CONSERVAZIONE DELLE TRADIZIONI POPOLARI",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "IDRIA SOC.CONSORTILE A R.L.",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "TRAME DI CULTURA - COOPERATIVA SOCIALE",
+            "Città": "Londa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "VILLA SILLI COOP A.R.L.",
+            "Città": "Siddi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ECCLESIA SRLS",
+            "Città": "Modica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ASTRID SERVIZI PER LA NATURA E L'AMBIENTE S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MEBO SRL",
+            "Città": "Biella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ALBERTO SALVADORI SRLS UNIPERSONALE",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "FESTIGIUM S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "INNOVATION CGMZ SRL",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "PISTOIA MUSEI \u0026 CULTURA SCRL",
+            "Città": "Pistoia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "COOL TOUR SOCIETA' COOPERATIVA ENUNCIABILE ANCHE COOL TOUR S",
+            "Città": "Bobbio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ISABELLE SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ELICONA SOCIETA' COOPERATIVA",
+            "Città": "Siena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ARTE ITALIANA A.P.S.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MOTORIUS DI SAVORETTI GIUSEPPE E C. S.A.S.",
+            "Città": "Rimini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ITIMERE S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "NATIVE AGENCY SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MOSAICO SOCIETA' COOPERATIVA",
+            "Città": "Alghero",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "SERZELA SOCIETA' COOPERATIVA",
+            "Città": "Gonnostramatza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ROCCA DI SORAGNA S.R.L.",
+            "Città": "Soragna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "GIANGASTONE SRLS",
+            "Città": "Empoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "WUPA S.R.L. DI PERNA ANTONINO IN BREVE WUPA S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO FRATELLI COZZI SRL",
+            "Città": "Legnano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "OCS OPEN CONTROL SYSTEM - SOCIETA' A RESPONSABILITA' LIMITAT",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "URANIA ENTOMOFAUNA NEL MONDO SRL",
+            "Città": "Perugia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "PROGETTO MEDIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "REATTIVA S.R.L.",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "COOPERATIVA TRE FATE",
+            "Città": "Sadali",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "GEA SERVIZI SCIENTIFICI - SOCIETA' COOPERATIVA",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "A SOMETHING SURPRISING - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "SPAZIO RICASOLI S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "NURE - SERVIZI INTEGRATI PER L'ARCHEOLOGIA - SOCIETA' COOPER",
+            "Città": "Isili",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "AVVISATORE MARITTIMO SOCIETA' A RESPONSABILITA' LIMITATA SEM",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "TAATANKAA SRL",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "A.P. SOCIETA' AGRICOLA S.R.L.",
+            "Città": "Cortona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "DOMINA MATERA S.R.L.",
+            "Città": "Matera",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "ARTE \u0026 CULTURA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "DISCOVER CUOMO IMPRESA SOCIALE A R.L.",
+            "Città": "Gragnano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "MUSEO DELLA CASCATA SRLS",
+            "Città": "Terni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "BENARTE S.R.L.",
+            "Città": "Lecce",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "IN HOC SIGNO VINCES SRL",
+            "Città": "Monteriggioni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "91.02.00",
+            "Azienda": "HABITAT BRAZZA' S.R.L.",
+            "Città": "Moruzzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "AZIENDA PALAEXPO'",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "SAG S.R.L.(SERVIZI AMMINISTRATIVI GESTIONALI)",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ADITUS S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "CIVITA MOSTRE E MUSEI SOCIETA' PER AZIONI - IN FORMA ABBREVI",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "OXA SRL IMPRESA SOCIALE",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ARTEM S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ARTWORK SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "Lecce",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "CIVITA SICILIA S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "CONSORZIO AION",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "MONTERIGGIONI A.D. 1213 SRL UNIPERSONALE",
+            "Città": "Monteriggioni",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "CENTRI D'ARTE E MUSEI - E SIGLA ABBREVIATA 'CAMU'",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "LA PARANZA SOCIETA' COOPERATIV A SOCIALE ONLUS",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "GIARDINO GIUSTI SRL",
+            "Città": "Verona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "SOCIETA' COOPERATIVA ESEDRA",
+            "Città": "Macomer",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "KALATA' PROGETTI PER FARE CULTURA SRL IMPRESA SOCIALE",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "PARATISSIMA PRODUZIONI \u0026 SERVIZI S.R.L. IMPRESA SOC",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "PHAROS HERITAGE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFI",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "SARDINIA EXPERIENCE SOCIETA' COOPERATIVA",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "FORESTERIA DI VILLA VALMARANA AI NANI S.R.L.",
+            "Città": "Vicenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "PALAZZO BISCARI S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "PAST IN PROGRESS S.R.L.",
+            "Città": "Livorno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "GIARDINO PFANNER - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Lucca",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "MKT121 S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "EXPLORALGHERO COOPERATIVA",
+            "Città": "Alghero",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "JUSTMO - SOCIETA' COOPERATIVA",
+            "Città": "Campobasso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "SVEVO SRL",
+            "Città": "Cosenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "GROTTE DI SU MANNAU SRL",
+            "Città": "Fluminimaggiore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ARCHEOPARK CAMPI FLEGREI - IMPRESA SOCIALE S.R.L.",
+            "Città": "Bacoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "PASSIFLORA AMBIENTE COOPERATIVA SOCIALE",
+            "Città": "Bolotana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "VOLEARE SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "CAMIGLIATI S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "FORMACULTURA SOC. COOP. A R.L.",
+            "Città": "Pisa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "SAVE ITALIAN BEAUTY SOCIETA' A RESPONSABILITA' LIMITATA SEMP",
+            "Città": "Guiglia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "CASTELLO DI ROPPOLO S.R.L.",
+            "Città": "Roppolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "PATRICIAN VENUES ROME SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "CULTURAE S.R.L.",
+            "Città": "Treviso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ETHRA I BENI CULTURALI AL SERVIZIO DEL TURISMO E DELL'AMBIEN",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ARCH SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Mogoro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "VENICE GARDENS SRL IMPRESA SOCIALE",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ARCHEO.VAL. - ARCHEOLOGIA E VALORIZZAZIONE S.R.L.S.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "NSPRD SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "MONUMENTREES SRLS",
+            "Città": "Velletri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "C.A.S.A. CENTRO DELLE ARTI DELLA SCENA E DELL'AUDIOVISIVO SR",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "NOORAGHE S.R.L.S.",
+            "Città": "Nuoro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "SERVICES \u0026 HOLIDAYS SARDINIA S.R.L.",
+            "Città": "Nuoro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "COOPERATIVA SARDA DI ARCHEOLOGIA MEDIEVALE SOC. COOP.SOCIALE",
+            "Città": "Sorso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "SAN FRANCESCO SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "Andria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "IL GIARDINO ITALIANO SRLS",
+            "Città": "Sordevolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "NUMQUAM QUIESCERE S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "VILLA MELI LUPI S.R.L.",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "ECOMUSEO DELL'ALTO FLUMENDOSA SEULO SOCIETA' COOPERATIVA",
+            "Città": "Seulo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "BOTTEGA REALE SRL UNIPERSONALE",
+            "Città": "Racconigi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.03.00",
+            "Azienda": "FEEL3 SRLS",
+            "Città": "Feltre",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "GHIVINE DEL G.R.A. SOCIETA' COOPERATIVA",
+            "Città": "Dorgali",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "EDA SERVIZI SOC. COOP.",
+            "Città": "Firenze",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "CHARTA COOPERATIVA SOCIALE - ONLUS",
+            "Città": "Mantova",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "GUARNERIO SOCIETA' COOPERATIVA",
+            "Città": "Udine",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "ABIBOOK SOCIETA' COOPERATIVA SOCIALE ONLUS",
+            "Città": "Brescia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "PROMOCULTURA - SOCIETA' COOPERATIVA IMPRESA SOCIALE",
+            "Città": "Vinci",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "BIBLIONOVA SOC. COOPERATIVA",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "IMAGO - SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "Lecce",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "MUNUS S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "CASA LEOPARDI SRL",
+            "Città": "Recanati",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "EUROARCHIVI s.r.l.",
+            "Città": "Barbata",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "L'INDICE SOCIETA' COOPERATIVA A RESPONSABILITA' LIMITATA",
+            "Città": "Robbiate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "BIBLION - BENI CULTURALI E AMBIENTALI SOCIETA' COOPERATIVA S",
+            "Città": "Torino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "IL LEGGIO SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "Breno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "CIMENAX S.R.L.",
+            "Città": "Lucca",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "COSERTEC S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "MEMORIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "POP OUT - CULTURA, ARTE E TURISMO SOCIETA' A RESPONSABILITA'",
+            "Città": "Rovigo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "AB - ARCHIVIBIBLIOTECHE S.R.L.",
+            "Città": "Latina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "GIONA S.R.L. SERVIZI PER LA CULTURA E L'INFORMAZIONE",
+            "Città": "Lodi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "ASCARETTO SERVIZI SOCIETA' COOPERATIVA",
+            "Città": "Pordenone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "LABORATORIO PROTETTO XY1 SOCIETA' COOPERATIVA SOCIALE - ONLU",
+            "Città": "Vicenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "IPOGEA - SOCIETA' COOPERATIVA DI PRODUZIONE E LAVORO",
+            "Città": "Matera",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "DIDEROT SOC.COOP.VA",
+            "Città": "Livorno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        }
+    ],
+    [
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "SPAZIO GECO SOCIETA'COOPERATIVA",
+            "Città": "Pavia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "DI-SEGNO SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "MEMOSIS SOCIETA' COOPERATIVA - IMPRESA SOCIALE",
+            "Città": "Lodi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "ALTRIMEDIA SOCIETA' COOPERATIVA",
+            "Città": "Campobasso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "RICORDI \u0026 C. S.R.L. SOCIETA' UNIPERSONALE",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "NOTIZIABILE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "SOCIETA' COOPERATIVA DI CULTURA POPOLARE SOC. COOP.",
+            "Città": "Faenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "ULTREYA SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "Mandas",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "MIM.FSCIRE S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "COOPERATIVA DI COMUNITA BABBAJOLA",
+            "Città": "Bonorva",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "ATELIER DALISI SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "ARCHIVIO ALDO MONDINO S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "SOCIETA' COOPERATIVA LA TARANTOLA",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "91.01.00",
+            "Azienda": "SPONSORSHOP SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "LEO 3000 SPA",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "PARCO NATURA VIVA GARDA ZOOLOGICAL PARK SRL",
+            "Città": "Bussolengo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "ALFA 3000 SOCIETA A RESPONSABILITA LIMITATA",
+            "Città": "Ravenna",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "SOC. ZOOLOGICA DI PISTOIA SRL",
+            "Città": "Pistoia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "ORTICOLA PISTOIESE SRL",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "VIVERE MOLINA SRL",
+            "Città": "Fumane",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "FARFALLE NELLA TESTA SOCIETA' COOPERATIVA",
+            "Città": "Bordano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "CONSORZIO DI GESTIONE DI TORRE GUACETO",
+            "Città": "Carovigno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "PARCO FAUNISTICO DI SPORMAGGIORE S.R.L.",
+            "Città": "Spormaggiore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "I.T.R. IMPIANTI TURISTICI E RICR",
+            "Città": "Carini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "91.04.00",
+            "Azienda": "SVILUPPO TURISTICO COLLODI Srl.",
+            "Città": "Pescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pistoia"
+        }
+    ]
+]

@@ -1,0 +1,4825 @@
+[
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MIRAVALLE SPEDIZIONI S.R.L.",
+            "Città": "Asti",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Asti"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CI.PI. SERVICE DI PICOLLO MASSIMO \u0026 C. S.N.C.",
+            "Città": "Asti",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Asti"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TI.POST S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GAMMA SERVIZI SRL",
+            "Città": "Torino",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PETRA SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Verbania",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "AGENZIA ESPRESSI DI MARIO STRETTI \u0026 C. S.A.S.",
+            "Città": "La Spezia",
+            "Fatturato": "non pervenuto",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LOG SOLUTION SRL",
+            "Città": "Grassobbio",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MEDIAGROUP ITALIA SRL",
+            "Città": "Treviglio",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SPEEDY SERVICE SRL",
+            "Città": "San Zeno Naviglio",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "G3 WORLDWIDE MAIL (ITALY) SRL",
+            "Città": "Montano Lucino",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "HR PARCEL S.R.L.",
+            "Città": "Carpiano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MI SERVICES S.R.L.",
+            "Città": "Lacchiarella",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "OPERA DELIVERY S.R.L.",
+            "Città": "Segrate",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ASENDIA ITALY SRL",
+            "Città": "Tribiano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "T.W.S. EXPRESS COURIER S.R.L.",
+            "Città": "Monza",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BOOMERANG S.R.L.",
+            "Città": "Sondrio",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "'GIUDICI SRL'",
+            "Città": "Castellanza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PUBBLIPOST S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ST POST - ALTOADIGEPOST SUEDTIROL POST - SRL",
+            "Città": "",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MARCA SERVICE SRL",
+            "Città": "Cornuda",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "UNIVERSALCOOP SOCIETA' COOPERATIVA",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "INBOX SRL",
+            "Città": "Creazzo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ELITA SRL",
+            "Città": "Tavagnacco",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PEGASO EXPRESS S.N.C. DI DE LEONARDIS MICHELE \u0026 C.",
+            "Città": "Cesena",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FIERAMENTE SRL",
+            "Città": "Montevarchi",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Arezzo"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EMMEP SERVIZI S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTE CUNEESI S.R.L.S SOCIETA' A RESPONSABILITA'",
+            "Città": "Cuneo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PAOLI23 S.R.L.S.",
+            "Città": "Scandicci",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SMART PIU' SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ALESET S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "APRILSIX S.R.L.",
+            "Città": "Pesaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ITALB S.R.L.",
+            "Città": "Verona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CERIS - SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Ariccia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PRESS LOGISTICS SOCIETA' COOPERATIVA",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TDM S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FERPOST S.R.L.",
+            "Città": "Verona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NEW SERVING SRL",
+            "Città": "Siderno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "B\u0026B SERVICES SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PRORA SERVIZI S.R.L.S.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "OTTICA ROSATI",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PITTIERRE SERVICES SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "URBICO S.R.L.",
+            "Città": "Fano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MAIL EXPRESS - SOCIETA' COOPERATIVA",
+            "Città": "Pozzallo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CITYMY SOCIETA' A RESPONSABILITA' LIMITATA O PIU' BREVEMENTE",
+            "Città": "Partinico",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BASICO S.R.L. SERVIZI PER PRIVATI \u0026 IMPRESE",
+            "Città": "Monza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "IT.SALES SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NAVIS S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ROMASERVICE 2014 - SOCIETA' A RESPONSABILITA' LIMITATA SEMPL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "B M CAGLIARI SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICAT",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CARLO EXPRESS S.R.L.",
+            "Città": "Verona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTA EXPRESS S.R.L.",
+            "Città": "Terlizzi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MACPOSTE S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "M.P.SERVICE \u0026 CO. SOCIETA' COOPERATIVA",
+            "Città": "Lecce",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DAORSI S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MERCURY BY BIKE SRL",
+            "Città": "Collegno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MAGEST SRL",
+            "Città": "Como",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LACONSEGNA S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PERPOSTA S.R.L.",
+            "Città": "Latina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "IBLEA SER.POST.S.R.L.",
+            "Città": "Ragusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CITIZEN KANE SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ENDEX - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CHIROS S.R.L.",
+            "Città": "Casoria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "OTTAVA NOTA S.R.L.S.",
+            "Città": "Capizzi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ALL SERVICE SMART SOCIETA' A RESPONSABILITA' LIMITATA SEMPLI",
+            "Città": "Fiumicino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "KING ALLIMACUS S.R.L.",
+            "Città": "Acireale",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SICILIA POST MILAZZO SOCIETA' A RESPONSABILITA' LIMITATA SEM",
+            "Città": "Milazzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SMEL SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Castrovillari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ONECLICK RETAIL SRL",
+            "Città": "Trento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "HUAXIA EXPRESS S.R.L.",
+            "Città": "Prato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LA NOTIFICA SRLS",
+            "Città": "Catanzaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EAGLE GROUP S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SERVIZI E RECAPITO S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FLASH ROMA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "C.V.T.M. SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Maglie",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "D\u0026G AGENCY S.R.L.S.",
+            "Città": "Andria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CERVIA SERVIZI S.R.L.S. SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Cervia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NON SOLO POSTA SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "3M POSTAL SERVICE S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SVE S.R.L. SEMPLIFICATA UNIPERSONALE",
+            "Città": "Lequile",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EASYHOME SRL",
+            "Città": "Lanciano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CORREO SRL",
+            "Città": "Pescara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FINDELIVERY SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "INPUT POINT S.R.L.",
+            "Città": "Foggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LOCAL LOGIC S.C.ARL",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EBC GREEN LOGISTICS S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PELICAN EXPRESS COURIER ITALY S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TPM GROUP SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA(S",
+            "Città": "Siracusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SOLUMNIA SRLS",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SERVIZIO POSTA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CONSULEAST S.R.L.",
+            "Città": "Ancona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "UNIPOSTE TROPEA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFI",
+            "Città": "Tropea",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vibo Valentia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "P.N.P. POSTE NAZIONALI PRIVATE PALESTRINA - S.R.L.",
+            "Città": "Palestrina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FAST SERVICE S.R.L.S.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DELIVERMI S.R.L.S.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "C.D.M. SRLS",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LMH S.R.L.",
+            "Città": "Gorizia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SIX SERVICE SRLS",
+            "Città": "Pescara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SWIFT SERVICE SOCIETA' COOPERATIVA",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CALATINA RECAPITI SOC. COOPERATIVA A R.L.",
+            "Città": "Caltagirone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EXPRESS SERVICE S.R.L.S.",
+            "Città": "Triggiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CYCLOLOGICA SOCIETA COOPERATIVA",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "QUEEN LEGAL SERVICE SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MULTIPLE 8 S.R.L.",
+            "Città": "Mantova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GEAR SRL",
+            "Città": "Umbertide",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FLY POSTE S.R.L.S.",
+            "Città": "Catanzaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DONAK SERVICE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICA",
+            "Città": "Patti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POST SERVICE SASSARI SRLS UNIPERSONALE",
+            "Città": "Sassari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "OPEN OFFICE SRLS",
+            "Città": "Teramo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "COCAI SRL",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "UNIPOSTE TORINO S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "A\u0026G SMART S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BLULINE SRL",
+            "Città": "Teramo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EUROPE ENTERPRISE SRL",
+            "Città": "Latina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "WINET POST SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Villasor",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EMMEVI SRLS",
+            "Città": "Terzigno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NORD MN S.R.L.",
+            "Città": "Bresso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "G.C.D. SRLS UNIPERSONALE",
+            "Città": "Lizzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "M \u0026 M SERVICE S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PACK MAN SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MOTOEXPRESS S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NEWAY SERVICE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MTR SRL",
+            "Città": "Massafra",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "OPTIMAL SERVICE S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NEW POST TORINO SOCIETA' A RESPONSABILITA' LIMITATA IN LIQUI",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ISEAT SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Fornelli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Isernia"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DEFOODY SOCIETA' COOPERATIVA",
+            "Città": "Verona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "YOU POINT SRL",
+            "Città": "Casoria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FASTPOST SRL",
+            "Città": "Rimini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "WHITE ROSE SRLS",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "RBS SRL SEMPLIFICATA UNIPERSONALE",
+            "Città": "Sanluri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ALMA SRLS",
+            "Città": "Favara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EPISTULA SRL UNIPERSONALE",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "D'AFI EXPRESS SRL",
+            "Città": "Empoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "IDEA POSTALE SRL",
+            "Città": "Caltanissetta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BRAINS S.R.L.",
+            "Città": "Lecce",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GREVIN SERVICE S.R.L.",
+            "Città": "Potenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SUBIIT",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CASPER SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Ferrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "M.T. SRLS",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GCR SERVIZI SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DM LOGISTIC SRLS",
+            "Città": "Giarre",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ITALIAN FASHION MANAGEMENT S.R.L.",
+            "Città": "Bitetto",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MERCATO ITINERANTE S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SAMA S.R.L.S.",
+            "Città": "Roccasecca",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LA CHANCE SRLS",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ROBIN COOP DELIVERY SOCIETA' COOPERATIVA",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ITASSO EXPRESS S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SPOLETO POSTE \u0026 SERVIZI S.R.L.S.",
+            "Città": "Spoleto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LARA INTER EXPRES SRLS",
+            "Città": "Ariccia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SOLVING SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Frosinone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TRANSPORT \u0026 SPEEDY SERVICES S.R.L.S.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SCD S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SHAMROCK SRL",
+            "Città": "Santarcangelo di Romagna",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "I.T.L. S.R.L.",
+            "Città": "Civitanova Marche",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EXPRESS 2000 S.R.L.",
+            "Città": "Frosinone",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GOLD SERVICE SRL",
+            "Città": "Napoli",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "IFS ITALY SRL",
+            "Città": "Paderno Dugnano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FAST SERVICES S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "I POSTINI FIORENTINI S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SOLUZIONE SPEDIZIONI SRL",
+            "Città": "Calvizzano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SMILE DELIVERY SRL",
+            "Città": "Carpineto Romano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LEVIX GROUP S.R.L.",
+            "Città": "Verona",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EXPRESS SERVICE S.R.L.",
+            "Città": "Marsicovetere",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GOLD POST S.R.L.",
+            "Città": "Melito di Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PLM ONE DISTRIBUTION S.R.L.",
+            "Città": "San Giovanni la Punta",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTALIA S.R.L.",
+            "Città": "Castel San Giorgio",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GP COURIER SRL",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "WORK SERVICES S.R.L.",
+            "Città": "Manerba del Garda",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "START SRL",
+            "Città": "Viterbo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BLU RITMO SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "San Mauro Pascoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EMISFERO EXPRESS S.R.L.",
+            "Città": "Ascoli Piceno",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "WINTOR SERVICE S.R.L.",
+            "Città": "Casalnuovo di Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "M.R.DISTRIBUZIONE S.R.L.",
+            "Città": "Gravina di Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GRS S.R.L.",
+            "Città": "Salerno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MTS S.R.L.",
+            "Città": "San Giorgio Morgeto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Calabria"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SPEEDY TRANSPORT SRLS",
+            "Città": "Lamezia Terme",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EUROSPEDIZIONI DI EMILIO PAGANO \u0026 C SAS",
+            "Città": "Capaccio Paestum",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTE PRIVATE DE PALMA S.R.L.",
+            "Città": "San Marco in Lamis",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "C \u0026 G SERVICE S.R.L.",
+            "Città": "San Cassiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ARIES SRL",
+            "Città": "Mesenzana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "QUICK S.R.L.",
+            "Città": "Mugnano di Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EXPRESS GROUP S.R.L.",
+            "Città": "Borgo Ticino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FG HORIZON SRL",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SIPOSTA S.R.L. UNIPERSONALE",
+            "Città": "Lamezia Terme",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MISSIVA S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SERVIZI DIRETTI SRLS",
+            "Città": "Terni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DI RUSCIO SRL",
+            "Città": "Porto Sant'Elpidio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Fermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GICLASS SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Civitavecchia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BIKE MESSENGER SRL",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SPEED POST RAGUSA S.R.L.",
+            "Città": "Ragusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "STV SRLS",
+            "Città": "Campagna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ELBAEAT S.R.L.",
+            "Città": "Campo nell'Elba",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MT SERVICE-SOC.COOP.DI PROD.E LAV. A R.L",
+            "Città": "San Giovanni Rotondo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MINERVA S.R.L.",
+            "Città": "Campobasso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "RCL GROUP SOCIETA' COOPERATIVA",
+            "Città": "Piazza Armerina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Enna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DORADO SHIPPINGS SRLS",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "AMS GROUP SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Vibo Valentia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vibo Valentia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "OMNIA FUTURA S.R.L.",
+            "Città": "Latina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POST LAND SRL",
+            "Città": "Santa Maria di Licodia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EASY POST S.R.L.S.",
+            "Città": "Borgo Ticino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "JEM DELIVERY EXPRESS SRL",
+            "Città": "Palazzago",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "VAL.POST.SRL SEMPLIFICATA",
+            "Città": "Cisterna di Latina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "L.D.R. SERVIZI SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFIC",
+            "Città": "Triggiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ENEA SRL",
+            "Città": "Torremaggiore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EOLPOT SERVICE S.R.L.",
+            "Città": "Lipari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NIR S.R.L.",
+            "Città": "Pontedera",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MONARCA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Borgia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GTS TRANSPORT SRL SEMPLIFICATA",
+            "Città": "Ragusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "URBAN DELIVERIES SOCIETA COOPERATIVA A RL",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "M.P.S. GROUP S.R.L.",
+            "Città": "Pero",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TRIBEL S.R.L.S.",
+            "Città": "Villafranca Tirrena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SERVICE \u0026 TECNOLOGY SOCIETA COOPERATIVA",
+            "Città": "San Fele",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MULTISERVICES SRLS",
+            "Città": "San Pietro Vernotico",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTAM S.R.L.S.",
+            "Città": "Rimini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ALEO SRL UNIPERSONALE",
+            "Città": "Sarzana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "COMUNITA' COOPERATIVA TUFILLESE L'ALVEARE - SOCIETA' COOPERA",
+            "Città": "Tufillo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "UNICILP1 SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ALL SERVICES SRL",
+            "Città": "Cassino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "VESTINA RECAPITI DI ASTOLFI MAURO",
+            "Città": "Montesilvano",
+            "Fatturato": "",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "RS LA POSTA DI MORASSUT ROBERTO",
+            "Città": "Motta di Livenza",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CIUFFREDA MAURIZIO",
+            "Città": "Mattinata",
+            "Fatturato": "",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ZERODISTANZE DI CLARIZIA PAOLA",
+            "Città": "San Vito dei Normanni",
+            "Fatturato": "",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MITTIS S.R.L.",
+            "Città": "Sesto San Giovanni",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GRUPPO POSTE GIAROB DI PAESANO MASSIMILIANO",
+            "Città": "Trieste",
+            "Fatturato": "",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GOLDEN SERVICE DI FABRIZIO BIRASCHI",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SPECIAL POINT S.N.C. DI IORIO GUGLIELMO SECONDO E DI PIETRO",
+            "Città": "Alessandria",
+            "Fatturato": "",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TRIGGIANO LAURA",
+            "Città": "Triggiano",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MASTER POINT SAS DI STUCCHI ERMANNO \u0026 C.",
+            "Città": "Cesano Maderno",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ALBANO ANGELA",
+            "Città": "Orta Nova",
+            "Fatturato": "",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "RCM SERVIZI DI RUSSO CRISTINA MARIA",
+            "Città": "Oppeano",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "@POSTEOFFICE DI PISEDDU VIRGINIA",
+            "Città": "Cagliari",
+            "Fatturato": "",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "IXEA SRLS",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SC SERVICE VALORE GREEN SRL",
+            "Città": "Fiumicino",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LATIN EXPRESS DI PARIS VALENTINO",
+            "Città": "Morlupo",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BISACCIA ANTONIO",
+            "Città": "Lissone",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "JKA RETE SOGGETTO",
+            "Città": "Treviglio",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MAIL EXPRESS DI CAPANNI PAOLO",
+            "Città": "Sassari",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ADV24 DI DELLA ROCCA GIANCARLO",
+            "Città": "Chieti",
+            "Fatturato": "",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BLUE POSTE E SERVIZI DI SANSON GIANPAOLO",
+            "Città": "Gambellara",
+            "Fatturato": "",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SGARAMELLA CLAUDIO",
+            "Città": "Mola di Bari",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FAZARI TIZIANA",
+            "Città": "Nichelino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.10.00",
+            "Azienda": "MEINI SABRINA",
+            "Città": "Corato",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SPEEDY SOCIETA' COOPERATIVA",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "IDEA MIX DI SAVASTANO ALESSANDRA",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BETRO' GIANPAOLO",
+            "Città": "Pizzo",
+            "Fatturato": "",
+            "Provincia": "Vibo Valentia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "RUY E ZOE DI MAGGIORELLI CLAUDIA \u0026 C. S.A.S.",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CIPOLLONI SIMONE",
+            "Città": "Velletri",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TOTA PULCHRA DI ALESSANDRO CHIARAMIDA",
+            "Città": "Acate",
+            "Fatturato": "",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "P.S.T. CONSULTING S.A.S. DI AM ATO MARIAGRAZIA \u0026 C.",
+            "Città": "Battipaglia",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MEEST ITALY DI MUSAYELOV ARSEN",
+            "Città": "Giugliano in Campania",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LEONARDO TRAVELS DI UGO VINACCIA",
+            "Città": "Piano di Sorrento",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "RAFIQUE TAHIR",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "A.B. LOGISTIC DI BUCCHERI ALVARO",
+            "Città": "Villafranca Piemonte",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ELLEFFE GLOBAL SERVICE DI COLUCCIA FRANCESCA",
+            "Città": "Otranto",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GDG SRLS",
+            "Città": "Santa Caterina Villarmosa",
+            "Fatturato": "",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "YOUR OFFICE DI LUCA RUGGERI",
+            "Città": "Santo Stefano di Camastra",
+            "Fatturato": "",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CERVOCOM S.A.S. DI CERVO CHIARA, CERVO LUCA E C.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GO RUSH TRASPORTI DI LOLEA NATALIA GABRIELA",
+            "Città": "Verona",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SCAVONE SALVATORE",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LOGISTICA DISTRIBUZIONE DI CONTI ROBERTO \u0026 C. S.A.S",
+            "Città": "Frosinone",
+            "Fatturato": "",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "VIOLA SERVICE DI VIOLA ROCCO",
+            "Città": "Palmi",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EXPRESS POINT-AGENZIA MULTISERVIZI DI BECCIA ORAZIO GIUSEPPE",
+            "Città": "San Severo",
+            "Fatturato": "",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FAVARA CONSULTING DI FAVARA MICHAEL",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CENTRO SPEDIZIONI AR - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Fisciano",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TOMMASI EMANUELA",
+            "Città": "Druento",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EURO PLUS DI VOLOSHYN VALERY",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "I.F.I. SERVICES DI SANTOLILLO MARIA",
+            "Città": "Avellino",
+            "Fatturato": "",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FERRUCCIO MONTIS",
+            "Città": "Serramanna",
+            "Fatturato": "",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTE CONTINUE DI DELLO IACONO MARIANNA",
+            "Città": "Saviano",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LA NUOVA POSTA DI CIGOGNINI",
+            "Città": "Locate di Triulzi",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NEWPOST SERVICE DI ADRAGNA MARCELLO",
+            "Città": "Borgo San Giacomo",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SERVICE \u0026 FANTASY",
+            "Città": "Sorso",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DM PUNTO POSTE DI MASIELLO DOMENICO",
+            "Città": "Raviscanina",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ETSOP S.R.L.",
+            "Città": "Castellana Grotte",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BICI BIKE COURIERS SNC DI ANDREA LARDERA \u0026 C.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SPEEDY S.R.L.",
+            "Città": "Calenzano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DELIVERY SERVICES S.R.L.",
+            "Città": "Collesalvetti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "AGENZIA ESPRESSI DI GIANNONE GIOVANNI E C. SAS",
+            "Città": "Livorno",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SOCIETA' RECAPITI FERRARI S.R.L.",
+            "Città": "Pisa",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BLUE FALCON S.R.L.",
+            "Città": "Pontedera",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SAILPOST S.P.A.",
+            "Città": "Vecchiano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SAR SERVICE S.R.L.",
+            "Città": "Ancona",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EXPRESS LINE SERVICE SRL",
+            "Città": "Massignano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FORAMA SRL",
+            "Città": "Pesaro",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MAZZOCCO S.R.L.",
+            "Città": "Moscufo",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "YOGHI EXPRESS S.R.L.",
+            "Città": "Pozzuoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "'SERVIZI - ENERGIA - TRASPORTI S.R.L.' O IN FORMA ABBREVIATA",
+            "Città": "Battipaglia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CENTRO IMPRENDO UNO S.R.L.",
+            "Città": "Battipaglia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EXPRESS SERVICE SOC.COOP.A R.L",
+            "Città": "Marsicovetere",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POST \u0026 SERVICE SRL",
+            "Città": "Modugno",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ANDRIA MAIL S.A.S. DI DANTILE FRANCESCO \u0026 C.",
+            "Città": "Andria",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GRUPPO MEDITERRANEA S.R.L.",
+            "Città": "Lecce",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DSC SERVICE S.R.L.",
+            "Città": "Poggiardo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "RAW EXPRESS S.A.S. DI CRUDO ALBERTO DONATO \u0026 C.",
+            "Città": "Ruffano",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NIAL MAIL SRL",
+            "Città": "Taranto",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MEDIA EXPRESS S.R.L.",
+            "Città": "Lamezia Terme",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ASSITUR SRL",
+            "Città": "Marcellinara",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POST \u0026 POST SRL",
+            "Città": "Siderno",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "HYA SRL",
+            "Città": "Agrigento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "INPOST S.R.L.",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "AARON SERVICE DI QUISPE RONAL",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTE PRIVATE DI FERRARI MASSIMO",
+            "Città": "Gioia Tauro",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PUGLISI SERVIZI DI PUGLISI MARIA",
+            "Città": "Catania",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GENERAL AGENCY DI DE CRESCENZO GIOVANNI",
+            "Città": "Ascea",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MOTOBOY EXPRESS SOCIETA' DI RECAPITI ESPRESSI S.A.S DI DAL P",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "OSTUNI MICHELE",
+            "Città": "Altamura",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GP RECAPITI DI PUSCEDDU GIANLUIGI",
+            "Città": "Cagliari",
+            "Fatturato": "",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SA.FA.RI. SRL",
+            "Città": "San Benedetto del Tronto",
+            "Fatturato": "",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TORCHELLA MARCO",
+            "Città": "Trana",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "G.B.A. SNC DI GALLENDA \u0026 C.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GLOBAL EXPRESS SERVICE SNC DI BA",
+            "Città": "Caltagirone",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GREENTECH SOLUTION SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POST4YOU DI ZENI ALESSANDRO",
+            "Città": "Bardolino",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CITTADINNER DI CALLONI MATTEO",
+            "Città": "Musile di Piave",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DITTA CORRIAS MANUEL",
+            "Città": "Sardara",
+            "Fatturato": "",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "S \u0026 B DI BRUNELLI SABRINA",
+            "Città": "Traversetolo",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTAL SERVICE S.A.S. DI MANNINO DANIELE",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "C.F. RECAPITI ESPRESSI DI CARMAGNOLA FABIO",
+            "Città": "Limbiate",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CAFIERO GIOVANNI",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BIKE SERVICE DI LUCA CHIAMBRETTO",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GRUPPO PUBLITIME SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIF",
+            "Città": "Vallo della Lucania",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FO.NA SPEDIZIONI DI MAURIZIO DI COSTANZO",
+            "Città": "Macerata Campania",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "S.M.C. POST AND SERVICE DI LAUDANI ALESSANDRA \u0026 C. S.A.S.",
+            "Città": "Belpasso",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LA VENIA FRANCESCO",
+            "Città": "Adrano",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PLANET EXPRESS DI ANDREA E MICHELE LOI SNC",
+            "Città": "Muravera",
+            "Fatturato": "",
+            "Provincia": "Sud Sargdegna"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FEDERTRANSPORT SRL",
+            "Città": "San Cataldo",
+            "Fatturato": "",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PILAR S.A.S. DI ESPOSITO SALVADOR ADOLFO",
+            "Città": "Parma",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "INFANTE FABIO",
+            "Città": "Massa",
+            "Fatturato": "",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "D'AMANTI LEANDRA",
+            "Città": "Ragusa",
+            "Fatturato": "",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "A.G. SERVICE EXPRESS S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SKY NET DI DORIA DARIO",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "KOPANI ERVIS",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BROGGIAN SILVIA",
+            "Città": "Vicenza",
+            "Fatturato": "",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTAL SERVICE DI CAPPIELLO ANTONIO",
+            "Città": "Altamura",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MANZO CATENA MARA",
+            "Città": "Villarosa",
+            "Fatturato": "",
+            "Provincia": "Enna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CITY SERVICE 24 DI MARULLO ANGELA",
+            "Città": "Catania",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "OFFICE SERVICE DI FILIPPI ROSSELLA",
+            "Città": "Melendugno",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LATTANZI CLAUDIA",
+            "Città": "Nettuno",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "C.B. SERVICE S.R.L.",
+            "Città": "Vibo Valentia",
+            "Fatturato": "",
+            "Provincia": "Vibo Valentia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GALASSO ANDREA",
+            "Città": "Cisterna di Latina",
+            "Fatturato": "",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ELBA PIT DI SARDI DAVIDE",
+            "Città": "Portoferraio",
+            "Fatturato": "",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SJTRASPORTI SAS DI JAIME SUAREZ RODRIGO MAXIMILIANO \u0026 C.",
+            "Città": "Bollate",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "VICIDOMINI FRANCESCO",
+            "Città": "Agropoli",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DE RIGGI CARMEN",
+            "Città": "Sala Consilina",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PALO ROSANNA",
+            "Città": "Ravenna",
+            "Fatturato": "",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CENTRO POSTE \u0026 SERVIZI DI MORICI NICOLO'",
+            "Città": "Sant'Elena",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BACCIU MULTISERVICES GROUP DI BACCIU SALVATORE",
+            "Città": "San Teodoro",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ALBERTI GIANPIERO",
+            "Città": "Sciacca",
+            "Fatturato": "",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GIO.VE SNC DI SERENA ELLIS E C",
+            "Città": "San Vito al Tagliamento",
+            "Fatturato": "",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "OK POST S.R.L.",
+            "Città": "Ceccano",
+            "Fatturato": "",
+            "Provincia": "Frosinone"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PONTORIERI ALESSANDRA",
+            "Città": "Tropea",
+            "Fatturato": "",
+            "Provincia": "Vibo Valentia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BASILE SERVICES DI BASILE MARCELLO E BASILE LUCA SNC",
+            "Città": "Cassano Magnago",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FI.CA DI AXEL CASALI \u0026 C. SAS",
+            "Città": "Castel Guelfo di Bologna",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MAPI ITALIA SRL",
+            "Città": "Garlasco",
+            "Fatturato": "",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BIAGIO ANSELMI",
+            "Città": "Verona",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "AMADARDO GIANPAOLO",
+            "Città": "Jesolo",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GRANDINETTI EXPRESS AND SERVICE S.N.C. DI GRANDINETTI FRANCE",
+            "Città": "Lamezia Terme",
+            "Fatturato": "",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BARONE EXPRESS SNC DI BARONE MATTIA E BARONE EMANUELE",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BMP SERVICES S.N.C. DI BUSSATORI MAURIZIO E C.",
+            "Città": "Piacenza",
+            "Fatturato": "",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTE PRIVATE F2009 DI GASTONE CAMPOMIZZI",
+            "Città": "Anzio",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "UBM BOLOGNA DI SARTORI PIERPAOLO",
+            "Città": "Bologna",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTE \u0026 COMUNICAZIONE SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Altamura",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DELISPEED DI SCALAS TOBIAS E SALIS PAMELA S.N.C",
+            "Città": "Oristano",
+            "Fatturato": "",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FDC SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "G \u0026 K POST DI MORELLI GRAZIANO E JANI KLAJDI S.N.C.",
+            "Città": "Pisa",
+            "Fatturato": "",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NIMFRANCO SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Arona",
+            "Fatturato": "",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SARA POSTE DI TOMMASI SABRINA",
+            "Città": "Verona",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SALA MASSIMO",
+            "Città": "Alghero",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CENTRO SERVIZI IL MONDO S.A.S. DI GARUFI NATALE E C.",
+            "Città": "Santa Teresa di Riva",
+            "Fatturato": "",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CARDINALE GIANLUCA",
+            "Città": "Foggia",
+            "Fatturato": "",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SKY29 DI LATERZA DAVIDE",
+            "Città": "Massafra",
+            "Fatturato": "",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "L.G. A.G.G. SAS DI ZANUSSI ANTONANGELO \u0026 C.",
+            "Città": "Conegliano",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "Schrott Alfred",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DI MODICA GIANLUCA",
+            "Città": "Licata",
+            "Fatturato": "",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GIURA ANTONIO",
+            "Città": "Ferrandina",
+            "Fatturato": "",
+            "Provincia": "Matera"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MULTISERVIZI CISEN S.A.S. DI LIN LIUYE \u0026 C.",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BBS SRL",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "A/R DI ROMANAZZO GIULIANO E ANGELINI I. E M. \u0026 C. SOCIETA' I",
+            "Città": "Locorotondo",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "G.B. SERVICE DI BUCCIERO GIACOMO",
+            "Città": "Gargallo",
+            "Fatturato": "",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TRIVERI FABIO",
+            "Città": "Bovalino",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MAIL SERVICE DI ARCELLI FRANCESCA",
+            "Città": "Piacenza",
+            "Fatturato": "",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ANGELINO ANTIMO",
+            "Città": "Sant'Antimo",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GMG DI MORGESE GIUSEPPE \u0026 C. S.A.S.",
+            "Città": "Bitonto",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FRANCY POST S.A.S. DI LISA NICOLA \u0026 C.",
+            "Città": "Novara",
+            "Fatturato": "",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MANIACI GIULIA",
+            "Città": "Monte Argentario",
+            "Fatturato": "",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "G.L. EXPRESS DI FAGONE GIUSEPPE E MUSUMECI LUCIO MARIA DOMEN",
+            "Città": "Palagonia",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BOLOGNA SPEEDY S.A.S. DI ALBERTO SOLMI \u0026 C.",
+            "Città": "Bologna",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "B\u0026D SERVIZI DI CRISTIANO BENIAMINO \u0026 C. S.N.C.",
+            "Città": "Chivasso",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTE.NET DI KAREN JENNIFER CHUMPITAZ",
+            "Città": "Sinnai",
+            "Fatturato": "",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "INTESA SAS DI CIRO GRASSO E C.",
+            "Città": "Turate",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DADI LOGISTICA \u0026 SERVIZI VARI di DAVIDE MELE",
+            "Città": "Imola",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "RISTORANTE EMANUELA \u0026 C. S.A.S. DI IACONO SERGIO",
+            "Città": "Serrara Fontana",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SANTISI MARCO",
+            "Città": "Bronte",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ESSEEMME SERVICES \u0026 CONSULTING S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "JUALE DI BOI DANIELE",
+            "Città": "Dolianova",
+            "Fatturato": "",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CIURLEO MARIA ORIANA",
+            "Città": "Feroleto della Chiesa",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "RANALLO FILOMENA",
+            "Città": "Castel di Sangro",
+            "Fatturato": "",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "F.A.I.R. SERVICES DI IACONI ANTONIO",
+            "Città": "Feroleto della Chiesa",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SUVALA OLEKSANDR",
+            "Città": "Caserta",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ENTERTAINMENT DI VITO LAFORGIA",
+            "Città": "Melfi",
+            "Fatturato": "",
+            "Provincia": "Potenza"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PACCO EXPRESS DI SANTORO ALESSANDRA",
+            "Città": "Melendugno",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SDM LOGISTIC SERVICE DI DI MANNO STEFANO C. - SOCIETA' IN AC",
+            "Città": "Fondi",
+            "Fatturato": "",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PEDULLA' GIUSEPPE",
+            "Città": "Gioia Tauro",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PUNTO UFFICIO S.A.S. DI DELLORCO COSIMO DAMIANO",
+            "Città": "Barletta",
+            "Fatturato": "",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FARE' MIRELLA",
+            "Città": "Sedriano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DAGNELLO MIRKO",
+            "Città": "Trani",
+            "Fatturato": "",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "53.10.00",
+            "Azienda": "COLPAS S.A.S. DI DAVIDE COLUMBRO \u0026 C.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTA FLASH DI ADDEA ANTONINO",
+            "Città": "Barcellona Pozzo di Gotto",
+            "Fatturato": "",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CAPPIELLO LUCA",
+            "Città": "Melfi",
+            "Fatturato": "",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FRANCHISING ITALIA SRL",
+            "Città": "Vitulazio",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LOGISTICA DAMASCO SRLS",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TOANTO GROUP ITALIA DI MARILINDA ANTUONI",
+            "Città": "Cerveteri",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "C\u0026C DI CABIDDU TEENA",
+            "Città": "Oristano",
+            "Fatturato": "",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ZERO DISTANZE DI IVAN SECLI'",
+            "Città": "Galatina",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MAB SERVICES S.A.S. DI TACCONE ALFONSO",
+            "Città": "Avellino",
+            "Fatturato": "",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTEITALY S.R.L.S.",
+            "Città": "Cariati",
+            "Fatturato": "",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EVOLUTION POST S.N.C. DI FIRANO PAOLO \u0026 C.",
+            "Città": "Latina",
+            "Fatturato": "",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MAX POINT DI MAURIZIO MAISANO",
+            "Città": "Spadafora",
+            "Fatturato": "",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "D'ANGELO MARCO",
+            "Città": "Santa Maria Capua Vetere",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GALANTE ALESSANDRO",
+            "Città": "Guidonia Montecelio",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GIBIMAIL S.A.S DI STEFANO GIRLANDO",
+            "Città": "Avola",
+            "Fatturato": "",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MANETTI ALBERTO",
+            "Città": "Pistoia",
+            "Fatturato": "",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "RICCIARDI SABRINA",
+            "Città": "Salerno",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TEAM NETWORK SRL",
+            "Città": "Vitulazio",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SANDRO SPEDISCI DI MINACORE SANDRO",
+            "Città": "Caltanissetta",
+            "Fatturato": "",
+            "Provincia": "Caltanissetta"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "INTEGRA DI MARCO MARITATI",
+            "Città": "San Giovanni la Punta",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LUNA EXPRESS DI FARMANRAVA SAIDEH SADAT",
+            "Città": "Ancona",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "HOMERO MULTISERVICE SRLS",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PUNTOBOX ITALIA S.R.L.",
+            "Città": "Mussomeli",
+            "Fatturato": "",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SOLUTION SERVICE GROUP SAS DI SARASTI CASTILLO ALEJANDR \u0026 C.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TOP GEAR SERVICES S.A.S. DI MULAS GIANNI",
+            "Città": "Dorgali",
+            "Fatturato": "",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NAVARRA A COLLECHIO LETTERS DELIVERY SYSTEM",
+            "Città": "Collecchio",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "AUTOSERVIZI SASSADORO DI TOCCO GIUSEPPA E C SAS",
+            "Città": "Balestrate",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MDK DI BORDIGA KATIA \u0026 C. SNC",
+            "Città": "Sesto Calende",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BODEN POST DI BODENCHUK",
+            "Città": "Brescia",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SERVIZI POSTALI S.A.S DI RITA CORRAINE \u0026 C. S.A.S.",
+            "Città": "Nuoro",
+            "Fatturato": "",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DEP DI LUCA AVEANI",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POST SERVICE GROUP DI SENYUK TARAS",
+            "Città": "Spino d'Adda",
+            "Fatturato": "",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NICOLETTI ADILSON SERGIO",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "C\u0026C TRASPORTI DI CIOCCA CLAUDIA E CARMINATI SNC",
+            "Città": "Bottanuco",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "IN OUT SERVICE SRL",
+            "Città": "Rho",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NEW HORIZON DI TARANTINI ANDREA",
+            "Città": "Cisternino",
+            "Fatturato": "",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "RACCO ANDREA",
+            "Città": "Siderno",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BENEDETTO SILVIA",
+            "Città": "Taranto",
+            "Fatturato": "",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CHILDREN'S STORE DI CRISPINO MARCO",
+            "Città": "Scalea",
+            "Fatturato": "",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BERTOCCO ORESTE",
+            "Città": "Sale",
+            "Fatturato": "",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FONTANA DI FONTANA ANDREA E C. S.N.C. SIGLABILE FONTANA S.N.",
+            "Città": "Carmagnola",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTE VALSANGONE S.R.L.S.",
+            "Città": "Giaveno",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MA.PA SERVICE SNC DI MANGANELLI A.",
+            "Città": "Giungano",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "HERMES EXPRESS SRL",
+            "Città": "Siena",
+            "Fatturato": "",
+            "Provincia": "Siena"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MAZZOLENI PIETRO",
+            "Città": "Bonate Sopra",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MATESEPLACE DI MARIO SCAPPATICCIO",
+            "Città": "Piedimonte Matese",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "F.L. SERVICE DI FANIA LEONARDA",
+            "Città": "Carugate",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "AURELLI FRANCESCO",
+            "Città": "Ottaviano",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BERLINGERI DOMENICO",
+            "Città": "Polistena",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LS TRASPORTI DI LETTIERI SALVATORE",
+            "Città": "Cunardo",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MAPI SERVICE S.N.C.",
+            "Città": "Bastia Umbra",
+            "Fatturato": "",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FAST EXPRESS S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BP EXPRESS S.R.L.",
+            "Città": "Lentini",
+            "Fatturato": "",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "RIZZO TOMMASO",
+            "Città": "Latiano",
+            "Fatturato": "",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTA TO GO DI FERRI LUCIANO \u0026 C. S.A.S.",
+            "Città": "Parma",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CITY POST EXPRESS DI SILVIO CALOGERO",
+            "Città": "Prato",
+            "Fatturato": "",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LORBEA DI RICCARDO MORELLI",
+            "Città": "Mariano Comense",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CONA EXPRESS DI CONA MARIACONCETTA",
+            "Città": "Palagonia",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BOLOGNA SERVIZI POSTALI DI LUCA BENFENATI",
+            "Città": "Bologna",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GLOBOX SPEDIZIONI DI INGALLINERA GABRIELE",
+            "Città": "Ragusa",
+            "Fatturato": "",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTAMPRESS DI ASPRINO NICOLA E C. S.A.S.",
+            "Città": "Brescia",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LUONGO DENIS",
+            "Città": "Collegno",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TARANTINO EXPRESS - AGENZIA DI SERVIZI DI TARANTINO GIUSEPPE",
+            "Città": "Bitonto",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MOOVEIT S.R.L.",
+            "Città": "Messina",
+            "Fatturato": "",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BUSTO TRASPORTI ESPRESSI S.A.S. DI DONAI ANDREA \u0026 C.",
+            "Città": "Busto Arsizio",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PAMIR MOBILE DI ABDUL WAHEED SIDDIQI",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "AGENZIA MULTISERVIZI DI ANGELA E TERESA FIORENZA S.N.C.",
+            "Città": "Policoro",
+            "Fatturato": "",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MIRVAL S.A.S. DI MOGGIO MIRKO \u0026 C.",
+            "Città": "Voghera",
+            "Fatturato": "",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PARRICIATU MARIA ROSA ANNA POSTA GALLURA",
+            "Città": "Olbia",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FERRARA ANDREA MARIA",
+            "Città": "San Giovanni la Punta",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MESSINA GAETANA EMANUELA",
+            "Città": "Agrigento",
+            "Fatturato": "",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SACCHI SRL",
+            "Città": "Casale Corte Cerro",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ATHENA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DPM LOGISTICS SRL",
+            "Città": "Monreale",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MARVIN SOC. COOP.",
+            "Città": "Rimini",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "QUIPOSTE S.R.L.",
+            "Città": "Cosenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "AMG SRL",
+            "Città": "San Giovanni la Punta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NAMALI EXPRESS S.R.L.",
+            "Città": "Qualiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "D.P.M. SERVIZI SRL",
+            "Città": "Casale Monferrato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SE.TRI. SRL",
+            "Città": "Santa Maria Capua Vetere",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ZERODISTANZE SERVIZI POSTALI INTEGRATI S.R.L.",
+            "Città": "Fasano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "OLIMPO SERVICES S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SOLUZIONI POSTALI S.R.L.",
+            "Città": "Piove di Sacco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "KEPOST SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Telese Terme",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Benevento"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ISCHIA POSTAL SERVICE S.R.L.",
+            "Città": "Forio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "YOUSHIP SRL",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "OMNIA S.R.L.",
+            "Città": "Oria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GOGU TRASPORTI DEPOSITI E LOGISTICA S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SENDER'S SRL",
+            "Città": "Bolgare",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ELLEPI S.R.L.",
+            "Città": "Civitanova Marche",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "RECAPITO ITALIANO S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "INVIO SRL",
+            "Città": "San Nicola la Strada",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTA NETWORK SRLS",
+            "Città": "Nereto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "L.M. POST SRL",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "IESBOX S.R.L.",
+            "Città": "Marina di Gioiosa Ionica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "C.R.F. COOPERATIVA RECAPITO FIDUCIARIO S.C.R.A.L.",
+            "Città": "La Spezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PRISMA S.R.L.",
+            "Città": "Fano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DOMAN SRLS",
+            "Città": "Altamura",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SERVIZI AZIENDALI PERSONALIZZATI LB SRL",
+            "Città": "Anzola dell'Emilia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "53.10.00",
+            "Azienda": "CACIOPPO CALOGERO",
+            "Città": "Sambuca di Sicilia",
+            "Fatturato": "",
+            "Provincia": "Agrigento"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SICILIA POST S.R.L.",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ORTIGIA RECAPITI S.R.L.",
+            "Città": "Siracusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PSD 1861 EXPRESS SRL",
+            "Città": "Sassari",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FEDEX EXPRESS ITALY SRL",
+            "Città": "Cernusco sul Naviglio",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "UNITED PARCEL SERVICE ITALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SPS ITALY S.P.A.",
+            "Città": "San Donato Milanese",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EX-T S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ITALPOST S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MILANO EXPRESS SRL",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SAN MARINO MAIL ITALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTEX S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SIDETRA S.R.L. - SOCIETA' ITALIANA DISTRIBUZIONI EDITORIALI",
+            "Città": "Verona",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "53.10.00",
+            "Azienda": "POSTE ITALIANE SPA",
+            "Città": "Roma",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ITALPOSTE RADIO RECAPITI SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MAIL EXPRESS POSTE PRIVATE SRL",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTADOC S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PIERONI TRASPORTI SRL",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SIRIO EXPRESS - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MLK DELIVERIES S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NEXIVE NETWORK S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.10.00",
+            "Azienda": "DOCUMENTI POSTALI S.R.L.",
+            "Città": "Vigonza",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "53.10.00",
+            "Azienda": "ST SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Parma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "53.10.00",
+            "Azienda": "CAMPANIA RECAPITI EXPRESS SRL",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.10.00",
+            "Azienda": "ONECLICK SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.10.00",
+            "Azienda": "EVO RECAPITI S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.10.00",
+            "Azienda": "FAST SERVICE S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.10.00",
+            "Azienda": "365 SERVICE - SOCIETA' A RESPOSABILITA' LIMITATA SEMPLIFICAT",
+            "Città": "Trapani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "53.10.00",
+            "Azienda": "SHARDANA MULTIMEDIA SOCIETA' A RESPONSABILITA' LIMITATA SEMP",
+            "Città": "Iglesias",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "53.10.00",
+            "Azienda": "AMBIO SUITES SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SARDEGNA SERVIZI ESPRESSI S.R.L.",
+            "Città": "Cagliari",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "WI NET SRL",
+            "Città": "Cagliari",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EUREKA SOCIETA' COOPERATIVA",
+            "Città": "Trieste",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CZ MAIL S.R.L.",
+            "Città": "Mantova",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "STM S.R.L.",
+            "Città": "Mantova",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GLOBAL POST S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ATOM DELIVERY S.R.L.",
+            "Città": "Collecchio",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MEDITERRANEA EXPRESS S.R.L. IN SIGLA MED.EX. S.R.L.",
+            "Città": "Siracusa",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TAKEAWAY.COM EXPRESS ITALY SRL",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FULMINE GROUP S.P.A",
+            "Città": "Palermo",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CONSORZIO SAILPOST S.C.A R.L.",
+            "Città": "Vecchiano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SMMART POST S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "WEIMAR WAREHOUSE SRL",
+            "Città": "Belluno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "RPOST SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NEXIVE SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ORIENT ROMA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MAGLIANA SERVICE S.R.L. (SOCIETA' UNIPERSONALE)",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "INTEGRAA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "M.G.S. SRL",
+            "Città": "Imperia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ENDESA SRL",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SIDERFERRO SERVIZI S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTEXPRESS S.R.L.",
+            "Città": "Lainate",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "URBINO SERVICE SRL",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DEFENDINI LOGISTICA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SOLUZIONE CAMPANIA S.C.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "D.E.A. DELIVERY EXPRESS AGENCY S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "X-OFFICE S.R.L.",
+            "Città": "Thiene",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SPEDIREROMA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DEFENDINI GREEN LOGISTICS SRL",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ZOE 2010 - SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Genova",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GRUPPO SEVIZI POSTALI SRL IN FORMA ABBREVIATA 'GSP SRL'",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "AK SOLUTIONS SRL",
+            "Città": "Legnago",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GRUPPO LA NUOVA POSTA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "OVER POST SRL",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "IN LINE EXPRESS SRL",
+            "Città": "Lecce",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "IT.MAIL.SRL",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "WORK IN PROGRESS MILANO S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "OKRECAPITI S.R.L.",
+            "Città": "Parma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PUNTOPOSTA - S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GLOBAL SENDING SRL",
+            "Città": "Opera",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GAN EXPRESS S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TEO LOGISTIC S.R.L.",
+            "Città": "Ugento",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "KI EXPRESS SRL",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DAT SRL",
+            "Città": "Agrigento",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DELIVERY AGENCY CHAIN SRL",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "C\u0026T TRASPORTI SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CE.DI.S. SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "3SU SRL",
+            "Città": "Monza",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "L.C.F. ITALIA S.R.L. UNIPERSONALE",
+            "Città": "Rimini",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MONTEGRAPPA37 S.R.L.S.",
+            "Città": "Prato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FDC SERVICES SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DBF SERVICES SOCIETA' COOPERATIVA",
+            "Città": "Castelvetrano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FP BUSINESS SOLUTIONS SRL",
+            "Città": "Bergamo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SINERGIE S.R.L.",
+            "Città": "Sanremo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTE EUROPEE SRL",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ZELIX S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FLYER SERVICE S.R.L.",
+            "Città": "Gorizia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SINERGIE EXPRESS S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CESENA RECAPITI S.R.L.",
+            "Città": "Cesena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "INPOSTE.IT S.P.A",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EVEREST S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FOX CAPITAL SRL",
+            "Città": "Verona",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FORGILU CONSULTING S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FULMINE GROUP SERVIZI NOTIFICAZIONE SRL",
+            "Città": "Bari",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "UNIVERSAL SERVICE S.R.L.",
+            "Città": "Carrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BICI E SERVIZI S.R.L.S.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "URBAN BIKE MESSENGERS SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "UNIPOSTE S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ELLEGI MAIL S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "M \u0026 M SERVICE SRL",
+            "Città": "Angri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "HIBRIPOST S.C.A.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "COOPERATIVA HR INNOVATION",
+            "Città": "Bientina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POST OFFICE SRL",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DE.GIA. SERVICE S.R.L.",
+            "Città": "Avellino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ALTA SERVICE S.R.L.",
+            "Città": "Sassuolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ITALIANASPEDIZIONI S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SENDIX S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SPE SPEDIZIONI POSTALI ERIFAB S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LOCKER INPOST ITALIA S.R.L. CON UNICO SOCIO",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CITY EXPRESS SERVIZI POSTALI S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ANDRIA EXPRESS S.R.L.",
+            "Città": "Andria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FIRMITAS SRL",
+            "Città": "Modena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "VENTIDIECI LOGISTICA SRL",
+            "Città": "Modena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MARF SERVIZI POSTALI SRL",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SICILIA POST \u0026 ENVELOP S.R.L.",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EVOLO WEB SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DELIVERY MAIL SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "TRIOTEK S.R.L.",
+            "Città": "Segrate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "S. \u0026 M. SALES \u0026 MARKETING SOLUTIONS SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DS GROUPS SRL",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTA POWER SRL",
+            "Città": "Vigonza",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "L.D.C. S.R.L.U.",
+            "Città": "Calcinaia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "COLICCHIO S.R.L.",
+            "Città": "Campobasso",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTAL TRADE S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "I \u0026 P ARGO S.R.L.",
+            "Città": "Montecatini-Terme",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SILT ALVA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ZEBRE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FACTOTUM SERVIZI S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GIEMME POWER SRL",
+            "Città": "Cervia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LIBERTY EXPRESS ITALIA SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "STI DRIVE SRL",
+            "Città": "Verona",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "DBL SOLUTIONS SRL",
+            "Città": "Zoppola",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LA POSTA 2.0 S.R.L.S.",
+            "Città": "Lucca",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CITY EX SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PENTACLO SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PRESTO RECAPITI S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ERMES EXPRESS SRL",
+            "Città": "Fontanafredda",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BENTOBUS SRL",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NLP LAB SRL",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "CITY SERVICES SOCIETA' COOP. SOCIALE ONLUS",
+            "Città": "Pisa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BUSINESS PLANE LOGISTICS S.R.L.",
+            "Città": "Pandino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GESTEAM SERVIZI SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GLOBE POSTAL NETWORK SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PRINTOUT ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FAST CONSULTING SERVICES S.R.L.",
+            "Città": "Segrate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "LINE EXPRESS SERVICE SRLS",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "G\u0026P SRL",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POSTAMM SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "BELINTERPOST S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "NEW POSTAL SERVICE SOCIETA' A RESPONSABILITA' LIMITATA SEMPL",
+            "Città": "Altamura",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "2VM WEB SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Nettuno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "PARCEL ITALIA S.R.L.",
+            "Città": "Novara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GRG S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "S.V. CONSULTING SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFI",
+            "Città": "Alessandria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "P.M.G. 68 S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MESSENGERS S.R.L.S.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MANU POST S.R.L.",
+            "Città": "Chieti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "ACM COMMUNICATION SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MAVILI SERVICE",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "P.M. POST SRL",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "EXPRESS SHIPMENT SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIF",
+            "Città": "Valenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MOTEXPRESS S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "USP SRL",
+            "Città": "Misterbianco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SPEDIZIONI HERMES SALERNO SRL",
+            "Città": "Salerno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "POST SERVICE SRL - KIPOINT",
+            "Città": "Gela",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "FOR-TE COOPERATIVA SOCIALE",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SPEEDY BOYS - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SYNCRO SISTEMI S.R.L.",
+            "Città": "Vecchiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "AMBASSADORS AND ASSOCIATES S.R.L. SEMPLIFICATA",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MIIST LOGISTICS ITALY S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GET S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MONDOSERVIZI SRL",
+            "Città": "Livorno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "SILEO S.A.S. DI SILEO ROCCO E C.",
+            "Città": "Paullo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GREY S.R.L.",
+            "Città": "Alessandria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "GRUPPO COLONNA TRASPORTI SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Altamura",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "53.20.00",
+            "Azienda": "MOTOPOST SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        }
+    ]
+]

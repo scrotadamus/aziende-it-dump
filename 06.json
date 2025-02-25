@@ -1,0 +1,95 @@
+[
+    [
+        {
+            "Ateco": "06.00.00",
+            "Azienda": "INFRONT ITALY S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "06.20.00",
+            "Azienda": "MOFETA DEI PALICI SRL",
+            "Città": "Catania",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "06.00.00",
+            "Azienda": "IRMINIO S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "06.10.00",
+            "Azienda": "MITSUI E\u0026P ITALIA B SRL",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "06.20.00",
+            "Azienda": "ENERGEAN ITALY SPA",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "06.20.00",
+            "Azienda": "SOCIETA' PADANA ENERGIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "06.20.00",
+            "Azienda": "ENERGEAN SICILIA SRL",
+            "Città": "Ragusa",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "06.20.00",
+            "Azienda": "LAZZI GAS SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "06.20.00",
+            "Azienda": "GA.I.A. S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "06.20.00",
+            "Azienda": "ROCKHOPPER ITALIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "06.20.00",
+            "Azienda": "CMI ENERGIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "06.20.00",
+            "Azienda": "GAS PLUS STORAGE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "06.20.00",
+            "Azienda": "SHELL ITALIA E\u0026P S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Roma"
+        }
+    ]
+]

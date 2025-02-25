@@ -1,0 +1,1567 @@
+[
+    [
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "AZIENDA MULTISERVIZI CASALESE S.P.A. E PIU' BREVEMENTE A.M.C",
+            "Città": "Casale Monferrato",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "AZIENDA MULTISERVIZI VALENZANA S.P.A. IN FORMA ABBREVIATA A.",
+            "Città": "Valenza",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUEDOTTO VALTIGLIONE SPA",
+            "Città": "Asti",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Asti"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CONSORZIO DEI COMUNI PER L'ACQUEDOTTO DEL MONFERRATO",
+            "Città": "Moncalvo",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Asti"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUEDOTTO DELLA PIANA S.P.A.",
+            "Città": "Villanova d'Asti",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Asti"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "COMUNI RIUNITI SOCIETA' DI GESTIONE DI SERVIZI COMUNALI - S.",
+            "Città": "",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "EGEA ACQUE S.P.A.",
+            "Città": "Alba",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SOCIETA' INTERCOMUNALE SERVIZI IDRICI S.R.L.",
+            "Città": "Alba",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "AZIENDA CUNEESE DELL'ACQUA S.P.A.",
+            "Città": "Cuneo",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUEDOTTO LANGHE E ALPI CUNEESI S.P.A. SIGLABILE ALAC S.P.A",
+            "Città": "Cuneo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "COMUNI DELL'ACQUEDOTTO LANGHE SUD OCCIDENTALI S.P.A.",
+            "Città": "Dogliani",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "MONDO ACQUA SPA",
+            "Città": "",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "S.I.I. - S.P.A.",
+            "Città": "Vercelli",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Vercelli"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "RIVIERACQUA S.P.A.",
+            "Città": "Imperia",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SERVIZI COMUNALI ASSOCIATI SRL",
+            "Città": "Alassio",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "C.I.R.A. SRL",
+            "Città": "Dego",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUEDOTTO SAN LAZZARO S.P.A. IN FORMA ABBREVIATA A.S.L. S.P",
+            "Città": "Loano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "EURO D S.R.L.",
+            "Città": "Scanzorosciate",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SANIPUR S.P.A.",
+            "Città": "Flero",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUEDOTTO INDUSTRIALE SOC. COOP. A R.L.",
+            "Città": "Como",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "PADANIA ACQUE S.P.A.",
+            "Città": "Cremona",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SOCIETA' ACQUA LODIGIANA S.R.L. O PIU' BREVEMENTE S.A.L. S.R",
+            "Città": "Lodi",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "BRIANZACQUE S.R.L.",
+            "Città": "Monza",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "AQUAGEST S.R.L.",
+            "Città": "Lomello",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CBL SPA",
+            "Città": "Mede",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pavia"
+        }
+    ],
+    [
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ALFA S.R.L.",
+            "Città": "Gallarate",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "BIM GESTIONE SERVIZI PUBBLICI S.P.A.",
+            "Città": "Belluno",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUEVENETE SPA",
+            "Città": "Monselice",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "PIAVE SERVIZI S.P.A.",
+            "Città": "",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ALTO TREVIGIANO SERVIZI S.P.A IN SIGLA A.T.S. S.P.A.",
+            "Città": "Montebelluna",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CONSORZIO DI BONIFICA PIAVE",
+            "Città": "Montebelluna",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "LIVENZA TAGLIAMENTO ACQUE SPA",
+            "Città": "Portogruaro",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ETRA S.P.A. SOCIETA' BENEFIT",
+            "Città": "Bassano del Grappa",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "MEDIO CHIAMPO SPA",
+            "Città": "Montebello Vicentino",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "VIACQUA S.P.A.",
+            "Città": "Vicenza",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "IRISACQUA S.R.L.",
+            "Città": "Gorizia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "HYDROGEA SPA",
+            "Città": "Pordenone",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUEDOTTO DEL CARSO S.P.A. - KRASKI VODOVOD D.D.",
+            "Città": "Duino Aurisina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUEDOTTO POIANA S.P.A.",
+            "Città": "Cividale del Friuli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CAFC SPA",
+            "Città": "Udine",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "MAESTRI IMPIANTI SRL",
+            "Città": "Molinella",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "C.A.D.F. SPA",
+            "Città": "Codigoro",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ROMAGNA ACQUE SOCIETA' DELLE FONTI S.P.A.",
+            "Città": "",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "MONTAGNA 2000 S.P.A.",
+            "Città": "Borgo Val di Taro",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "NUOVE ACQUE SPA",
+            "Città": "Arezzo",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUE S.P.A.",
+            "Città": "Pisa",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUEDOTTO DEL FIORA SPA",
+            "Città": "Grosseto",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "A.S.A. - AZIENDA SERVIZI AMBIENTALI S.P.A.",
+            "Città": "Livorno",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CONSORZIO DEL TORRENTE PESCIA - S.P.A.",
+            "Città": "Lucca",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "GESTIONE ESERCIZIO ACQUEDOTTI LUCCHESI S.P.A.",
+            "Città": "Lucca",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Lucca"
+        }
+    ],
+    [
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "G.A.I.A. S.P.A.",
+            "Città": "Pietrasanta",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "VIVA SERVIZI S.P.A.",
+            "Città": "Ancona",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUAMBIENTE MARCHE SRL",
+            "Città": "Castelfidardo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CIIP CICLI INTEGRATI IMPIANTI PRIMARI S.P.A.",
+            "Città": "Ascoli Piceno",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "TENNACOLA SPA",
+            "Città": "Sant'Elpidio a Mare",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Fermo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "A.P.M. AZ.PLURISERVIZI MACERATA SPA",
+            "Città": "Macerata",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ASTEA SPA",
+            "Città": "Recanati",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "VALLE UMBRA SERVIZI S.P.A.",
+            "Città": "Spoleto",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "AZIENDA MULTISERVIZI AMERINO-NARNESE-A.M.A.N. S.C.P.A.",
+            "Città": "Amelia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "S.I.I. SOCIETA' CONSORTILE PER AZIONI",
+            "Città": "Terni",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACEA ATO 5 S.P.A.",
+            "Città": "Frosinone",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUALATINA S.P.A.",
+            "Città": "Latina",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "IDRICA S.P.A.",
+            "Città": "Ardea",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "TALETE - GESTIONE SII ATO 1 - SOCIETA' PER AZIONI (IN FORMA",
+            "Città": "Viterbo",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SACA SPA",
+            "Città": "Sulmona",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SOCIETA' ABRUZZESE PER SERVIZIO IDRICO INTEGRATO SPA - IN BR",
+            "Città": "Lanciano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACA SPA IN HOUSE PROVIDING",
+            "Città": "Pescara",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "RUZZO RETI S.P.A.",
+            "Città": "Teramo",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "AZIENDA SPECIALE REGIONALE MOLISE ACQUE",
+            "Città": "Campobasso",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ALTO CALORE SERVIZI SPA",
+            "Città": "Avellino",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "GE.SE.SA GESTIONE SERVIZI SANNIO SPA",
+            "Città": "Benevento",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Benevento"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "GORI S.P.A.",
+            "Città": "Ercolano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ING.ANTONIO FIORE E C. S.A.S. !!FIORESAS",
+            "Città": "Pozzuoli",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "AUSINO - S.P.A. SERVIZI IDRICI INTEGRATI",
+            "Città": "Cava de' Tirreni",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "PLURIACQUE S.C.P.A.",
+            "Città": "Prignano Cilento",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Salerno"
+        }
+    ],
+    [
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ASIS SALERNITANA RETI E IMPIANTI - S.P.A",
+            "Città": "Salerno",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CONSAC GESTIONI IDRICHE S.P.A.",
+            "Città": "Vallo della Lucania",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUEDOTTO LUCANO - S.P.A.",
+            "Città": "Potenza",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SOCIETA RISORSE IDRICHE CALABRESI",
+            "Città": "Catanzaro",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "GIRGENTI ACQUE SPA",
+            "Città": "Aragona",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUE DI CALTANISSETTA S.P.A. IN SIGLA CALTAQUA S.P.A.",
+            "Città": "Caltanissetta",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUE DI CASALOTTO S.P.A.",
+            "Città": "Aci Castello",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SO.G.I.P. S.R.L. UNIPERSONALE",
+            "Città": "Acireale",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "GARAFFO \u0026 SCILIO S.P.A.",
+            "Città": "Giarre",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUE SUD S.R.L.",
+            "Città": "Motta Sant'Anastasia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "A.M.A.M. AZIENDA MERIDIONALE ACQUE MESSINA S.P.A.",
+            "Città": "Messina",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "BUCARO GIUSEPPE \u0026 C. S.R.L.",
+            "Città": "Altavilla Milicia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SOCIETA' RICERCHE IDRICHE SO.R.I. SPA",
+            "Città": "Carini",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SOGEA S.R.L.",
+            "Città": "Casteldaccia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "PRIOLO SERVIZI SOCIETA' CONSORTILE PER AZIONI",
+            "Città": "Melilli",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "MA.PI SRL",
+            "Città": "Verona",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SERVIZI INTEGRATI ACQUE DEL MEDITERRANEO - SIAM S.P.A..",
+            "Città": "Siracusa",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "AZIENDA PER LA CAPTAZIONE E LA QUALIFICAZIONE ALL'USO DELL'A",
+            "Città": "Sinnai",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ABBANOA S.P.A.",
+            "Città": "Nuoro",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CIPNES GALLURA",
+            "Città": "Olbia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SOCIETA METROPOLITANA ACQUE TORINO SPA",
+            "Città": "Torino",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "UNIACQUE S.P.A.",
+            "Città": "Bergamo",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "A2A CICLO IDRICO SPA",
+            "Città": "Brescia",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "MM S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CAP EVOLUTION S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "GESTIONE ACQUE CANALI RENO E SAVENA S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "PUBLIACQUA S.P.A.",
+            "Città": "Firenze",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "UMBRA ACQUE S.P.A.",
+            "Città": "Perugia",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SOGESID S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACEA MOLISE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUA CAMPANIA S.P.A.",
+            "Città": "Napoli",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "OTTOGAS S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUEDOTTI ING. SARINO PAVONE SPA",
+            "Città": "Catania",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SOGEA S.R.L. SOCIETA' GESTIONE ACQUEDOTTI",
+            "Città": "Catania",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SIDRA S.P.A. UNIPERSONALE",
+            "Città": "Catania",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SICILIACQUE S.P.A.",
+            "Città": "Palermo",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SO.FI.P. S.P.A.",
+            "Città": "Palermo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "AMAP SPA",
+            "Città": "Palermo",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "OPERAZIONI E SERVIZI PORTUALI PALERMO S.R.L. O.S.P.",
+            "Città": "Palermo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACEA ATO 2 S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CAP HOLDING S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUE BRESCIANE SRL",
+            "Città": "Brescia",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "EMILIAMBIENTE S.P.A.",
+            "Città": "Fidenza",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "AMIR S.P.A.",
+            "Città": "Rimini",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ABC - ACQUA BENE COMUNE NAPOLI",
+            "Città": "Napoli",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "PAVIA ACQUE S.C.A R.L.",
+            "Città": "Pavia",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUA NOVARA.VCO S.P.A.",
+            "Città": "Novara",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "COMO ACQUA S.R.L.",
+            "Città": "Como",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "LARIO RETI HOLDING S.P.A.",
+            "Città": "Lecco",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACOSET S.P.A.",
+            "Città": "Catania",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Catania"
+        }
+    ],
+    [
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "AKERUS S.C. A R.L.",
+            "Città": "Napoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ENERGIA VERDE IDRICA S.P.A.",
+            "Città": "Ischia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SERVIZI IDRICI ETNEI SPA",
+            "Città": "Catania",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACCIONA AGUA SARDINIA INFRASTRUCTURE SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "TETI ACQUE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SERVIZI IDRICI VALLECAMONICA SRL",
+            "Città": "Breno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "UFFICIO D'AMBITO DELLA CITTA' METROPOLITANA DI MILANO",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SERVIZI COLLEFERRO - SOCIETA' CONSORTILE PER AZIONI",
+            "Città": "Colleferro",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CONSORZIO PER IL NUCLEO DI INDUSTRIALIZZAZIONE DELLA PROVINC",
+            "Città": "Maniago",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "EGENIA S.R.L.",
+            "Città": "Penne",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ASTRA S.R.L.",
+            "Città": "Teramo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "DISSALATORE USTICA SOCIETA' CONSORTILE A RESPONSABILITA' LIM",
+            "Città": "Palermo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUE CHIARE ACQUEDOTTI CHIARELLA SOCIETA' A RESPONSABILITA'",
+            "Città": "Catanzaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "UFFICIO D'AMBITO TERRITORIALE OTTIMALE DELLA PROVINCIA DI PA",
+            "Città": "Pavia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SORGENTI PRESIDIANA SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ALGIDOSIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ECOTRAS S.R.L.",
+            "Città": "Bronte",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CONSORZIO GESTORI SERVIZI IDRICI SCRL",
+            "Città": "Cuneo",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SO.GE.A. SRL SOCIETA' GESTIONE ACQUEDOTTI",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CASCIANA ACQUE ITALIA S.R.L.",
+            "Città": "Gela",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "H2O L'ACQUA S.R.L.",
+            "Città": "Milazzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CONSORZIO ACQUE DEL COMPRENSORIO EX ALFA ROMEO",
+            "Città": "Arese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUEDOTTO RURALE DI ROTEGLIA SOCIETA' COOPERATIVA",
+            "Città": "Castellarano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUEDOTTO DISTEFANO S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ECOTRADE SRL",
+            "Città": "Quartucciu",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        }
+    ],
+    [
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "PAGANELLA SERVIZI SOCIETA' CONSORTILE A RESPONSABILITA' LIMI",
+            "Città": "Andalo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "NIGRO PASQUALE \u0026 NIGRO DOMENICO SNC",
+            "Città": "Salerno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUA TECHNOLOGY S.R.L.",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "STERALMAR S.R.L. UNIPERSONALE",
+            "Città": "Bisceglie",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ECODEPURA S.R.L.",
+            "Città": "Casciago",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "AQUACLARA SERVICES S.R.L.S. - SOCIETA' A RESPONSABILITA' LIM",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "T.W.G. S.R.L. TREATMENT WATER GROUP",
+            "Città": "Gela",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ECOBIOS ITALIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SANTO STEFANO TERME SPA",
+            "Città": "Aprilia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "RU ARBERIOZ SERVICE S.R.L.",
+            "Città": "Aymavilles",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Aosta"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUADIGI SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Altamura",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "IDROSICILIA S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ARCONHE S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "HYPER SOCIAL CLUB SRL IMPRESA SOCIALE",
+            "Città": "Pistoia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "LE VIE PURE SRL",
+            "Città": "Biella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ESA S.R.L.",
+            "Città": "Faenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "Redarca Srl unipersonale",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "DISSALATORE LIPARI SOCIETA' CONSORTILE A RESPONSABILITA' LIM",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "GESTIONE ACQUA SOCIETA' PER AZIONI - SIGLABILE IN GESTIONE A",
+            "Città": "Cassano Spinola",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "AQA S.R.L. SOCIETA' BENEFIT",
+            "Città": "Mantova",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "A.I.C.A. - AZIENDA IDRICA COMUNI AGRIGENTINI",
+            "Città": "Aragona",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "IDRORHEGION S.C.A.R.L.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ASMARE S.R.L.",
+            "Città": "Mortara",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "INTERNATIONAL WATER S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CONSORZIO DELLE UTENZE IRRIGUE SRL",
+            "Città": "Codogno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lodi"
+        }
+    ],
+    [
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "LA VECCHIA S.C.A R.L.",
+            "Città": "Fossalta di Portogruaro",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "INFERNOTTO ACQUA SRL",
+            "Città": "Bagnolo Piemonte",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "IMP.ECO. S.R.L.",
+            "Città": "Cava de' Tirreni",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "TRINKWASSER-GENOSSENSCHAFT NEPTUNIA SEIS",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUEDOTTO DI AZZON SOCIETA' PER AZIONI",
+            "Città": "Cortina d'Ampezzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CONSORZIO IDRICO SANGIACOMO S.R.L.",
+            "Città": "Roburent",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CENTRO ISIDE SRL",
+            "Città": "Prignano Cilento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "TRINKWASSER-GENOSSENSCHAFT ST. MICHAEL-EPPAN",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ABBA BLU S.R.L.",
+            "Città": "San Sperate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SIRCO S.R.L.",
+            "Città": "Monteforte Irpino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SIEL S.R.L. SERVIZI INTEGRATI PER GLI ENTI LOCALI",
+            "Città": "Siligo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "LA CONDOTTA 1995 S.R.L.S.",
+            "Città": "Itri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUE POTABILI DI COSSILA SRL",
+            "Città": "Biella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "IDROBIOTECNICA S.R.L.",
+            "Città": "Mola di Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUEDOTTO BLANCHARD ST. JACQUES SOC. COOP.",
+            "Città": "Ayas",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Aosta"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUE PUBBLICHE SAVONESI SCPA",
+            "Città": "Savona",
+            "Fatturato": "",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ANGIOI ANNIBALE",
+            "Città": "Tempio Pausania",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "IBLEA ACQUE S.P.A. IN HOUSE PROVIDING",
+            "Città": "Ragusa",
+            "Fatturato": "",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "IDROAMBIENTE S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CONSORZIO DI BONIFICA E D'IRRIGAZIONE DEL CANALE LUNENSE",
+            "Città": "Sarzana",
+            "Fatturato": "",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "GEMEINDE TOBLACH",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SO.A.KRO. S.P.A.",
+            "Città": "Crotone",
+            "Fatturato": "",
+            "Provincia": "Crotone"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUE PUBBLICHE DELLA CALABRIA AZIENDA SPECIALE CONSORTILE",
+            "Città": "Cosenza",
+            "Fatturato": "",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "A.D.P. IDROSTERIL DI DAL MIGLIO MARCELLA CRISTINA LAURA",
+            "Città": "Mediglia",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "IDROLATINA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CO.GE.S.CO. CONSORZIO PER LA GESTIONE DI SERVIZI COMUNALI",
+            "Città": "Serra de' Conti",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "TEKNOSIN ACQUA SISTEMI DI SINATTI SERGIO",
+            "Città": "Viterbo",
+            "Fatturato": "",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "GEMEINDE INNICHEN",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "CONSORZIO VAL D'ILLASI SERVIZI - CO.VI.SE.",
+            "Città": "Illasi",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SWN SOLUTIONS SRL",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "GEMEINDE NIEDERDORF",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "NGP UTILITA' SRL",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "TRINKWASSERINTERESSENSCHAFT GROSSBERG",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "PAGANELLI MASSIMO",
+            "Città": "Corato",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SERVIZI IDRICI INTEGRATI SALERNITANI SOCIETA' PER AZIONI IN",
+            "Città": "Salerno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "IDROCILENTO - SOCIETA' CONSORTILE PER AZIONI",
+            "Città": "Prignano Cilento",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "FDM SERVIZI SRL",
+            "Città": "Formia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "BIO-MASS IMPIANTI S.R.L.",
+            "Città": "Trezzano sul Naviglio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SOCIETA' COOPERATIVA ENERGIE PFUNDERS",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "AZIENDA SPECIALE TOANO",
+            "Città": "Toano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SPIRITO LIBERO SRL",
+            "Città": "Nuoro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "SANTA RITA SRL",
+            "Città": "Altavilla Milicia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "ACQUATECK S.R.L.",
+            "Città": "Fratta Todina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "DEMA S.R.L.",
+            "Città": "Como",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "AZIENDA MULTISERVIZI IDRICI E AMBIENTALI SCRIVIA SRL",
+            "Città": "Novi Ligure",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "36.00.00",
+            "Azienda": "IDRO - WATER P.M.A. DI NARDI MASSIMILIANO E NARDI PIERO S.A.",
+            "Città": "Montelupo Fiorentino",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        }
+    ]
+]

@@ -1,0 +1,6346 @@
+[
+    [
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "ADSOFT SRL",
+            "Città": "La Spezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "FARO GAMES S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "MANTOVA GIOCHI DUE S.R.L.",
+            "Città": "Mantova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "VIDEOMATIC SRL",
+            "Città": "Buscate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "ONLY GAMES SRL",
+            "Città": "Poggio a Caiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BINGO GALLERIA S.R.L.",
+            "Città": "Civitavecchia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "PLANET GAMES S.R.L.",
+            "Città": "Rende",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "FUNWORLD S.R.L.",
+            "Città": "Gioia Tauro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BIG PLANET GAMES S.R.L.",
+            "Città": "Modica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "MUSIK BOX S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "SCESA GIOCHI S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "SNAITECH SPA",
+            "Città": "Milano",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "EUROBET ITALIA S.R.L. UNIPERSONALE",
+            "Città": "Roma",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.01.00",
+            "Azienda": "BETPOINT S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "SPORTBET SRL",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "MULTIGIOCO S.R.L.",
+            "Città": "Grottaferrata",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "MARATHONBET ITALY S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "EVENTO GIOCO 2 S.R.L",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BETPREMIUM SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BWIN ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "F.G. GIOCHI SRL",
+            "Città": "Cagliari",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BETTER ITALIA S.R.L.",
+            "Città": "Cagliari",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "HIPPOBINGO FIRENZE SRL",
+            "Città": "Cesena",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "HIPPOGROUP MODENA SRL",
+            "Città": "Cesena",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BINGO ADDA SRL",
+            "Città": "Siracusa",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Siracusa"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "SAVINI SLOT S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "LAS VEGAS GAMES \u0026 FOODS S.R.L.",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "LUCKY STAR S.R.L.",
+            "Città": "Seriate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "1 X 2 S.R.L.",
+            "Città": "Pescara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "DERBY BET SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "I TRADING SOLUTION SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "LEN S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "GAME VLT SRL",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "NIRVANA S.R.L.",
+            "Città": "Ardea",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "PLAYMATIKA SRL",
+            "Città": "Manfredonia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "QUINDICI SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "RE.FA. SRLS",
+            "Città": "Latina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "PESCARA65100 S.R.L.",
+            "Città": "Pescara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "AGENZIA IPPICA FERMO S.R.L.",
+            "Città": "Gualdo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "SPORTPESA ITALY S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "FOURBET S.R.L.",
+            "Città": "Bisceglie",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "J.S. ASSISTANCE S.R.L.",
+            "Città": "Perugia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "LUDOMATIC S.R.L.",
+            "Città": "Barletta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "UMBRIABET S.R.L.",
+            "Città": "Foligno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "IGAME S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "TRAPANI SCOMMESSE SRL",
+            "Città": "Trapani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "UNIKA GAMES SRL",
+            "Città": "Rimini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "NOLOGAMES S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "GAMES POINT S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "LUDOS S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "DIP GAMING SRL",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "S3 SRL",
+            "Città": "Scafati",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "QMG SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Potenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "PIPPO SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "V.I.L. BET S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "C.L.A. SRL",
+            "Città": "Cerignola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "4BET S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.00",
+            "Azienda": "CORSAL S.R.L.",
+            "Città": "Montecatini-Terme",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "PONGO SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "ZINCO SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "TYCHE CAFFE' S.R.L.",
+            "Città": "Matera",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "H\u0026O S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "RM2 SRL",
+            "Città": "Grugliasco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "GI.MA. SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Potenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "ROYAL PLAY S.R.L.",
+            "Città": "Formigine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "THE GROUP SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Quartucciu",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "MR MIKELINO SRLS",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "PLANET PAVESE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "HELLO GAME S.R.L.",
+            "Città": "Vasto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "WIN PALACE SRLS",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "PLAY SURE SRL",
+            "Città": "Viareggio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "GRANDE BET S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "MATI BET SRL",
+            "Città": "Prato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "NEMO - SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA UNIP",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "J.F. GAMES SRL",
+            "Città": "Macerata",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "SUPREMIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "DISPLAY S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "MARGIOCHI S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "E-PLAY24 RETAIL S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BGT S.R.L.",
+            "Città": "Tradate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "ALD-AN SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "GA.DI'. S.R.L.",
+            "Città": "Avezzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "STARTWIN SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "KINGBET SRL",
+            "Città": "Sant'Antimo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "GAME'S QUEEN S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "VICTORIA BET SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "LIVE GAMING S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "LOBOGAMES S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BET BET SRL",
+            "Città": "Ravenna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "ROYAL VEGAS S.R.L.",
+            "Città": "Collecchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "92.01.00",
+            "Azienda": "NANCY S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "DANDY SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "PANORAMA S.R.L.",
+            "Città": "Sassari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "CENTRO GIOCHI BEVERE - SOCIETA' A RESPONSABILITA'",
+            "Città": "Apricena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "MONDO PLANET S.R.L.S",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "NERI S.R.L.",
+            "Città": "Prato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "BIG SLOT S.R.L.",
+            "Città": "Sora",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "CUP DUE S.R.L.",
+            "Città": "Osoppo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "GAMEFREE S.R.L.",
+            "Città": "Chiari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "M.M.A. SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Brugherio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "CELLARDOOR SRLS",
+            "Città": "Pianezza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "KAPPA SOCIETA' COOPERATIVA",
+            "Città": "Marsala",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "FEFAL SRL",
+            "Città": "Livorno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "PARTENOPE SCOMMESSE SRL",
+            "Città": "Frattamaggiore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "DILOR SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.00.00",
+            "Azienda": "GRILLO S.R.L.",
+            "Città": "Gualdo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BRUNI S.R.L.",
+            "Città": "Avola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "G \u0026 G SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Modugno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "JL GAMES S.R.L.S.",
+            "Città": "Tivoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "LAS VEGAS SRL",
+            "Città": "Manerbio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "BET S.R.L.",
+            "Città": "Savona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "NEW HIRE GAME SRL",
+            "Città": "Misterbianco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "MTBET S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "D.P.R.S. S.R.L.",
+            "Città": "Roccacasale",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "GB GAMES S.R.L.S.",
+            "Città": "Monterotondo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "ONDA SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "DANIELE \u0026 CRISTIAN \u0026 STOP S.R.L.",
+            "Città": "Marino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "JOKA JOKA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Alcamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "BASSOTTO SRL A CAPITALE RIDOTTO",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "NEW LIFE DI SCHEPIS GIANLUCA E BRUNO STEFANO S.N.C.",
+            "Città": "Casatenovo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "GBET SRL",
+            "Città": "Montesilvano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "RAGANZINO S.R.L.S. SOCIETA' A RESPONSABILITA' LIMITATA SEMPL",
+            "Città": "Pozzallo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "DEA365 SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "PARMA BET SRL",
+            "Città": "Piacenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "SCANDICCIBET SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Scandicci",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "3G BET S.A.S. DI TRANI GIULIO",
+            "Città": "Ischia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "B - SOLUTION S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "ROYAL CASINO' S.R.L. CON UNICO SOCIO",
+            "Città": "Fucecchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "CESAR'S GAME S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "FD\u0026N DI LUCA REGINALDI SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "RIGOLETTO SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "S.R.G. S.R.L.",
+            "Città": "Casoria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "SCOMMETTENDO S.R.L.",
+            "Città": "San Michele Salentino",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "NETWIN ITALIA S.P.A.",
+            "Città": "Sant'Agata sul Santerno",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SUN BET SRL",
+            "Città": "Mercato San Severino",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CASINO' DI VENEZIA GIOCO SPA",
+            "Città": "Venezia",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "VINCITU' S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GI.LU.PI. S.R.L.",
+            "Città": "Tricase",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "JACKPOTALTO SRL",
+            "Città": "Napoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GECH GECH S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BALDO LINE S.R.L.",
+            "Città": "Bussolengo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "INVEST GAMING S.R.L.",
+            "Città": "San Vendemiano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "SLOTS R US S.R.L.",
+            "Città": "Francavilla Fontana",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "VIDEO 2000 GROUP SRL",
+            "Città": "Vaiano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BINGO IMPERIAL SRL",
+            "Città": "Quartu Sant'Elena",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "VISCO MATIC SRL SOCIO UNICO",
+            "Città": "Napoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "OLYBET ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "S.I.G. SOCIETA' ITALIANA GIOCHI S.R.L.",
+            "Città": "Nocera Inferiore",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SERVIZI DISTRIBUTIVI LOTTERIE S.R.L. ENUNCIABILE ANCHE SE.DI",
+            "Città": "San Vendemiano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "TELEBINGO S.R.L.",
+            "Città": "Messina",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Messina"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "DISTANTE - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Francavilla Fontana",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "A.O.G. - S.R.L.",
+            "Città": "San Vendemiano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "92.00.00",
+            "Azienda": "MILLEUNO S.P.A.",
+            "Città": "San Vendemiano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "DOMUS BET S.R.L.",
+            "Città": "San Giovanni la Punta",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "R.B. VIDEO GAMES S.R.L.",
+            "Città": "Sant'Agata sul Santerno",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ROMAGNA GIOCHI S.R.L.",
+            "Città": "Faenza",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BGAME SPA",
+            "Città": "Castel San Pietro Terme",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ROMAR S.R.L.",
+            "Città": "Castellammare di Stabia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "FOX SERVICE S.R.L.",
+            "Città": "Ferentino",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BET CLASS ITALIA SRL",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "M. SLOT S.R.L.",
+            "Città": "Racale",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "NEVADA S.R.L.",
+            "Città": "Montoro",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "DUEMILAUNO BINGO S.R.L.",
+            "Città": "Rimini",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MEGARIS BINGO S.R.L",
+            "Città": "Casalnuovo di Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "FIVEBET S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ORLANDO ITALIA S.R.L.",
+            "Città": "Basiglio",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "TOKENS S.R.L.",
+            "Città": "Costa Volpino",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "TREMILAUNO S.R.L.",
+            "Città": "San Vendemiano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SPORT \u0026 PARTNERS SRL",
+            "Città": "Bologna",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "TAI FUN GAMES SRL",
+            "Città": "Venosa",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PINTER S.R.L.",
+            "Città": "Castellammare di Stabia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BINGO STELLA SOCIETA A RESPONSABILITA LIMITATA",
+            "Città": "Prato",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "AC GROUP SRL",
+            "Città": "Pesche",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Isernia"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "GIOCHI ELETTRONICI TOSCANI S.R.L.",
+            "Città": "Casciana Terme Lari",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "DIECIMILAUNO S.P.A.",
+            "Città": "San Vendemiano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Treviso"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "APULIA SRL",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "KRISTAL PALACE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "WINNER BET S.R.L.",
+            "Città": "Gioia Tauro",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "CASH GAME AWP \u0026 VLT SRL",
+            "Città": "Mercato San Severino",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GIOCO 2000 S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "SANGREGORIO GIOCHI S.R.L.",
+            "Città": "Morbegno",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BINGO GOYA S.R.L.",
+            "Città": "La Spezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ASTER GAMES S.R.L.",
+            "Città": "Favara",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "DIVI S.R.L.",
+            "Città": "Nola",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "NEW PLANET GAME S.R.L.",
+            "Città": "Medole",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "L'ORA DEL BINGO S.R.L.",
+            "Città": "Lovere",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SPORTBET SRL",
+            "Città": "Castello di Cisterna",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "TRISKEL SRL",
+            "Città": "Tempio Pausania",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "LUCKY BET SRL",
+            "Città": "San Giovanni la Punta",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "LE CASINO S.R.L.",
+            "Città": "Forio",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ALL GAMES S.R.L.",
+            "Città": "San Salvo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "FM20 AFFILIATIONS S.R.L.S. SOCIETA' A RESPONSABILITA' LIMITA",
+            "Città": "Roccella Ionica",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "RESET SRL",
+            "Città": "Conversano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "AL.TU.RIS. S.R.L.",
+            "Città": "Giugliano in Campania",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "VIDEOGAMES 2M S.R.L.",
+            "Città": "Baranello",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GENNAGIOCHI SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "San Mango Piemonte",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "NEW ITALGIOCHI 2 S.R.L.",
+            "Città": "Laviano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "EL.VI.SRL",
+            "Città": "Casalnuovo di Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "RUBINO S.R.L.",
+            "Città": "Vallo della Lucania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "NIHAO S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "VIDEOTECNOMATIC SRL",
+            "Città": "Montesilvano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ALICE OTTO S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "PLAY STARTS SRL",
+            "Città": "Gorla Minore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "UNIVERSAL GAMES S.R.L.",
+            "Città": "Castel Mella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SIRUMA S.R.L.",
+            "Città": "Giulianova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PO.MA. SRL",
+            "Città": "Casalnuovo di Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "FORTUNA S.R.L.",
+            "Città": "Bussolengo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "BARBIN GAME SRL",
+            "Città": "Ascoli Piceno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "B.S.P. S.R.L.S",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "RESIDENCE QUADRIFOGLIO SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PRECIOUS GAMING SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Corato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "DAGOSLOT SRL",
+            "Città": "Introdacqua",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SCOMMESSE NAPOLI MUNICIPIO SRL",
+            "Città": "Benevento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Benevento"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "NEW BET SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Frattamaggiore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "W.Z.L. SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "FGM S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ALICE VENTUNO S.R.L. UNIPERSONALE",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ALLBET- SOCIETA' A RESPONSABILITA' LIMIATA",
+            "Città": "Pozzuoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GENIS S.R.L.",
+            "Città": "Cervinara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ALEA FELIX S.R.L.",
+            "Città": "Gualdo Tadino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BETSWISS S.R.L.",
+            "Città": "Tradate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "SPOLETO GAMES S.R.L.",
+            "Città": "Spoleto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "LUCIO SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Frosinone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SABOT S.R.L.",
+            "Città": "Roccasecca",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "COSMOGIOCHI SRL",
+            "Città": "Torrevecchia Teatina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GRUPPO LIBERTY S.R.L.",
+            "Città": "Rende",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GOLD GAME S.R.L.",
+            "Città": "Pescara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PRESTIGE SRLS",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "FULL GAMES SRL",
+            "Città": "San Giovanni Gemini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MOON SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GIOCA E VINCI S.R.L.",
+            "Città": "Villabate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "R.G.M. MULTISERVICE S.R.L.",
+            "Città": "Terni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GRUPPO MIRIAM FORTE CONSULTING S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "C \u0026 P INVESTMENTS SOCIETA' A RESPONSABILITA' LIMITATA SEMPLI",
+            "Città": "San Giovanni la Punta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MILLIONS GAME S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "2014 LUAN WIN SRLS",
+            "Città": "Ciampino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SCAMA GIOCHI SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Nocera Terinese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BELZIROSSI S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PROMOMEDIA SRL",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "VALDICHIANA SLOT S.R.L.",
+            "Città": "Lucignano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "G GAMES SRL",
+            "Città": "Calcinato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GN GAME \u0026 SERVICE S.R.L",
+            "Città": "Castel Volturno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "STARK SOCIETA' A RESPONSABILITA' LIMITATA IN BREVE STARK S.R",
+            "Città": "Deruta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "LA TRIESTEGIOCHI S.R.L.",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SMILE BET S.R.L.",
+            "Città": "Baronissi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "VERBANO GAMES S.R.L.",
+            "Città": "Dormelletto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ACEA BET S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PIANETA SLOT S.A.S. DI HU LIJU \u0026 C.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "L'AIRONE SRL",
+            "Città": "Arezzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "IN GAME - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Nocera Superiore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "NOVECENTO44 S.R.L.",
+            "Città": "Carini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "COSMO GAME S.R.L.",
+            "Città": "Campofelice di Roccella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ANFOSSI EVENTS SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFIC",
+            "Città": "Sanremo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PLAY GAME SRL",
+            "Città": "Nola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ROCAR S.R.L. SEMPLIFICATA",
+            "Città": "Ariccia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "HW SRL",
+            "Città": "Ascoli Piceno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "KARAI S.R.L.",
+            "Città": "Arco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "B2 S.R.L.",
+            "Città": "Viareggio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "TECHNOGREEN - SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICA",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "GAME SOLUTIONS SRLS",
+            "Città": "Verona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "NOLOTEL DI TONNARELLI GIUSEPPE E C. S.R.L.",
+            "Città": "Ancona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SERVING PLAY S.R.L.",
+            "Città": "Crotone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Crotone"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "TRADING S.R.L.UNIPERSONALE",
+            "Città": "Torre del Greco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GAME DIVISION ITALY SRL",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GIOCHI E SERVIZI SRL",
+            "Città": "Bagheria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "EUROGESTIONI S.R.L.",
+            "Città": "Viterbo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "RED GAME S.R.L.",
+            "Città": "Valeggio sul Mincio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "AURORA S.R.L.S.",
+            "Città": "Marsala",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "DEA BENDATA SRL",
+            "Città": "San Giorgio a Cremano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "DALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CAFFE' \u0026 BET SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICAT",
+            "Città": "Nola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "GARDEN VLT - S.R.L.",
+            "Città": "Atina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "NONNO SRL",
+            "Città": "Campi Bisenzio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "4 GAME - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Baronissi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MEDIAWORKS BET SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFIC",
+            "Città": "Camporeale",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "MAGNUM S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "REGINA SRL",
+            "Città": "Montecatini-Terme",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "REPLATZ SRL",
+            "Città": "Rossano Veneto",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "NEOM S.R.L.",
+            "Città": "Coriano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "SOLFIN EUROPE S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "TRE ESSE SCOMMESSE - S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "ALL IN SRL",
+            "Città": "Rho",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "IL TIRA - BOUCHONS S.R.L.",
+            "Città": "Cascina",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "CMT S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "GOLD STAR 2013 S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "GMG GAMES - S.R.L.",
+            "Città": "Ancona",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "ITALBET S.R.L.",
+            "Città": "Tortona",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "CASINO DE LA VALLEE S.P.A. SIGLABILE IN CAVA S.P.A",
+            "Città": "Saint-Vincent",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Aosta"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "MATERA PLAY 3 SRL",
+            "Città": "Matera",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BINGO BON SRL",
+            "Città": "Ragusa",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "ZILLY S.R.L.",
+            "Città": "Messina",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "EUROMATIC S.R.L.",
+            "Città": "Messina",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "TUTTO GIOCO SRL",
+            "Città": "Messina",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "LAS VEGAS GAMES SRL02",
+            "Città": "Follonica",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "NTS NETWORK S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BETFAIR ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "CASINO DI SANREMO SPA",
+            "Città": "Sanremo",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "TOTALBET SRL",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "CRISTALTEC ENTERTAINMENT SRL",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "LED S.R.L.",
+            "Città": "Rovato",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Brescia"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "WIN WIN GAME SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICAT",
+            "Città": "Mantova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ADELANTE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "VALCAMONICA GIOCHI SRL",
+            "Città": "Malonno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "NEW ELITE GAMES S.R.L.",
+            "Città": "Dalmine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BEL.BET SRL - SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICA",
+            "Città": "Belvedere Marittimo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "FEDMAR S.R.L.",
+            "Città": "Ravenna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "NEWMAN SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Foggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "K.O.P. S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "VANAHOLD S.R.L.",
+            "Città": "Monopoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "COMBO SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Scafati",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "TECNABET S.R.L.",
+            "Città": "Cariati",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PE1936 SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Montesilvano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "DING FENG SRL",
+            "Città": "Mede",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "TOP BET SRL",
+            "Città": "Chiavari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "RETE RETE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MILLIONS S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ALL GAMES SRL",
+            "Città": "Camerino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MYPHONE SRL",
+            "Città": "Casarano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MACO SRL SEMPLIFICATA",
+            "Città": "Latina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "FIRST BET S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "IMMOBILIARE BARBARO SRLS",
+            "Città": "Pordenone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "GS GAMING S.R.L.",
+            "Città": "Latina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BET ON SAS DI DAVIDE GURIERI \u0026 C.",
+            "Città": "Sasso Marconi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PI.VI.PA. S.R.L.S.",
+            "Città": "Mentana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "T.L.SERVICE SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "M2 GIOCHI S.R.L.",
+            "Città": "Catanzaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "DANILSESTI S.R.L.",
+            "Città": "Catanzaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "PLANET GAMES S.R.L. CON SOCIO UNICO",
+            "Città": "San Giovanni Gemini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MARLIBET S.R.L.",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "DIAMOND GAMES SRL",
+            "Città": "Agropoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SI.LE.LE. SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Pizzoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "STAR GAMES S.R.L.",
+            "Città": "Viterbo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CAFFE' DEL BORGO SAS DI DI MARTINO MATTEO \u0026 C",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "INSERT COIN S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "DRAGON BET SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Mondragone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ROSSAZZURRI S.R.L. SEMPLIFICATA",
+            "Città": "Mascali",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "MOST S.R.L.",
+            "Città": "Torrebelvicino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SA.GE. SRLS",
+            "Città": "Pagani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "AXAGAMES SRL",
+            "Città": "La Spezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "UNOBET S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SLB365 SRL",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PLAY SHOP S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GI.DA. S.R.L.",
+            "Città": "Cisterna di Latina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "AKIRASLOT - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Monrupino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "LA COCCINELLA S.R.L.",
+            "Città": "Bagheria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "AGENZIA ROMA S.R.L.",
+            "Città": "Vittoria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BETBROTHER - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ALL SERVICE SRL",
+            "Città": "Carovigno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GORCAM GLOBAL SRL",
+            "Città": "Breno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "VIMA S.R.L.",
+            "Città": "Settimo Milanese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "NEW STAR GAME S.R.L.",
+            "Città": "Foligno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SARIX S.R.L.",
+            "Città": "San Bonifacio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "NEWBET SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "FORBET S.R.L.",
+            "Città": "Macerata",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GIOCALICE SRL",
+            "Città": "Trapani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "CL SERVICESRLS",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MA.LI. S.R.L.",
+            "Città": "Castellana Grotte",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "UNBROKEN S.R.L.S.",
+            "Città": "Terrasini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "DVM S.R.L.S.",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "TOP BET SRL",
+            "Città": "Montegranaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Fermo"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "GOOD LUCK SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Manfredonia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "QR SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BET ARGENTARIO S.R.L.",
+            "Città": "Monte Argentario",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "VR BET SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "RIVIERA GAMES SERVICE SRL",
+            "Città": "Taggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "71030 S.R.L.",
+            "Città": "Mattinata",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ALICE NOVE S.R.L. UNIPERSONALE",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "BIG WINNER SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Verona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "DACE BET S..R.L.",
+            "Città": "Pratola Peligna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GAME PROJECT SRLS",
+            "Città": "Volla",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "CA.DA.VI. SRLS",
+            "Città": "Benevento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Benevento"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "EXTRABET SRLS",
+            "Città": "Tivoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "19 MARZO SRL",
+            "Città": "San Marcellino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GAME ROOM S.R.L.",
+            "Città": "Catanzaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PLANETPLANE S.R.L.",
+            "Città": "Salerno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GR S.R.L.",
+            "Città": "Mercato San Severino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "IRONSPACE SRL",
+            "Città": "Pratola Peligna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ARCODE SRLS",
+            "Città": "Rignano Flaminio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GD SERVICE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "CONCORDE ELECTRONIC S.R.L.",
+            "Città": "Itri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GARIBET S.R.L.",
+            "Città": "Nola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MILLIONAIRE S.R.L. S.",
+            "Città": "Marsala",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "VICE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA UNIPER",
+            "Città": "Viterbo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "FAEM SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA IN FOR",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "FD SPORTS SRLS",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BAOB S.R.L.S.",
+            "Città": "Novi Ligure",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SUPERBET SRL",
+            "Città": "Barletta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "FRAME BET S.R.L.",
+            "Città": "Mercato San Severino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "APE SERVICE S.R.L.",
+            "Città": "Fisciano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CRC S.R.L.",
+            "Città": "Pescara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "VIBET S.R.L.",
+            "Città": "Vicenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MAGA S.R.L.S",
+            "Città": "Scafati",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "90BET S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MAGIA DI MEZZANOTTE EMANUELE \u0026 IPPOLITI GIOVANNIBATTISTA SRL",
+            "Città": "Palombara Sabina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "QUADRIFOGLIO SRLS",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "STAR 1.0 SRL",
+            "Città": "Monfalcone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "RLC SRL",
+            "Città": "Siracusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "DUE EMME S.A.S. DI MARCHI MASSIMO \u0026 C.",
+            "Città": "Sant'Ambrogio di Valpolicella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "AGENZIA ITALIA SRL",
+            "Città": "Rosignano Marittimo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "NOVO GOLD DI ZHOU XING S.A.S.",
+            "Città": "Fontaniva",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "M.G. SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "R.G.D. GAMES SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICAT",
+            "Città": "Castrovillari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ASILE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Ascoli Piceno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "A.P.S. GIOCHI SRL",
+            "Città": "Grumo Nevano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ENJOY SPORT S.R.L.",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "THE END SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Campobasso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MASCAR S.R.L.S.",
+            "Città": "Sondrio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "G SERVICE - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Fisciano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "DE BERNARDO MARIA ADELAIDE",
+            "Città": "Rimini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "GEA S.R.L.S.",
+            "Città": "Pellezzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "MULTIMEDIA ENTERTAINMENT \u0026 MARKETING SRLS",
+            "Città": "Gorizia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "HURACAN SRL",
+            "Città": "Nave",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GLOBAL SERVICES S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "VIEFFEGIOCHI SRL",
+            "Città": "Novara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GERICO S.R.L.",
+            "Città": "Palazzolo sull'Oglio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ISGA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Scafati",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "LU.BE. S.R.L.",
+            "Città": "Pellezzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "HAVANA S.R.L.S. UNIPERSONALE",
+            "Città": "Altofonte",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "COSMOPLAY SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Prato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ALBA SERVICE SRL",
+            "Città": "Manfredonia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GIDECA SRLS",
+            "Città": "Pozzuoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "WINNING BET S.R.L.S. UNIPERSONALE",
+            "Città": "Civitanova Marche",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "SSWORLD PLAY S.R.L.S. - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "BRELETTRA S.R.L. SEMPLIFICATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "TRUELOVE SRL",
+            "Città": "Barrafranca",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Enna"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "NASGAME S.R.L.",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MIRTO SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Bareggio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GAP S.R.L.",
+            "Città": "Arce",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "G BETTING S.R.L.",
+            "Città": "Mortara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CMOBET SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "CENTOSESSANTOTTO S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ANNIVERSARY BET S.R.L.",
+            "Città": "Rovereto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "FUNSEVEN TECNOLOGY SRLS",
+            "Città": "Taggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BMB SRL",
+            "Città": "Castel San Pietro Terme",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "AE POSTE S.R.L.",
+            "Città": "Jesolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "WORLD GAME S.R.L.",
+            "Città": "Pozzuoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "EVENTO GIOCO S.R.L",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "WINSTAR SRL UNIPERSONALE",
+            "Città": "Pistoia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "LABOH S.R.L.",
+            "Città": "Novara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GIEMME2015 SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GIOCHI \u0026 SERVIZI S.R.L.S.",
+            "Città": "Marsala",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "GIANNUZZI GIANLUIGI",
+            "Città": "Castellana Grotte",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SCOMMETTIAMO S.R.L.",
+            "Città": "Calenzano",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "TUDERBET DI MARJINEAN ANNA",
+            "Città": "Todi",
+            "Fatturato": "",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "PLAY NOW SNC DI ROMANO FABIO",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ORANGE GAME DI ANTONIAZZI ROMEO",
+            "Città": "San Vendemiano",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CATANTBET SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Castellammare di Stabia",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GOLD GAMES S.A.S DI FERRARO SALVATORE \u0026 C",
+            "Città": "Rosolini",
+            "Fatturato": "",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GAME RM BETTING SOCIETA' A RESPONSABILIA' LIMITATA SEMPLIFIC",
+            "Città": "Sestu",
+            "Fatturato": "",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "PANGEA SAS DI ARIETTI MAURO \u0026 C.",
+            "Città": "Pastrengo",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "LANZILOTTI VITTORIO",
+            "Città": "Carovigno",
+            "Fatturato": "",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ELIT - S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "AGUZBET DI MARCO AGUZZETTI",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "EMMEBI BETTING SERVICE DI BODRITO MARCO \u0026 C. S.A.S.",
+            "Città": "Acqui Terme",
+            "Fatturato": "",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "EUROBET HOLDING SRL",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "CRISTOFARO ELIANA",
+            "Città": "Ripalimosani",
+            "Fatturato": "",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "C.S. VIDEOGAMES DI MUNTEANU FLORIN MIKAEL \u0026 C. S.A.S.",
+            "Città": "Asti",
+            "Fatturato": "",
+            "Provincia": "Asti"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "NON SOLO CAFFE' S.A.S.DI FATONE NICOLA \u0026 C.",
+            "Città": "Andria",
+            "Fatturato": "",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "BM S.R.L.",
+            "Città": "Sapri",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "V.21 S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SIMONE COSENTINO",
+            "Città": "Catanzaro",
+            "Fatturato": "",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "FAVALE MICHELE",
+            "Città": "Castellaneta",
+            "Fatturato": "",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PLANETWIN 365 DI FEDERICO DI BENEDETTO",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "G\u0026G DI MUNDA EGIUSEPPE E FERRIGNO GAETANO N. SNC.",
+            "Città": "Barrafranca",
+            "Fatturato": "",
+            "Provincia": "Enna"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "XINWANG VLT DI WANG YONGNONG",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MASSARO ADELE",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MATTIODA VITTORIO",
+            "Città": "Castellamonte",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "L.G.F. GAME S.R.L.S.",
+            "Città": "Enna",
+            "Fatturato": "",
+            "Provincia": "Enna"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "IL TERZO TEMPO DI COCCO ANTONIO",
+            "Città": "Porto Torres",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SCOMMETTIAMO DI IANNI GIANLUCA",
+            "Città": "Frosinone",
+            "Fatturato": "",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "LORUSSO ANTONIETTA",
+            "Città": "Pescara",
+            "Fatturato": "",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "STELLADORO NAZARENO",
+            "Città": "Lentini",
+            "Fatturato": "",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "FORTUNA S.A.S. DI XU GUIWEI",
+            "Città": "Monfalcone",
+            "Fatturato": "",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "MOSCONI MAURIZIO",
+            "Città": "Senigallia",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MIRABET S.R.L.",
+            "Città": "Camaiore",
+            "Fatturato": "",
+            "Provincia": "Lucca"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "DURANTINI VITO",
+            "Città": "Balestrate",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "4 F S.R.L. SEMPLIFICATA",
+            "Città": "San Cesareo",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "PASOTTO CORRADO",
+            "Città": "Porte di Rendena",
+            "Fatturato": "",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "NAPOLITANO GABRIELE",
+            "Città": "San Marco in Lamis",
+            "Fatturato": "",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BIG WINNER SAS DI ZHAO SERGIO E C.",
+            "Città": "Gambettola",
+            "Fatturato": "",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "JD S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "VICODY DI URSINO VINCENZO E C. SAS",
+            "Città": "Siderno",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "SWC CUNEO SRL",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "WINNING BET DI LORUSSO F. E PAPANGELO D. S.N.C.",
+            "Città": "Altamura",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "WIN BETTER S.R.L.",
+            "Città": "Potenza",
+            "Fatturato": "",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "DI MAURO FRANCESCO",
+            "Città": "Catania",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "GUAIA GIOSUE'",
+            "Città": "Agrigento",
+            "Fatturato": "",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MARTI \u0026 DAMI SAS DI DAMIANO BONSIGNORE \u0026 C.",
+            "Città": "Capriate San Gervasio",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "AZZURRA S.A.S. DI HU YUNXIANG",
+            "Città": "Moncalieri",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "RABBENI PIETRO",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CASAMENTO GASPARE",
+            "Città": "Lugo",
+            "Fatturato": "",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "AZZARELLO MICHELE",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "RISI ANGELA",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "BASILIO SERGIO",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "MA.RE. DI MARAFANTE GIANCARLO \u0026 C. S.A.S. SIGLABILE OVE CONS",
+            "Città": "Castellazzo Bormida",
+            "Fatturato": "",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ETHAN S.A.S. DI XINXIN HUANG \u0026 C.",
+            "Città": "Trieste",
+            "Fatturato": "",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "DEBOLE ROBERTO",
+            "Città": "Belpasso",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "GALLO SANDRO",
+            "Città": "Pianopoli",
+            "Fatturato": "",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GA.MA.S.A.S. DI COLOSIMO MARTINO \u0026 C.",
+            "Città": "Novafeltria",
+            "Fatturato": "",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "MAGA ALESSANDRA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "KASHARI ELJON",
+            "Città": "Piacenza",
+            "Fatturato": "",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "GAMBA TIZIANO",
+            "Città": "Thiene",
+            "Fatturato": "",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "C.T.D. DI FAZIO CALOGERO",
+            "Città": "Sciacca",
+            "Fatturato": "",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MARTANO MICHELE",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ROYALE GAMES S.A.S. DI SHI ZHENGHUAN",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CHIERCHIA SRL A SOCIO UNICO",
+            "Città": "Torre Annunziata",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "3F STAR S.A.S. DI WANG SHI E C.",
+            "Città": "Castelnuovo Rangone",
+            "Fatturato": "",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ERMES DEM SRL",
+            "Città": "Parma",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "M GROUP DI MINOPOLI FRANCESCO SAS",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "TOMA DAVIDE",
+            "Città": "Soleto",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "A.C.S. S.N.C DI DANIELE PERAZZOLO E ANDREA GRACHISI",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "PHOENIX S.R.L.",
+            "Città": "Corciano",
+            "Fatturato": "",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "PLUS GAME SAS DI JI JINZHU \u0026 C.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "PAVAN RAFFAELLA",
+            "Città": "Jesolo",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "FERRARIS SAMANTA",
+            "Città": "Baveno",
+            "Fatturato": "",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "PLAY STOP S.A.S. DI JIN PENGZHONG \u0026 C.",
+            "Città": "Montebello della Battaglia",
+            "Fatturato": "",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GUERRA LORENZO",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "SPADAFORA GAMES DI SPADAFORA GIANNI",
+            "Città": "Luzzi",
+            "Fatturato": "",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "LA GIOIA MARCO",
+            "Città": "Taranto",
+            "Fatturato": "",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "B \u0026 T GIOCHI S.R.L.",
+            "Città": "Termoli",
+            "Fatturato": "",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PLAY CLUB DI BERARDINO PIETRO",
+            "Città": "Andria",
+            "Fatturato": "",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PERSONENI FRANCESCO",
+            "Città": "Clusone",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "LA VEGAS DI DE MASTRO GIUSEPPE",
+            "Città": "Bari",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BAR JOLLY DI MOSCHIANO GIUSEPPE \u0026 C. S.A.S.",
+            "Città": "Moschiano",
+            "Fatturato": "",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PEREZ DANIELA",
+            "Città": "Grugliasco",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "DG COMPANY DI DI GIORGIO LORENZO",
+            "Città": "Sant'Antimo",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ALL-IN SNC DI CARUSO NICOLO' \u0026 C.",
+            "Città": "Caluso",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "SERVIZI INTEGRATI SRL",
+            "Città": "Latina",
+            "Fatturato": "",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PANEBIANCO SALVATORE",
+            "Città": "Bari",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "THE KING SAS DI ZUCCALA' CLEMENTE \u0026 C.",
+            "Città": "Legnano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "TUKORY BET S.A.S. DI CALASCIBETTA FEDERICO \u0026 C.",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "SPADAFORA NEW GAMES DI SPADAFORA ANNALISA",
+            "Città": "Luzzi",
+            "Fatturato": "",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PAINO SALVATORE",
+            "Città": "Termini Imerese",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CYBER BET DI ZAPPIA OSVALDO",
+            "Città": "Villa San Giovanni",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "VENANZUOLA EDOARDO",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GAMES STAR S.A.S. DI ZHU GUOFANG E C.",
+            "Città": "Cremona",
+            "Fatturato": "",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CURIONE FILIPPO",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CARCHEDI ALESSANDRO",
+            "Città": "Frascati",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "D'ANGELO GROUP S.R.L.",
+            "Città": "Capua",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SACCARDO DANIELA",
+            "Città": "Verona",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "GRIMALDI FELICE",
+            "Città": "Montoro",
+            "Fatturato": "",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "NOVA NET SRLS",
+            "Città": "Avola",
+            "Fatturato": "",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MASTROVITO MICHELE",
+            "Città": "Martina Franca",
+            "Fatturato": "",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "F.D.V. S.A.S. DI CAZZORLA DAVIDE \u0026 C.",
+            "Città": "Monopoli",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "LUNA GIOCHI SERVICE DI ANGRISANO FLAVIO",
+            "Città": "Altopascio",
+            "Fatturato": "",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "EDIL SIDER FERRAMENTA F.Z DI ZIMBALATTI PIERLUIGI",
+            "Città": "Siderno",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "QI CLUBBING DI RUSSELLO CHIARA",
+            "Città": "Grotte",
+            "Fatturato": "",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "BOWLING CLUB DI MOTTA PATRICK \u0026 C. S.A.S.",
+            "Città": "Savignano sul Panaro",
+            "Fatturato": "",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "RE MIDA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Terrasini",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "LUDABET - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "MACAO S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "KING BET SRL",
+            "Città": "Napoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "MAXIMA S.P.A.",
+            "Città": "Bussolengo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BPG S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "RETE GIOCO ITALIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "E-PLAY24 ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "F.LLI ZHENG SRL",
+            "Città": "Carpi",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "MOROSINI SLOT SRL",
+            "Città": "Varese",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "F.LLI SIMONE S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "GIOCHI24 S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "ITALIANA BINGO SRL",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "L.L.GIOCHI S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "EASY BET S.R.L.",
+            "Città": "San Vendemiano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "DONDOLINO S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "ROYAL VLT SRL",
+            "Città": "Padova",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "EURONISSA GIOCHI SRL",
+            "Città": "Caltanissetta",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "GAME PARADISE SRL",
+            "Città": "Albino",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "TIME BETTER S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "OXFORD SRL",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "JOKA SRL",
+            "Città": "Varese",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "SPATI S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "GMG SERVICE S.R.L.",
+            "Città": "Ancona",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "QUALITY NETWORK SRL",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "EUROGELA GIOCHI S.R.L.",
+            "Città": "Gela",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "PLAY SUD S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "FRANCESCHINI GIOVANNI ANDREA",
+            "Città": "Olbia",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "L'ANGOLO DELLA FORTUNA DI AGLIANO VIVIANA",
+            "Città": "Portici",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "RISING SNC",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "HU TINGTING",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "RONCHETTI ANDREA",
+            "Città": "Seriate",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MIRKO \u0026 STEFANO 365 SNC DI MIRKO TOCCHINI E STEFANO DI STEFA",
+            "Città": "Lucca",
+            "Fatturato": "",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MADMAT SNC DI MADONNINI CLAUDIO E MATTEO FRIGERIO",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "ZAULI ARRIGO",
+            "Città": "Azzano San Paolo",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "B.E.A. SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Imola",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "SE.MI.BET SNC DI SEBASTIANO MANCIAGLI E",
+            "Città": "Linguaglossa",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GIBA DI GIANNETTA ERNESTO \u0026 C. S.A.S.",
+            "Città": "Prato",
+            "Fatturato": "",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "REWIND DI VIARENGO ANDREA",
+            "Città": "La Loggia",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "C. \u0026 L. S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "DOPPIA CHANCE DI F. GAZZARRINI E M. LAZZERINI S.N.C.",
+            "Città": "Campi Bisenzio",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "QUIGIOCO BRESCIA 2 DI HALILI VALTER",
+            "Città": "Brescia",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "FAILLA EMANUELE",
+            "Città": "Siracusa",
+            "Fatturato": "",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BREAK POINT S.A.S. DI DI FIORE RAFFAELE \u0026 C.",
+            "Città": "Bari",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SOFTWARE WIN DI RUSSO GIADA",
+            "Città": "Carini",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "RECA GIUSEPPE",
+            "Città": "Offanengo",
+            "Fatturato": "",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "XU ZHONGLIANG",
+            "Città": "Pietrasanta",
+            "Fatturato": "",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MAGGIORE SARAH",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "MARTINO 2000 DI ORIGGI CLAUDIO",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "TED DI TOMA DAVIDE \u0026 C. S.A.S.",
+            "Città": "Lecce",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MICHY DI BOCCIA MICHELE",
+            "Città": "Montone",
+            "Fatturato": "",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "GAMING HALL SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Licata",
+            "Fatturato": "",
+            "Provincia": "Agrigento"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "PELLEGRINO GRAZIA MARIA",
+            "Città": "Ramacca",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MBC NEWCO S.R.L.",
+            "Città": "Grottaferrata",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SOFT 365 - SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "La Spezia",
+            "Fatturato": "",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "C\u0026R GAMES S.R.L.",
+            "Città": "Aversa",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SAVOCA FIORENZA VANESSA",
+            "Città": "Ficarazzi",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "AMERICAN SLOT S.A.S. DI CHICCO GABRIELLA",
+            "Città": "Parma",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "HU ZHENSHENG",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "SERVICE GAMES CAORLE S.N.C. DI LO MASSARO ANTONIO \u0026 C.",
+            "Città": "Caorle",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "DE PE SPORT SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Quartu Sant'Elena",
+            "Fatturato": "",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "BAR BIVIO DI HU LIHUAN S.A.S.",
+            "Città": "San Paolo d'Argon",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "REAL GAME DI VOLLERO NATASCIA",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BET GIOCHI DI FUCCI ANIELLO",
+            "Città": "Saviano",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ALBA74 SRL",
+            "Città": "Follonica",
+            "Fatturato": "",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "IL DOLLARO DI CHEN YULAI \u0026 C. S.A.S.",
+            "Città": "Costa Masnaga",
+            "Fatturato": "",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "WAVE SAS DI CAO CE",
+            "Città": "Verona",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MACAO PHYGITAL S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CUSCITO CARLO ANTONIO",
+            "Città": "Gioia del Colle",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "3S S.R.L. SEMPLIFICATA",
+            "Città": "Velletri",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "LAKE'S GAMES DI ORTELLI GUIDO \u0026 C. S.N.C.",
+            "Città": "Gravedona ed Uniti",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "REBAR CAFE' DI RESTELLI CORRADO",
+            "Città": "Santo Stefano Ticino",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "LUDUS S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "NUMBER ONE ALPIGNANO SRL",
+            "Città": "Alpignano",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ERRICHIELLO MARIANGELA",
+            "Città": "Roccarainola",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "LUNABET SNC SANTINI E PETTINARI",
+            "Città": "Ancona",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CARDILLO ANTONELLA",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BARRAVECCHIA VINCENZO",
+            "Città": "Vittoria",
+            "Fatturato": "",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BIG HOPE SAS DI ROMANO MARIO R OSARIO",
+            "Città": "Qualiano",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "M.A. DI PINTUS ATTILIO",
+            "Città": "Rivalta di Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "AVOLIO ROBERTO",
+            "Città": "Sant'Antimo",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "OVER THE GAME SRLS",
+            "Città": "Guidonia Montecelio",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "VERZOLETTO MASSIMO",
+            "Città": "Cossato",
+            "Fatturato": "",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "TEODORO PARADISO",
+            "Città": "Matera",
+            "Fatturato": "",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "TABACCHERIA DEL CORSO DI SANELLA GIORGIO",
+            "Città": "Pandino",
+            "Fatturato": "",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "LE FUMANTINE DI LAMONACA SILVANA",
+            "Città": "Stignano",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SCICCHITANO FEDERICA",
+            "Città": "Botricello",
+            "Fatturato": "",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "OLIVIERI DIEGO",
+            "Città": "Rescaldina",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CIALDA365 DI CIALDINI SIMONE",
+            "Città": "Pescara",
+            "Fatturato": "",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BET AND WIN DI CASSARINO GIUSEPPE",
+            "Città": "Comiso",
+            "Fatturato": "",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "SHOT GAME S.A.S. DI PAVELSON JEKATERINA \u0026 C.",
+            "Città": "Tolentino",
+            "Fatturato": "",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "VILLA OTTAVIO",
+            "Città": "Agrigento",
+            "Fatturato": "",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BOLDRIGHINI IVAN",
+            "Città": "Riano",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "CASTELLINO M.CONCETTA",
+            "Città": "Quartu Sant'Elena",
+            "Fatturato": "",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "FORTUNA SNC DI D. SGOBBA \u0026 A. PENTA VINCI",
+            "Città": "Polignano a Mare",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GIOCOVENTUNO SAS DI VANESSA BACCHINUCCI E C.",
+            "Città": "La Spezia",
+            "Fatturato": "",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "FARFY GAMES S.R.L.",
+            "Città": "Battipaglia",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MARTORANA CARMELO",
+            "Città": "Ficarazzi",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "FAMILY BET SRLS",
+            "Città": "Lugo",
+            "Fatturato": "",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "DE BENEDETTO CAMILLO",
+            "Città": "Uggiano la Chiesa",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "HAPPY HOUR S.R.L.",
+            "Città": "Gorizia",
+            "Fatturato": "",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "PALLAVICINO ALFREDO",
+            "Città": "Bologna",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ALE \u0026 SIMO SNC DI FORNACIARI ALESSIO E VANNUCCI SIMONE",
+            "Città": "Viareggio",
+            "Fatturato": "",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "POWER PLAY SAS DI FRANCO MATTERA",
+            "Città": "Serrara Fontana",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CUSIMANO FRANCESCO",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "GAMES STAR SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Cremona",
+            "Fatturato": "",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BETTING DA.MA.DA. S.A.S. DI DEMIN MANUELA \u0026 C.",
+            "Città": "Terracina",
+            "Fatturato": "",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "IMPERIALSLOT SRL",
+            "Città": "Campolongo Maggiore",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "BIANCHI MARIO",
+            "Città": "Origgio",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "RAGONE VITO",
+            "Città": "Bari",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SCAPATI ROSA",
+            "Città": "Taranto",
+            "Fatturato": "",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "BAR MODERNO DI WANG CAIXIA",
+            "Città": "Cabiate",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "JONIK BET DI DE LUCA GIOVANNI",
+            "Città": "Lamezia Terme",
+            "Fatturato": "",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "NICE HAND DI SCIVOLI FABRIZIO E C. S.A.S.",
+            "Città": "Scicli",
+            "Fatturato": "",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "RUOCCO FRANCESCO",
+            "Città": "Gragnano",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "FORTUNA GIOCHI SAS DI YU SUIFANG \u0026 C.",
+            "Città": "Trecate",
+            "Fatturato": "",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CANNELLA MICHAEL",
+            "Città": "Trino",
+            "Fatturato": "",
+            "Provincia": "Vercelli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "QUACQUARINI PAOLO",
+            "Città": "Montefiascone",
+            "Fatturato": "",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ALAIS SAS DI ZITOLO MICHELE",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SESTERZIO SNC",
+            "Città": "Marano Vicentino",
+            "Fatturato": "",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "NUOVA CA.MI DI GRAZIOLI STEFANO \u0026 LOQA HASANE S.N.C.",
+            "Città": "Novara",
+            "Fatturato": "",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "F \u0026 M BETTING SAS DI SOCCI MARCO \u0026 C.",
+            "Città": "Livorno",
+            "Fatturato": "",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "EASY WIN SAS DI DI SARRA ARISTIDE E C.",
+            "Città": "Fondi",
+            "Fatturato": "",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MAURO DERIU",
+            "Città": "Villasor",
+            "Fatturato": "",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "S M DI SIMONA CERUTTI",
+            "Città": "Parella",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "FRA.DE.FRA DI CARELLA FRANCESCO S.A.S.",
+            "Città": "Adelfia",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "CORI GAMES DI BRUNDU QUIRICO SAS",
+            "Città": "Busalla",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "KRUGER S.A.S. DI ENRICO PALLOTTI E C.",
+            "Città": "Perugia",
+            "Fatturato": "",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MICRI DI BRUNO MICHELE",
+            "Città": "Barlassina",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "LARUFFA DAVID",
+            "Città": "Gioia Tauro",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "S.T.A.G. SAS DI LOI TERESA \u0026 C.",
+            "Città": "Tempio Pausania",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "GENTILI MARCELLO",
+            "Città": "Civitanova Marche",
+            "Fatturato": "",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "VANY MARKET DI FONDI DANILO E FRATELLI SAS",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ZHUK ZHANNA",
+            "Città": "Rosignano Marittimo",
+            "Fatturato": "",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "VENICE DI HONG QIANQIAN \u0026 C. S.A.S.",
+            "Città": "San Giovanni Lupatoto",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "SALVEMINI ALESSIO",
+            "Città": "Novi Velia",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "DI PIERRO GIUSEPPE NICOLA",
+            "Città": "Muravera",
+            "Fatturato": "",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CODAZZA ANDREA",
+            "Città": "Corbetta",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "FORTUNA GOLD S.A.S. DI ZHOU LIJUN \u0026 C.",
+            "Città": "Fino Mornasco",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GALASSO GIUSEPPE",
+            "Città": "Rivalta di Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GOLDPLAY S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "LOMBARDI SAS DI LOMBARDI ORAZIO \u0026 C.",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "TOTORICEVITORIA DI FERLA FABRIZIO",
+            "Città": "Palazzolo Acreide",
+            "Fatturato": "",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "MESTRE GAMES DI PARASCHIV CRISTINA",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CO. MAC. 1720 SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICA",
+            "Città": "Avola",
+            "Fatturato": "",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "TONZIELLO ANTONIO",
+            "Città": "Villa Literno",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "L'ANGOLO DELLA FORTUNA E DELLE DELIZIE DI BONAZZETTI STEFANO",
+            "Città": "Soresina",
+            "Fatturato": "",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "ANNUNZIATA ANTONIO",
+            "Città": "Teramo",
+            "Fatturato": "",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "LUXURY GAMES S.R.L.",
+            "Città": "San Giovanni la Punta",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.00.00",
+            "Azienda": "FIORE SRL",
+            "Città": "Vertemate con Minoprio",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "GIOCHI FUMAROLO S.R.L.",
+            "Città": "Casalnuovo di Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "PLAY \u0026 PLAY SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "San Sebastiano al Vesuvio",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "GAMES SLOT SRL",
+            "Città": "San Salvo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GOING ON SRL",
+            "Città": "Mariano Comense",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "MATRIX CASINO' S.R.L.",
+            "Città": "Casarano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "DANFED S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "UNION GIOCHI S.R.L.",
+            "Città": "Quarto d'Altino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "SLOT SHOW S.R.L.",
+            "Città": "Viareggio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "PANSERVICE SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "IMPERIAL SLOT S.R.L.",
+            "Città": "Melito di Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "M.C. SERVICE SOCIETA' A RESPONSABILITA LIMITATA SEMPLIFICATA",
+            "Città": "Nocera Superiore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MAC S.R.L.",
+            "Città": "Sant'Agata sul Santerno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "MM GAMES MESTRE S.R.L.",
+            "Città": "Treviso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "TESTA GAMES S.R.L.",
+            "Città": "Pozzuoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "TARGET WORK S.R.L.",
+            "Città": "Gioia del Colle",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "SESTOBET S.R.L. SOCIETA' UNIPERSONALE",
+            "Città": "Sesto Fiorentino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "H.ELLE S.R.L.",
+            "Città": "Palazzolo sull'Oglio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "G7 SRL",
+            "Città": "Porto San Giorgio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Fermo"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "HAPPY GAMES SRL",
+            "Città": "Busto Arsizio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "A.C.M. GIOCHI S.R.L.",
+            "Città": "Pietra Ligure",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "D.P.L. GROUP S.R.L.",
+            "Città": "San Giovanni la Punta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "BETTING SHOP SRL",
+            "Città": "Porto Tolle",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "CINQUEMILAUNO S.R.L.",
+            "Città": "San Vendemiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "CABE S.R.L",
+            "Città": "Civitanova Marche",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "LOGOS SRLS",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "GIMA SRL",
+            "Città": "Laviano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GENIUS S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "DUE EMME S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "AGIBET SRLS",
+            "Città": "Martina Franca",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BIN. BIN. - S.R.L.",
+            "Città": "La Spezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "R.G.A. SRL",
+            "Città": "Grumello del Monte",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "GAME SERVICE GROUP S.R.L.",
+            "Città": "Marostica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BNA GAMING SRL",
+            "Città": "Arezzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "GSI GAMES S.R.L.",
+            "Città": "Montesilvano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "CENTRO CASA S.R.L.",
+            "Città": "Ruoti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "BINGO DOLOMITI SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "PLANET HOLDING S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "MGROUP S.R.L.",
+            "Città": "Aosta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Aosta"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "NUOVA IMMOBILIARE MARCIANA S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GLG SRL",
+            "Città": "Rozzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "S.W.C. SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "AKERY BAR SRL",
+            "Città": "Acerra",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ECORYS S.R.L.",
+            "Città": "Castel di Iudica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "ABBACO S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "MARTIN S.R.L.S.",
+            "Città": "Spinetoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "92.00.01",
+            "Azienda": "M \u0026 A SYSTEM DI ALESSANDRO BIAGIONI S.N.C.",
+            "Città": "Agliana",
+            "Fatturato": "",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "92.00.09",
+            "Azienda": "GAMPI DI GUBELLINI STEFANO",
+            "Città": "San Giovanni in Persiceto",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "92.00.02",
+            "Azienda": "BET GAMES DI GE CHANG",
+            "Città": "Collecchio",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "NINEANDNINE S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BINGOBRESCIA SRL",
+            "Città": "Roncadelle",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "VOGHERA BETTING S.R.L.",
+            "Città": "Voghera",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "ALLINBET SRL",
+            "Città": "Avezzano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "INVESTMENT S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "AMERICAN BINGO S.R.L.",
+            "Città": "Scafati",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "VENETIAN UNIPERSONALE SRL",
+            "Città": "",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "KURSAAL SRL",
+            "Città": "Palermo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "PLANET GAME S.R.L.",
+            "Città": "Maglie",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "HGL SRL",
+            "Città": "Rho",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "TOTOPARTNERS S.R.L.",
+            "Città": "Gavirate",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "CITY S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "MB S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "PALA BINGO SRL",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "EDERA S.R.L.",
+            "Città": "Como",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BINGO GLOBO S.R.L. UNIPERSONALE",
+            "Città": "Modena",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BI.PA S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "CINQUE STELLE S.R.L.",
+            "Città": "Urgnano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "FORTALEZA - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "FERRERO E TOPPINO SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "MAYA S.A.S. DI ZHOU SHAOPENG \u0026 C.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "ROMULUS S.R.L.",
+            "Città": "Udine",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "FIGLI DELLE STELLE S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "LADYBET S.R.L.",
+            "Città": "Racale",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BINGO BALDO S.R.L.",
+            "Città": "Cortemaggiore",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Piacenza"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "TESTA SLOT SRL IN SCIOGLIMENTO",
+            "Città": "Pozzuoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "GESTIONE ATTIVITA' RICREATIVE ED AFFINI S.R.L. O IN FORMA AB",
+            "Città": "Bergamo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "GSE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "ITALGIOCHI SERVICE SRL",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "JACKPOT GAMES S.R.L.",
+            "Città": "Aragona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "VICENZA SCOMMESSE S.R.L.",
+            "Città": "Vicenza",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "B-UNIQ SRL",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "MACAO PALACE SRL",
+            "Città": "Bologna",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BINGO GALLURA S.R.L.",
+            "Città": "Olbia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "92.01.00",
+            "Azienda": "SCOMMETTIAMO CHE! SRL - SOCIO UNICO -",
+            "Città": "Osnago",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "GLOBAL PLAYER SRL",
+            "Città": "Bussolengo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "AC WORLD SRL",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "FM GROUPS S.R.L.S.",
+            "Città": "Caltanissetta",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "LANDRO GAMES S.R.L.",
+            "Città": "",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "TIME SERVICE S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "EASY BET SERVICE S.R.L.",
+            "Città": "San Vendemiano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "SUN SRL",
+            "Città": "Taranto",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "SAULI GAMES S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "HAIEL GAMES - S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "LAS SRL",
+            "Città": "Rottofreno",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "DACMATIC SLOT S.R.L.",
+            "Città": "Frattamaggiore",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "168 ITALIA GIOCHI S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BE S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "AGENZIA IPPICA CASTELLO SRL",
+            "Città": "Lodi",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lodi"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BERIBE' CLAUDIO \u0026 C. S.R.L.",
+            "Città": "Gualdo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Macerata"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "FUNSEVEN BIKES SRL",
+            "Città": "Taggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BINGO SO.LE SRL",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "RIBOT SRL",
+            "Città": "Bari",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "CORAL S.R.L.",
+            "Città": "Torrenova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "BRESCIANA VIDEOGIOCHI SRL",
+            "Città": "Calcinato",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "GET BET S.R.L.",
+            "Città": "Faenza",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "92.00.00",
+            "Azienda": "BELLS \u0026 FRUITS S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "17 S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BINGO DORO S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "GEST.GIO S.R.L.",
+            "Città": "Albino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "LEO BET SRL",
+            "Città": "Marostica",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "AGENZIA IPPICA DI MATALONI NICOLA E C. S.R.L. IN LIQUIDAZION",
+            "Città": "Rimini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BINGO CENTRUM SRL",
+            "Città": "Giarre",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "SETTE S.R.L.",
+            "Città": "Prato",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "SICUR GAME SRL",
+            "Città": "Carnate",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "RED SLOT SRL",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "MASTERPLAY S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "SERVICE PROVIDER SRL",
+            "Città": "Varese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "GIOCONDABET SRL",
+            "Città": "Ancona",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "ALICE SETTE S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BINGO SERVICE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "JACKPOTCITY S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "BIROFF S.R.L",
+            "Città": "Viterbo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "TECNOMAT LIGURIA SRL",
+            "Città": "Genova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BIG GAMING S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "IMPERIAL GAME S.R.L.",
+            "Città": "Angri",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "EDEN SRL",
+            "Città": "Brindisi",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "FULL GAME S.R.L.",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "BELLAGIO S.R.L.",
+            "Città": "Treviso",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "CASH GAMES S.R.L.",
+            "Città": "Vasto",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "STUDIO ARESE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "CA.DA S.R.L.",
+            "Città": "Campagna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "SAULI S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "GAMBA GIOCHI SRL SOCIETA' UNIPERSONALE",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "MAU'S S.R.L.",
+            "Città": "Mantova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "NOVA SERVICE SRL",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "GIAMBA BET S.R.L.",
+            "Città": "Mantova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "WORLD'S GAME - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "GIOCHI GALLIANO SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "JACKY SPORT S.R.L.",
+            "Città": "Marsala",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "JOKER S.R.L.",
+            "Città": "Vasto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "LOMA 365 - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Rieti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rieti"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BET 33 S.R.L.",
+            "Città": "Maglie",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "STAR GAMES SRL",
+            "Città": "Itri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "MAGIC SLOT FORTUNA SRL",
+            "Città": "Pistoia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "RP GAMES S.R.L.",
+            "Città": "Galatina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "TIMENOW S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "IAVARONE SCOMMESSE SRL",
+            "Città": "Monte di Procida",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "SAN REMO TRADING S.R.L.",
+            "Città": "Sanremo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "K.G. S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "IRIS S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "PROJEKT SERVICE S.R.L.",
+            "Città": "Battipaglia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "FRANK2020 S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "EVA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "PALACE GAME SRL",
+            "Città": "Calenzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "TALOS SRL",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "JACKPOT777 SRLS",
+            "Città": "Campobasso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "BINGO SEVEN MONZA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "MILANO GIOCHI S.R.L.",
+            "Città": "Stezzano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "WINPALACE COMO S.R.L.",
+            "Città": "Como",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "MONDO BINGO S.R.L.",
+            "Città": "Alba",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "DIAMANTE GIOCHI - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Baronissi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "PMG S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "FIRSTBET S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "MAGIC GAME SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "MONDO BINGO S.R.L.",
+            "Città": "Agrigento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "BUFALINA SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "VIVENDI SRL",
+            "Città": "Soliera",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "TRIGAMES SRL UNIPERSONALE",
+            "Città": "Pescate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "S.P. S.R.L.",
+            "Città": "Cellatica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "SERENA SRL",
+            "Città": "Albino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "DATASPACE SRLS",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "TRICA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Milazzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "A.D. S.R.L.S.",
+            "Città": "Novara",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "FELEMA S.R.L.",
+            "Città": "Bellizzi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        }
+    ],
+    [
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "INSERVICE SRL UNIPERSONALE",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "E.GAMES SRL A SOCIO UNICO",
+            "Città": "Giarre",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "RR BET S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "PIEMME SRL",
+            "Città": "Fermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Fermo"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "INTERACTIVE GAMES S.R.L.",
+            "Città": "Porcia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "BIANCHI SRL A SOCIO UNICO",
+            "Città": "Varese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "SKY SLOT SRL",
+            "Città": "Elmas",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "HOUSE OF THE GAME SRL",
+            "Città": "Scafa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "ROSANT BET S.R.L.",
+            "Città": "Casoria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "SLOT RENT S.R.L..",
+            "Città": "Chiavari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "SLOTITALY S.R.L.",
+            "Città": "Gela",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "MEDUSA S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "DORA S.R.L.",
+            "Città": "Cuneo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "PORPORA SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "BALL MATIC SRL",
+            "Città": "Avellino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "GAMBLING-TECH SRL",
+            "Città": "Udine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "QUASAR SRL",
+            "Città": "Modena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "LA SCOMMESSA S.R.L.",
+            "Città": "Siderno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "SEABISCUIT SRL",
+            "Città": "Avezzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "PLAY LINE SRL",
+            "Città": "Sassari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "AN.VI.TEC. S.R.L.",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "FALUAR SRL SEMPLIFICATA",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "ATLANTIC CITY SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "92.09.00",
+            "Azienda": "A \u0026 P S.R.L.",
+            "Città": "Pescara",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "92.02.00",
+            "Azienda": "GEP S.R.L.",
+            "Città": "Flero",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        }
+    ]
+]

@@ -1,0 +1,4222 @@
+[
+    [
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "GOLFO PARADISO SRL",
+            "Città": "Camogli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CONSORZIO SERVIZIO MARITTIMO DEL TIGULLIO",
+            "Città": "Santa Margherita Ligure",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "PORTOFINO 82 S.R.L. !!SRL",
+            "Città": "Santa Margherita Ligure",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "NAVIGAZIONE LAGO D'ISEO SRL",
+            "Città": "Costa Volpino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "MOTONAVI ANDES NEGRINI SOC. COOP.",
+            "Città": "Mantova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "DEI ROSSI SERVIZI E TRASPORTI LAGUNARI S.R.L.",
+            "Città": "Cavallino-Treporti",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "F.LLI BOSCOLO BEGIO S.R.L.",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "NOORD SOCIETA' COOPERATIVA",
+            "Città": "Vicenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "RIGHETTI NAVI S.R.L.",
+            "Città": "Cesenatico",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "SECOMAR S.P.A.",
+            "Città": "Ravenna",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BAMBINI S.P.A.",
+            "Città": "Ravenna",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MAREGIGLIO DI NAVIGAZIONE SOC.R.L.",
+            "Città": "Isola del Giglio",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "TOREMAR SPA",
+            "Città": "Livorno",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "FRATELLI NERI S.P.A.",
+            "Città": "Livorno",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BN DI NAVIGAZIONE SPA",
+            "Città": "Portoferraio",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "TRAGHETTATORI RIVIERA DEL CONERO S.R.L.",
+            "Città": "Numana",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "COOPERATIVA BARCAIOLI PONZESI",
+            "Città": "Ponza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "S.N.A.P. SRL",
+            "Città": "Terracina",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "VETOR S.R.L.",
+            "Città": "Anzio",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "GUIDOTTI SHIPS S.R.L.",
+            "Città": "Termoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "VIPIMA - SOCIETA' DI NAVIGAZIONE S.P.A.",
+            "Città": "Bacoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "LASER CAPRI SRL - SOC DI NAVIGAZ",
+            "Città": "Capri",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MOTOSCAFISTI DI CAPRI SOC. COOP.",
+            "Città": "Capri",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "GESTOUR S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SOCIETA' COOP. MARINA DELLA LOBRA",
+            "Città": "Sorrento",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "LAGUNA TRASPORTI E SERVIZI DHL SRL",
+            "Città": "Venezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "SERVICE MARINE S.R.L.",
+            "Città": "Pisa",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "SIDER NAVI S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "CAFIMAR SERVIZI MARITTIMI SPA",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "ATHENA SRL",
+            "Città": "Livorno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "ALICE COMPAGNIA DI NAVIGAZIONE SRL",
+            "Città": "Venezia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "CIAPPINI TRASPORTI MARITTIMI S.R.L.",
+            "Città": "Ravenna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "SEA COMMANDER SRL",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "NEWCO LOGISTIC SRL",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "MECSHIP SPA",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "MARVI SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "ESERCIZIO CISTERNE SRL I N LI Q U I D A Z I O N E",
+            "Città": "Livorno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "HERCULES SHIPPING COMPANY S.R.L.",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "MAK OFF-SHORE S.P.A.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "NORMA REOCO SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "NA.CA. S.R.L. - I N L I Q U I D A Z I O N E",
+            "Città": "Livorno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "COMO CLASSIC BOATS SRL",
+            "Città": "Como",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "RAFFAELLO NAVIGAZIONE S.R.L.",
+            "Città": "Chioggia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "CONSORZIO MOTOSCAFISTI SIRMIONE SOCIETA' CONSORTILE A RESPON",
+            "Città": "Sirmione",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "VENICE LIMOUSINE SERVICE SOC. COOPERATIVA",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "TASELL S.R.L.",
+            "Città": "Como",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "IL BURCHIELLO S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "VENEZIA LINEE S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "TAXI BOAT VARENNA S.R.L.",
+            "Città": "Como",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "BRUNO SRL",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "ROSPO S.R.L.",
+            "Città": "Bellagio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "L'ALTRO TEVERE - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "REALISING S.R.L.S",
+            "Città": "Valmadrera",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "IL SESTANTE DI VENEZIA SOCIETA' COOPERATIVA",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "IL PORTO SRL",
+            "Città": "Cavallino-Treporti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "CONSORZIO INTERLAGHI: NAVIGAZIONE ISOLE BORROMEE LAGO MAGGIO",
+            "Città": "Stresa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "IN.ADDA SRL",
+            "Città": "Garlate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "LA LAGUNARE SRL",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "BELLEMO MARIO SRL",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "CANTIERE NAVALE DE POLI SHIPPING S.R.L.",
+            "Città": "Cavallino-Treporti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "NAVIGAZIONE LAGO D'ORTA SRL A SOCIO UNICO",
+            "Città": "Omegna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "LECCO BOATS S.R.L.",
+            "Città": "Cremona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "NAVIGAZIONE INTERNA S.R.L.",
+            "Città": "Cremona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "NAVIGAMI S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "LAGO DI GARDA SAILING LINE S.R.L.-G.M.B.H.",
+            "Città": "Garda",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "MA.RI.MAR S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "SACI SRL",
+            "Città": "Treviso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "MARIVE GT SRLS",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "PROSIT S.R.L.",
+            "Città": "Verbania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "EGIRENT SRL",
+            "Città": "Desio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "MARES TRASPORTI SRL",
+            "Città": "Venezia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "LONGO TRASPORTI SRL",
+            "Città": "Venezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "TOBIA S.R.L.",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "CARONTE SHIPPING S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "BARICH IRA - TRASPORTI LAGUNARI SRL",
+            "Città": "Marcon",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "TL TRASPORTI SRLS",
+            "Città": "Treviso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "C.D. SERVIZI SRL",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "CROISIEUROPE ITALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "T-BULK (ITALY) S.R.L.",
+            "Città": "Carrara",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "ACTV S.P.A.",
+            "Città": "Venezia",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "WECO ITALIA SRL",
+            "Città": "Genova",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "PREFIN S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "FINAV ITALY 3 SRL",
+            "Città": "Genova",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "MED OFFSHORE SPA",
+            "Città": "Napoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "D'AMICO SHIP MANAGEMENT S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "CONSORZIO MOTOSCAFI VENEZIA",
+            "Città": "Venezia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "NAVIGAZIONE GOLFO DEI POETI - S.C.R.L.",
+            "Città": "La Spezia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "VENEZIA TURISMO - SOCIETA' CONSORTILE A R.L.",
+            "Città": "Venezia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "VANGUARD LOGISTICS SERVICES (ITALY) S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "GRIMALDI HOLDING SPA",
+            "Città": "Palermo",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ITALY CRUISE INVESTMENT S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CARTOUR SRL",
+            "Città": "Messina",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "FINAV ITALY 1 S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "EUROMONT SHIPPING COMPANY S.P.A.",
+            "Città": "Fano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "SYNERGAS SRL CON SOCIO UNICO",
+            "Città": "Napoli",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SNAV S.P.A.",
+            "Città": "Napoli",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "CONSORZIO VWT",
+            "Città": "Venezia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "TORMARE SRL",
+            "Città": "Monte di Procida",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "SFIM INVESTIMENTI SPA",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SORRENTO LUXURY S.R.L.",
+            "Città": "Sorrento",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "AMALFI SAILS S.R.L.",
+            "Città": "Minori",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "CONSORZIO VENEZIA FUTURA",
+            "Città": "Venezia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "DUCALE SRL",
+            "Città": "Venezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "VENEZIA 1937 - SRL",
+            "Città": "Venezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "JOSEPH LUISE \u0026 SONS SRL",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "MORO MASSIMILIANO TRASPORTI S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CAPRI BOAT SERVICE S.R.L.",
+            "Città": "Anacapri",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "TORRE LINES S.R.L.",
+            "Città": "Favignana",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "CRISTIANO BRUSSA TRASPORTI SRL",
+            "Città": "Venezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "VELARE SRL",
+            "Città": "Olbia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MAVA SRLS",
+            "Città": "Lipari",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "PRASLIN SRL",
+            "Città": "Monte di Procida",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "TRA.ME.VE. S.C.R.L. COOP.TRASP.MERCI.VE",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "RIMORCHIATORI OFF SHORE SPA",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CONSORZIO LIGURIA VIA MARE",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "AMITRANO RENT \u0026 CHARTER S.R.L.",
+            "Città": "Torre Annunziata",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "CONSORZIO MOTOSCAFISTI SUMMER BOATS",
+            "Città": "Baveno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "PORTA D'ORIENTE S.R.L.",
+            "Città": "Castrignano del Capo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "DREAMS BEACH TOUR SOCIETA' A RESPONSABILITA' LIMITATA SEMPLI",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BLURIDE SURL",
+            "Città": "Capri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "VELOG SRL",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "AM LUXURY SRL A SOCIO UNICO",
+            "Città": "Colle di Val d'Elsa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "QUALITY LIFE SRL A SOCIO UNICO",
+            "Città": "Rapallo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BF CHARTER SRL",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "GALATEA SRLS",
+            "Città": "San Nicola Arcella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SORRENTO SERENITY CHARTER SRL",
+            "Città": "Sorrento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ZAMUNER PONTE DI BARCHE S.R.L.",
+            "Città": "Noventa di Piave",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "BLU MARINE SRL",
+            "Città": "Monte di Procida",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CHIMERA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "POPOLO GIALLO SOCIETA' COOPERATIVA",
+            "Città": "Lipari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "NAVIGAZIONE SALAMONE NAVI.SAL SRL",
+            "Città": "Milazzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "FAMILY SEA S.R.L.",
+            "Città": "La Maddalena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MABY MARE SRL",
+            "Città": "Villasimius",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "EGADI NAVIGAZIONE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLI",
+            "Città": "San Vito Lo Capo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "SPECTRA YACHT SRLS",
+            "Città": "Arzachena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "EMAC TRASPORTI LAGUNARI S.R.L.",
+            "Città": "Pianiga",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "LUMA CHARTER SRL",
+            "Città": "Praiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ESCURSIONI SOFIA SRLS",
+            "Città": "Polignano a Mare",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ZG YACHT MANAGEMENT SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "DI. AR. MARITIME S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "RUNAWAY S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "IL TIMONE SOCIETA' COOPERATIVA",
+            "Città": "Amalfi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SUD ADRIATICO NAVIGAZIONI S.R.L. SEMPLIFICATA",
+            "Città": "Monopoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "BELLANO WATER TAXI S.R.L. SEMPLIFICATA",
+            "Città": "Perledo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "AIRONE S.R.L.",
+            "Città": "Piano di Sorrento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ADVANCED YACHTS CHARTER AND BROKERAGE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "EOLIANA SOCIETA' COOPERATIVA",
+            "Città": "Lipari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "PAOLO MASELLA SRL",
+            "Città": "Vezzano Ligure",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "NAVIGARE L'ADDA",
+            "Città": "Pizzighettone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ANTARES SRLS",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "WHY NOT SEA BOAT SRL",
+            "Città": "Castellammare di Stabia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "VZ CHARTER SRL",
+            "Città": "Castellammare di Stabia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "VERAMANT SHIPPING SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "SOCIETA' NAVIGAZIONE DEI LAGHI SRL",
+            "Città": "Serramanna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "ALIMAR SRL",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SKY \u0026 SEA ISCHIA S.R.L.",
+            "Città": "Forio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ASINARA FUN S.R.L.S",
+            "Città": "Porto Torres",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ENEA SERVICE S.R.L.",
+            "Città": "Tavernola Bergamasca",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ADRIATICA CLUB CHARTER SRL",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MAPIDA SRL",
+            "Città": "Sant'Antimo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "AMALFI BOAT TOUR S.R.L.",
+            "Città": "Maiori",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "LIFE IN VOGUE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ROYAL BOAT CHARTER S.R.L.",
+            "Città": "Piano di Sorrento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "ALFRA CHARTERING \u0026 SHIPPING SRL",
+            "Città": "Savona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "COBLUX SOCIETA' A RESPONSABLITA' LIMITATA",
+            "Città": "Baunei",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SMERALDA BOUTIQUE BOATS S.R.L.S.",
+            "Città": "Massa Lubrense",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SUNRISE SORRENTO SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIF",
+            "Città": "Piano di Sorrento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "RIVAVELA SRL",
+            "Città": "Riva del Garda",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MA TECHNOLOGY DI MASILE MASSIMILIANO",
+            "Città": "Alghero",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "ALBATROS SAS DI TURRA VANNI \u0026 C.",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "STARS AND SEA DI PALUMBO FRANCESCO PAOLO",
+            "Città": "Massa Lubrense",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SICILIA REGIONALE MARITTIMA S.P.A. - SIREMAR IN AMMINISTRAZI",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "TOURIST LINES DI GALLO PASQUALE ALESSANDRO",
+            "Città": "Valderice",
+            "Fatturato": "",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CAPITANONIK DI DE STEFANO NICOLA",
+            "Città": "Agropoli",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "MANAO MICHELE",
+            "Città": "Mogliano Veneto",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "GOINSARDINIA SOCIETA' CONSORTILE A R.L.",
+            "Città": "Santa Teresa Gallura",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SOLE \u0026 MARE S.R.L.S.",
+            "Città": "Oristano",
+            "Fatturato": "",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SEA LAND S.R.L.S.",
+            "Città": "Maiori",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "VELA VIAGGI DI SAVERIO SCATTARELLI",
+            "Città": "Porto Torres",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BISANTI ALESSIA",
+            "Città": "Castrignano del Capo",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "MENEGAZZI MANOLO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "VOGLIA DI MARE DI MARCELLO LORENZI",
+            "Città": "Favignana",
+            "Fatturato": "",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "DORDIT GIANFRANCO",
+            "Città": "Cavallino-Treporti",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "RAGREPA S.R.L.",
+            "Città": "Gragnano",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MERENDA NAVIGAZIONE DI MASSIMO MERENDA",
+            "Città": "Lipari",
+            "Fatturato": "",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "REVO DI RUOCCO FEDERICO \u0026 C. S.A.S.",
+            "Città": "Sorrento",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "MURANO MOTOSCAFI S.A.S. DI ROSSO MARCO \u0026 C.",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ASINARA TOURS DI CUCCU GIANFRANCO",
+            "Città": "Sassari",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CONTROVENTO CHARTER DI MARCO COVRE",
+            "Città": "Olbia",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "VIANELLO GIANNI",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "MBM SAS DI MOLIN TIZIANO \u0026 C.",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "OMACINI GIACOMO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "POPEYE DI MANTOVANI FULVIA",
+            "Città": "Gavorrano",
+            "Fatturato": "",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CHANDRA CHARTER DI DE LUCA RENATO",
+            "Città": "Praiano",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "GIALAU YACHT S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "TOURIST BOAT LARIO SNC DI GRAMMATICA G. \u0026 C.",
+            "Città": "Como",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "WOW S.R.L.",
+            "Città": "Trapani",
+            "Fatturato": "",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "LOCA SRL",
+            "Città": "Furore",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "PARMESAN SEBASTIANO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "M\u0026M BOAT DI VESPA MICHELE",
+            "Città": "Valderice",
+            "Fatturato": "",
+            "Provincia": "Trapani"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "YACHT CHARTER SEVEN STARS DI GIUSEPPE TUZZOLINO",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CHARTER CAPRI LOVELY DAY SRLS",
+            "Città": "Torre Annunziata",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "S.CA SNC DI SCARPA E BAU'",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "DI PALMA IVAN",
+            "Città": "Atrani",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MODUGNO MARCO",
+            "Città": "Polignano a Mare",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "NENA S.A.S. DI GEORG SOBBE",
+            "Città": "Ferrara",
+            "Fatturato": "",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "ZILIANI ALESSIO",
+            "Città": "Monte Isola",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SALE SRL",
+            "Città": "Agrigento",
+            "Fatturato": "",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "PALLONE ANIELLO",
+            "Città": "Positano",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "FALLIMENTO S.M.T.V. - G. MESSINA SPA",
+            "Città": "Genova",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "AQUA SPEED DI CERVELLA CARLO",
+            "Città": "La Maddalena",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "FUSCO SAVERIO",
+            "Città": "Furore",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "TORRE TOMMASO",
+            "Città": "Favignana",
+            "Fatturato": "",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "PERFECT CHARTER SORRENTO SRL",
+            "Città": "Sorrento",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "RM DESIGN DI RICCARDO MACARIO",
+            "Città": "Canzo",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "JUST SAIL DI N.R.SOGGIU",
+            "Città": "Alghero",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MORELLO LORENZO",
+            "Città": "La Maddalena",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "3M SHIPPING SRL",
+            "Città": "Sorrento",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "VILLA GIULIA DI MAGGIORE GIOVANNI SAS",
+            "Città": "Lampedusa e Linosa",
+            "Fatturato": "",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CI.TEX S.A.S. DI BARLI SIMONE",
+            "Città": "Monterosso al Mare",
+            "Fatturato": "",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "BRUSSA IS BOAT SAS DI GIAMPIETRO BRUSSA E C",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "LAGUNA TRASPORTI E MANUTENZIONI DI TOSI PIETRO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "FASOLATO JACOPO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "KALEIDOS DI ZENNARO SIMONE",
+            "Città": "Lerici",
+            "Fatturato": "",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ESPOSITO GIUSEPPE",
+            "Città": "Maiori",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "AMADEUS S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "PICCOLA NAUTICA DI PETESE RENATO",
+            "Città": "Castrignano del Capo",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "PADOAN ANDREA",
+            "Città": "Cavallino-Treporti",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "NEW SURF TEAM S.N.C. DI VALERIO OPPO E LEONARDO MAZZARDI",
+            "Città": "Budoni",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SEA MAR SNC DI PIRINA M. \u0026 C.",
+            "Città": "Arzachena",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "SCARPA STEFANO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "SILVESTRI MARCO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "VENTO DI LEVANTE DI RICCO LUCA \u0026 C. S.A.S.",
+            "Città": "Amalfi",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "PALTANI DIEGO",
+            "Città": "Stresa",
+            "Fatturato": "",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "PETAGUS SAS DI ATRIA TONINO E C.",
+            "Città": "Palau",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "ROBERTO SPINELLI",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "CAENAZZO RICCARDO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SORRENTO DREAM CHARTER DI FERRARO FLAVIO",
+            "Città": "Vico Equense",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MADE IN SICILY TOURS DI FRANCESCO MOSCHELLA",
+            "Città": "Furci Siculo",
+            "Fatturato": "",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "AD MAIORA SRL SEMPLIFICATA",
+            "Città": "La Maddalena",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "MIA TAXI DI TIOZZO MARCO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MARINER SAS DI USALA GIOVANNI \u0026 C.",
+            "Città": "Baunei",
+            "Fatturato": "",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "TDS MARINE DI TOMMASO DE SIMONE",
+            "Città": "Massa Lubrense",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "BOGNOLO GIORGIO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "SIMIONATO RICCARDO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CORALLO CHARTER SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFI",
+            "Città": "Sant'Agnello",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "SIRMIONE TOUR DI FRANCIOSO AURELIO",
+            "Città": "Desenzano del Garda",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "VIANELLO RICCARDO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BLUE VIBES - SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICAT",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ENJOY CINQUETERRE DI FAGGIONI DANIELE",
+            "Città": "Riomaggiore",
+            "Fatturato": "",
+            "Provincia": "La Spezia"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "POSITANO YACHT CHARTER S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "EMME HOLIDAYS - CHARTER SRL",
+            "Città": "Brindisi",
+            "Fatturato": "",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "VENICE WATER LIMOUSINE SERVICE DI DOTTO ROBERTO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "TAGLIAPIETRA ANDREA",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "RAFFAELLO S.A.S. DI SCARPA DANIELE E C.",
+            "Città": "Chioggia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "G. \u0026 A. MONTANARI \u0026 CO. SPA",
+            "Città": "Fano",
+            "Fatturato": "",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "ILVA SERVIZI MARITTIMI SPA IN AMMINISTRAZIONE STRAORDINARIA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "PROTO MAURIZIO",
+            "Città": "Minori",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "RB ROSEWOOD ARMATORI SRL",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "POSITANO JOURNEY DI RUOCCO LUIGI",
+            "Città": "Positano",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "DA DANIELE DI DANIELE BELLA",
+            "Città": "Positano",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "CODORI JACOPO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "TOSO TOMMASO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MONTANARI WILLIAM",
+            "Città": "Ravenna",
+            "Fatturato": "",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "DIMENSIONE VELA DI GIUSEPPE VEIRANA",
+            "Città": "Savona",
+            "Fatturato": "",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "LICCI LIVI",
+            "Città": "Castrignano del Capo",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "LUCIANO DANIELE",
+            "Città": "Gagliano del Capo",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "GARDA EXPRESS TOURS S.A.S. DI PERONI CLAUDIO \u0026 C.",
+            "Città": "Malcesine",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "EYMESS LUNA DIANA",
+            "Città": "Salve",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ASINARA CHARTER DI FEDERICO CUCCU",
+            "Città": "Sassari",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "PELLEGRINI MICHELANGELO",
+            "Città": "Montignoso",
+            "Fatturato": "",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "FOREMAR S.A.S. DI FORESTI GIOVANNI \u0026 C.",
+            "Città": "Santa Margherita Ligure",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "ZAMBONI MARCO",
+            "Città": "Bussolengo",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "RAGAZZI GIUSEPPE SAS DI RAGAZZI ANGELO \u0026 C.",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "EGNAZIA TOURING DI CALI' DAVIDE",
+            "Città": "Fasano",
+            "Fatturato": "",
+            "Provincia": "Brindisi"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "ISC ITALIAN SHIPPING COMPANY S.R.L.",
+            "Città": "Monte di Procida",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "BARONE SHIPPING COMPANY SPA",
+            "Città": "Monte di Procida",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "YOU KNOW! S.R.L.",
+            "Città": "Sant'Agnello",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ALILAURO GRUSON S.P.A.",
+            "Città": "Sorrento",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "RIZZO-BOTTIGLIERI-DE CARLINI ARMATORI SOCIETA' PER AZIONI DE",
+            "Città": "Torre del Greco",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "ALICOST S.P.A.",
+            "Città": "Amalfi",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "GRUPPO BATTELLIERI COSTA D'AMALFI - S.R.L.",
+            "Città": "Amalfi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "POSITANO JET SRL",
+            "Città": "Positano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "PLAGHIA CHARTER SRL",
+            "Città": "Praiano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "VREMAR S.R.L.",
+            "Città": "Crotone",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Crotone"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CARONTE \u0026 TOURIST SPA",
+            "Città": "Messina",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BLUFERRIES SRL",
+            "Città": "Messina",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CARONTE \u0026 TOURIST ISOLE MINORI",
+            "Città": "Messina",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "GRUPPO BARCAIOLI DEL PORTO DI AUGUSTA SOC. COOP. P.A.",
+            "Città": "Augusta",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "ANAPO S.R.L.",
+            "Città": "Augusta",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "LIBERTY LINES S.P.A.",
+            "Città": "Trapani",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "COMPAGNIA DI NAVIGAZIONE DEL MEDITERRANEO S.R.L.",
+            "Città": "",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "NAVISARDA - COMPAGNIA MARITTIMA E MERCANTILE S.R.L",
+            "Città": "Alghero",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MADDALENA LINES SRL",
+            "Città": "La Maddalena",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "PETROLMAR SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "PREMUDA SPA",
+            "Città": "Genova",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "FORSHIP S.P.A. UNIPERSONALE",
+            "Città": "Genova",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "RIMORCHIATORI AUGUSTA S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "COSIARMA S.P.A.",
+            "Città": "Genova",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "GRANDI NAVI VELOCI S.P.A.",
+            "Città": "Palermo",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Palermo"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "CONSOLINI PAOLO",
+            "Città": "Gardone Riviera",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SEASHINE AMALFI COAST CHARTER DI LIAMBO D. SAS",
+            "Città": "Maiori",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "BI \u0026 BI S.A.S. DI BURLANDO FRANCESCO",
+            "Città": "Mogliano Veneto",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "POLLICARDO BENEDETTO",
+            "Città": "Monterosso al Mare",
+            "Fatturato": "",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "VIANELLO MARCO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CONERO DAMARE DI MICUCCI A. E QUAGLIANI P. S.N.C.",
+            "Città": "Ancona",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "NEXT EDEN DI DEMARTIS VALERIO",
+            "Città": "Santa Teresa Gallura",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BIO CRUISING EOLIE SAS DI LUIGI FOLLONE \u0026 C.",
+            "Città": "Santa Marina Salina",
+            "Fatturato": "",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "NATURALMENTE ELBA DI CALISI LUCIANO E LIPANI RUGGERO SNC",
+            "Città": "Campo nell'Elba",
+            "Fatturato": "",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "TRASPORTI CHIARANDA S.N.C. DI VANIA CHIARANDA \u0026 C.",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "WINDSURFING CENTER STINTINO DI TAVAZZI ROBERTO E UNALI GIAN",
+            "Città": "Stintino",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "COMO LAKE JOURNEY S.R.L.",
+            "Città": "Como",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "SATURNO DI ZENTILIN ADRIANO \u0026 C. SAS",
+            "Città": "Marano Lagunare",
+            "Fatturato": "",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CAMPO SALVATORE",
+            "Città": "Favignana",
+            "Fatturato": "",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "D'ESPOSITO FRANCESCO",
+            "Città": "Meta",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "SIMIONATO ALEX",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "CAMMARANO LUIGI",
+            "Città": "Lipari",
+            "Fatturato": "",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "DT BOAT TOUR DI DAVIDE TABACCO",
+            "Città": "Carate Urio",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "I SARACENI SRLS",
+            "Città": "Polignano a Mare",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ALMA SAILING CHARTER DI SABA ALMA",
+            "Città": "Cagliari",
+            "Fatturato": "",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "NEVERLAND SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Villasanta",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CINQUE TERRE ADVENTURE DI ROSSI DAVIDE",
+            "Città": "Riomaggiore",
+            "Fatturato": "",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "FIDELI MASSIMO",
+            "Città": "San Teodoro",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "ROSSI RICCARDO",
+            "Città": "Stresa",
+            "Fatturato": "",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "LUXURY BOAT TOURS DI CACACE ANTONIO",
+            "Città": "Massa Lubrense",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "QUIKSERVICE DI PAGGIARIN LUCA",
+            "Città": "Spinea",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "PADOVANO VITTORIO",
+            "Città": "Taranto",
+            "Fatturato": "",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "BELLAGIO WATER LIMOUSINES",
+            "Città": "Bellagio",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CSONKA MARCO",
+            "Città": "Aci Castello",
+            "Fatturato": "",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BLUEZONE SRL",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MASSA LUBRENSE BOATS SERVICE DI GAETANO GARGIULO",
+            "Città": "Anacapri",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BLU LEVANTE DI LIGUORI DAMIANO",
+            "Città": "La Spezia",
+            "Fatturato": "",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "SDS SHIPPING SRL",
+            "Città": "Monte di Procida",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "COLLAVINI MATTEO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "OK CAPITAL SRL",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "KAIROS S.R.L. SEMPLIFICATA UNIPERSONALE",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "DAL GESSO ROBERTO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BLU DREAM S.R.L.",
+            "Città": "Salerno",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "LAKE COMO WATER TAXI DI MATTIA GALIMBERTI",
+            "Città": "Tremezzina",
+            "Fatturato": "",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BRAIDA ELISA",
+            "Città": "Lignano Sabbiadoro",
+            "Fatturato": "",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CRUISE SERVICE DI ANDREA PEZZANI",
+            "Città": "Alghero",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "ARMAMENTO SARDO SRL",
+            "Città": "Olbia",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ONESCURSIONI DI GAGLIANO ANDREA",
+            "Città": "Santa Teresa Gallura",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "DE LORENZI MASSIMO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "VALLE ROMANO DI VALLE ALESSIO E C. SNC",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "POGGI GROUP S.R.L.",
+            "Città": "Monterosso al Mare",
+            "Fatturato": "",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "CERRI MARIA",
+            "Città": "Isola di Capo Rizzuto",
+            "Fatturato": "",
+            "Provincia": "Crotone"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SUNSHINE CHARTER S.A.S. DI MATTERA ANTONIO EMILIO",
+            "Città": "Serrara Fontana",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "DE ROSA FIORE SEA EXCURSIONS DI DE ROSA PIETRO",
+            "Città": "Anacapri",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "DAL GESSO S.R.L.",
+            "Città": "Marcon",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ALL SAILING DI CARBONI FABRIZIO S.A.S.",
+            "Città": "Alghero",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "LIMOUSINE IN VENICE DI SEBASTIANO SIMIONATO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "CIMAROSTI MARCO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "MARELLA TARLA' PAOLO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "MGD S.R.L.",
+            "Città": "Bacoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "LIVE CHARTER DI VINACCIA ANGELO",
+            "Città": "Massa Lubrense",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "BERTOLDI BOATS S.R.L.",
+            "Città": "Sirmione",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SCHIAFFINO GIOVANNI MATTEO",
+            "Città": "Stintino",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "NAVI ANDES DI GIULIANO NEGRINI E C. S.A.S.",
+            "Città": "Mantova",
+            "Fatturato": "",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ARU FRANCESCO",
+            "Città": "Villacidro",
+            "Fatturato": "",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "DELFINO TOURS SAS DI COSSA DEBORA \u0026 C.",
+            "Città": "La Maddalena",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "DITADI NICOLA",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "DOARDI ALBERTO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "NAVAL LAGUNARE DI TOFFOLO NICOLO' \u0026 C. SAS",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "SANTA MARIA SAS DI PAVAN NICO E C.",
+            "Città": "Marano Lagunare",
+            "Fatturato": "",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "BUBACCO TRASPORTI LAGUNARI S.A.S. DI BUBACCO ANTONIO \u0026 C.",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "VIACAVA ANDREA",
+            "Città": "Santa Margherita Ligure",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "ADOR.TER.MAR. S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "NATALUCCI SAS DI NATALUCCI MARCO \u0026 C.",
+            "Città": "Numana",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "NAVIG. MARINO CACCIATORI SRL",
+            "Città": "Porto Tolle",
+            "Fatturato": "",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "ZAGO MATTIA",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "SPEEDY GONZALE 1 E 2 DI DANTI DANIELE",
+            "Città": "Riva del Garda",
+            "Fatturato": "",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "FRATELLI COSULICH LNG S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "BON MASSIMO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MESSA ALBERTO",
+            "Città": "Polignano a Mare",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "DELTA 6 HORSE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "HAPPY SARDINIA TOURS di ILIR KETA",
+            "Città": "Palau",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "CIMITAN MARCO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "ZAMBELLI LUCA",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "DELTA IN BARCA M/N DALI' DI CARLI NICOLA",
+            "Città": "Comacchio",
+            "Fatturato": "",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "LUCERNA DI GIULIO GOZZOLI",
+            "Città": "Lerici",
+            "Fatturato": "",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ZEFIRO CHARTER DI OLIVA VINCENZO",
+            "Città": "Sorrento",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "SCARPA JACOPO",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "VILLA WHITE DI ANGILERI VITALBA",
+            "Città": "Marsala",
+            "Fatturato": "",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "VENTOLA TONY",
+            "Città": "Bari",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "SE-RE-MAR SRL",
+            "Città": "Sorrento",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "OTTAVIO NOVELLA SPA",
+            "Città": "Genova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "VELANDO SRL",
+            "Città": "Olbia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "NAVIGAZIONE LIGURE TIRRENA - S.R.L.",
+            "Città": "La Spezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "NAVIGAZIONE GOLFO DEI POETI SRL",
+            "Città": "Lerici",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "SOC. COOP. CONSORZIO DELLE BOCCHE",
+            "Città": "Santa Teresa Gallura",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "SHIPS SURVEYS AND SERVICES SRL",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ELENA TOUR NAVIGAZIONI S.R.L.",
+            "Città": "La Maddalena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "DELTA TOUR S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "B.S. MENELA S.A.S. DI BOSCOLO ERMINIO MENELA",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "MANASSE S.R.L.",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ITALIAN STYLE LUXURY YACHT CHARTER S.R.L",
+            "Città": "Robassomero",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "T.C.E. LAGUNARE REFRIGERATI SRL",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "VENETIANA S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "COLORADO SOCIETA' A RESPONSABILITA' LIMITATATA",
+            "Città": "La Maddalena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "YACHT CLUB ERIO LARIO SRL",
+            "Città": "Lezzeno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SANDS PLEASURES S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "NOLEGGIO BARCHE AMALFI SRL",
+            "Città": "Amalfi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "BLU LINES COLLEGAMENTI MARITTIMI SRL",
+            "Città": "Trapani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "PRAIA SEA SERVICE SRL SEMPLIFICA",
+            "Città": "Praiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "L.E.O. SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "FORTI YACHTING PARTNERS S.R.L.",
+            "Città": "Porto Azzurro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ONDA BLU S.R.L.",
+            "Città": "Cavallino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CHIOGGIA NAVIGAZIONE S.R.L.",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "TOSCANA MINI CROCIERE SRL",
+            "Città": "Livorno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "TAVOLARA TRAGHETTI E GITE - SOC. COOP. A R.L.",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "SHAMANDURA CHARTER SRL",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "RIGEL S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CRAPOLLA CHARTER SOCIAETA' COOPERATIVA",
+            "Città": "Massa Lubrense",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "T.C.E. LAGUNARE SRL",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "PORTOFINO SERVIZI SRL",
+            "Città": "Portofino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "AMMCHARTER SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Santa Margherita Ligure",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "BALDIN MATTIA",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "OLTREMARE CHARTER DI MARIOTTI VERONICA FATIMA",
+            "Città": "Olbia",
+            "Fatturato": "",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "P \u0026 B DI PEPE DANIELE",
+            "Città": "Venezia",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "BELLAGIO YACHT EXPERIENCE DI FEDERICO LISA",
+            "Città": "Bellagio",
+            "Fatturato": "",
+            "Provincia": "Como"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "LOGIKA S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "MERIDIANO LINES S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "NARDUZZI E SOLEMAR - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "TRASMAR S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "AZIENDA VENEZIANA DELLA MOBILITA' S.P.A.",
+            "Città": "Venezia",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "TERMINAL FUSINA VENEZIA S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "SERENISSIMA MOTOSCAFI - SOCIETA' A RESPONSABILITA LIMITATA",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "S.A.L.P.A. TRASPORTI S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "ALILAGUNA S.P.A.",
+            "Città": "Venezia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "COOPERATIVA DUCALE FRA GONDOLIERI DI VENEZIA SCARL",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "MARCO POLO SRL",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "PETROMAR S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "CATIL SERVIZI SRL",
+            "Città": "Venezia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.40.00",
+            "Azienda": "BRUSATO TRASPORTI SRL",
+            "Città": "Venezia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "COOP. S. MARCO MOTOSCAFI A R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MEDMAR NAVI S.P.A.",
+            "Città": "Napoli",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "SCINICARIELLO SHIP MANAGEMENT S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "MARIMED S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "CONSORZIO CAMPANO AUTOTRASPORTI PORTUALI (C.C.A.P.)",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "SARDA BUNKERS SPA",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "SCAFI SOCIETA' DI NAVIGAZIONE SPA",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "R\u0026S MARITIME SRL",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.00.00",
+            "Azienda": "VE-NA DI NAVIGAZIONE SRL",
+            "Città": "Napoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "TRA.SPE.MAR. S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "MORFINI S.P.A.",
+            "Città": "Bari",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Bari"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "IGNAZIO MESSINA \u0026 C.SPA",
+            "Città": "Genova",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "NAVALMED S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "COMPAGNIA ITALIANA DI NAVIGAZIONE S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "EMES FEEDERING S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "DELCOMAR SRL",
+            "Città": "Cagliari",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "REVOLUTION SRL",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "FT GENOA TANKERS S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "GENOVA TRASPORTI MARITTIMI S.R.L",
+            "Città": "Genova",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "ALDEBARAN S.R.L.",
+            "Città": "Augusta",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "MAIA COMPAGNIA DI NAVIGAZIONE SRL",
+            "Città": "Venezia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "MARNAVI S.P.A.",
+            "Città": "Napoli",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ADRIA FERRIES SPA",
+            "Città": "Ancona",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "MANISA CHARTERING s.r.l.",
+            "Città": "Napoli",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "MANISA BULK S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "RB ARMATORI S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "ADI SERVIZI MARITTIMI S.R.L. IN AMMINISTRAZIONE STRAORDINARI",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "ECOBULK SHIPPING SRL",
+            "Città": "Napoli",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "VISENTINI GIOVANNI TRASPORTI FLUVIOMARITTIMI S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "MINOAN ITALIA S.P.A.",
+            "Città": "Palermo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "GECOMAR S.R.L.",
+            "Città": "Ravenna",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "NAVIGAZIONE LIBERA DEL GOLFO S.R.L. IN SIGLA NLG S.R.L.L",
+            "Città": "Napoli",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "INVENTO TURISMO SRL",
+            "Città": "Enna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Enna"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "AQUAVISION SERVIZI MARITTIMI S.R.L.",
+            "Città": "Portoferraio",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "NAVIGAZIONE DI CABOTAGGIO S.R.L.",
+            "Città": "Livorno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "SUD SHIPPING SRL",
+            "Città": "Vittoria",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ragusa"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.30.00",
+            "Azienda": "C.M.A. CONSORZIO MOTOSCAFISTI ASSOCIATI STRESA TOURS",
+            "Città": "Stresa",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BLU JET SRL",
+            "Città": "Messina",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ALILAURO S.P.A.",
+            "Città": "Napoli",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "LAZIOMAR S.P.A.",
+            "Città": "Napoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "COSTANTINO TOMASOS TRASPORTI MARITTIMI SRL",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CAPRI SEALIFE SRL",
+            "Città": "Capri",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "N.L. ADRIATICA SRLS",
+            "Città": "Vieste",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BN SARDEGNA DI NAVIGAZIONE S.R.L.",
+            "Città": "Sassari",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "TARNAV GROUP SRL",
+            "Città": "Milazzo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "FULMAR BARCAIOLI ANCONA S.R.L.",
+            "Città": "Ancona",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "COINFRA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "AF MARINE SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CAPASECCA S.R.L.",
+            "Città": "Sorrento",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SER.PORT. S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "GLOBAL DREAM SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "AGOSTINO CHARTER SRL",
+            "Città": "Dorgali",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "P \u0026 G PORT SERVICE S.R.L.",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MUSA YACHT SRL SOCIETA' CON UNICO SOCIO",
+            "Città": "Rimini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SEATALY S.R.L.",
+            "Città": "Sanremo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "UNITED S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "DREAM SRL",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "RUMORE SRL",
+            "Città": "Ischia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "L.B. CHARTER S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "LUXURY CHARTER ROME S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "DAVIDE \u0026 GOLIA S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SOCIETA' NAVIGAZIONE SICILIANA S.C.P.A.",
+            "Città": "Trapani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ARSE SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MEDITERRANEA CROCIERE S.R.L.",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MEDITERRANEAN BLU SERVICES S.R.L. IN SIGLA M.B.S. S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "TRIPODI NAVIGAZIONE SOCIETA' A RESPONSABILITA' LIMITATA SEMP",
+            "Città": "Tropea",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vibo Valentia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "IPPOCAMPO S.R.L.",
+            "Città": "Procida",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "URAGANO S.R.L.",
+            "Città": "Capri",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SOCIETA' COOPERATIVA ISLAND SERVICE",
+            "Città": "Carloforte",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SEA LIFE SOC. COOP. A R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SORRENTO CHARTER SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "TREVILLE MARITIME COMPANY SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "GS YACHT \u0026 SERVICE S.R.L.",
+            "Città": "Salerno",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "GOLDEN WAVE COMPANY S.R.L.",
+            "Città": "Mantova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "OLTREMARE SERVICE SRL",
+            "Città": "Orosei",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "TOBY S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "STELLAMARIS S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "DELFIPAT S.R.L.",
+            "Città": "Palau",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "VOLA VIA MARE S.R.L.",
+            "Città": "Sorrento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "EGADI BOATING S.R.L",
+            "Città": "Favignana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BLACKROCK CONSULTING S.R.L.S.",
+            "Città": "Benevento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Benevento"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "YACHT BOUTIQUE S.R.L.",
+            "Città": "Bosa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CAPRI CRUISE SRL",
+            "Città": "Capri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "FORCE DEA S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SUMMER BREEZE SRL",
+            "Città": "Ischia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BATTELLIERI DEL PORTO DI GENOVA S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CONSORZIO TURISTICO ARINI E PUGLIESE LAGUNA DELLO STAGNONE I",
+            "Città": "Marsala",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "PETAG S.R.L.",
+            "Città": "Palau",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "VILLA PORTO RAFAEL S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MAREMAR SOCIETA' A RESPONSABILITA' SEMPLIFICATA",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "TRAVEL VENICE S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "POLLIO FAMILY S.R.L.",
+            "Città": "Meta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "COLIBRI' CHARTERS S.R.L.",
+            "Città": "Ischia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "GAR.NAV. - SOCIETA' COOPERATIVA",
+            "Città": "Termoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "LA BUSSOLA SRL",
+            "Città": "Dorgali",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "NARROW ESCAPE SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "EAST COAST EXPERIENCE GROUP S.R.L.S.",
+            "Città": "Rimini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BLUE S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "EM3 S.R.L.",
+            "Città": "Lucca",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MEDITERRANEA CHARTER S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "LM COMPANY S.R.L.",
+            "Città": "Stintino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "AC MISTER CAR SRLS",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BABITOURS S.R.L.",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "NORTH TEMPEST SRLS",
+            "Città": "Palau",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "DISCOVER CAPRI TOURS SRL",
+            "Città": "Capri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SHC SORRENTO HOLIDAY CHARTER S.R.L.",
+            "Città": "Sorrento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "YACHT CHARTER S.R.L.",
+            "Città": "Alcamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CONERO EXPLORER S.R.L.",
+            "Città": "Ancona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "TERREDAMARE S.R.L. SEMPLIFICATA",
+            "Città": "Riomaggiore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "STANTE YATCHING SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ROMA REAL ESTATE S.R.L.",
+            "Città": "Avezzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "L'Aquila"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ANDREA BRIGATTI SAILING S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "COMPAGNIA TRANSOCEANICA DI PAOLA DE FRANCESCHINI \u0026 C. S.N.C.",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SALENTO GARAGE SRLS",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MARISA SRL",
+            "Città": "Dorgali",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SEA HORSE SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "NABABBO SAIL SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICAT",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "VELATOUR SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Siniscola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "STAR SAIL SRL",
+            "Città": "Camposampiero",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "LIGURIA CHARTER S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "4GET.ME.NOT SRL",
+            "Città": "Montecatini-Terme",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "GM YACHT S.R.L.",
+            "Città": "Mascalucia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "PRIMERO SRL",
+            "Città": "Rapallo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "EGADI TOURS S.R.L.S.",
+            "Città": "Marsala",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SARDINIA SAIL S.R.L.S.",
+            "Città": "Siniscola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "BLUE MARINE SERVICE S.R.L.",
+            "Città": "Corsano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "A.M.A. SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CHARTER WATER LIMOUSINES BLEVIO S.R.L.",
+            "Città": "Como",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "OLTREMARE S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "GMB AMBIENTE SRL",
+            "Città": "Barlassina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "DBG ITALY SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MARESIA CHARTER S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CANAL GRANDE JET SRL",
+            "Città": "Mirano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "SUPER CAPRI BOAT DI GIANLUCA RUSSO SRL SEMPLIFICATA IN LIQUI",
+            "Città": "Sorrento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ATLANTIS YACHTING S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CATABOAT S.R.L.S. UNIPERSONALE",
+            "Città": "Trapani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        }
+    ],
+    [
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "B.B. CINQUE TERRE SRLS",
+            "Città": "Riomaggiore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ANDALAS S.R.L.",
+            "Città": "Baunei",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ARIVA CHARTER S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "GI\u0026GI PUGLIA CRUISE S.A.S. DI M.LEPORE \u0026 C.",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "MISTRAL S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "ALTOMARE SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "18 ISOLA BELLA SRLS",
+            "Città": "Siracusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "REGI SRL",
+            "Città": "Cavallino-Treporti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "50.10.00",
+            "Azienda": "CONSORZIO ASCA CHARTER",
+            "Città": "Siniscola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "EUROSHIPPING SRL",
+            "Città": "Napoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "SOCIETA' ARMATORIALE ITALIANA S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "MGD SHIPPING S.R.L.",
+            "Città": "Bacoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "FINAVAL SRL",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "UNION SEA SRL",
+            "Città": "Napoli",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "VIS TANKERS S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "FERTILIA SPA",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "COMPAGNIA ATLANTICA DI ARMAMENTO SPA",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "AMATRICE SHIPPING SRL",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "FN 2 S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "NAVIMAT SRL",
+            "Città": "Napoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "MERIT MARITIME SRL",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "PERSEVERANZA SHIPPING SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "MARINE GEOPHYSICAL S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "HDS SRL",
+            "Città": "Ancona",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "50.20.00",
+            "Azienda": "FLEGREA SHIPPING \u0026 TRADING SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        }
+    ]
+]

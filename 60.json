@@ -1,0 +1,4273 @@
+[
+    [
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "T.L.T. S.R.L.",
+            "Città": "Cavallermaggiore",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "BEACOM SRL -SOCIO UNICO-",
+            "Città": "Beinasco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "PRIMANTENNA SRL",
+            "Città": "Rivoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "FONDAZIONE AUTONOMA DI RELIGIONE STELLA DELL'EVANGELIZZAZION",
+            "Città": "Chiavari",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "+ VALLI.TV SPA",
+            "Città": "Darfo Boario Terme",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "R.B.1. TELEBOARIO SB S.R.L.",
+            "Città": "Darfo Boario Terme",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO STUDIO PIU' S.R.L.",
+            "Città": "Desenzano del Garda",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO VIVA S.R.L.",
+            "Città": "Gavardo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "ESPANSIONE S.R.L.",
+            "Città": "Como",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELECOLOR S.R.L.",
+            "Città": "Cremona",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TELEUNICA S.R.L.",
+            "Città": "Lecco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELEMANTOVA S.P.A.",
+            "Città": "Mantova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELECITY S.R.L.",
+            "Città": "Assago",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RTT RADIO TELEVISION TIROL S.A.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "ROSENGARTEN MEDIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ON AIR S. A R.L.",
+            "Città": "",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ORF GMBH",
+            "Città": "",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO MEDIA INTERNATIONAL GMBH",
+            "Città": "",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "OPERAZIONI IMPRENDITORIALI S.R.L. IN SIGLA OP.IM. SRL",
+            "Città": "Trento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO DOLOMITI S.R.L. SOCIO UNICO",
+            "Città": "Trento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "PLANET MEDIA S.R.L.",
+            "Città": "Porto Tolle",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELERADIO DIFFUSIONE BASSANO S.R.L.",
+            "Città": "Bassano del Grappa",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "VIDEOMEDIA - S.P.A.",
+            "Città": "Vicenza",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELEQUATTRO SRL SOCIO UNICO",
+            "Città": "Trieste",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELEFRIULI SPA",
+            "Città": "Tavagnacco",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Udine"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ONLY RADIO SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "O - SPHERA S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "V.C.R. - S.R.L.",
+            "Città": "Assago",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO RADIO CORE - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO RADIO - SOCIETA A RESPONSABILITA LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "D-SPHERA S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ARANCIA S.R.L.",
+            "Città": "Ancona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "NSL MEDIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO MASSOLINA SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "STUDIO ARMONIA SRL",
+            "Città": "Aosta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Aosta"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "VIVA SRL",
+            "Città": "Corato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "NEWRADIO SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "LA NUOVA RADIO ALBA S.R.L.",
+            "Città": "Alba",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO ITALIA PUGLIA SRL",
+            "Città": "Corato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO MARSALA CENTRALE - S.R.L. O IN FORMA ABBREVIATA RMC101",
+            "Città": "Marsala",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ST.AL.TEL. S.R.L.",
+            "Città": "Casoria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO STOP 2 SOCIETA COOPERATIVA A RESPONSABILITA LIMITATA",
+            "Città": "Cecina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "CENTRO MEDIA S.R.L.",
+            "Città": "Partinico",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "GALASSIA S.R.L.",
+            "Città": "Recanati",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "MIXER ITALIA - S.R.L.",
+            "Città": "Recanati",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO STAR S.R.L.",
+            "Città": "Lucca",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "INTERMIRIFICA S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO IMMAGINE UNO S.R.L.",
+            "Città": "Latina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO ETNA ESPRESSO SRL",
+            "Città": "Acireale",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "MULTIRADIO S.R.L.",
+            "Città": "Tolentino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "EDIZIONI JONICHE SRLS",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO CINA ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO MARGHERITA CENTRO ITALIA S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "BE OPEN S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "SIMULCAST S.R.L.",
+            "Città": "Corato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO BLU SRL",
+            "Città": "Ponsacco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "YOUNIVERSE COMPANY S.R.L. S",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "PENSA POSITIVO S.R.L.",
+            "Città": "Faenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RORINA S.R.L.S.",
+            "Città": "Pagani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "DIGITAL BROADCASTING RADIO SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "LM RADIOFONICA IN SRL",
+            "Città": "Maltignano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "NUOVA FACTORY SRL",
+            "Città": "Alessandria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RMC 2 S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ROMOLO MURRI - SOCIETA' COOPERATIVA",
+            "Città": "Fermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Fermo"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "MUSICA E NOTIZIE S.R.L.",
+            "Città": "Lecce",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ONDA AZZURRA SOCIETA' COOPERATIVA",
+            "Città": "Patti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO MARGHERITA NORD ITALIA S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO2C SRL",
+            "Città": "Rovereto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RETE SUD S.R.L.",
+            "Città": "Polla",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO SIEVE S.R.L.",
+            "Città": "Pontassieve",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "BLURADIO SRL",
+            "Città": "Arona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO IES SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO X S.R.L.",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "LECCOFM S.R.L.",
+            "Città": "Lecco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "TAOMEDIA SOC. COOP. A R.L.",
+            "Città": "Pagliara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO WELLNESS NETWORK S.R.L.",
+            "Città": "Vigodarzere",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO UNIVERSAL S.R.L.",
+            "Città": "Giarre",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "4MEDIA SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO MONFERRATO SRL",
+            "Città": "Albenga",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ANTENNA RADIO ESSE SOCIETA COOP.",
+            "Città": "Monteriggioni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO NUORO CENTRALE SRL",
+            "Città": "Nuoro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "STUDIO ITALIA S.R.L.",
+            "Città": "Massa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "TELE RADIO MONDO - SOCIETA' COOPERATIVA",
+            "Città": "Rieti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rieti"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "T.R.S. RADIO S.R.L.",
+            "Città": "Savigliano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "T MEDIA GROUP S.R.L.",
+            "Città": "Treviglio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ANTENNA ADRIATICA S.R.L.",
+            "Città": "Termoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO CL 1 s.r.l.",
+            "Città": "Caltanissetta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "BLU PRODUCTION SRLS",
+            "Città": "Varese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "GAMMA 5 SOCIETA' COOPERATIVA",
+            "Città": "Campodarsego",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO ENNY SOUND SRL",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "MEDIATOURING S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ALETHEIA SOCIETA' COOPERATIVA",
+            "Città": "Comiso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO ANTENNA UNO - S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "MEDIA RADIO TV SOC. COOP. ARL",
+            "Città": "Reggio di Calabria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ITALIAN INTERNATIONAL RADIO AND MEDIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RS RETI E SERVIZI SRL",
+            "Città": "Sanremo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO ANTENNA FUTURA SRL",
+            "Città": "Avezzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "GOA SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO MILANO INTERNATIONAL S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "IDG NETWORK S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "VINCI'S GROUP SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ALL MUSIC GROUP SRL SEMPLIFICATA",
+            "Città": "Cremona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO 6.75 SRLS",
+            "Città": "Cecina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "TELE RADIO CITY SOCIETA' COOPERATIVA SOCIALE - ONLUS",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIOBASE COOPERATIVA",
+            "Città": "Mantova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "PROMEDIA S.R.L.",
+            "Città": "Pavia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELELOMBARDIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "HELBIZ MEDIA ITALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "CFN CLASS FINANCIAL NETWORK SPA",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "ALMA MEDIA S.P.A.",
+            "Città": "Guidonia Montecelio",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "EPIQA SRL UNIPERSONALE",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO ZETA S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "MEDIASPORT GROUP S.P.A.",
+            "Città": "Vaprio d'Agogna",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELETUTTO BRESCIASETTE S.R.L. IN BREVE 'TELETUTTO S.R.L.'",
+            "Città": "Brescia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "PEER GMBH",
+            "Città": "",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RETE 7 S.P.A.",
+            "Città": "Torino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "UMBRIA TELEVISIONI SRL",
+            "Città": "Perugia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "FMC MEDIA SRL UNIPERSONALE",
+            "Città": "San Giovanni Rotondo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RUNNING TV INTERNATIONAL S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "PRIVERNO S.A.S. DI BESSI LORIANO \u0026 C.",
+            "Città": "Ponsacco",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "GOLD TV S.R.L.",
+            "Città": "Terracina",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO LIBERTA' SOCIETA' COOPERATIVA",
+            "Città": "Monza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "CONTRORADIO S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "S.E.R. - SERVIZI EDITORIALI E RADIOFONICI S.R.L.",
+            "Città": "Alessandria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO GAMBELLARA SRL",
+            "Città": "Valdagno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "MULTIMED COMUNICAZIONI S.R.L.",
+            "Città": "Pozzilli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Isernia"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO BOLOGNA INTERNATIONAL SRL",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "LATROUPE S.R.L. - PRODUZIONI TELEVISIVE",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "INCREMENTO FINANZIARIO S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "SEILATV SRL",
+            "Città": "Treviolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "FUTURA 2000 S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "MEDIACINQUE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO STELLA NEWS SRL",
+            "Città": "Modena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "MEDIA TEAM COMMUNICATION S.R.L.",
+            "Città": "Vigevano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "GRUPPO AIR SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "NUOVA RADIOVERONICA ONE S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO REPORTER SRL UNIPERSONALE",
+            "Città": "Ponsacco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "XMEDIA GROUP S.R.L.",
+            "Città": "Empoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "STELLA SRL",
+            "Città": "Teggiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "51 MEDIA ADV SRL",
+            "Città": "Sabbio Chiese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "LADY RADIO S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "LED PRODUZIONI TELEVISIVE SOCIETA' A RESPONSABILITA' LIMITAT",
+            "Città": "Squillace",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "A.R.C. RETE 101 S.R.L.",
+            "Città": "Paternopoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "PROMO ITALIA SRL",
+            "Città": "Siracusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TANGO S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "ANTENNA DEL MEDITERRANEO",
+            "Città": "Capo d'Orlando",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO C - 104 S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO PUGLIA SRL",
+            "Città": "Castellana Grotte",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TRC TELE RADIO COMUNICAZIONI SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO VERONA SRL SOCIETA' UNIPERSONALE",
+            "Città": "Verona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "DIGIMEDIA SRL",
+            "Città": "Agrigento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELE IRIDE SCARL",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "N.T.I. MEDIA SOCIETA' COOPERATIVA",
+            "Città": "Chianciano Terme",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO ANTENNA 1 SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TELEREGIONE S.R.L.",
+            "Città": "Barletta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO HOLDING S.R.L.",
+            "Città": "Canosa di Puglia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "SPORT CHANNEL S.R.L.",
+            "Città": "Serino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ALTRE RETI PUBBLICITA' SRL.",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "NOVENOVE SRL",
+            "Città": "Atessa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TELERADIO CREMONA CITTANOVA SOCIETA' COOPERATIVA A RESPONSAB",
+            "Città": "Cremona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "SUPERSOUND GROUP S.R.L.",
+            "Città": "Guspini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO STUDIO CENTRALE SOC. COOP.",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO CENTRALE RADIODIFFUSIONE PRIVATA S.R.L.",
+            "Città": "Cesena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "C.R.C. CENTRO RADIODIFFUSIONE CAMPANIA SRL",
+            "Città": "Mugnano di Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "GRUPPO CINQUE S.R.L.",
+            "Città": "Poppi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "ONLINE SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Castelplanio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "CONFORTI SRL",
+            "Città": "Trapani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO CENTRALE SRL",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "PUNTO RADIO TV S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "MUSIC RADIO SRL",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "MEDIA SRL",
+            "Città": "Trento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "ESLIFE INNOVATION S.R.L.S.",
+            "Città": "Marsala",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO SPAZIO BLU SRL",
+            "Città": "Gaeta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "SUPER 3 - SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "ABRUZZO TV S.R.L.",
+            "Città": "Avezzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "L'Aquila"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "MEDIA SRL",
+            "Città": "Trapani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "R.T.O. S.R.L.",
+            "Città": "Verbania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "MONDORADIO TUTTIFRUTTI SRL",
+            "Città": "Tricase",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO BUSSOLA 24 S.R.L.",
+            "Città": "Salerno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "G.S.G. GROUPE SPACE GLOBE MITTELEUROPA S.R.L. IN LIQUIDAZION",
+            "Città": "Gorizia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "M.M.P.I. MASS MEDIA PRODUZIONI ITALIA",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "AGI - S.R.L.",
+            "Città": "Potenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "T.E.F. S.R.L.",
+            "Città": "Perugia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIOPORDENONE S.R.L.",
+            "Città": "Pordenone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO LATINA SOCIETA' COOPERATIVA",
+            "Città": "Latina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "MEDIA SOCIETA' COOPERATIVA A R.L.",
+            "Città": "Roccella Ionica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "ONDA RADIO SERVICE S.R.L.",
+            "Città": "Valsamoggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO CORTINA S.R.L.",
+            "Città": "Cortina d'Ampezzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO IN SRL",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "LATTEMIELE PUGLIA S.R.L.",
+            "Città": "Canosa di Puglia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "AL\u0026DO COMUNICATION S.R.L.",
+            "Città": "Cuneo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "SUONI SALENTO S.R.L.",
+            "Città": "Tricase",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TLT MOLISE SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Trivento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TELE 2000 S.R.L.",
+            "Città": "Urbino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "MEDIARADIO SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "STUDIO 90 S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RETE 8 SRL",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIOBLU S.R.L.",
+            "Città": "Fabriano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "COPASS - COOPERATIVA PUBBLICHE ASSISTENZE SOCCORSO SOCIO SAN",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TELECITTA' SRL",
+            "Città": "Vigonza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "L'INFORMAZIONE NUOVA - COOPERATIVA DI GIORNALISTI E OPERATOR",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "R.C. 29 SOC. COOP. A R.L.",
+            "Città": "Viadana",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "'LASER MEDIA SOCIETA' COOPERATIVA'",
+            "Città": "Pisticci",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELE SARDEGNA S.R.L.",
+            "Città": "Nuoro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TECHNOLOGY SERVICE PUGLIA S.R.L.",
+            "Città": "Fasano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO PIEMONTE SOUND S.R.L.",
+            "Città": "Cuneo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "ABRUZZIA S.R.L. SEMPLIFICATA",
+            "Città": "Pescara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "JOINT S.R.L.",
+            "Città": "Crotone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Crotone"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "STUDIO ELLE S.R.L.",
+            "Città": "Cesinali",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "CLUB SERVICE S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "UMBRIA MEDIA SRL",
+            "Città": "Corciano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO ANTENNA UNO SRL",
+            "Città": "Viagrande",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "NOVA SUGHERETO SOCIETA' COOPERATIVA",
+            "Città": "San Sostene",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TELERITMO T.R. S.R.L.",
+            "Città": "Cassano Magnago",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "NEW RADIO CLODIA S.R.L.",
+            "Città": "Chioggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO CLUB 103 SRL",
+            "Città": "Valle di Cadore",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "VALCOMUNICAZIONI S.R.L.",
+            "Città": "Sassano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "MEDIA POP ITALIA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIF",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "MEDIA COMMUNICATION S.R.L.",
+            "Città": "Monopoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TELEGRANDA S.R.L.",
+            "Città": "Cuneo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "EIDON IMMAGINI E PAROLE IN MOVIMENTO SRL",
+            "Città": "Cologno Monzese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO C1 SRL",
+            "Città": "Pescara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "R.T.M. (RADIO TRASMISSIONI MODICA) S.R.L.",
+            "Città": "Modica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "MULTI RADIO SRL",
+            "Città": "Massafra",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RTM RETE TELEVISIVA MARCHE S.R.L.",
+            "Città": "Folignano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ascoli Piceno"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "STUDIO 5 SRL",
+            "Città": "Atessa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TELE SOL REGINA SRL",
+            "Città": "Soresina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO AUGUSTA PERUSIA SOCIETA' COOPERATIVA",
+            "Città": "Perugia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO SPAZIO 103 S.R.L. A SOCIO",
+            "Città": "Udine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "PONTINA INFORMAZIONI SRL",
+            "Città": "Latina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "FRA DIEGO LA MATINA SOCIETA' COOPERATIVA",
+            "Città": "Racalmuto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RADIO MONTEIASI PICCOLA SOC.COOP. A R.L.",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "PUBLIAUDIO S.R.L.",
+            "Città": "Ponsacco",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "C.R.DAB. CONSORZIO RADIO DIGITALE",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO ARGENTO S.R.L.",
+            "Città": "Monopoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "G.P.M. COMMUNICATION SOCIETA' COOPERATIVA",
+            "Città": "Nova Siri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "SESTA RETE EMITTENTE TELEVISIVA TOSCANA SOC.COOP",
+            "Città": "Pontassieve",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO INCONTRO COOP.A RESP.LIM.",
+            "Città": "Pisa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELEVALLASSINA SRL",
+            "Città": "Asso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO SUPERLECCO - TV - S.R.L.",
+            "Città": "Malgrate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO INTERNATIONAL S.R.L.",
+            "Città": "Pescara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "DIGILOC SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "SEVEN MUSIC ENTERTAINMENT SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TERRANOVA TV SARDEGNA S.R.L.",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "PROGRAM SERVICE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO RVA S.R.L.",
+            "Città": "Asiago",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "WESTGARDA TV S.R.L.",
+            "Città": "Padenghe sul Garda",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO G GIULIANOVA SRL",
+            "Città": "Giulianova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO TADINO S.R.L.",
+            "Città": "Gualdo Tadino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "LABORADIO SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "AZZURRA - SOCIETA' COOP.A.R.L.",
+            "Città": "Belvedere Marittimo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "MEDIAEURO S.R.L.",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RMS - RADIO MEDIA SERVICE GMBH",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "COMUNICARE SOCIETA' COOPERATIVA",
+            "Città": "Marsicovetere",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "5G PRODUZIONI SRL",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "DOMINA SOCIETA' COOPERATIVA",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "S.T.V. SRL",
+            "Città": "Rapallo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "COOPERATIVA RADIO BUDRIO A R.L.",
+            "Città": "Budrio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "R.S. PRODUZIONI SRL UNIPERSONALE",
+            "Città": "Avola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RTIN RADIO TERAMO IN SRL",
+            "Città": "Teramo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO AUT SRL",
+            "Città": "Assisi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "VISIONE TV SRL",
+            "Città": "Gioia Tauro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "G.R. RADIO ONDA S.R.L.",
+            "Città": "Putignano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO L'OLGIATA TRASMISSIONI SOC.RL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ADRIA DAB MARCHE SOCIETA' CONSORTILE A R.L.",
+            "Città": "Civitanova Marche",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "PEK COMMUNICATIONS S.R.L.",
+            "Città": "Cosenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ADRIA DAB ABRUZZO SOCIETA' CONSORTILE A R.L.",
+            "Città": "Civitanova Marche",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "MEDIAEUROPE S.R.L.",
+            "Città": "Sezze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "SFM SRL",
+            "Città": "Passignano sul Trasimeno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "DIGITAL RADIO GROUP S.C.A.R.L.",
+            "Città": "Guspini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO 5 SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "San Giovanni la Punta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO VELA INTERNATIONAL DI RICCIONI ERNESTO \u0026 C. S.A.S.",
+            "Città": "Cerreto d'Esi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "COOPERATIVA CULTURALE LABORATORIO 2001 - SOCIETA' COOPERATIV",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "DINAMICA DI ZINI IVANO E C. S.A.S.",
+            "Città": "Bologna",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "PALLOTTA GROUP S.R.L.",
+            "Città": "Cervinara",
+            "Fatturato": "",
+            "Provincia": "Avellino"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "R.E.I. - S.R.L.",
+            "Città": "Ferrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO BRUNO SOCIETA' COOPERATIVA",
+            "Città": "Carpi",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "VISIOSPOT S.R.L.",
+            "Città": "Carpi",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "GRUPPO RPM S.R.L. SOCIETA' BENEFIT",
+            "Città": "Mirandola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "TELETRURIA 2000 SRL",
+            "Città": "Arezzo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TV1 SRL",
+            "Città": "Montevarchi",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TVR TELEITALIA S.R.L.",
+            "Città": "Campi Bisenzio",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RTV 38 S.P.A.",
+            "Città": "Figline e Incisa Valdarno",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELEMAREMMA SRL",
+            "Città": "Grosseto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TELEGRANDUCATO DI TOSCANA SRL",
+            "Città": "Livorno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "CANALE 50 S.R.L.",
+            "Città": "Pisa",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TV LIBERA S.P.A.",
+            "Città": "Pistoia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIOSIENATV S.R.L.",
+            "Città": "Siena",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "CANALE MARCHE S.R.L.",
+            "Città": "Ancona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TV CENTRO MARCHE S.P.A.",
+            "Città": "Jesi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TVP ITALY S.R.L.",
+            "Città": "San Benedetto del Tronto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO SUBASIO SRL",
+            "Città": "Assisi",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO TIFERNO UNO SAS DI TARDUCCI ASSUNTA \u0026 C.",
+            "Città": "",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELEUNIVERSO SRL",
+            "Città": "Aquino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TELEMONTEGIOVE S.R.L.",
+            "Città": "Terracina",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO DELTA 1 - S.R.L.",
+            "Città": "Atessa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RETE 8 S.R.L.",
+            "Città": "Chieti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "MEDIASIX S.R.L.",
+            "Città": "Silvi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RADIO TELE MOLISE S.R.L.",
+            "Città": "Frosolone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Isernia"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "EBC EUROPEAN BROADCASTING COMPANY SRL",
+            "Città": "Isernia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Isernia"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "NUVOLA TV",
+            "Città": "Barano d'Ischia",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO ONDA LIGURE 101 S.A.S. DI MARZIANO MARIO \u0026 C.",
+            "Città": "Albenga",
+            "Fatturato": "",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "R.A.V. RADIO ANTENNA VERDE - T.V. S.A.S. DI DI COLA",
+            "Città": "Castelforte",
+            "Fatturato": "",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO BOMBO DI VALENZIANO FELICE \u0026 C.S.A.S.",
+            "Città": "Trani",
+            "Fatturato": "",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "PAOLICCHI GIONATA",
+            "Città": "Montignoso",
+            "Fatturato": "",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ASSOCIAZIONE TREDICI 2010 APS",
+            "Città": "Acerra",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "PUBLINVEST DI MONTAGNIN R. S.A.S",
+            "Città": "Parma",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO STUDIO STAR SAS DI DRESTI MASSIMO \u0026 C.",
+            "Città": "Cannobio",
+            "Fatturato": "",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RCL MUSIC SOUND S.A.S. DI BURGIO FABIO \u0026 C.",
+            "Città": "Monte San Giusto",
+            "Fatturato": "",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "ASSOCIAZIONE DREAMER",
+            "Città": "Giugliano in Campania",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "MAGNA GRECIA MEDIA AND TV S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RAMACCIOTTI VALERIO",
+            "Città": "Porcari",
+            "Fatturato": "",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "VENETO24 S.R.L.",
+            "Città": "Vigonza",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "VOCE RADIO KOLBE APS",
+            "Città": "Rovigo",
+            "Fatturato": "",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ARCI FIRENZE APS",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ASSOCIAZIONE MULTIMEDIA",
+            "Città": "Sanremo",
+            "Fatturato": "",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "FAROMA - S.R.L. SEMPLIFICATA",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO DELTA INTERNATIONAL SAS",
+            "Città": "Nerviano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO CUORE DI GIOVANNA MARIA FENU \u0026 C. S.A.S.",
+            "Città": "Oristano",
+            "Fatturato": "",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO 3 NETWORK DI ROPPOLO MIRCO E C S.A.S.",
+            "Città": "Poggibonsi",
+            "Fatturato": "",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO SONNENSCHEIN KG D. WIEDENHOFERN WALTER \u0026 CO.",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "VALLILAND RADIO SRL",
+            "Città": "Schio",
+            "Fatturato": "",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "ASSOCIAZIONE RADIO UNA VOCE VICINA",
+            "Città": "Carlentini",
+            "Fatturato": "",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ONDA MEDIA DI MASSIMO LOMBARDI",
+            "Città": "Vicenza",
+            "Fatturato": "",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "MOVIE BOX S.N.C. DI PARODI A. \u0026 C.",
+            "Città": "Genova",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO PIU' 97800 MHZ DI MEZZACASA MIRCO \u0026 C. S.N.C.",
+            "Città": "Taibon Agordino",
+            "Fatturato": "",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO MARGHERITA S.A.S. DI CILLUFFO GIUSEPPA MARIA \u0026 C.",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "A.C.R.C. - ASSOCIAZIONE CULTURALE RADIOFONICA COMUNITARIA",
+            "Città": "Bergamo",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ASSOCIAZIONE RADIO EMPIRE 1985 ETS",
+            "Città": "Furci Siculo",
+            "Fatturato": "",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "WORLD VISION S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "NIGHT AND DAY DI CARCASSI LUCA SAS",
+            "Città": "Capoterra",
+            "Fatturato": "",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "OBERON MEDIA INTERNATIONAL S.R.L. IN BREVE OBERON INTERNATIO",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO SOUND SNC DI ALBERGHINI SANDRO \u0026 C.",
+            "Città": "Codigoro",
+            "Fatturato": "",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "CIRCOLO ARCI PUNTO RADIO",
+            "Città": "Cascina",
+            "Fatturato": "",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELETURCHINO SRL",
+            "Città": "Padova",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO MONTE VELINO SAS",
+            "Città": "Avezzano",
+            "Fatturato": "",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO BASE AGRO LA VOCE CATTOLICA",
+            "Città": "Pagani",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO STUDIO NORD DI MUNER L. \u0026 C. SAS",
+            "Città": "Tolmezzo",
+            "Fatturato": "",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ASSOCIAZIONE ROMANTICA RADIO",
+            "Città": "Salerno",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "N.B.C. RADIO S.A.S. DI NANNARONE ROSANNA \u0026 C.",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO VAL DEL LAGO SNC DI PIERO PRATESI E C.",
+            "Città": "Verbania",
+            "Fatturato": "",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ASSOCIAZIONE RADIO FIORENZUOLA",
+            "Città": "Piacenza",
+            "Fatturato": "",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO STUDIO 92 - S.N.C. DI BERTOLI VINCENZO E BERTOLI STEFA",
+            "Città": "Domodossola",
+            "Fatturato": "",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "EDIZIONI RADIO DI PONZIO UGO E C. S.A.S.",
+            "Città": "Novara",
+            "Fatturato": "",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "CINE RADIO SUD SNC DI URCIUOLI ANNIBALE E C.",
+            "Città": "Cesinali",
+            "Fatturato": "",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TRO - TELE-RADIO-ORTE ASSOCIAZIONE CULTURALE",
+            "Città": "Orte",
+            "Fatturato": "",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO LEVANTO VAL DI VARA COOP.R.L.",
+            "Città": "Levanto",
+            "Fatturato": "",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO TAUSIA DI MOROCUTTI FEDERICO",
+            "Città": "Treppo Ligosullo",
+            "Fatturato": "",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ASSOCIAZIONE RADIO DOMANI",
+            "Città": "Orte",
+            "Fatturato": "",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "VIDEOIMAGE DI COLANGELO DONATO \u0026 C. S.A.S.",
+            "Città": "Potenza",
+            "Fatturato": "",
+            "Provincia": "Potenza"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ASSOCIAZIONE STUDENTESCA UNIVERSITARIA UNICA RADIO",
+            "Città": "Cagliari",
+            "Fatturato": "",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO FLASH ITALIA SOCIETA' IN ACCOMANDITA SEMPLICE DI SLUGA",
+            "Città": "Muggia",
+            "Fatturato": "",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "MEDIA 365 SAS DI MARASSI STEFANO E C.",
+            "Città": "Muggia",
+            "Fatturato": "",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "PUPIA DI AQUILANTE ANDREA",
+            "Città": "Gricignano di Aversa",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RETE 5 S.A.S. DI VANTAGGIATO ETTORE \u0026 C.",
+            "Città": "Copertino",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "SPAZIO 3 SNC DI LOREDANA ROSSI \u0026 ROBERTO TOMATIS",
+            "Città": "Omegna",
+            "Fatturato": "",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RETEEUROPA S.R.L.",
+            "Città": "San Giovanni al Natisone",
+            "Fatturato": "",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ASSOCIAZIONE CULTURALE IDEA RADIO ALTERNATIVA",
+            "Città": "Latiano",
+            "Fatturato": "",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO PROPOSTA AOSTA",
+            "Città": "Aosta",
+            "Fatturato": "",
+            "Provincia": "Aosta"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "BD PRODUCTION DI DENEGRI BEBA",
+            "Città": "Genova",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ASSOCIAZIONE RADIO 2.0",
+            "Città": "Costa Serina",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RTV S.R.L. A SOCIO UNICO",
+            "Città": "Pomezia",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO STUDIO 93 DI MARIO DE VITA SAS",
+            "Città": "Aprilia",
+            "Fatturato": "",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "MBCOM S.R.L.",
+            "Città": "Parma",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "FONDAZIONE GABBIANO",
+            "Città": "Senigallia",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "VIDEO ITALIA PUGLIA",
+            "Città": "Corato",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO NORD DI THALMANN HERTA \u0026 C. - SNC",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "FISHBONE CREEK DI ALESSIO MAZZOLOTTI \u0026 C. SAS",
+            "Città": "Candelo",
+            "Fatturato": "",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "ASSOCIAZIONE PROMOCULTURA",
+            "Città": "Gerace",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "G.R.A. S.R.L.",
+            "Città": "San Benedetto del Tronto",
+            "Fatturato": "",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RACCHELLA MARCO",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "DIECI \u0026 LODE DI CECCHELLA ANDREA \u0026 SVALUTO MOREOLO PIERLUIGI",
+            "Città": "Belluno",
+            "Fatturato": "",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "MEDIA GROUP S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "ASSOCIAZIONE CULTURALE RICREAT IVA 'LA TV DI GWENDALINA'",
+            "Città": "Vallo della Lucania",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO DANCE DI STEFANO MARASSI \u0026 C. - S.A.S.",
+            "Città": "Trieste",
+            "Fatturato": "",
+            "Provincia": "Trieste"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "FANO TV",
+            "Città": "Fano",
+            "Fatturato": "",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "NUOVA RADIO PICK-UP - SOCIETA' IN ACCOMANDITA SEMPLICE DI NE",
+            "Città": "Poggibonsi",
+            "Fatturato": "",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "CIRCOLO CULTURALE RADIOFONICO STUDIO DUE RADIO FLASH APS",
+            "Città": "Centuripe",
+            "Fatturato": "",
+            "Provincia": "Enna"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "OPEN AREA SRL",
+            "Città": "Avigliana",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "R.C.A. (RADIO COSTIERA AMALFITANA) DI N. ACAMPORA \u0026 C. S.N.C",
+            "Città": "Amalfi",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO GHERDEINA KG DES RABANSER THOMAS \u0026 CO.",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "ASSOCIAZIONE RADIO NUOVA VOMERO",
+            "Città": "Arzano",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO STUDIO DELTA SNC",
+            "Città": "Cesena",
+            "Fatturato": "",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ARTE \u0026 MUSICA",
+            "Città": "Monfalcone",
+            "Fatturato": "",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RETE BRIANZA DI BOVETTI GIANLUIGI \u0026 C. SAS",
+            "Città": "Cuneo",
+            "Fatturato": "",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "CANOSA CENTRO SNC DI D'ELIA GERARDO \u0026 C.",
+            "Città": "Canosa di Puglia",
+            "Fatturato": "",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "HELICAM VISION DI D'AMBROSIO GIOVANNI",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO CEREA DI CAGALLI MARTINA \u0026 C. S.A.S.",
+            "Città": "Casaleone",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO FREJUS DI SALZANO ASSUNTA \u0026 C SAS",
+            "Città": "Bussoleno",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TV MULTIMIDIA SRL",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "STUDIO 101 DI CAULI VALERIA E C. S.A.S.",
+            "Città": "Cagliari",
+            "Fatturato": "",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "ASSOCIAZIONE FEBEA",
+            "Città": "Reggio di Calabria",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "ASSOCIAZIONE AMICI DI TELEPACE",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "BLURADIO S.N.C. di LADDOMANDA MICHE \u0026 C.",
+            "Città": "Crispiano",
+            "Fatturato": "",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "FEDERAZIONE DELLE CHIESE EVANGELICHE IN ITALIA",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "ASSOCIAZIONE RADIO PARROCCHIALE DI CHIARI",
+            "Città": "Chiari",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELENORD - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Genova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "EDITRICE RADIO TREVISO ALFA S.R.L.",
+            "Città": "Castelfranco Veneto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "PUBBLIKAPPA SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "NOI TV S.R.L.",
+            "Città": "Barga",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lucca"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "POWER RADIO SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO 2000 SRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO ITALIA ANNI 60 S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "PLANET S.R.L.",
+            "Città": "Legnano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "PALACAVICCHI TV S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "R.D.F. S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO PUNTO ZERO SRL",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "KIDCO SERVICES SRL",
+            "Città": "Avezzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "B33 SRL",
+            "Città": "Trento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "EDITRICE REPORTER II S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "S.I. SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO HOLIDAY GMBH",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "VIDEO REPORTER S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO LINEA SRL",
+            "Città": "Civitanova Marche",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "Q S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO GAMMA SRL",
+            "Città": "Savignano sul Rubicone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELE RENT S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO ITALIA - TRENTINO ALTO ADIGE S.R.L. IN SIGLA RADIO ITA",
+            "Città": "Trento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TRD ITALIA SRL",
+            "Città": "Ponso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "M.B.M. RADIOQUATTRO TELEQUATTRO S.R.L.",
+            "Città": "San Miniato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "ANTENNA 2 S.R.L.",
+            "Città": "Clusone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TRIANGLE PRODUCTION S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RBC SRL",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO SOUND S.R.L.",
+            "Città": "Piacenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "LUCKYMEDIA S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO COMMUNICATION SERVICE SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO MONTE KRONIO SOCIETA' COOPERATIVA",
+            "Città": "Sciacca",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO TELEVISIONE BARBAGIA SOCIETA' COOPERATIVA",
+            "Città": "Nuoro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Nuoro"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "OTTO PRODUCTION S.R.L.",
+            "Città": "Avellino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO PUNTO NUOVO SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TEA SRL",
+            "Città": "Mercogliano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "T.G.S. - TELEVISION GAMBUTI SYSTEM",
+            "Città": "San Salvatore Telesino",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Benevento"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TELELUNA S.R.L.",
+            "Città": "Caserta",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TELECAPRI SRL",
+            "Città": "Capri",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "NAPOLI CANALE 21 SRL",
+            "Città": "Pozzuoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TV OGGI - S.R.L.",
+            "Città": "Salerno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELE - DIOCESI SALERNO S.R.L.",
+            "Città": "Salerno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "LASER SRL UNIPERSONALE",
+            "Città": "Salerno",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "MEDIATELECOM SOCIETA' COOPERATIVA",
+            "Città": "Teggiano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "DELTA TV S.R.L.",
+            "Città": "Casamassima",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELENORBA S.P.A.",
+            "Città": "Conversano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "GENETIKO COMMUNICATION SPA",
+            "Città": "Conversano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "CANALE 7 SRL",
+            "Città": "Monopoli",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELE DEHON S.R.L.",
+            "Città": "Andria",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "SO.G.E.P. SRL",
+            "Città": "Andria",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Barletta-Andria-Trani"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "CICCIO RICCIO SRL",
+            "Città": "Brindisi",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "CANALE 85 SRL",
+            "Città": "Francavilla Fontana",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "FONDAZIONE VOCE DI PADRE PIO",
+            "Città": "Foggia",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TELEFOGGIA SRL",
+            "Città": "Foggia",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO VIDEO CALABRIA 99 SRL",
+            "Città": "Crotone",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Crotone"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "ESPERIA TV SRL",
+            "Città": "Crotone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Crotone"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "DIEMMECOM SOCIETA' EDITORIALE - S.R.L. (IN BREVE DIEMMECOM)",
+            "Città": "Vibo Valentia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Vibo Valentia"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "R.E.I. CANALE 103 S.R.L.",
+            "Città": "Acireale",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "OFELIA COMUNICAZIONI SRL",
+            "Città": "Acireale",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "R.M.B. S.R.L.",
+            "Città": "Belpasso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "ACCADEMIA DI PROFESSIONI E CULTURA EUROPEA S.R.L. (ABBREVIAT!!SRLS",
+            "Città": "Acquedolci",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "R.T.P. - RADIO TELEVISIONE PELORITANA S.R.L.",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "MEDIA ONE SRL",
+            "Città": "Bagheria",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "TELERADIO REGIONE SRL",
+            "Città": "Modica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "R.V.M. SRL",
+            "Città": "Modica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO G.R.P. - GIORNALE RADIO PIEMONTE - S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "P.T.V. - PROGRAMMAZIONI TELEVISIVE SOCIETA' PER AZIONI",
+            "Città": "Genova",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO LAGOUNO S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TELERADIODIFFUSIONI BERGAMASCHE S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO ITALIA S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "SKY ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO STUDIO 105 SPA",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "ERREPI SPA",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "NOVARADIO A SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "ROS \u0026 ROS SRL",
+            "Città": "Bollate",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "AUTORADIOTASSI SOCIETA COOPERA",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIO ITALIA UNO SRL",
+            "Città": "Padova",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TRIVENETA S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELEPADOVA S.P.A.",
+            "Città": "Padova",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "UNISET SRL",
+            "Città": "Padova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELEARENA SPA",
+            "Città": "Verona",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "EDITRICE T.N.V. S.P.A.",
+            "Città": "Verona",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "MEDIA \u0026 MEDIA 93 SRL UNIPERSONALE",
+            "Città": "Bologna",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bologna"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RETE 7 S.R.L. A SOCIO UNICO",
+            "Città": "Bologna",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "GTV S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "MEDIATEXT S.R.L.",
+            "Città": "Modena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RADIO TV PARMA SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TRMEDIA SRL",
+            "Città": "Reggio nell'Emilia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO MONTE SERRA SRL",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TOSCANA TV S.R.L.",
+            "Città": "Prato",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TV PRATO SRL",
+            "Città": "Prato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ELEMEDIA S.P.A.",
+            "Città": "Torino",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "ANICAFLASH S.R.L",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RTI SPA",
+            "Città": "Cologno Monzese",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "ARSENALE 23 SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RADIO DIMENSIONE SUONO - SOCIETA' PER AZIONI",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "CENTRO DI PRODUZIONE SOCIETA' PER AZIONI O, NELLA FORMA ABBR",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RETE ORO - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "CANALE DIECI S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "CANALE OTTO SRL",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "TELEVOMERO SRL",
+            "Città": "Napoli",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELEOGGI SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELECOLOR INTERNATIONAL T.C.I. S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "SOCIETA' INDUSTRIALE GRAFICA EDITORIALE S.I.G.E. S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "T.G.S. TELEGIORNALE DI SICILIA S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELE COSTA SMERALDA SRL",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "60.00.00",
+            "Azienda": "RADIOLINA S.R.L.",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RAI - RADIOTELEVISIONE ITALIANA S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "LA7 SPA",
+            "Città": "Roma",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "HEARST NETWORKS ITALIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RETE BLU SPA",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "GLOBO VINTAGE - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "NEXT STUDIOS SRL",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "ITALIA SPORT COMMUNICATION SRL",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "BYOBLU EDIZIONI SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFI",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "CR1 COMMUNICATIONS SRL",
+            "Città": "Cremona",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "SESTARETE \u0026 RETE 8 S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "GRUPPO EDITORIALE TRENTINO SRL",
+            "Città": "Trento",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "LA SICILIA MULTIMEDIA S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "MEDIA ITALIA TV SRL",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELEVENEZIA S.R.L. OPPURE TELEVENEZIA 1 OPPURE TELEVENEZIA",
+            "Città": "Venezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "CANALE 9 SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "STUDIO TV 1 NEWS S.R.L.",
+            "Città": "Cremona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "FASCINO SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "CERAMICANDA S.R.L. CON UNICO SOCIO",
+            "Città": "Casalgrande",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TRM NETWORK S.R.L.",
+            "Città": "Matera",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "PRONTO GOLD TELEVISION SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "FTM ENTERTAINMENT S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "PIER STYLE SRL",
+            "Città": "Botticino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "SPOTINVEST SRL",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "LA NUOVA S.R.L.",
+            "Città": "Potenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "CANALE ITALIA DUE - S.R.L.",
+            "Città": "Rubano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "ITALO S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RETE 55 EVOLUTION S.P.A.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "SUPER TV S.R.L.",
+            "Città": "Corzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "EDITORIALE VIBRATA S.R.L.",
+            "Città": "Teramo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "CM COMUNICAZIONE SRL",
+            "Città": "Macerata",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TVRS S.R.L.",
+            "Città": "Recanati",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "VERSO IL SOLE SRL",
+            "Città": "Campobasso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "BOBBIESE COMUNICAZIONE SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "GRP RETI SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "DI.TV S.R.L.",
+            "Città": "Imola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "EI ITALIA - S.R.L.",
+            "Città": "Rubano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELELIBERTA' S.P.A.",
+            "Città": "Piacenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TV QUI S.P.A.",
+            "Città": "Modena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "NEWS MEDIA PRODUCTIONS SOCIETA' A RESPONSABILITA' LIMITATA S",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RADIO TELE SONDRIO NEWS S.R.L.",
+            "Città": "Sondrio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "ITALIAN FISHING TV S.R.L.",
+            "Città": "Arezzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "CAVA SVILUPPO COMMUNICATION SRL",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "ROSSINI COMMUNICATION S.R.L.",
+            "Città": "Pesaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pesaro e Urbino"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "EDIZIONI LIGURI SRL",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELESUD 3 S.R.L.",
+            "Città": "Trapani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "MEDIASTAR S.R.L.",
+            "Città": "Floridia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "VOXSON TV S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "IRPINIA TV S.R.L.",
+            "Città": "Avellino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "MARCHE UNO TV SOCIETA' A RESPONSABILITA' LIMITATA ENUNCIABIL",
+            "Città": "Ancona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RPIUNEWS S.R.L.S.",
+            "Città": "Teramo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "ALFA GI PRODUZIONI EDITORIALI INTEGRATE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "BETANEWS S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "IL TREDICI S.R.L.",
+            "Città": "Pordenone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "BETA S.P.A.",
+            "Città": "Recanati",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "I.T.R. - INTERNATIONAL TELE RADIO S.R.L. IN SIGLA I.T.R. S.R",
+            "Città": "Sora",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "STUDIO TRAK SRL",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "AMBROSIANA S.R.L.",
+            "Città": "Liscate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "DI.TV MULTIMEDIA SRL",
+            "Città": "Imola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "AZIENDA MANUTENZIONI MECCANICHE A.M.EL.",
+            "Città": "Messina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "LIMES S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "VIDEONOLA SOCIETA' A RESPONSABILITA' LIMITATA UNIPERSONALE",
+            "Città": "Nola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RAINBOW MEDIA COMMUNICATION S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TIBUR RADIO TELESERVIZI - SOCIETA A RESPONSABILITA LIMITATA",
+            "Città": "Tivoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "SERENISSIMA TELEVISIONE SRL UNIN",
+            "Città": "Rubano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "VIDEONEWS SRL",
+            "Città": "Arezzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "VIDEOSICILIA TRAPANI - S.R.L. .",
+            "Città": "Alcamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RETI.MUX S.R.L.",
+            "Città": "Lecce",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "MEDIATRUST - S.R.L.",
+            "Città": "Potenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "FINMEDIA SRL",
+            "Città": "Gela",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELERADIO FUTURA NISSA SRL",
+            "Città": "Caltanissetta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "FIN TELEVISION S.R.L.",
+            "Città": "Teramo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TRS SRL",
+            "Città": "Vailate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "AGONSET.IT S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RVM MEDIA COMUNICATION SRL",
+            "Città": "Alcamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "COSMO AIR SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TNT S.R.L.",
+            "Città": "Zola Predosa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        }
+    ],
+    [
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "MEDIA MASTER PRESS SRL",
+            "Città": "Gela",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "CENTRO ITALIA TRASMISSIONI RADIO LUNA S.R.L.",
+            "Città": "Avezzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "MEDIA24 SRL",
+            "Città": "Pordenone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "SOCIAL MULTISERVICE COOPERATIVA",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RTV SRL",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "DAVIDE S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "DIFFUSIONI TELEVISIVE S.R.L.",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "MEDIA EVENTI SRLS",
+            "Città": "Caltagirone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "TELEREGIONE TOSCANA SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Prato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "EDICOLA WEB - S.R.L. SEMPLIFICATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "FAST - S.R.L. SEMPLIFICATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "RM\u0026C GROUP S.R.L.",
+            "Città": "Prato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "IKIGAI - SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.20.00",
+            "Azienda": "A.M. TERNI CHANNEL S.R.L.",
+            "Città": "Terni",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "PRIMA TV SPA",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "CN MEDIA SRL",
+            "Città": "Napoli",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "MONRADIO SRL",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "VIRGIN RADIO ITALY SPA",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RMC ITALIA SPA",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "RITZLAND RECORDS SRL SOCIO UNICO",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "FINRADIO SRL SOCIO UNICO",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "MULTIRADIO S.R.L.",
+            "Città": "Salerno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "P - SPHERA S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "C - SPHERA S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "60.10.00",
+            "Azienda": "ITALIAN BROADCASTING COMPANY S.R.L. IN FORMA ABBREVIATA IBC",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        }
+    ]
+]

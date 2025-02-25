@@ -1,0 +1,144 @@
+[
+    [
+        {
+            "Ateco": "09.10.00",
+            "Azienda": "GREENPUMPS S.R.L.",
+            "Città": "Sant'Angelo di Piove di Sacco",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "09.10.00",
+            "Azienda": "NATIONAL SERVICE COMPANY SRL",
+            "Città": "Potenza Picena",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "09.10.00",
+            "Azienda": "PETROSERVICES MEDITERRANEA S.R.L.",
+            "Città": "Siracusa",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "09.90.01",
+            "Azienda": "ARENA MOVIMENTO TERRA SRL",
+            "Città": "Enna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Enna"
+        },
+        {
+            "Ateco": "09.10.00",
+            "Azienda": "UNIVERSAL ENERGY SERVICES S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "09.10.00",
+            "Azienda": "SAROMAR SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "09.10.00",
+            "Azienda": "INSTALL SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Napoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "09.10.00",
+            "Azienda": "DIVING OFFSHORE WORKS CONSULTANCY SRL",
+            "Città": "Ravenna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "09.10.00",
+            "Azienda": "BOOSTECH SOLUTIONS S.R.L.",
+            "Città": "Chieti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        },
+        {
+            "Ateco": "09.10.00",
+            "Azienda": "TRINACRIA DRILLING SERVICES S.R.L.",
+            "Città": "Modica",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ragusa"
+        },
+        {
+            "Ateco": "09.10.00",
+            "Azienda": "SISMOELETTRICA S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "09.10.00",
+            "Azienda": "PENGAS ITALIANA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "09.90.01",
+            "Azienda": "SER-ENGINEERING SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFI",
+            "Città": "Firenzuola",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "09.90.01",
+            "Azienda": "INERTI BRESCIA S.R.L. SOCIETA' UNIPERSONALE",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "09.90.09",
+            "Azienda": "PERFOR S.R.L.",
+            "Città": "Caprie",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "09.90.09",
+            "Azienda": "FIL-SEP ENG. SRLS",
+            "Città": "Gallarate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "09.90.09",
+            "Azienda": "TECNOCOSTRUZIONI S.R.L.",
+            "Città": "Rimini",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "09.90.09",
+            "Azienda": "LEARTEK.IT S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "09.90.00",
+            "Azienda": "MINOTTI CAVE S.R.L.",
+            "Città": "Frosinone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Frosinone"
+        },
+        {
+            "Ateco": "09.90.00",
+            "Azienda": "BERGEM MINES \u0026 TECH S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        }
+    ]
+]

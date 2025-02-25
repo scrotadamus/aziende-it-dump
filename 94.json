@@ -1,0 +1,1879 @@
+[
+    [
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "MUTUA MBA SOCIETA' DI MUTUO SOCCORSO SOCIETA' COOPERATIVA PE",
+            "Città": "Formello",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CONSORZIO PER LA TUTELA DEL FORMAGGIO GORGONZOLA",
+            "Città": "Novara",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Novara"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDO PILOTI DEI PORTI ITALIANI - SOCIETA' COOPERATIVA",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CONSORZIO SERVIZI LEGNO-SUGHERO",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "EUROPEAN ORGANIC PARTNERS S.C.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "MTM GROUP",
+            "Città": "Mazzano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "SOCIETA' REGIONALE DELLA LIGURIA PER L'INTERNAZIONALIZZAZION",
+            "Città": "Genova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "COMPAGNIA ITALIANA PROMOZIONE E SERVIZI C.I.P.E.S.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOENOLOGI SOCIETA COOPERATIVA",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "A.D.A.S.M. SOCIETA' COOPERATIVA",
+            "Città": "Bergamo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "COM.I.PRO. CONSORZIO DI IMPRESE",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CONSORZIO SOLIDARIETA' E FUTURO",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "GREEN LINK RETE D'IMPRESE",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "GSB SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ITALIA ORTOFRUTTA SOCIETA' CONSORTILE A RESPONSABILITA' LIMI",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "MITRA SRL",
+            "Città": "Sarzana",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "NUOVA PINO VESUVIANO - SOCIETA' COOPERATIVA",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ISTITUTO NAZIONALE ESPRESSO ITALIANO S.R.L. BENEFIT",
+            "Città": "Brescia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CIVI INTERNATIONAL SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE VILLA AMANTEA IMPRESA SOCIALE",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "SOCIETA' COOPERATIVA SOCIALE ELIANTE O.N.L.U.S.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "EMERGENZE SONORE SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.99.20",
+            "Azienda": "M.A.M.A. S.S.D.R.L.",
+            "Città": "Rozzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "DOLOMITI LAB S.R.L. IMPRESA SOCIALE",
+            "Città": "Fonzaso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "MARCO POLO G.E.I.E.",
+            "Città": "Treviso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        }
+    ],
+    [
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ARCI SERVIZIO CIVILE VICENZA APS",
+            "Città": "Vicenza",
+            "Fatturato": "",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE SUONI DELLA MURGIA",
+            "Città": "Altamura",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FEDERCULTURE",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "DRITTO E ROVESCIO APS",
+            "Città": "Borgo San Lorenzo",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "STUDIO ARTENA - ARTE NATURA",
+            "Città": "Pinerolo",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE CULTURALE GRUPPO E-MOTION E.T.S.",
+            "Città": "L'Aquila",
+            "Fatturato": "",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "TWM FACTORY ASSOCIAZIONE CULTURALE",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PONTIFICIO COLLEGIO SPAGNOLO",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE PECCIOLI PER L'ARTE",
+            "Città": "Peccioli",
+            "Fatturato": "",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PARROCCHIA DI S.FRANCESCO",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE TERRITORIALE U.N.S.I.C. DI TERAMO TE/01",
+            "Città": "Teramo",
+            "Fatturato": "",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE ITALIANA AMBASCIATORI DEL GUSTO",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "APS RESILEA",
+            "Città": "Pantelleria",
+            "Fatturato": "",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "DIOCESI DI PITIGLIANO - SOVANA - ORBETELLO",
+            "Città": "Pitigliano",
+            "Fatturato": "",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE FORENSE DI MILANO",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ARTIGIANATO TREVIGIANO",
+            "Città": "Conegliano",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PASSABAO ASSOCIAZIONE CULTURALE",
+            "Città": "Alba",
+            "Fatturato": "",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE DELLA CROCE ROSSA ITALIANA - ORGANIZZAZIONE DI",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE BRESCIANA AMMINISTRATORI BENI IMMOBILI",
+            "Città": "Brescia",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "COMUNITA' FEMMINILE DEI DISCEPOLI DEL SIGNORE: FIGLIE DELLE",
+            "Città": "Baricella",
+            "Fatturato": "",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE CULTURALE L'ARBORETO APS",
+            "Città": "Mondaino",
+            "Fatturato": "",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "IN ITINERE A.P.S.",
+            "Città": "Bari",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE CATTOLICA ESERCENTI CINEMA - SALA DELLA COMUNIT",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "LEGAMBIENTE LOMBARDIA-ONLUS",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE SOCIAL VENTURE GIORDANO DELL'AMORE",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ENTE FIERE DEI CASTELLI DI BELGIOIOSO",
+            "Città": "Belgioioso",
+            "Fatturato": "",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE DISTRETTO REEN AND HIGH TECH MONZA BRIANZA",
+            "Città": "Monza",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE ON/OFF APS",
+            "Città": "Parma",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ACCADEMIA MAESTRI PASTICCIERI ITALIANI",
+            "Città": "Tramonti",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "THE INTERNATIONAL AUTOMOTIVE LIGHTING AND LIGHT SIGNALLING",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CESEN S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "MANTOVA FESTIVAL INTERNAZIONAL I",
+            "Città": "Mantova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "UNIONE CONSORZI VINI VENETI D.O.C.",
+            "Città": "Legnaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FEDERAZIONE PROVINCIALE DEI CONSORZI IRRIGUI E DI MIGLIORAME",
+            "Città": "Trento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASS. CONCIATORI SOC. COOPERATIVA",
+            "Città": "Santa Croce sull'Arno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PRISM IMPRESA SOCIALE SRL",
+            "Città": "Enna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Enna"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "IL VIVAIO DEL MALCANTONE APS ARCI",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE FABBRICA INTELLIGENTE LOMBARDIA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "AIPARK - ASSOCIAZIONE ITALIANA OPERATORI SOSTA E MOBILITA'",
+            "Città": "Zagarolo",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE BERGAMOSCIENZA",
+            "Città": "Bergamo",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        }
+    ],
+    [
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CONSORZIO PUNTO EUROPA SOCIETA' CONSORTILE A RESPONSABILITA'",
+            "Città": "Teramo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "RETE ARTISTI SPETTACOLO PER L'INNOVAZIONE SOC.COOP. RASI",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CONSORZIO PER LA TUTELA DEL FORMAGGIO PECORINO TOSCANO A DEN",
+            "Città": "Grosseto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CONSORZIO SAPPADA DOLOMITI TURISMO-SOC.CONS.A RESPONSABILITA",
+            "Città": "Sappada",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PRODUZIONI TIMIDE SRLS",
+            "Città": "Rho",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "NARTEA SERVIZI SRLS",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "INFORMAZIONE FRIULANA SOCIETA' COOPERATIVA",
+            "Città": "Udine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "COOPERATIVA CIRCOLO FRATELLANZA SOCIETA' COOPERATIVA A R.L.",
+            "Città": "Parabiago",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.99.90",
+            "Azienda": "CONSORZIO BG CASERTA",
+            "Città": "Caserta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "SUQ GENOVA FESTIVAL E TEATRO IMPRESA SOCIALE ETS",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "GOLF IN VENETO",
+            "Città": "Treviso",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "COOPERARTE SOCIETA'COOPERATIVA",
+            "Città": "Modena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "LAGO DI COMO GAL SOCIETA' CONSORTILE A RESPONSABILITA' LIMIT",
+            "Città": "Canzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE CULTURALE TEATROXCASA",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "DISTRETTO DOLOMITI OCCHIALE",
+            "Città": "Belluno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "94.99.60",
+            "Azienda": "EUROPEAN REUSABLE PACKAGING \u0026 REVERSE LOGISTICS CONSORTIUM",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.99.10",
+            "Azienda": "RAPHAEL SOCIETA' COOPERATIVA SOCIALE A RL",
+            "Città": "Gela",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CANAPA \u0026 TERRITORIO S.R.L. IMPRESA SOCIALE",
+            "Città": "Siena",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CONSORZIO FORMEDIL EMILIA ROMAGNA",
+            "Città": "Bologna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ARTEMIDE SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMI",
+            "Città": "Catanzaro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "MEET IN LIGURIA",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "MUTUA-TI SOCIETA' DI MUTUO SOCCORSO",
+            "Città": "Torino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "RETE DI IMPRESE: POLO EUROPEO MICROFUSIONI AEROSPAZIALI",
+            "Città": "Morra De Sanctis",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Avellino"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "COOPERATIVA SOCIALE YABBOQ ONLUS ARL",
+            "Città": "San Donato Milanese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "VERONA STONE DISTRICT - SOCIETA' CONSORTILE A RESPONSABILITA",
+            "Città": "Sant'Ambrogio di Valpolicella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        }
+    ],
+    [
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "19 SOCIETA' COOPERATIVA",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CONSORZIO LAVANDERIE TOSCANE",
+            "Città": "Scarperia e San Piero",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CONSORZIO COLLINE DEL MONFERRATO CASALESE",
+            "Città": "Casale Monferrato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "MIRSARNER KONSORTIUM/MIRSARNER CONSORZIO",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "SORGIVA SOCIETA' COOPERATIVA",
+            "Città": "Marsciano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CENTRO F.LLI ROSSELLI -SOCIETA COOPERATIVA",
+            "Città": "San Giovanni Valdarno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "OSSERVATORIO PERMANENTE GIOVANI - EDITORI",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE CULTURALE DANCITY",
+            "Città": "Foligno",
+            "Fatturato": "",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "WELCOME A.P.S.",
+            "Città": "Monte Roberto",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ESCARGOT APS",
+            "Città": "Grosseto",
+            "Fatturato": "",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PARROCCHIA S.PIETRO A MEZZANA",
+            "Città": "Prato",
+            "Fatturato": "",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE CULTURALE SAN FEDELE",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE ORDINE INGEGNERI DELLA PROV. DI MILANO",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "MUSICA DEL SUD",
+            "Città": "Palermo",
+            "Fatturato": "",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "UNIONE PROVINCIALE ENTI LOCALI",
+            "Città": "Varese",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASS. CITTADINANZATTIVA APS",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "I TENNIS",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE MANTOVANI",
+            "Città": "Arconate",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CLUB ALPINO ITALIANO - SEZIONE DI MILANO - IN SIGLA C.A.I. S",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CENTRO LINGUE - MY OPEN SCHOOL S.R.L.",
+            "Città": "Busto Arsizio",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE AEM",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE ELISABETTA SGARBI - BETTY WRONG ETS",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ISTIT.LEONE XIII COMPAGNIA DI GESU'",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "NUOVO TEATRO SANITA'",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE DELLO STORICO CARNEVALE DI IVREA",
+            "Città": "Ivrea",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        }
+    ],
+    [
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASS. CULT. AEGEAMOSAICI",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE PATRIMONIO CA' GRANDA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE BIBLIOTECA DI VIA SENATO",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE COLOGNI DELLE ARTI E DEI MESTIERI",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ACCADEMIA MUSICALE DI FIRENZE",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE PAIDEIA ENTE FILANTROPICO",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "C.I.P.M. EMILIA IMPRESA SOCIALE",
+            "Città": "Piacenza",
+            "Fatturato": "",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "RETE VINI PRO - RETE DI IMPRESE",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "A.P.S. GIALLO SASSI",
+            "Città": "Matera",
+            "Fatturato": "",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CROCE ROSSA ITALIANA - COMITATO DI BERGAMO - ORGANIZZAZIONE",
+            "Città": "Bergamo",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "KILOMETRO AZZURRO, DISTRETTO AERONAUTICO TRENTINO",
+            "Città": "Trento",
+            "Fatturato": "",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "OPEN CITY ROMA",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "COMPETITIONS KARTING CLUB ASD",
+            "Città": "Messina",
+            "Fatturato": "",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "INTERNATIONAL MEDICAL EXCHANGE CENTER - ITALY - ASSOCIAZIONE",
+            "Città": "Jesi",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE AIRC PER LA RICERCA SUL CANCRO ETS",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CROCE ROSSA ITALIANA-COMITATO DI CALTANISSETTA - ORGANIZZAZI",
+            "Città": "Caltanissetta",
+            "Fatturato": "",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CENTRO DI SERVIZIO AL VOLONTARIATO SAN NICOLA - O.D.V.",
+            "Città": "Bari",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE GIUSEPPE GEMELLARO",
+            "Città": "Albairate",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE DI PROMOZIONE SOCIALE ARIA NETWORK",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FEDERAZIONE ITALIANA DEGLI ORGANISMI PER LE PERSONE SENZA DI",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CONSORZIO TURISTICO LIMONESE",
+            "Città": "Limone sul Garda",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASS. PROFESSIONALE INTERNATIONAL POLICE TRAINING SYSTEM",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE CRESPI D'ADDA",
+            "Città": "Capriate San Gervasio",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "AGIS ASSOCIAZIONE GENERALE ITALIANA DELLO SPETTACOLO",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE PER LO SVILUPPO DELL'OLTREPO'PAVESE ETS",
+            "Città": "Varzi",
+            "Fatturato": "",
+            "Provincia": "Pavia"
+        }
+    ],
+    [
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCAZIONE DEI LAUREATI IN INGEGNERIA GESTIONALE APS - ALIG",
+            "Città": "Udine",
+            "Fatturato": "",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "LA MAMA UMBRIA INTERNATIONAL",
+            "Città": "Spoleto",
+            "Fatturato": "",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "A.I.A.C.E. TORINO",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "LEGAMBIENTE NAZIONALE - APS - RETE ASSOCIATIVA - ETS",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE UN FUTURO PER L'ASPERGER ONLUS",
+            "Città": "Casarile",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE PRO LOCO APS DI RIVOLTA D'ADDA",
+            "Città": "Rivolta d'Adda",
+            "Fatturato": "",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PROVINCIA LOMBARDA ORDINE CHIERICI REG SOMASCHI",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "L'IMPRONTA - ASSOCIAZIONE ONLUS",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ENTE ROVIGO FESTIVAL",
+            "Città": "Rovigo",
+            "Fatturato": "",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "LEGA NAZIONALE PER LA DIFESA DEL CANE SEZIONE DI MONOPOLI",
+            "Città": "Monopoli",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CROCE ROSSA ITALIANA COMITATO DI CASORATE PRIMO - ORGANIZZAZ",
+            "Città": "Casorate Primo",
+            "Fatturato": "",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "E.N.P.A. ENTE NAZIONALE PROTEZIONE ONIMALI ODV",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "GRUPPO DIRIGENTI FIAT",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "AIFOS - ASSOCIAZIONE ITALIANA FORMATORI ED OPERATORI DELLA S",
+            "Città": "Brescia",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "COMPAGNIA CIRCOLABILE",
+            "Città": "Quattro Castella",
+            "Fatturato": "",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "TEDACA' ASSOCIAZIONE DI PROMOZIONE SOCIALE ENTE DEL TERZO SE",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "AUTOMOBILE CLUB TORINO",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PARROCCHIA SAN GIUSEPPE",
+            "Città": "Monza",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ARCIDOSSO IN VETRINA",
+            "Città": "Arcidosso",
+            "Fatturato": "",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE ALBA ANFFAS CREMA ONLUS",
+            "Città": "Crema",
+            "Fatturato": "",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE PITTI IMMAGINE DISCOVERY",
+            "Città": "Firenze",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE ROCCO GUGLIELM O",
+            "Città": "Catanzaro",
+            "Fatturato": "",
+            "Provincia": "Catanzaro"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE I. R. FALCK ONLUS",
+            "Città": "Vobarno",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "WEPOOL",
+            "Città": "Brescia",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "AVISCO - AUDIOVISIVO SCOLASTICO",
+            "Città": "Brescia",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        }
+    ],
+    [
+        {
+            "Ateco": "94.99.20",
+            "Azienda": "FONDAZIONE CULTURALE GIUDITTA PASTA",
+            "Città": "Saronno",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE DELL'ORDINE DEGLI ARCHITETTI, PIANIFICATORI, PAES",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "APRE AGENZIA PER LA PROMOZIONE DELLA RICERCA EUROPEA",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "COMICON",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE PIME",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "MED \u0026 LAB",
+            "Città": "Alessandria",
+            "Fatturato": "",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE ITALIANA TURISMO RESPONSABILE",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.91.00",
+            "Azienda": "COMMISSIONE SINODALE PER LA DIACONIA",
+            "Città": "Torre Pellice",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE NAZIONALE ALLEVATORI CAVALLO DI RAZZA MAREMMANA",
+            "Città": "Grosseto",
+            "Fatturato": "",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "OPUS",
+            "Città": "Rignano sull'Arno",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE CASERMARCHEOLOGICA",
+            "Città": "Sansepolcro",
+            "Fatturato": "",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CTA PROVINCIALE DI CUNEO APS",
+            "Città": "Cuneo",
+            "Fatturato": "",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE MARE OLTRE ONLUS",
+            "Città": "Viareggio",
+            "Fatturato": "",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ECOLIFE A.P.S.",
+            "Città": "Pescara",
+            "Fatturato": "",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "STEPS L'ACCADEMIA DELLE LINGUE - CCT (CIRCOLO CULTURALE TURI",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ARCI PIACENZA APS",
+            "Città": "Piacenza",
+            "Fatturato": "",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PRO LOCO CORREGGIO APS",
+            "Città": "Correggio",
+            "Fatturato": "",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "RIONE VERDE APS",
+            "Città": "Faenza",
+            "Fatturato": "",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE CULTURALE LA CITTA",
+            "Città": "Pomezia",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CROCE ROSSA ITALIANA-COMITATO DI MORTARA-ORGANIZZAZIONE DI V",
+            "Città": "Mortara",
+            "Fatturato": "",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "94.99.90",
+            "Azienda": "CEFUL - CENTRO FORMAZIONE UNIVERSITARIA E LAVORO SRL",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "BARI SVILUPPO AZIENDA SPECIALE CAMERA DI COMMERCIO DI BARI",
+            "Città": "Bari",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "SANTUARIO DI S. MARIA DELLE GRAZIE",
+            "Città": "Brescia",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE SLOW FOOD ETS",
+            "Città": "Bra",
+            "Fatturato": "",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE UPAD",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        }
+    ],
+    [
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "V\u0026V",
+            "Città": "Forte dei Marmi",
+            "Fatturato": "",
+            "Provincia": "Lucca"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ARCIDIOCESI DI GORIZIA",
+            "Città": "Gorizia",
+            "Fatturato": "",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "COLLEGIO MISSIONARIO FEMMINILE DI S. FRANCEASCO D'ASSISI",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "OTTOZERODUE ASSOCIAZIONE CULTURALE E MUSICALE",
+            "Città": "San Cataldo",
+            "Fatturato": "",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIATION FOR THE INTEGRATION OF WOMEN A.P.S.",
+            "Città": "Modena",
+            "Fatturato": "",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CONCILIATORE BANCARIO FINANZIARIO",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CE. D.A.S.",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "AERO CLUB TORINO A.S.D.",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PRO LOCO FORNOVO TARO APS",
+            "Città": "Fornovo di Taro",
+            "Fatturato": "",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "MECENATE 90",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.91.00",
+            "Azienda": "ISTITUTO DELLE SUORE ADORATRICI DEL SANTISSIMO SACRAMENTO",
+            "Città": "Rivolta d'Adda",
+            "Fatturato": "",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CRI COMITATO DI MILANO EST - ORGANIZZAZIONE DI VOLONTARIATO",
+            "Città": "Peschiera Borromeo",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CONFEDERAZIONE ITALIANA CAMPEGGIATORI",
+            "Città": "Calenzano",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE RETE SICOMORO",
+            "Città": "Verona",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CASA BENEDETTA CAMBIAGIO ONLUS",
+            "Città": "Pavia",
+            "Fatturato": "",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "RETE DI IMPRESE LUCE IN VENETO",
+            "Città": "Piombino Dese",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PANCHINA SALUTE MENTALE",
+            "Città": "Trento",
+            "Fatturato": "",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "94.99.20",
+            "Azienda": "TUTTI GIU' PER TERRA",
+            "Città": "Ardea",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "AIAB ASSOCIAZIONE ITALIANA PER L'AGRICOLTURA BILOGICA",
+            "Città": "Bova Marina",
+            "Fatturato": "",
+            "Provincia": "Reggio Calabria"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE LAREDO LIVE",
+            "Città": "Piossasco",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "94.91.00",
+            "Azienda": "CASA MADRE ISTITUTO FIGLIE CARITA' CANOSSIANE",
+            "Città": "Verona",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ISTITUTO DELLE FIGLIE DI SANTA MARIA DELLA DIVINA PROVVIDENZ",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PROVINCIA ROMANA DELL'ORDINE DEI CARMELITANI DELL'ANTICA OSS",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "SUEDTIROLER OBSTVERSTEIGERUNG",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "NODE",
+            "Città": "Bari",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        }
+    ],
+    [
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE PER GLI STUDI GIURIDICI SULL'IMMIGRAZIONE - ASG",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE AMNESTY INTERNATIONAL SEZIONE ITALIANA",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "SINEGLOSSA ETS",
+            "Città": "Ancona",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "TEATRO DEI VENTI APS",
+            "Città": "Modena",
+            "Fatturato": "",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "UNIONE REGIONALE DELLE CCIAA DELLA CAMPANIA",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "BASILICATA CIRCUITO MUSICALE",
+            "Città": "Matera",
+            "Fatturato": "",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "AUTOMOBILE CLUB CALTANISSETTA",
+            "Città": "Caltanissetta",
+            "Fatturato": "",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "94.99.90",
+            "Azienda": "BALDUINA'S",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE AMBROSIANA PER L'ARTE E LA CULTURA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ARCA STUDIOS ETS",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE DOMINA EDIZIONI MUSICALI",
+            "Città": "Cagliari",
+            "Fatturato": "",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "MOTO CLUB CHRISTEL VILLAGE ASSOCIAZIONE SPORTIVA DILETTANTIS",
+            "Città": "Aprilia",
+            "Fatturato": "",
+            "Provincia": "Latina"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE DANTE CUSI ONLUS",
+            "Città": "Gambara",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ISTITUTO SECOLARE JESUS VICTIMA",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "LEGA ITALIANA PER LA LOTTA CONTRO I TUMORI - ASSOCIAZIONE DI",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FIAB TORINO BIKEPRIDE APS",
+            "Città": "Torino",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "94.99.90",
+            "Azienda": "ORGANIZZAZIONE NAZIONALE DEGLI ASSAGGIATORI DI VINO - O.N.A.",
+            "Città": "Asti",
+            "Fatturato": "",
+            "Provincia": "Asti"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CROCE ROSSA ITALIANA COMITATO PROVINCIALE DI BARI",
+            "Città": "Bari",
+            "Fatturato": "",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE CULTURALE TITANIA TEATRO",
+            "Città": "Napoli",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PRO LOCO DI RIVA DEL GARDA",
+            "Città": "Riva del Garda",
+            "Fatturato": "",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE ITALIA SOLARE ETS",
+            "Città": "Monza",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "94.11.00",
+            "Azienda": "CONFAGRICOLTURA TRAPANI-UNIONE PROVINCIALE AGRICOLTORI",
+            "Città": "Trapani",
+            "Fatturato": "",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "94.99.20",
+            "Azienda": "GREEN GROWTH GENERATION",
+            "Città": "Nola",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "94.91.00",
+            "Azienda": "PARROCCHIA DI S.MARIA ASSUNTA E S.GIACOMO",
+            "Città": "Romano di Lombardia",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE BRAGHINI ROSSETTI E.T.S.",
+            "Città": "Ferrara",
+            "Fatturato": "",
+            "Provincia": "Ferrara"
+        }
+    ],
+    [
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PROV. REL. DEI SS. APOSTOLI PIETRO E PAOLO",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "KALLIPOLIS",
+            "Città": "Trieste",
+            "Fatturato": "",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE ESTE IN CENTRO",
+            "Città": "Este",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE RICCARDO CATELLA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "M.A.C. MANIFESTAZIONI ARTISTICHE CONTEMPORANEE-APS",
+            "Città": "Osimo",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CONSORZIO DI TUTELA DEL CAFFE' ESPRESSO ITALIANO TRADIZIONAL",
+            "Città": "Treviso",
+            "Fatturato": "",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CATTIVI MAESTRI APS",
+            "Città": "Savona",
+            "Fatturato": "",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "RETECAMERE S.CONS.R.L. IN LIQUID",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE CHIRURGHI OSPEDALIERI ITALIANI",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PLASTIC FREE O.D.V. ONLUS",
+            "Città": "Termoli",
+            "Fatturato": "",
+            "Provincia": "Campobasso"
+        },
+        {
+            "Ateco": "94.99.10",
+            "Azienda": "UNIONE ITALIANA DEI CIECHI E DEGLI IPOVEDENTI ETS - APS",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PATRONATO ACLI",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.91.00",
+            "Azienda": "FRANZISKANERKLOSTER BOZEN",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "FONDAZIONE GIOVANNINA RIZZIERI - ONLUS",
+            "Città": "Piancogno",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE PROMOZIONE SOCIALE SENTINELLE DEL MATTINO",
+            "Città": "Civitanova Marche",
+            "Fatturato": "",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONI CRISTIANE LAVORATORI ITALIANI APS",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "SOCIETA' UMANITARIA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "TOURING CLUB ITALIANO ENTE DEL TERZO SETTORE",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "A.I.S. ASSOCIAZIONE ITALIANA SOMMELIER EMILIA",
+            "Città": "Ferrara",
+            "Fatturato": "",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "CENTRO DI SERVIZIO PER IL VOLONTARIATO DI MONZA LECCO SONDRI",
+            "Città": "Monza",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE BIBIONESE ALBERGATORI",
+            "Città": "San Michele al Tagliamento",
+            "Fatturato": "",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "MOSAICO APS",
+            "Città": "Bergamo",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "LIBERA ASSOCIAZIONE ARTIGIANI DELLA PROVINCIA DI PIACENZA",
+            "Città": "Piacenza",
+            "Fatturato": "",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "PRO LOCO DI VETTO APS",
+            "Città": "Vetto",
+            "Fatturato": "",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "94.00.00",
+            "Azienda": "ASSOCIAZIONE TURISTICA SELVA GARDENA",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        }
+    ]
+]

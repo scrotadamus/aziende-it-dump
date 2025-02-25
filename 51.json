@@ -1,0 +1,782 @@
+[
+    [
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "PELLISSIER HELICOPTER S.R.L.",
+            "Città": "Saint-Pierre",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Aosta"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "STAR WORK SKY S.A.S. DI GIOVANNI SUBRERO\u0026C.",
+            "Città": "Strevi",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "51.21.00",
+            "Azienda": "HELIWEST S.R.L.",
+            "Città": "Isola d'Asti",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Asti"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "SKY AVIATION SRL",
+            "Città": "Courmayeur",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Aosta"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "AMERICAN AIRLINES INC.",
+            "Città": "Roma",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "ALISERIO S.R.L.",
+            "Città": "Caselle Torinese",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "FLIGHT SOLUTIONS S.R.L.",
+            "Città": "Caselle Torinese",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "AIRGREEN SRL",
+            "Città": "Robassomero",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "ELIOSSOLA SRL",
+            "Città": "Domodossola",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "51.21.00",
+            "Azienda": "N.S.C. S.R.L. - NORTH SOUTH COMPANY",
+            "Città": "Osio Sotto",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "51.21.00",
+            "Azienda": "ELI MAST S.R.L.",
+            "Città": "Artogne",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "51.00.00",
+            "Azienda": "BEST AIR TRANSPORT SERVICES S.R.L.",
+            "Città": "Segrate",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "AIR LOGISTICS SRL",
+            "Città": "Monza",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "AEROFLOT RUSSIAN AIRLINES SPA",
+            "Città": "Roma",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.21.00",
+            "Azienda": "ELITELLINA S.R.L.",
+            "Città": "Talamona",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "NEOS S.P.A.",
+            "Città": "Somma Lombardo",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "ELILOMBARDA S.R.L.",
+            "Città": "Varese",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "ELICAMPIGLIO S.R.L.",
+            "Città": "Dimaro Folgarida",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "ITALFLY SRL",
+            "Città": "Trento",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "TRANSPORTES AEREOS PORTUGUESES S.A.",
+            "Città": "Roma",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "AIR DOLOMITI SPA - LINEE AEREE REGIONALI EUROPEE",
+            "Città": "Villafranca di Verona",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "ELIMEDITERRANEA S.R.L",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "ELIFRIULIA S.P.A.",
+            "Città": "Ronchi dei Legionari",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "INTERJET SRL",
+            "Città": "Castelvetro di Modena",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "IL CIOCCO INTERNATIONAL TRAVEL SERVICE S.R.L.",
+            "Città": "Barga",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lucca"
+        }
+    ],
+    [
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "LEADER - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Ciampino",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "ALITALIA - SOCIETA' AEREA ITALIANA S.P.A. IN AMMINISTRAZIONE",
+            "Città": "Fiumicino",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "ALIDAUNIA SRL",
+            "Città": "Foggia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "QATAR AIRWAYS - LINEE AEREE DEL QATAR (Q.C.S.C.)",
+            "Città": "Roma",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.21.00",
+            "Azienda": "CARGOLUX ITALIA S.P.A.",
+            "Città": "Brescia",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "AVIONORD SRL",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "SIRIO S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "51.00.00",
+            "Azienda": "TEEN TRANSPORT ITALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "51.21.00",
+            "Azienda": "TUVIA ITALIA SPA",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "51.00.00",
+            "Azienda": "ONAIR INTERNATIONAL SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "51.21.00",
+            "Azienda": "SW ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "ALBA SERVIZI AEROTRASPORTI S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "ALIPARMA S.R.L.",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "DELTA AEROTAXI-SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Prato",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "51.21.00",
+            "Azienda": "EUROPEAN AIR-CRANE S.P.A.",
+            "Città": "Firenze",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "SASE SPA",
+            "Città": "Perugia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "COMPAGNIA AERONAUTICA ITALIANA SPA",
+            "Città": "Ciampino",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "ELITALIANA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "AIR CORPORATE S.R.L.",
+            "Città": "Monza",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "CAB AIR SRL",
+            "Città": "Napoli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "51.21.00",
+            "Azienda": "FEMAR SERVIZI SPECIALI SRL",
+            "Città": "Catania",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "ITALIA TRASPORTO AEREO S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.21.00",
+            "Azienda": "POSTE AIR CARGO S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "ERNEST S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "51.21.00",
+            "Azienda": "ALISCARGO AIRLINES S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "51.00.00",
+            "Azienda": "RAYBAN AIR",
+            "Città": "Agordo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Belluno"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "HOVERFLY DIVISIONE SAM S.R.L",
+            "Città": "Pescara",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "51.21.00",
+            "Azienda": "ARIANE SRL UNIPERSONALE",
+            "Città": "Sondrio",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "51.21.00",
+            "Azienda": "ELIFLY INTERNATIONAL S.R.L.",
+            "Città": "Esine",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "51.21.00",
+            "Azienda": "MONICO AIR ITALY S.R.L.",
+            "Città": "Catania",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "51.22.00",
+            "Azienda": "SAB LAUNCH SERVICES SRL",
+            "Città": "Benevento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Benevento"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "SOLEAIR SRLS",
+            "Città": "Taranto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "LEISURE ONE FLY SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "HIFLY 2.0 S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "AELIA S.R.L.",
+            "Città": "Bologna",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "NOVARIS SRL",
+            "Città": "Voghera",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "LAGORAIR SRL",
+            "Città": "Trento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "MYCOPTER S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "BASIC AIR S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "PRIME SERVICE S.R.L.",
+            "Città": "Perugia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "CONSORZIO K-JET",
+            "Città": "Martellago",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "BALLOON ADVENTURES ITALY S.R.L UNIPERSONALE",
+            "Città": "Foligno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "HELISORRENTO - SRL",
+            "Città": "Sorrento",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "BALLOON TEAM ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "LUX AVIATION S.R.L.",
+            "Città": "Olbia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "PEOPLEFLY S.R.L. - IN FALLIMENTO",
+            "Città": "Cagliari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "LINEE AEROMARINE ITALIANE S.R.L.",
+            "Città": "Fiumicino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.00.00",
+            "Azienda": "AIR MARKETING HANDLING SERVICES SRL IN BREVE A.MA.H.S.SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.00.00",
+            "Azienda": "ELITOP S.R.L.",
+            "Città": "Montichiari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "51.10.00",
+            "Azienda": "WINFLY S.R.L. UNIPERSONALE",
+            "Città": "Fisciano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Salerno"
+        }
+    ],
+    [
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "AEROITALIA SRL",
+            "Città": "Fiumicino",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "SARDINIAN SKY SERVICE SRL",
+            "Città": "Quartu Sant'Elena",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "SLAM LAVORI AEREI SRL",
+            "Città": "Napoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "SKY ALPS S.R.L.",
+            "Città": "",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "SERVIZI AEREI SPA",
+            "Città": "San Donato Milanese",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "AIR PANAREA S.R.L.",
+            "Città": "Lipari",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "VISION JET SRL",
+            "Città": "Ozzano dell'Emilia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "ELIPUKET S.R.L.",
+            "Città": "Talamona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sondrio"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "ELINOLEGGI S.R.L.",
+            "Città": "San Miniato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "ELIDOLOMITI SRLS",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "51.21.00",
+            "Azienda": "HELIX SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Mergozzo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verbano-Cusio-Ossola"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "ELI WIND SARDINIA S.R.L. UNIPERSONALE",
+            "Città": "Alghero",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "FIRENZE MONGOLFIERE DI TRANDAFIR ROBERT ALIN",
+            "Città": "Scandicci",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "SMALL PLANET AIRLINES S.R.L.",
+            "Città": "Cosenza",
+            "Fatturato": "",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "BALLOON TOUR DI MOSCARA RAFFAELE",
+            "Città": "Trepuzzi",
+            "Fatturato": "",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "LIVINGSTON EXECUTIVE SPA",
+            "Città": "Cardano al Campo",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "FLY 954 S.R.L.",
+            "Città": "Montespertoli",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "51.10.00",
+            "Azienda": "BELLE AIR EUROPE S.R.L.",
+            "Città": "Falconara Marittima",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "ALITALIA - LINEE AEREE ITALIANE SOCIETA' PER AZIONI PER BREV",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "AIR ONE SOCIETA' PER AZIONI IN FORMA ABBREVIATA AIR ONE S.P.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "SKYBRIDGE AIROPS - SRL FALL 23/2014",
+            "Città": "Ciampino",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "THORONDOR S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "NEW LIVINGSTON S.P.A.",
+            "Città": "Cardano al Campo",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "ALITALIA CITYLINER S.P.A. IN AMMINISTRAZIONE STRAORDINARIA",
+            "Città": "Fiumicino",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "ALBATROS SAS DI LORENZ PAN \u0026 C.",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        }
+    ],
+    [
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "ALITALIA EXPRESS S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "ITALIAN AIRWAYS S.R.L.",
+            "Città": "Gallarate",
+            "Fatturato": "",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "CHARBONNIER DI DIEGO CHARBONNIER E C.SNC",
+            "Città": "Quart",
+            "Fatturato": "",
+            "Provincia": "Aosta"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "ALPI EAGLES SPA IN FALLIMENTO",
+            "Città": "Sant'Angelo di Piove di Sacco",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "CONERO 2008 SRL",
+            "Città": "Ancona",
+            "Fatturato": "",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "KRONAIR SRLS",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "ALATOSCANA SPA",
+            "Città": "Campo nell'Elba",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "HAPPY FLY SH501IRL",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "51.10.20",
+            "Azienda": "MILANO MONGOLFIERE SRL",
+            "Città": "Villanterio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "51.10.10",
+            "Azienda": "VOLARE S.P.A.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        }
+    ]
+]

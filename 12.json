@@ -1,0 +1,505 @@
+[
+    [
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "SOCIETA' AGRICOLA ACCIARELLA S.S.",
+            "Città": "Saluzzo",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "SUPERTINO GIUSEPPE \u0026 FRANCESCO S.S. AGRICOLA",
+            "Città": "Savigliano",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "SOCIETA' AGRICOLA RIVOIRA SILVIO E FRATELLI - SOCIETA' SEMPL",
+            "Città": "Verzuolo",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "COSSANO FRUTTA - SOCIETA' AGRICOLA COOPERATIVA",
+            "Città": "Cossano Canavese",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "ERBE AROMATICHE PANCALIERI SOCIETA' COOPERATIVA AGRICOLA",
+            "Città": "Pancalieri",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "AZ. AGR. LUCIANO BREGA SOCIETA' AGRICOLA",
+            "Città": "",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "CISTERCIENSERINNEN-FRAUENKLOSTER MARIENGARTEN",
+            "Città": "",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "DIOEZESE BOZEN BRIXEN",
+            "Città": "",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "BENEDIKTINERKLOSTER MURI GRIES",
+            "Città": "",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "BISCHOEFLICHES INSTITUT VINZENTINUM",
+            "Città": "",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "GRIESFELD APSP - OEBPB",
+            "Città": "",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "OEFFENTLICHER BETRIEB FUER PFLEGE- UND BETREUUNGSDIENSTE SPI",
+            "Città": "",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "DEUTSCHORDEN - PROVINZ IN ITALIEN",
+            "Città": "",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "ANSITZ HIRSCHPRUNN LANDWIRTSCHAFTLICHE GESELLSCHAFT G.M.B.H",
+            "Città": "",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "FEDERAZIONE PROVINCIALE COLDIRETTI DI TRENTO IN FORMA ABBREV",
+            "Città": "Trento",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "MELLA S.R.L.",
+            "Città": "San Giorgio delle Pertiche",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "AZIENDA AGRICOLA VALIER S.S. SOC. AGRICOLA",
+            "Città": "Rovigo",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "COOPERATIVA VAL D'ILLASI SOCIETA' COOPERATIVA AGRICOLA",
+            "Città": "Illasi",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "SOCIETA' AGRICOLA POLI GRAZIANO E RAFFAELE",
+            "Città": "Oppeano",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "SOCIETA' AGRICOLA BOVO ANGELO DI GIUSEPPE E F.LLI S.S.",
+            "Città": "Povegliano Veronese",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "SOCIETA' SEMPLICE AGRICOLA TOMMASI VITICOLTORI",
+            "Città": "San Pietro in Cariano",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "COOPERATIVA CERASICOLTORI DELLA VALPOLICELLA SOCIETA COOPERA",
+            "Città": "San Pietro in Cariano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "AZIENDA AGRICOLA BICELLO DI CRIVELLARO FIDENZIO E C. S.S. SO",
+            "Città": "Vigasio",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "AZIENDA AGRICOLA CAMPAGNA DI CRIVELLARO ENRICO E C. S.S. SOC",
+            "Città": "Maniago",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "LA FRANCA - SOCIETA' AGRICOLA SEMPLICE DI CAMPION NICOLA",
+            "Città": "Bagnaria Arsa",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Udine"
+        }
+    ],
+    [
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "MERLOTTA SOCIETA' AGRICOLA DI MINZOLINI PAOLO \u0026 C.",
+            "Città": "Imola",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "SOCIETA' AGRIC. GAIA SS",
+            "Città": "Ferrara",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "SOCIETA' AGRICOLA GIOTTO S.S. DI ALESSANDRO FERRARI",
+            "Città": "Ferrara",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "DALLAGO SOCIETA' SEMPLICE AGRICOLA DI DALLAGO SABRINA",
+            "Città": "Fiscaglia",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "SOCIETA' AGRICOLA BONORA S.S.",
+            "Città": "Voghiera",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "COMUNE DI CESENA",
+            "Città": "Cesena",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "AZIENDA AGRICOLA QUADRIFOGLIO SOCIETA' AGRICOLA",
+            "Città": "Bagnacavallo",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "DALMONTE GUIDO E VITTORIO S.S. SOCIETA' AGRICOLA",
+            "Città": "Brisighella",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "CONVI DI SPADA RENATO SOCIETA' AGRICOLA",
+            "Città": "Brisighella",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "AZIENDA AGRICOLA ILLUMINATI DI ILLUMINATI MARIO \u0026 C. SOCIETA",
+            "Città": "Civitella in Val di Chiana",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "FATTORIE PARRI SOCIETA' AGRICOLA DI LUIGI E VILMA PARRI S.S.",
+            "Città": "Montespertoli",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "VAL DELLE ROSE S.R.L. SOCIETA' AGRICOLA",
+            "Città": "Castellina in Chianti",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "BANFI SOCIETA' AGRICOLA SRL",
+            "Città": "Montalcino",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "LIVERNANO S.S.",
+            "Città": "Radda in Chianti",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "SANTA CASSELLA SOCIETA' AGRICOLA",
+            "Città": "Potenza Picena",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Macerata"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "AZ. AGR. COLLAZZONE S.S. SOCIETA' AGRICOLA",
+            "Città": "Paciano",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "IL COLLINO DI TODI S.A.S. DI ILARIA BACCARELLI E C.",
+            "Città": "Todi",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "TITIGNANO SOCIETA' AGRICOLA SRL",
+            "Città": "Baschi",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Terni"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "L'ULIVETO S.R.L.",
+            "Città": "Tivoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "SOCIETA' AGRICOLA VILLA CAVICIANA SS",
+            "Città": "Grotte di Castro",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "COMATAB S.R.L.",
+            "Città": "Benevento",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Benevento"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "LA MIA AGRICOLTURA - SOCIETA' COOPERATIVA AGRICOLA A R.L.",
+            "Città": "Giugliano in Campania",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "STELLA DEL SUD - S.R.L.",
+            "Città": "Casal Velino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "'SOCIETA' AGRICOLA MARONE A.R.L.'",
+            "Città": "Tursi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "AZIENDA AGRICOLA DE CARLO SOCIETA' AGRICOLA SEMPLICE",
+            "Città": "Bitritto",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Bari"
+        }
+    ],
+    [
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "AZ. AGR. MASSERIA SALAMINA S.S. SOCIETA' SEMPLICE DI LEONE A",
+            "Città": "Monopoli",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "MAKYVA SRL",
+            "Città": "Melendugno",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "F.LLI POLISE DI ANTONIO SRL",
+            "Città": "Castellaneta",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "VALLE RITA SOCIETA' SEMPLICE AGRICOLA DEL DOTT. EGIDIO LUNAT!!SOC. SEM.",
+            "Città": "Ginosa",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "PERCIACCANTE ANTONIO \u0026 GIACINTO S.S.",
+            "Città": "Cassano all'Ionio",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "FLORA SICULA SOCIETA' COOPERATIVA AGRICOLA",
+            "Città": "Giarre",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "VIVAI RUSSO SOCIETA' SEMPLICE AGRICOLA",
+            "Città": "Randazzo",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "A.S.A.P.O. SOCIETA' COOPERATIVA",
+            "Città": "Terme Vigliatore",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "SERRADIFALCO SOCIETA' COOPERATIVA AGRICOLA",
+            "Città": "Bagheria",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "PHILIP MORRIS MANUFACTURING \u0026 TECHNOLOGY BOLOGNA S.P.A",
+            "Città": "Milano",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "IMPRESA ENOAGRICOLA SRL SOCIETA' AGRICOLA",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "MANIFATTURE SIGARO TOSCANO SOCIETA' A RESPONSABILITA' LIMITA",
+            "Città": "Roma",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "PHILIP MORRIS ITALIA S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "\u003e500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "CORTE ALLA FLORA SRL",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "A.R.P.T SOCIETA' COOPERATIVA AGRICOLA",
+            "Città": "Perugia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "ITALIAN TOBACCO MANUFACTURING SRL SOCIO UNICO",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "MODERNO OPIFICIO DEL SIGARO ITALIANO S.R.L.",
+            "Città": "Orsago",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "YESMOKE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "DE CARLI COSTRUZIONI S.R.L.",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "MANIFATTURA MEDITERRANEA SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "12.00.00",
+            "Azienda": "YESMOKE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        }
+    ]
+]

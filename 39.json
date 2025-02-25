@@ -1,0 +1,2368 @@
+[
+    [
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "SPAP SERV.PUBBL.AMMIN.E PRIVA TI di Caccamo P. e C. SAS",
+            "Città": "Occhieppo Inferiore",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Biella"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "R.S.A. SRL - SOCIETA' PER IL RISANAMENTO E LO SVILUPPO AMBIE",
+            "Città": "Balangero",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "TRASMA S.R.L.",
+            "Città": "Orbassano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "AUTOTRASPORTI PENSIERO S.R.L.",
+            "Città": "Cairo Montenotte",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SEPOR SPA",
+            "Città": "La Spezia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "F.LLI PIANTONI S.R.L.",
+            "Città": "Colere",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ARES AMBIENTE S.R.L.",
+            "Città": "Treviolo",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "BETA SRL",
+            "Città": "Como",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "OFFANENGO SERVIZI SOCIETA' COOPERATIVA DI LAVORO E SERVIZI",
+            "Città": "Offanengo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cremona"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "I.M.G. 2 S.R.L.",
+            "Città": "Casatenovo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Lecco"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "WATER \u0026 SOIL REMEDIATION S.R.L.",
+            "Città": "Curtatone",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "TECNOFER SPA",
+            "Città": "San Giorgio Bigarello",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECOLOGY SYSTEM S.R.L.",
+            "Città": "Mantova",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "S.E.M.P. SRL",
+            "Città": "Pero",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "FENICE S.R.L.",
+            "Città": "Robecchetto con Induno",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ENI REWIND SPA",
+            "Città": "San Donato Milanese",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ERICA SRL",
+            "Città": "Cavenago di Brianza",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "ALLMED S.R.L.",
+            "Città": "Lissone",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "AZIENDA COMUNALE DI SERVIZI AZIENDA SPECIALE",
+            "Città": "Nova Milanese",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ABONECO SRL",
+            "Città": "Parona",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "SEA SPA IN CONCORDATO",
+            "Città": "Trento",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "FABRIS S.R.L.",
+            "Città": "Cadoneghe",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "PAGGIN COSTRUZIONI S.R.L.",
+            "Città": "Campodarsego",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "S.O.S. BONIFICHE SRL CON SOCIO UNICO",
+            "Città": "Padova",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECOSTUDIO TRASPORTI S.R.L.",
+            "Città": "Rovigo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Rovigo"
+        }
+    ],
+    [
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "BST BONIFICHE SRL",
+            "Città": "Anguillara Sabazia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "EDIL LEO SOCIETA' COOPERATIVA",
+            "Città": "Castiglione Olona",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "ATTIVITA'ECOLOGICHE RIUNITE SRL.",
+            "Città": "Zibido San Giacomo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "A.S.I. AMBIENTE S.R.L.- AZIENDA SERVIZI INTEGRATI AMBIENTALI",
+            "Città": "Castelfranco Veneto",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "EMIL COSTRUZIONI SRL",
+            "Città": "Modena",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Modena"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "ECO' SRL",
+            "Città": "L'Aquila",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "L'Aquila"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "COGER DI CORONELLA GENNARO S.R.L.",
+            "Città": "San Marcellino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "RUFFA COSTRUZIONI E SERVIZI S.R.L.",
+            "Città": "Vibo Valentia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Vibo Valentia"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "EKMAR S.R.L.",
+            "Città": "Mogliano Veneto",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "MULTI SERVICES SRL",
+            "Città": "Padova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "2G AMBIENTE SRL",
+            "Città": "Capriate San Gervasio",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "ITALIANAMIANTO SRL",
+            "Città": "Civitella in Val di Chiana",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "MIAR SUB S.R.L. A SOCIO UNICO",
+            "Città": "Fiumicino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "MENTE ECOLOGICA SRL",
+            "Città": "Ancona",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "SER.CO. S.R.L.",
+            "Città": "Iglesias",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "AMATISERVIZI S.R.L.",
+            "Città": "Albese con Cassano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Como"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "RIRAEE S.R.L.",
+            "Città": "San Giuliano Milanese",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "AZIENDA MERIDIONALE SERVIZI AMBIENTALI SRL",
+            "Città": "Deliceto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "GREEN S 300 S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "CONSORZIO E-CYCLE",
+            "Città": "Pescara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "REAKIRO SRL",
+            "Città": "Bagno a Ripoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "BAGNOLO AMBIENTE S.R.L.",
+            "Città": "Bagnolo Mella",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "PROGRESSO COSTRUZIONI SOCIETA' COOPERATIVA A R.L.",
+            "Città": "San Benedetto del Tronto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ascoli Piceno"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "MAREMMANA GROUP SRL",
+            "Città": "Grosseto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "NOVAMBIENTE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Sassari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sassari"
+        }
+    ],
+    [
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "RECUPERO S.R.L. SOCIETA' UNIPERSONALE",
+            "Città": "Contursi Terme",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "P.A.E.M. - PULIZIA,AMBIENTE,ECOLOGIA E MANUTENZIONE - SOCIET",
+            "Città": "Casamassima",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "ALFA CONSULENZE AZIENDALI S.R.L.",
+            "Città": "Pisa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "ECOTECH S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "SANAMBIENTE SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Altamura",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "GERA SRL",
+            "Città": "Valderice",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trapani"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "S.A.T. - S.R.L.",
+            "Città": "Pagani",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "THERMO CLASSIS S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "LA BONIFICA - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Colli a Volturno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Isernia"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "EKO SISTEMI INTEGRATI SRL",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "ECOTIME SRLS UNIPERSONALE",
+            "Città": "Montebelluna",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "GANIGA INNOVATION S.R.L.",
+            "Città": "Bientina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "BONIFICHE BELLICHE EDILTECNICA SRL",
+            "Città": "Carrara",
+            "Fatturato": "",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "SOCIETA' ANTI INQUINAMENTO GOLFO DEGLI ANGELI SRL",
+            "Città": "Cagliari",
+            "Fatturato": "",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "A.B.L. AZIENDA BONIFICHE LOMBARDA DI ALESSANDRA PARISOTTO SA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "KELDER HERBERT",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "PAOLUCCI VINCENZO",
+            "Città": "Allumiere",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "LEGA NAVALE ITALIANA SEZIONE DI PORTOFERRAIO",
+            "Città": "Portoferraio",
+            "Fatturato": "",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "MDM SAS DI RUEDA SANCHEZ JOHA- NA PATICIA \u0026 C.",
+            "Città": "Ferrara",
+            "Fatturato": "",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "SEBASTIANIS F.LLI DI MICHELE SEBASTIANIS \u0026 C. S.N.C",
+            "Città": "Talmassons",
+            "Fatturato": "",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "DEMETRA",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "COPERTURE VANZAN S.A.S. DI VANZAN RENZO \u0026 C.",
+            "Città": "Oppeano",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "COSTANZA S.N.C. DI GIUSEPPE E CLAUDIO COSTANZA IN LIQUIDAZIO",
+            "Città": "Calusco d'Adda",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "G.S.C. GENERAL SERVICE AND CONSTRUCTION DI SALVATORE DI PALM",
+            "Città": "Caiazzo",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "AEQO SOLUZIONI AMBIENTALI DI TONONI FABIO",
+            "Città": "",
+            "Fatturato": "",
+            "Provincia": "Brescia"
+        }
+    ],
+    [
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "RIMECO AMBIENTE S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "PALLADIANA PER LA GESTIONE AMBIENTALE - S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "SEN.TOR.DI PATRIZIA SENATORE E C. S.A.S.",
+            "Città": "Roccapiemonte",
+            "Fatturato": "",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "PIOVANO S.A.S. DI PIOVANO ROBERTO \u0026 C.",
+            "Città": "Baldissero Torinese",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "ECOMARE DI N. DE SANCTIS E M. RICCI S.N.C.",
+            "Città": "Pineto",
+            "Fatturato": "",
+            "Provincia": "Teramo"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "C F \u0026 G DI CORONELLA FEDERICO",
+            "Città": "San Marcellino",
+            "Fatturato": "",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "PALMIRA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "SO.GI.FRA. DI SIRIGU SONIA",
+            "Città": "San Giovanni Suergiu",
+            "Fatturato": "",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "TRANS ALP SRL",
+            "Città": "San Daniele del Friuli",
+            "Fatturato": "",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "SPAGLIARISI VINCENZO",
+            "Città": "Monza",
+            "Fatturato": "",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "GIACHIN SERGIO",
+            "Città": "Mussolente",
+            "Fatturato": "",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "A.P. MONTAGGI DI PRIN ABEIL AGOSTINO",
+            "Città": "Carmagnola",
+            "Fatturato": "",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "ISAMBIENTE DI PALMI C. E IANNONE F. SNC",
+            "Città": "Siena",
+            "Fatturato": "",
+            "Provincia": "Siena"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "VALDARNO SPURGHI DI BENEDETTI MASSIMILIANO",
+            "Città": "Figline e Incisa Valdarno",
+            "Fatturato": "",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "BONIFICHE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "STEP ONE S.R.L.",
+            "Città": "Potenza",
+            "Fatturato": "",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "BONIFICAMBIENTE DI ROMANO EZIO",
+            "Città": "Genova",
+            "Fatturato": "",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "PEDRETTI FAUSTO",
+            "Città": "Osio Sopra",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "FOD BONIFICHE AMIANTO SOCIETA' A RESPONSABILITA' LIMITATASEM",
+            "Città": "Quarto",
+            "Fatturato": "",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "MON.VI. SERVICE DI MONICA CLAUDIA VIERU",
+            "Città": "Cuneo",
+            "Fatturato": "",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "MULAS MARIO",
+            "Città": "San Giovanni Lupatoto",
+            "Fatturato": "",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "TRAINA SEVERINO",
+            "Città": "Spirano",
+            "Fatturato": "",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "MIOTELLO ANDREA",
+            "Città": "Villafranca Padovana",
+            "Fatturato": "",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "GREEN LOG SRL",
+            "Città": "Besana in Brianza",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "MISE SRL",
+            "Città": "Rubiera",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Reggio Emilia"
+        }
+    ],
+    [
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "A2POWER S.R.L.",
+            "Città": "Nocera Inferiore",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "VILONA UXO S.R.L.",
+            "Città": "San Severo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "VISO EDIL ECOLOGIA S.R.L.",
+            "Città": "Monopoli",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "CONSORZIO JOTI SOCIETA' COOPERATIVA SOCIALE",
+            "Città": "",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "IN.ECO. S.R.L.",
+            "Città": "Dignano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "SPRINT ITALIA GMBH",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bolzano"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "COMPONENTI EDILI SRL",
+            "Città": "Robecchetto con Induno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "DELIA SRL",
+            "Città": "Cenate Sotto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "ECOTONICA S.R.L.",
+            "Città": "San Martino Siccomario",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "GE.CO S.R.L.",
+            "Città": "Roveredo in Piano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "MARGO' S.R.L.",
+            "Città": "Cassano Magnago",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "RECOVER S.R.L.",
+            "Città": "San Nicola la Strada",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Caserta"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "BONIFICHE \u0026 RIPRISTINI SRL",
+            "Città": "Calusco d'Adda",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "MARCHELUZZO S.R.L.",
+            "Città": "Trissino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "GOLFO DUE SRL",
+            "Città": "La Spezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "La Spezia"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "EURO CANTIERI SRL",
+            "Città": "Sestu",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "AEQO S.R.L.",
+            "Città": "Preseglie",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "B.C.E. SILVESTRE S.R.L.",
+            "Città": "Casandrino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "CBS - CONSORZIO BONIFICA BELLICA SUBACQUEA",
+            "Città": "Scandicci",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "CO.VE.SMI. - S.R.L. COMPAGNIA VECCHI SMINATORI",
+            "Città": "Ostiglia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Mantova"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "COOP.VA ESERCENTI STABILIMENTI BALNEARI SRL",
+            "Città": "Comacchio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "EUROBIOS SOC. COOP. S.P.A.",
+            "Città": "Pisticci",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "B.V. S.R.L.S. SEMPLIFICATA UNIPERSONLE",
+            "Città": "Francofonte",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "STILLITANO FORTUNATO S.R.L.",
+            "Città": "Novellara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "AGEA IMPRESA SRL",
+            "Città": "Colleferro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        }
+    ],
+    [
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "TECNORISANAMENTI SRL",
+            "Città": "Paratico",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "SVICOM S.R.L.",
+            "Città": "Noci",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "ECOFLOR S.R.L.",
+            "Città": "San Giovanni la Punta",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "QUISQUINA AMBIENTE S.R.L.",
+            "Città": "Santo Stefano Quisquina",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "RICICLA S.R.L.",
+            "Città": "Ome",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "D.L. SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA",
+            "Città": "Collesalvetti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "BECO S.R.L.",
+            "Città": "Livorno",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "ESTINTORIPM S.R.L.",
+            "Città": "Moscufo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "GAD AMIANTO SRL",
+            "Città": "Cassino",
+            "Fatturato": "",
+            "Provincia": "Frosinone"
+        }
+    ],
+    [
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "FENICE SRL",
+            "Città": "Bussolengo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "PALLADIO UMWELT S.R.L.",
+            "Città": "Brendola",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECOSTILE S.R.L.",
+            "Città": "Pordenone",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Pordenone"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECO-TECH SRL",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "EDILANZUTTI S.R.L.",
+            "Città": "Remanzacco",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "BENPOWER S.R.L.",
+            "Città": "Udine",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "C.S.A. CONSULENZE E SERVIZI AMBIENTALI S.R.L.",
+            "Città": "Granarolo dell'Emilia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SICIM SOCIETA' PER AZIONI",
+            "Città": "Busseto",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "R.G.L. SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Langhirano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ELIOS SRL",
+            "Città": "Piacenza",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Piacenza"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "F.A.T.A. INERTI S.R.L.",
+            "Città": "Castellarano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "NIAL NIZZOLI SRL",
+            "Città": "Correggio",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SO.GE.L.M.A.*SOCIETA' GENERALE LAVORI MANUTENZIONI APPALTI -",
+            "Città": "Scandicci",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "LABROMARE SRL",
+            "Città": "Livorno",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "BIGLIA S.R.L.",
+            "Città": "Collesalvetti",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECOFLASH S.R.L.",
+            "Città": "Livorno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Livorno"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "ECOEDIL PROFESSIONAL S.R.L.",
+            "Città": "Carrara",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "MANCINI VASCO ECOLOGY SRL",
+            "Città": "Montopoli in Val d'Arno",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "TESECO BONIFICHE S.R.L.",
+            "Città": "Pisa",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "GARBAGE SERVICE SRL",
+            "Città": "Ancona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ancona"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "GRA AMBIENTE S.R.L.",
+            "Città": "",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "GESTIONI AMBIENTALI S.R.L.",
+            "Città": "Anguillara Sabazia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECO.GEST. MULTISERVIZI S.R.L.",
+            "Città": "Campagnano di Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECOTHERM S.R.L.",
+            "Città": "Pomezia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SERVIMAR S.R.L.",
+            "Città": "Ortona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Chieti"
+        }
+    ],
+    [
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "GIMAC S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "RIF.METAL S.R.L.",
+            "Città": "Casoria",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "BNG S.P.A.",
+            "Città": "Ferrandina",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Matera"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "DE MARE SRL",
+            "Città": "Moliterno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Potenza"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "RICICLA SRL A SOCIO UNICO",
+            "Città": "Cassano delle Murge",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "CE.SUB. S.R.L.",
+            "Città": "San Giorgio Ionico",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECOTARAS S.P.A.",
+            "Città": "Taranto",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECOLOGY GREEN S.R.L.",
+            "Città": "Corigliano-Rossano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Cosenza"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ICARO ECOLOGY S.P.A.",
+            "Città": "Gela",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Caltanissetta"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "SICIL-OIL DI SPADA ANTONINO \u0026 C. S.N.C. !!SICIL-OIL",
+            "Città": "Aci Sant'Antonio",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "KALAT AMBIENTE S.R.R. SOCIETA' CONSORTILE PER AZIONI SOCIETA",
+            "Città": "Grammichele",
+            "Fatturato": "non pervenuto",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "MAIMONE BONIFICHE SRL",
+            "Città": "Barcellona Pozzo di Gotto",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Messina"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECOGEST S.R.L.",
+            "Città": "Melilli",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SAN GIORGIO MARE SRL",
+            "Città": "Siracusa",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "GEOPARCO SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+            "Città": "Elmas",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SUB SERVICE SRL",
+            "Città": "Mogoro",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "AMBIENTE E RISORSE SRL",
+            "Città": "Ploaghe",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "VERDE VITA S.R.L.",
+            "Città": "Sassari",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Sassari"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "MONTECO ITALIA S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "TECNO AMBIENTE SRL",
+            "Città": "Genova",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ESSE A3 SRL",
+            "Città": "Trezzano Rosa",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "BELFOR ITALIA S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "TECNOLOGIE INDUSTRIALI \u0026 AMBIENTALI S.P.A.",
+            "Città": "Milano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "RIP.AM RIPRISTINI AMBIENTALI SRL",
+            "Città": "Milano",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "COGESA SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "39.00.00",
+            "Azienda": "DEMICED S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "RE.AL. SERVICE PRONTO INTERVENTO ECOLOGICO S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SADECO S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "39.00.00",
+            "Azienda": "SIRAI SRL",
+            "Città": "Venezia",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "EUREKA S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SIRIO SOCIETA' COOP SOCIALE A.R.L.",
+            "Città": "Parma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "ECO EDIL S.R.L.",
+            "Città": "Rimini",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Rimini"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "IMPERCAR ECOLOGY SYSTEM S.R.L.",
+            "Città": "Perugia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "BIOCONSULT S.R.L",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SO.G.I.N.-SOCIETA' GESTIONE IMPIANTI NUCLEARI SPA",
+            "Città": "Roma",
+            "Fatturato": "100-500 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "CASTALIA OPERATIONS S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "''ECODELTA SOCIETA' A RESPONSABILITA' LIMITATA''",
+            "Città": "Roma",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "DE VELLIS SERVIZI GLOBALI S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "EDILGEN S.P.A.",
+            "Città": "Napoli",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "EDISON NEXT ENVIRONMENT S.R.L.",
+            "Città": "Rivoli",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "PERFISIA SRL",
+            "Città": "Trieste",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "QUARTIKA PROJECT S.R.L.",
+            "Città": "Trieste",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Trieste"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "TRIECO SERVIZI AMBIENTALI SRL",
+            "Città": "Foligno",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "GREENTIRE SCRL",
+            "Città": "Caponago",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Monza e della Brianza"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "LOG SERVICE S.R.L.",
+            "Città": "Augusta",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "815 IMMOBILIARE S.R.L.",
+            "Città": "Solaro",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "AQUASOIL S.R.L.",
+            "Città": "Fasano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Brindisi"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "CASU AMBIENTE S.R.L.",
+            "Città": "Oristano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "AL.MA-REC SRL",
+            "Città": "Carrara",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "EFFEDI S.R.L.",
+            "Città": "Massa",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Massa-Carrara"
+        }
+    ],
+    [
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "GAIA SERVIZI CIVILI E INDUSTRIALI S.R.L.",
+            "Città": "Bondeno",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ferrara"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SOL.TR.ECO. BONIFICHE S.R.L. - SOCIETA' UNIPERSONALE",
+            "Città": "Scarlino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Grosseto"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "GI.DA. SRL",
+            "Città": "Taranto",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "CONSULENZE AMBIENTALI S.R.L.",
+            "Città": "Foggia",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "LIGURIA AMBIENTE S.R.L.",
+            "Città": "Imperia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Imperia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECOSISTEMA SAS DI MATTEO SERRA \u0026 C.",
+            "Città": "Rovigo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Rovigo"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECONETWORK S.R.L.",
+            "Città": "Agrigento",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECO AMBIENTE S.R.L.",
+            "Città": "Favara",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Agrigento"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "DIMENSIONE AMBIENTE SPA A SOCIO UNICO",
+            "Città": "Milano",
+            "Fatturato": "50-100 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "CASTALIA CONSORZIO STABILE",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "HTR BONIFICHE SRL",
+            "Città": "Roma",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "MC ITALIA AMBIENTE SRL",
+            "Città": "Cornaredo",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "INTESIA ITALIA SRL",
+            "Città": "Milano",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "CONSORZIO FU.G.I.S.T. FRA MALTAURO - IMPRESA - I.C.G.2 - TM.",
+            "Città": "Napoli",
+            "Fatturato": "10-25 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "RECIKLA SRL",
+            "Città": "Bari",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "N R G ENERGIA SRL",
+            "Città": "Imola",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Bologna"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "SOLUZIONI AMIANTO SRL",
+            "Città": "Vigonza",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SIRIO AMBIENTE \u0026 CONSULTING S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "OLIMPIA COSTRUZIONI SRL",
+            "Città": "Roma",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ASSA - SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "PENTA PROGETTI SRL",
+            "Città": "Moncalieri",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "W-JAM S.R.L.",
+            "Città": "Gavardo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "PROG.ECO S.R.L.",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "NATURAMBIENTE SRL",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "MBA AMBIENTE S.R.L.",
+            "Città": "Segrate",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        }
+    ],
+    [
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "CONSORZIO STABILE ANSALDO NEW CLEAR",
+            "Città": "Genova",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "PRAGMATICA AMBIENTALE SRL",
+            "Città": "Ravenna",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SOS AMIANTO S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "VERA ECOLOGIA S.R.L. SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Sarno",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "CAT SERVIZI S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "BIZZAGLIA \u0026 C. ECO - OFFICE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "NOVATECH S.R.L.",
+            "Città": "Vigonza",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "CF AMBIENTE SRL",
+            "Città": "Andrano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "GECOTEK S.R.L.",
+            "Città": "Torino",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "INGECO S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECOLOGICAL INTEGRATED MANAGEMENT S.R.L.",
+            "Città": "Bergamo",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECOSOIL SRL",
+            "Città": "Broni",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pavia"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "TECHNOGEA SRL",
+            "Città": "Genova",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ABC SERVICES S.R.L. A SOCIO UNICO",
+            "Città": "Firenze",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "MAYA TECNOLOGIE PER L'AMBIENTE S.R.L.",
+            "Città": "Ravenna",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "LOTO TRADE S.R.L. SOCIETA' UNINOMINALE",
+            "Città": "Roma",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SERVIZI ECOLOGICI SCANFERLA SRL",
+            "Città": "Dolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "GENERAL SCAVI SRL",
+            "Città": "Albinea",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "EUROAMBIENTE S.R.L.",
+            "Città": "Palermo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Palermo"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECOGESTIONI S.R.L.",
+            "Città": "Alessandria",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Alessandria"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ABRUZZO ECOLOGIA S.R.L.",
+            "Città": "Pescara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pescara"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "MED.E.S. SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "DEC AMBIENTE SRL",
+            "Città": "Cascina",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "CASCIONE COSTANTINO S.R.L.",
+            "Città": "Veglie",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "MASSTECH ITALIA S.R.L.",
+            "Città": "Borgomanero",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Novara"
+        }
+    ],
+    [
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "FORESE S.R.L.",
+            "Città": "Rubano",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "GRUPPO EGEA SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "POLIWORKS S.R.L.",
+            "Città": "Levate",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "BRUNELLO EVARISTO SRL",
+            "Città": "Malo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "C.E.G. GROUP SRL",
+            "Città": "Bollate",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECODINAMICA S.R.L.",
+            "Città": "Perugia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "STE.SIL AMBIENTE S.R.L.",
+            "Città": "Elmas",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "LA GUALANO EDILE SRL SOCIETA' UNIPERSONALE",
+            "Città": "Nichelino",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Torino"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "BELOTTI GROUP SRL SOCIETA' UNIPERSONALE",
+            "Città": "Brescia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "GLOBAL ECOLOGY SERVICE GROUP SRL",
+            "Città": "Prato",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Prato"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "BORD S.R.L.",
+            "Città": "Padova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Padova"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "CIMITERI DI FIESOLE SPA",
+            "Città": "Fiesole",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "DND BIOTECH S.R.L.",
+            "Città": "Pisa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "VITEK SRL",
+            "Città": "Narzole",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cuneo"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "TEXAM TECNOLOGIE PER AMBIENTE S.R.L.",
+            "Città": "Genova",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Genova"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SEDAR SRL",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "IMPEC MARE S.R.L.",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "GREEN EARTH S.R.L.",
+            "Città": "Treviglio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "MCA AMBIENTE SRL",
+            "Città": "Mirano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "CONSORZIO KARMA SOCIETA' CONSORTILE SRL",
+            "Città": "Solarolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Ravenna"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "BONIFICHE LAZIALI S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "BS ECOSERVIZI S.R.L.",
+            "Città": "Mascali",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Catania"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SERDECO S.R.L.",
+            "Città": "Pisa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pisa"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "PROWASTE S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECOLEVER S.R.L.",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        }
+    ],
+    [
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "UNILEGNO FRIULI SRL",
+            "Città": "Dalmine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECO METAL AMBIENTE SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "GRUPPO ROMA AMBIENTE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "PALMA S.R.L.",
+            "Città": "Quarrata",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Pistoia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "MEDIA WASTE S.R.L. UNIPERSONALE",
+            "Città": "Ala",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Trento"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "COPERNICO NORD EST SRL",
+            "Città": "Udine",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "COSEAM SRL",
+            "Città": "Assisi",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Perugia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "I.E.S. SRL",
+            "Città": "Correggio",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "HY-KA COPERTURE S.R.L.",
+            "Città": "",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Forlì-Cesena"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "CECAM ENV. REMEN. SYST. SRL",
+            "Città": "Firenze",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "ECONORD BONIFICHE AMBIENTALI S.R.L. - UNINOMINALE",
+            "Città": "Rozzano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SANA TERRAM S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "SARDA BONIFICHE AMIANTO S.R.L. ARTIGIANA",
+            "Città": "Samatzai",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ECOTEC S.R.L.",
+            "Città": "Siracusa",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Siracusa"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "4C ECOSOLUZIONI SRL",
+            "Città": "Agropoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "ENGINEERING CONSTRUCTION SERVICES S.R.L. ENUNCIABILE BREVEME",
+            "Città": "Parma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Parma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "POSITANO JOLLY SERVICE SOC.COOP.ARL",
+            "Città": "Positano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Salerno"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "COOP. SOC.' LAVORO E SOLIDARIETA'' SOCIETA' COOP",
+            "Città": "Viterbo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Viterbo"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ITINERARI PARALLELI IMPRESA SOCIALE SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "GI.ERRE LIFE SRL",
+            "Città": "Thiene",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "MAST SRL",
+            "Città": "Sansepolcro",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Arezzo"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "AIKU AMBIENTE SRL",
+            "Città": "Milano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "IN.T.EC. S.R.L.",
+            "Città": "Venezia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Venezia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "CONSORTECH PUGLIANELLO SOCIETA' CONSORTILE A RESPONSABILITA'",
+            "Città": "Napoli",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Napoli"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "LA ROSA DEI VENTI SOCIETA' COOPERATIVA",
+            "Città": "Sennariolo",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Oristano"
+        }
+    ],
+    [
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "VENETA PREZIOSI SRL",
+            "Città": "Vicenza",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Vicenza"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "BIOENERGY ITALIA SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Bari",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Bari"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "LG AMBIENTE S.R.L.",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "S.C. MEDIO VERBANO S.R.L. - SOCIETA' UNIPERSONALE",
+            "Città": "Laveno-Mombello",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Varese"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "WORK PROGRESS SRLS SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Quartucciu",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Cagliari"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "S.G. AMBIENTE SRL",
+            "Città": "Rho",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SOCIETA' COOPERATIVA FAUNA URBIS",
+            "Città": "Roma",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Roma"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ELLE EFFE GESTIONI\u0026PROGETTI SRL",
+            "Città": "Leporano",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Taranto"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "SALPA SRL IN C.P.",
+            "Città": "Savona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Savona"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "ANURI S.R.L.",
+            "Città": "Verona",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Verona"
+        },
+        {
+            "Ateco": "39.01.00",
+            "Azienda": "ECOBONIFICHE SRL",
+            "Città": "Carrara",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Massa-Carrara"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "TRADE AMBIENTE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFIC",
+            "Città": "Foggia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Foggia"
+        },
+        {
+            "Ateco": "39.09.00",
+            "Azienda": "NEW AMBIENTE S.R.L.",
+            "Città": "Monfalcone",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "R.E.I. - RECUPERO ECOLOGICO INERTI S.R.L.",
+            "Città": "Cavallino",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Lecce"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "GEOSTREAM S.R.L.",
+            "Città": "Magnano in Riviera",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Udine"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "TRE ESSE S.R.L.",
+            "Città": "Pedrengo",
+            "Fatturato": "5-10 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "GRUPPO ITQ S.R.L.",
+            "Città": "Spresiano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Treviso"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "GEIGER ITALIA S.R.L. - UNIPERSONALE",
+            "Città": "Agnosine",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Brescia"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "VIBECO SOCIETA' A RESPONSABILITA' LIMITATA",
+            "Città": "Paderno Dugnano",
+            "Fatturato": "25-50 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "WSP E\u0026IS ITALY SRL",
+            "Città": "Corsico",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "ECORICICLA SOCIETA' COOPERATIVA",
+            "Città": "Gonnesa",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Sud Sargdegna"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "ALTIN BONIFICHE SRL",
+            "Città": "Calusco d'Adda",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Bergamo"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "MARZETTI S.R.L.",
+            "Città": "Porto Sant'Elpidio",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Fermo"
+        },
+        {
+            "Ateco": "39.00.01",
+            "Azienda": "EWB SRL",
+            "Città": "Montelupo Fiorentino",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Firenze"
+        },
+        {
+            "Ateco": "39.00.09",
+            "Azienda": "ECO-PV",
+            "Città": "Milano",
+            "Fatturato": "2-5 milioni",
+            "Provincia": "Milano"
+        }
+    ]
+]

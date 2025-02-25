@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "Ateco": "99.00.00",
+            "Azienda": "CALCESTRUZZI TRIESTE S.R.L.",
+            "Città": "Romans d'Isonzo",
+            "Fatturato": "1-2 milioni",
+            "Provincia": "Gorizia"
+        },
+        {
+            "Ateco": "99.00.00",
+            "Azienda": "FINMAR S.R.L.",
+            "Città": "Reggio nell'Emilia",
+            "Fatturato": "0-1 milioni",
+            "Provincia": "Reggio Emilia"
+        },
+        {
+            "Ateco": "99.00.00",
+            "Azienda": "ACMI",
+            "Città": "Roma",
+            "Fatturato": "",
+            "Provincia": "Roma"
+        }
+    ]
+]
